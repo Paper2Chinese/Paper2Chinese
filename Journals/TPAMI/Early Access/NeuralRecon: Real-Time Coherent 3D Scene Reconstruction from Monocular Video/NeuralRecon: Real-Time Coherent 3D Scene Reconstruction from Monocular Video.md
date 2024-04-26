@@ -1,3 +1,11 @@
+# 题目：[NeuralRecon: Real-Time Coherent 3D Scene Reconstruction from Monocular Video](https://ieeexplore.ieee.org/document/10508111)  
+## 神经重建：从单目视频中实时连贯的3D场景重建
+**作者：Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou** 
+
+**源码链接：** https://github.com/zju3dv/NeuralRecon
+****
+
+
 # 摘要
 我们提出了一个名为 NeuralRecon 的新框架，用于从单目视频中实时重建三维场景。与先前的方法不同，先前的方法在每个关键帧上分别估计单视图深度图，然后将其融合，我们提出直接通过神经网络顺序地重建每个视频片段的局部表面，表示为稀疏的 TSDF 体积。使用基于门控循环单元（Gated Recurrent Units, GRU）的学习型 TSDF 融合模块来指导网络从先前的片段中融合特征。这种设计允许网络在顺序重建表面时捕获局部平滑先验和全局形状先验，从而实现准确、连贯和实时的表面重建。融合的特征还可以用来预测语义标签，使我们的方法能够同时重建和分割三维场景。此外，我们提出了一种高效的自监督微调方案，通过可微分体积渲染基于输入图像细化场景几何。这种微调方案提高了在微调场景上的重建质量以及对类似测试场景的泛化能力。我们在 ScanNet、7-Scenes 和 Replica 数据集上的实验表明，我们的系统在准确性和速度方面都优于最先进的方法。
 

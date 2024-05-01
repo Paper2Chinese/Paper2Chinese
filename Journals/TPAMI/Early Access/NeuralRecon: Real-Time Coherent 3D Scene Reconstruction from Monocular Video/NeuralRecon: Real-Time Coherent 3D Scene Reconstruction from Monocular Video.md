@@ -190,6 +190,7 @@ $$ \text{Fine-tuning loss} = \text{Normal loss} + \text{RGB loss} $$
 <div align=center>
 <img src="https://img-blog.csdnimg.cn/direct/40ef6472f0084683b7fb1a47a53afddd.jpeg" width="70%" />
 </div>
+
 ### 语义分割
 我们在Scannet 3D语义标签基准上评估语义分割。结果如表5和图8所示。我们的方法可以在许多类别中产生合理的结果。总体IoU较低是因为在观察次数相对较少的类别上表现不佳，例如冰箱、浴帘和水槽。每个类别的定量结果在补充材料中。Atlas[13]以离线模式使用所有帧构建特征体积，而Mix3D[82]和PointTransformerV2[83]使用RGB-D作为输入。我们的在线RGB方法采用了一个非常轻量级的MLP进行语义标签预测，这限制了模型的容量。
 

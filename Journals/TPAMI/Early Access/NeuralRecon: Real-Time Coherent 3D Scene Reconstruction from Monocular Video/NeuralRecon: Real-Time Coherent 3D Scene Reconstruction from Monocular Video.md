@@ -27,6 +27,7 @@
 <div align=center>
  <img src="https://img-blog.csdnimg.cn/direct/fe8dd4d8b7924ec2b68c35592f30d15f.jpeg" width="70%" />
 </div>
+
 ## 3.1 NeuralRecon架构
 我们表示要重建的全局TSDF体积为 $S^g_ t$，其中 $t$ 表示当前时间步。系统架构见图4。
 

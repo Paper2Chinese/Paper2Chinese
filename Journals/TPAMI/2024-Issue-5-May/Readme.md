@@ -3,7 +3,7 @@
 ****
 
 **[Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification](https://ieeexplore.ieee.org/document/9795098/)**  
-**超快速深度车道检测与混合锚驱动序数分类** 
+**超快速深度车道检测与混合锚驱动序数分类**  
 Zequn Qin; Pengyi Zhang; Xi Li
 
 **[On the Robustness of Average Losses for Partial-Label Learning](https://ieeexplore.ieee.org/document/10122995/)**  

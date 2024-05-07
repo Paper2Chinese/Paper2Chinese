@@ -9,3 +9,19 @@
 作者：Zhen Feng; Yanning Guo; Yuxiang Sun
 
 ****
+ 
+**[Online Data-driven Input Mapping Mixed Platoon Control with Variable Order Model](https://ieeexplore.ieee.org/document/10521449)**  
+**[]()**  
+作者：Chen Zhang; Yunwen Xu; Dewei Li; Shaoying He; Aoyun Ma
+
+****
+**[STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning](https://ieeexplore.ieee.org/document/10520817)**  
+**[]()**  
+作者：Yanan Zhang; Chao Zhou; Di Huang
+
+****
+**[VistaRAG: Toward Safe and Trustworthy Autonomous Driving Through Retrieval-Augmented Generation](https://ieeexplore.ieee.org/document/10518077)**  
+**[]()**  
+作者：Xingyuan Dai; Chao Guo; Yun Tang; Haichuan Li; Yutong Wang; Jun Huang
+
+****

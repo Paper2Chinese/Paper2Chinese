@@ -15,6 +15,7 @@ Jiaqi Lv; Biao Liu; Lei Feng; Ning Xu; Miao Xu; Bo An; Gang Niu; Xin Geng; Masas
 Maciej Besta; Torsten Hoefler  
 
 **[In-Domain GAN Inversion for Faithful Reconstruction and Editability](https://ieeexplore.ieee.org/document/10418542/)**  
+**领域内GAN反演：用于精确重建和可编辑性**  
 Jiapeng Zhu; Yujun Shen; Yinghao Xu; Deli Zhao; Qifeng Chen; Bolei Zhou
 
 **[t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators](https://ieeexplore.ieee.org/document/10246406/)**  

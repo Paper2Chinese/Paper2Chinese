@@ -11,6 +11,7 @@ Zequn Qin; Pengyi Zhang; Xi Li
 Jiaqi Lv; Biao Liu; Lei Feng; Ning Xu; Miao Xu; Bo An; Gang Niu; Xin Geng; Masashi Sugiyama
 
 **[Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis](https://ieeexplore.ieee.org/document/10443519/)**  
+**并行和分布式图神经网络：  深入并发分析(Mooomos)**    
 Maciej Besta; Torsten Hoefler  
 
 **[In-Domain GAN Inversion for Faithful Reconstruction and Editability](https://ieeexplore.ieee.org/document/10418542/)**  

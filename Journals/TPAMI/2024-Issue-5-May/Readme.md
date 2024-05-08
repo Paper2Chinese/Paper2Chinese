@@ -22,7 +22,8 @@ Jiapeng Zhu; Yujun Shen; Yinghao Xu; Deli Zhao; Qifeng Chen; Bolei Zhou
 **t-EER：无参数串联评估对策和生物特征比较器(Mooomos)**    
 Tomi H. Kinnunen; Kong Aik Lee; Hemlata Tak; Nicholas Evans; Andreas Nautsch  
 
-**[Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity](https://ieeexplore.ieee.org/document/10269093/)**  
+**[Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity](https://ieeexplore.ieee.org/document/10269093/)**   
+**无监督减额：不对称对比学习遇到自我相似的地方（zty）**    
 Yi Chang; Yun Guo; Yuntong Ye; Changfeng Yu; Lin Zhu; Xile Zhao; Luxin Yan; Yonghong Tian  
 
 **[Semi-Supervised Learning for FGVC With Out-of-Category Data](https://ieeexplore.ieee.org/document/10273439/)**  

@@ -1,4 +1,4 @@
-## All Issuse
+## All Issuse 2024
 ****
 **[	IEEE Transactions on Robotics Publication Information	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478165	)**  
 **[]()**  
@@ -512,8 +512,8 @@
 **[]()**  
 作者：	D. G. Raitt; M. Huseynov; S. Homer-Vanniasinkam; H. A. Wurdemann; S. -A. Abad
 ****
-**[	CMax-SLAM: Event-Based Rotational-Motion Bundle Adjustment and SLAM System Using Contrast Maximization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474186	)**  
-**[]()**  
+**[	CMax-SLAM: Event-Based Rotational-Motion Bundle Adjustment and SLAM System Using Contrast Maximization	](https://ieeexplore.ieee.org/document/10474186)**  
+**[CMax-SLAM：基于事件的旋转运动捆集调整与SLAM系统]()**  
 作者：	S. Guo; G. Gallego
 ****
 **[	Adaptive-Force-Based Control of Dynamic Legged Locomotion Over Uneven Terrain	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478777	)**  

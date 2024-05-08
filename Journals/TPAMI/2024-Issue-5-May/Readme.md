@@ -30,7 +30,8 @@ Yi Chang; Yun Guo; Yuntong Ye; Changfeng Yu; Lin Zhu; Xile Zhao; Luxin Yan; Yong
 **半监督学习在带有非类别数据的细粒度视觉分类中的应用**  
 Ruoyi Du; Dongliang Chang; Zhanyu Ma; Kongming Liang; Yi-Zhe Song; Jun Guo  
 
-**[The Impact of Adversarial Attacks on Federated Learning: A Survey](https://ieeexplore.ieee.org/document/10274102/)**  
+**[The Impact of Adversarial Attacks on Federated Learning: A Survey](https://ieeexplore.ieee.org/document/10274102/)** 
+**对联合学习中对抗性攻击的影响：一项调查**  
 Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi  
 
 **[Revisiting Person Re-Identification by Camera Selection](https://ieeexplore.ieee.org/document/10308725/)**  

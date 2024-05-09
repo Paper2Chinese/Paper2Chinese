@@ -1,4 +1,8 @@
 ## All Issuse 2024
+**[Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495209)  
+**通过仿生优化提高仿生机器人肘-前臂系统的性能
+**作者：Haosen Yang； Guowu Wei；Lei Ren** 
+
 ****
 **[	IEEE Transactions on Robotics Publication Information	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478165	)**  
 **[]()**  

@@ -35,7 +35,7 @@ Ruoyi Du; Dongliang Chang; Zhanyu Ma; Kongming Liang; Yi-Zhe Song; Jun Guo
 Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi  
 
 **[Revisiting Person Re-Identification by Camera Selection](https://ieeexplore.ieee.org/document/10308725/)**  
-**通过相机选择重新识别个人**  
+**通过相机选择重新识别个人（zty）**  
 Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng  
 
 **[A Flexible EM-Like Clustering Algorithm for Noisy Data](https://ieeexplore.ieee.org/document/10330026/)**  

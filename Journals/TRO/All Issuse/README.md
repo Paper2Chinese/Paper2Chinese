@@ -1,13 +1,15 @@
 ## All Issuse 2024
-**[Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495209)  
-**通过仿生优化提高仿生机器人肘-前臂系统的性能
-**作者：Haosen Yang； Guowu Wei；Lei Ren** 
+ 
+**[Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495209)**  
+**通过仿生优化提高仿生机器人肘-前臂系统的性能**  
+作者：Haosen Yang； Guowu Wei；Lei Ren
 
 ****
-**[	IEEE Transactions on Robotics Publication Information	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478165	)**  
+**[	CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10494911	)**  
 **[]()**  
-作者：	
+作者：	T. Chen; P. Culbertson; M. Schwager
 ****
+
 **[	Majorization Minimization Methods for Distributed Pose Graph Optimization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10286063	)**  
 **[]()**  
 作者：	T. Fan; T. D. Murphey
@@ -404,7 +406,4 @@
 **[]()**  
 作者：	G. Evangelisti; S. Hirche
 ****
-**[	CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10494911	)**  
-**[]()**  
-作者：	T. Chen; P. Culbertson; M. Schwager
-****
+

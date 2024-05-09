@@ -399,3 +399,8 @@
 **[	Data-Driven Momentum Observers With Physically Consistent Gaussian Processes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10440462	)**  
 **[]()**  
 作者：	G. Evangelisti; S. Hirche
+****
+**[	CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10494911	)**  
+**[]()**  
+作者：	T. Chen; P. Culbertson; M. Schwager
+****

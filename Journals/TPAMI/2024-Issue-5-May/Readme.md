@@ -55,6 +55,7 @@ Ni Zhang; Nian Liu; Fang Nan; Junwei Han
 Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä  
 
 **[DeepM2M2CDL: Deep Multi-Scale Multi-Modal Convolutional Dictionary Learning Network](https://ieeexplore.ieee.org/document/10323520/)**  
+**DeepM2M2CDL：深度多尺度多模态卷积字典学习网络（zty）**  
 Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu  
 
 **[Model-Based Reinforcement Learning With Isolated Imaginations](https://ieeexplore.ieee.org/document/10328687/)**  

@@ -39,6 +39,7 @@ Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi
 Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng  
 
 **[A Flexible EM-Like Clustering Algorithm for Noisy Data](https://ieeexplore.ieee.org/document/10330026/)**  
+**一种灵活的EM类噪声数据聚类算法（zty）**  
 Violeta Roizman; Matthieu Jonckheere; Frédéric Pascal  
 
 **[DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions](https://ieeexplore.ieee.org/document/10324326/)**  

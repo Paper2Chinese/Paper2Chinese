@@ -43,12 +43,15 @@ Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng
 Violeta Roizman; Matthieu Jonckheere; Frédéric Pascal  
 
 **[DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions](https://ieeexplore.ieee.org/document/10324326/)**  
+**DNA家族：利用块级监督策略增强权重共享的神经网络架构搜索（Mooomos）**
 Guangrun Wang; Changlin Li; Liuchun Yuan; Jiefeng Peng; Xiaoyu Xian; Xiaodan Liang; Xiaojun Chang; Liang Lin  
 
 **[CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection](https://ieeexplore.ieee.org/document/10339864/)**  
+**CADC++: 用于共显著目标检测的先进共识感知动态卷积算法（Mooomos）**
 Ni Zhang; Nian Liu; Fang Nan; Junwei Han  
 
 **[Cascaded and Generalizable Neural Radiance Fields for Fast View Synthesis](https://ieeexplore.ieee.org/document/10328666/)**  
+**用于快速视图合成的级联和通用化的神经辐射场（Mooomos）**
 Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä  
 
 **[DeepM2M2CDL: Deep Multi-Scale Multi-Modal Convolutional Dictionary Learning Network](https://ieeexplore.ieee.org/document/10323520/)**  

@@ -59,9 +59,11 @@ Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä
 Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu  
 
 **[Model-Based Reinforcement Learning With Isolated Imaginations](https://ieeexplore.ieee.org/document/10328687/)**  
+**基于模型的强化学习与独立想象力**  
 Minting Pan; Xiangming Zhu; Yitao Zheng; Yunbo Wang; Xiaokang Yang  
  
 **[Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation](https://ieeexplore.ieee.org/document/10343126/)**  
+**Bi-DexHands：迈向人类水平的双手灵巧操控**  
 Yuanpei Chen; Yiran Geng; Fangwei Zhong; Jiaming Ji; Jiechuang Jiang; Zongqing Lu; Hao Dong; Yaodong Yang  
 
 **[Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification](https://ieeexplore.ieee.org/document/10330766/)**  

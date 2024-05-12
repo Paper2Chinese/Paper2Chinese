@@ -4,6 +4,11 @@
 **[通过仿生优化提高仿生机器人肘-前臂系统的性能](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TRO/All%20Issuse/paper/Enhancing%20the%20Performance%20of%20a%20Biomimetic%20Robotic%20Elbow-and-Forearm%20System%20Through%20Bionics-Inspired%20Optimization.md)**  
 作者：H. Yang; G. Wei; L. Ren
 ****
+**[Online Multicontact Receding Horizon Planning via Value Function Approximation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10506550)**  
+**[]()**  
+在线多接触递减地平线规划通过价值函数近似  
+作者：J. Wang; S. Kim; T. S. Lembono; W. Du; J. Shim; S. Samadi; K. Wang; V. Ivan; S. Calinon; S. Vijayakumar; S. Tonneau
+****
 **[CMax-SLAM: Event-Based Rotational-Motion Bundle Adjustment and SLAM System Using Contrast Maximization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474186)**  
 **[]()**  
 ## CMax-SLAM：基于事件的旋转运动捆集调整与SLAM系统
@@ -586,10 +591,7 @@
 **[]()**  
 作者：H. Liao; H. H. -t. Chan; G. Liu; X. Zhao; F. Gao; M. Tomizuka; W. -H. Liao
 ****
-**[Online Multicontact Receding Horizon Planning via Value Function Approximation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10506550)**  
-**[]()**  
-作者：J. Wang; S. Kim; T. S. Lembono; W. Du; J. Shim; S. Samadi; K. Wang; V. Ivan; S. Calinon; S. Vijayakumar; S. Tonneau
-****
+
 **[IEEE Transactions on Robotics Information for Authors	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478166)**  
 **[]()**  
 作者：

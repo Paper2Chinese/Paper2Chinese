@@ -14,6 +14,10 @@
 ## CMax-SLAM：基于事件的旋转运动捆集调整与SLAM系统
 作者：S. Guo; G. Gallego
 ****
+**[Non-Smooth Trajectory Optimization for Wheeled Balancing Robots with Contact Switches and Impacts](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288547)**  
+## 非光滑轨迹优化：用于具有接触切换和冲击的轮式平衡机器人
+作者：Victor Klemm； Yvain de Viragh；  David Rohr；Roland Siegwart；Marco Tognon
+****
 **[CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10494911)**  
 **[]()**  
 ## CATNIPS:通过神经隐式概率场景避免碰撞 

@@ -91,17 +91,12 @@ $$
 
 对于从重放缓冲区采样的训练序列 $(o_ t, a_ t, r_ t)_ {T}^{t=1}$，可以使用以下损失函数来优化世界模型，其中α、β1和β2是超参数：
 
-$$
-L_ {base} = E \left\{
-    \begin{array}{l}
-        -\ln p(o_ t | h_ t, s_ t, h'_ t, z_ t) + \alpha \ell_ 2(a_ t, \tilde{a}_ {t-1}) \\
-        -\ln p(r_ t | h_ t, s_ t, h'_ t, z_ t) \\
-        -\ln p(\gamma_ t | h_ t, s_ t, h'_ t, z_ t) \\
-        + \beta_ 1 KL[q(s_ t | h_ t, o_ t) | p(s_ t | h_ t)] \\
-        + \beta_ 2 KL[q(z_ t | h'_ t, o_ t) | p(z_ t | h'_ t)]
-    \end{array}
-\right\}.
-$$
+
+<div align=center>
+   <img src="https://img-blog.csdnimg.cn/direct/984046a6cebf4a708150f252036a9676.png" width="300" />
+</div>
+
+
 
 ### 2) 训练崩溃和最小-最大方差约束
 尽管对逆动力学进行了建模，但对于原始的Iso-Dream，我们发现世界模型隔离可控和非可控动态仍然具有挑战性。在初步实验中，我们观察到世界模型训练的解耦结果不稳定，动作条件分支偶尔学习到非可控状态转换的不匹配表示。这意味着大部分有用信息可能崩溃到动作条件分支，而动作自由分支几乎什么也学不到，我们称之为“训练崩溃”。这种现象的出现是由于逆动力学训练目标的固有局限性，可能无法确保完全排除与动作独立的州转换，特别是当动作条件网络分支对建模动态具有很强的能力时。
@@ -218,8 +213,9 @@ $$
 我们在图8(a)中展示了 CARLA 中的定量结果。Iso-Dream++ 显著优于比较模型，包括 DreamerV2、DreamerV3、DreamerPro 和 Denoised-MDP。在50万环境步骤后，Iso-Dream++ 实现了大约60的平均回报，而 DreamerV2 和 Denoised-MDP 分别实现了10和25。在 DreamerV2 中，潜在表示包含了可控和非可控动态，这增加了在想象中建模状态转换的复杂性。与 Denoised-MDP 相比，后者也根据可控性解耦信息，Iso-Dream++ 通过展开未来非可控状态来做出前瞻性决策的优势。
 
 <div align=center>
-   <img src="https://img-blog.csdnimg.cn/direct/963d61ea74b646a9a27b92620b0b8a49.jpeg" width="800" />
+   <img src="https://img-blog.csdnimg.cn/direct/e5cb9ac86aee4063aeb10b03749796d0.jpeg" width="800" />
 </div>
+
 
 
 ### 消融研究：
@@ -290,7 +286,7 @@ $$
 我们使用 Iso-Dream++ 在 DMC 环境中执行视频预测，其中背景是 video_ easy。帧序列和动作是从测试情节中随机收集的。前 5 帧提供给模型，接下来的 45 帧仅基于动作输入进行预测。在这个环境中，视频背景可以被视为非可控动态和静态表示的组合。图 14 可视化了整个生成的 RGB 图像、解耦的 RGB 组件以及三个网络分支的相应掩码。从这些结果中，我们观察到我们的方法有能力预测长期序列，并从复杂视觉图像中解耦可控（代理）和非可控动态（背景运动）。如图 14 的第三和第四行所示，可控表示已成功隔离并与其掩码匹配。如图的第五和第六行所示，火焰和海浪的运动被动作自由分支捕获为非可控动态。
 
 <div align=center>
-   <img src="https://img-blog.csdnimg.cn/direct/03ca00920500437bb75246289a24f7af.jpeg" width="800" />
+   <img src="https://img-blog.csdnimg.cn/direct/36eb4a3518ee42fabfec29a6c3106b8d.jpeg" width="800" />
 </div>
 
 

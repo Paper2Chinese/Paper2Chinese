@@ -3,7 +3,7 @@
 ****
 
 **[Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification](https://ieeexplore.ieee.org/document/9795098/)**  
-**超快速深度车道检测与混合锚驱动序数分类**  
+**[超快速深度车道检测与混合锚驱动序数分类](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/Ultra%20Fast%20Deep%20Lane%20Detection%20With%20Hybrid%20Anchor%20Driven%20Ordinal%20Classification.md)**  
 Zequn Qin; Pengyi Zhang; Xi Li
 
 **[On the Robustness of Average Losses for Partial-Label Learning](https://ieeexplore.ieee.org/document/10122995/)**  
@@ -15,7 +15,7 @@ Jiaqi Lv; Biao Liu; Lei Feng; Ning Xu; Miao Xu; Bo An; Gang Niu; Xin Geng; Masas
 Maciej Besta; Torsten Hoefler  
 
 **[In-Domain GAN Inversion for Faithful Reconstruction and Editability](https://ieeexplore.ieee.org/document/10418542/)**  
-**领域内GAN反演：用于精确重建和可编辑性**  
+**[领域内GAN反演：用于精确重建和可编辑性](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/In-Domain%20GAN%20Inversion%20for%20Faithful%20Reconstruction%20and%20Editability.md)**  
 Jiapeng Zhu; Yujun Shen; Yinghao Xu; Deli Zhao; Qifeng Chen; Bolei Zhou
 
 **[t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators](https://ieeexplore.ieee.org/document/10246406/)**  
@@ -23,7 +23,7 @@ Jiapeng Zhu; Yujun Shen; Yinghao Xu; Deli Zhao; Qifeng Chen; Bolei Zhou
 Tomi H. Kinnunen; Kong Aik Lee; Hemlata Tak; Nicholas Evans; Andreas Nautsch  
 
 **[Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity](https://ieeexplore.ieee.org/document/10269093/)**   
-**无监督减额：不对称对比学习遇到自我相似的地方（zty）**    
+**[无监督减额：不对称对比学习遇到自我相似的地方](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/Unsupervised%20Deraining%3A%20Where%20Asymmetric%20Contrastive%20Learning%20Meets%20Self-Similarity.md)**    
 Yi Chang; Yun Guo; Yuntong Ye; Changfeng Yu; Lin Zhu; Xile Zhao; Luxin Yan; Yonghong Tian  
 
 **[Semi-Supervised Learning for FGVC With Out-of-Category Data](https://ieeexplore.ieee.org/document/10273439/)**  

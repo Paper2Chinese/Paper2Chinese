@@ -1,8 +1,7 @@
 ## All Issuse 2024
 ****
 **[Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495209)**  
-**[]()**  
-## 通过仿生优化提高仿生机器人肘-前臂系统的性能
+**[通过仿生优化提高仿生机器人肘-前臂系统的性能](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TRO/All%20Issuse/paper/Enhancing%20the%20Performance%20of%20a%20Biomimetic%20Robotic%20Elbow-and-Forearm%20System%20Through%20Bionics-Inspired%20Optimization.md)**  
 作者：H. Yang; G. Wei; L. Ren
 ****
 **[CMax-SLAM: Event-Based Rotational-Motion Bundle Adjustment and SLAM System Using Contrast Maximization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474186)**  

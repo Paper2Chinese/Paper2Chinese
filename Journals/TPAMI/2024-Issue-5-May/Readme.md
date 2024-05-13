@@ -70,9 +70,11 @@ Yuanpei Chen; Yiran Geng; Fangwei Zhong; Jiaming Ji; Jiechuang Jiang; Zongqing L
 Zan Gao; Shengxun Wei; Weili Guan; Lei Zhu; Meng Wang; Shengyong Chen  
 
 **[Growing Like a Tree: Finding Trunks From Graph Skeleton Trees](https://ieeexplore.ieee.org/document/10330013/)**  
+**Growing Like a Tree: 从图骨架树中识别主干(Mooomos)**  
 Zhongyu Huang; Yingheng Wang; Chaozhuo Li; Huiguang He  
 
 **[Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild](https://ieeexplore.ieee.org/document/10325629/)**  
+**Anti-UAV410: 一种用于野外追踪无人机的热红外基准测试与定制化方案(Mooomos)**  
 Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu  
 
 **[Detecting Line Segments in Motion-Blurred Images With Events](https://ieeexplore.ieee.org/document/10323537/)**  

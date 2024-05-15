@@ -78,6 +78,7 @@ Zhongyu Huang; Yingheng Wang; Chaozhuo Li; Huiguang He
 Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu  
 
 **[Detecting Line Segments in Motion-Blurred Images With Events](https://ieeexplore.ieee.org/document/10323537/)**  
+**用事件检测运动模糊图像中的线段（zty）**  
 Huai Yu; Hao Li; Wen Yang; Lei Yu; Gui-Song Xia   
 
 **[Generalized Characteristic Function Loss for Crowd Analysis in the Frequency Domain](https://ieeexplore.ieee.org/document/10328449/)**  

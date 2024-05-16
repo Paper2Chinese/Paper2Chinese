@@ -86,12 +86,15 @@ Huai Yu; Hao Li; Wen Yang; Lei Yu; Gui-Song Xia
 Weibo Shu; Jia Wan; Antoni B. Chan  
 
 **[Structured Pruning for Deep Convolutional Neural Networks: A Survey](https://ieeexplore.ieee.org/document/10330640/)**  
+**深度卷积神经网络的结构化剪枝：综述（Mooomos）**  
 Yang He; Lingao Xiao  
 
 **[ConvMatch: Rethinking Network Design for Two-View Correspondence Learning](https://ieeexplore.ieee.org/document/10323178/)**  
+**ConvMatch：重新思考两视图对应学习网络设计(Mooomos)**  
 Shihua Zhang; Jiayi Ma  
 
 **[Understanding and Mitigating Dimensional Collapse in Federated Learning](https://ieeexplore.ieee.org/document/10336535/)**  
+**理解并缓解联邦学习中的维度塌缩问题（Mooomos）**  
 Yujun Shi; Jian Liang; Wenqing Zhang; Chuhui Xue; Vincent Y. F. Tan; Song Bai  
 
 **[SketchTrans: Disentangled Prototype Learning With Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884/)**  

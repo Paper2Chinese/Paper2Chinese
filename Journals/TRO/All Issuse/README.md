@@ -5,8 +5,8 @@
 作者：H. Yang; G. Wei; L. Ren
 ****
 **[Online Multicontact Receding Horizon Planning via Value Function Approximation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10506550)**  
-**[]()**  
-在线多接触递减地平线规划通过价值函数近似  
+**[在线多接触递减地平线规划通过价值函数近似 ](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TRO/All%20Issuse/paper/Online%20Multicontact%20Receding%20Horizon%20Planning%20via%20Value%20Function%20Approximation.md)**  
+
 作者：J. Wang; S. Kim; T. S. Lembono; W. Du; J. Shim; S. Samadi; K. Wang; V. Ivan; S. Calinon; S. Vijayakumar; S. Tonneau
 ****
 **[CMax-SLAM: Event-Based Rotational-Motion Bundle Adjustment and SLAM System Using Contrast Maximization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10474186)**  
@@ -15,12 +15,13 @@
 作者：S. Guo; G. Gallego
 ****
 **[Non-Smooth Trajectory Optimization for Wheeled Balancing Robots with Contact Switches and Impacts](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288547)**  
-## 非光滑轨迹优化：用于具有接触切换和冲击的轮式平衡机器人
+## 
+**[非光滑轨迹优化：用于具有接触切换和冲击的轮式平衡机器人](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TRO/All%20Issuse/paper/Non-Smooth%20Trajectory%20Optimization%20for%20Wheeled%20Balancing%20Robots%20with%20Contact%20Switches%20and%20Impacts.md)** 
 作者：Victor Klemm； Yvain de Viragh；  David Rohr；Roland Siegwart；Marco Tognon
 ****
 **[CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10494911)**  
-**[]()**  
-## CATNIPS:通过神经隐式概率场景避免碰撞 
+**[CATNIPS:通过神经隐式概率场景避免碰撞](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TRO/All%20Issuse/paper/CATNIPS%3A%20Collision%20Avoidance%20Through%20Neural%20Implicit%20Probabilistic%20Scenes.md)**  
+
 作者：T. Chen; P. Culbertson; M. Schwager
 ****
 **[Majorization Minimization Methods for Distributed Pose Graph Optimization	](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10286063)**  

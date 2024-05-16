@@ -82,6 +82,7 @@ Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu
 Huai Yu; Hao Li; Wen Yang; Lei Yu; Gui-Song Xia   
 
 **[Generalized Characteristic Function Loss for Crowd Analysis in the Frequency Domain](https://ieeexplore.ieee.org/document/10328449/)**  
+**人群分析的频域广义特征函数损失（zty）**  
 Weibo Shu; Jia Wan; Antoni B. Chan  
 
 **[Structured Pruning for Deep Convolutional Neural Networks: A Survey](https://ieeexplore.ieee.org/document/10330640/)**  

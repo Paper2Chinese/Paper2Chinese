@@ -7,11 +7,12 @@
 Zequn Qin; Pengyi Zhang; Xi Li
 
 **[On the Robustness of Average Losses for Partial-Label Learning](https://ieeexplore.ieee.org/document/10122995/)**  
-**关于部分标签学习平均损失的鲁棒性（zty）**  
+**[关于部分标签学习平均损失的鲁棒性](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/On%20the%20Robustness%20of%20Average%20Losses%20for%20Partial-Label%20Learning.md)**  
+
 Jiaqi Lv; Biao Liu; Lei Feng; Ning Xu; Miao Xu; Bo An; Gang Niu; Xin Geng; Masashi Sugiyama
 
 **[Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis](https://ieeexplore.ieee.org/document/10443519/)**  
-**并行和分布式图神经网络：  深入并发分析(Mooomos)**    
+**[并行和分布式图神经网络：  深入并发分析](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Parallel%20and%20Distributed%20Graph%20Neural%20Networks%3A%20An%20In-Depth%20Concurrency%20Analysis.md)**  
 Maciej Besta; Torsten Hoefler  
 
 **[In-Domain GAN Inversion for Faithful Reconstruction and Editability](https://ieeexplore.ieee.org/document/10418542/)**  
@@ -27,15 +28,15 @@ Tomi H. Kinnunen; Kong Aik Lee; Hemlata Tak; Nicholas Evans; Andreas Nautsch
 Yi Chang; Yun Guo; Yuntong Ye; Changfeng Yu; Lin Zhu; Xile Zhao; Luxin Yan; Yonghong Tian  
 
 **[Semi-Supervised Learning for FGVC With Out-of-Category Data](https://ieeexplore.ieee.org/document/10273439/)**  
-**半监督学习在带有非类别数据的细粒度视觉分类中的应用**  
+**[半监督学习在带有非类别数据的细粒度视觉分类中的应用](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Semi-Supervised%20Learning%20for%20FGVC%20With%20Out-of-Category%20Data.md)**  
 Ruoyi Du; Dongliang Chang; Zhanyu Ma; Kongming Liang; Yi-Zhe Song; Jun Guo  
 
 **[The Impact of Adversarial Attacks on Federated Learning: A Survey](https://ieeexplore.ieee.org/document/10274102/)**  
-**对联合学习中对抗性攻击的影响：一项调查**  
+**[对联合学习中对抗性攻击的影响：一项调查](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/The%20Impact%20of%20Adversarial%20Attacks%20on%20Federated%20Learning%3A%20A%20Survey.md)**  
 Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi  
 
 **[Revisiting Person Re-Identification by Camera Selection](https://ieeexplore.ieee.org/document/10308725/)**  
-**通过相机选择重新识别个人（zty）**  
+**[通过相机选择重新识别个人](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Revisiting%20Person%20Re-Identification%20by%20Camera%20Selection.md)** 
 Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng  
 
 **[A Flexible EM-Like Clustering Algorithm for Noisy Data](https://ieeexplore.ieee.org/document/10330026/)**  
@@ -43,11 +44,11 @@ Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng
 Violeta Roizman; Matthieu Jonckheere; Frédéric Pascal  
 
 **[DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions](https://ieeexplore.ieee.org/document/10324326/)**  
-**DNA家族：利用块级监督策略增强权重共享的神经网络架构搜索（Mooomos）**    
+**[DNA家族：利用块级监督策略增强权重共享的神经网络架构搜索](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/DNA%20Family%3A%20Boosting%20Weight-Sharing%20NAS%20With%20Block-Wise%20Supervisions.md)**  
 Guangrun Wang; Changlin Li; Liuchun Yuan; Jiefeng Peng; Xiaoyu Xian; Xiaodan Liang; Xiaojun Chang; Liang Lin  
 
 **[CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection](https://ieeexplore.ieee.org/document/10339864/)**  
-**CADC++: 用于共显著目标检测的先进共识感知动态卷积算法（Mooomos）**    
+**[CADC++: 用于共显著目标检测的先进共识感知动态卷积算法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/CADC%2B%2B%3A%20Advanced%20Consensus-Aware%20Dynamic%20Convolution%20for%20Co-Salient%20Object%20Detection.md)**  
 Ni Zhang; Nian Liu; Fang Nan; Junwei Han  
 
 **[Cascaded and Generalizable Neural Radiance Fields for Fast View Synthesis](https://ieeexplore.ieee.org/document/10328666/)**  

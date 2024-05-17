@@ -180,7 +180,7 @@ Xiaohan Wang; Wenguan Wang; Jiayi Shao; Yi Yang
 Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng  
 
 **[Revisiting Confidence Estimation: Towards Reliable Failure Prediction](https://ieeexplore.ieee.org/document/10356834/)**
-**重新审视置信度估计：迈向可靠的故障预测**
+**[重新审视置信度估计：迈向可靠的故障预测]**
 Fei Zhu; Xu-Yao Zhang; Zhen Cheng; Cheng-Lin Liu  
 
 **[Brave the Wind and the Waves: Discovering Robust and Generalizable Graph Lottery Tickets](https://ieeexplore.ieee.org/document/10356750/)**  

@@ -103,6 +103,7 @@ Yujun Shi; Jian Liang; Wenqing Zhang; Chuhui Xue; Vincent Y. F. Tan; Song Bai
 Cuiqun Chen; Mang Ye; Meibin Qi; Bo Du  
 
 **[Co-Guiding for Multi-Intent Spoken Language Understanding](https://ieeexplore.ieee.org/document/10333988/)**  
+**多意图口语理解的协同引导**  
 Bowen Xing; Ivor W. Tsang  
 
 **[Learning Dynamic Scene-Conditioned 3D Object Detectors](https://ieeexplore.ieee.org/document/10330125/)**  

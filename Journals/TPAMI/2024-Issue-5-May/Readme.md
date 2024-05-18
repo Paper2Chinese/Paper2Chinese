@@ -195,7 +195,8 @@ Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu
 **[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)**  
 Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang  
 
-**[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://ieeexplore.ieee.org/document/10373051/)**  
+**[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://ieeexplore.ieee.org/document/10373051/)**   
+**DualCoOp++：快速有效地适应有限注释的多标签识别**  
 Ping Hu; Ximeng Sun; Stan Sclaroff; Kate Saenko  
 
 **[Bayesian Estimate of Mean Proper Scores for Diversity-Enhanced Active Learning](https://ieeexplore.ieee.org/document/10360321/)**  

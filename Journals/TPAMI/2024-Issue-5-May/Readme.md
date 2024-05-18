@@ -99,6 +99,7 @@ Shihua Zhang; Jiayi Ma
 Yujun Shi; Jian Liang; Wenqing Zhang; Chuhui Xue; Vincent Y. F. Tan; Song Bai  
 
 **[SketchTrans: Disentangled Prototype Learning With Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884/)**  
+**SketchTrans：使用Transformer进行草图照片识别的纠缠原型学习（zty）**  
 Cuiqun Chen; Mang Ye; Meibin Qi; Bo Du  
 
 **[Co-Guiding for Multi-Intent Spoken Language Understanding](https://ieeexplore.ieee.org/document/10333988/)**  

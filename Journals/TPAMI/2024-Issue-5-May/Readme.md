@@ -107,7 +107,7 @@ Cuiqun Chen; Mang Ye; Meibin Qi; Bo Du
 Bowen Xing; Ivor W. Tsang  
 
 **[Learning Dynamic Scene-Conditioned 3D Object Detectors](https://ieeexplore.ieee.org/document/10330125/)**  
-**学习动态场景条件三维物体检测器（zty）**
+**学习动态场景条件三维物体检测器（zty）**  
 Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu  
 
 **[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://ieeexplore.ieee.org/document/10345691/)**  

@@ -103,10 +103,11 @@ Yujun Shi; Jian Liang; Wenqing Zhang; Chuhui Xue; Vincent Y. F. Tan; Song Bai
 Cuiqun Chen; Mang Ye; Meibin Qi; Bo Du  
 
 **[Co-Guiding for Multi-Intent Spoken Language Understanding](https://ieeexplore.ieee.org/document/10333988/)**  
-**多意图口语理解的协同引导**  
+**多意图口语理解的协同引导（zty）**  
 Bowen Xing; Ivor W. Tsang  
 
 **[Learning Dynamic Scene-Conditioned 3D Object Detectors](https://ieeexplore.ieee.org/document/10330125/)**  
+**学习动态场景条件三维物体检测器（zty）**
 Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu  
 
 **[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://ieeexplore.ieee.org/document/10345691/)**  

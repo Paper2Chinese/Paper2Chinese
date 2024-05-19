@@ -203,6 +203,7 @@ Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang
 Ping Hu; Ximeng Sun; Stan Sclaroff; Kate Saenko  
 
 **[Bayesian Estimate of Mean Proper Scores for Diversity-Enhanced Active Learning](https://ieeexplore.ieee.org/document/10360321/)**  
+**贝叶斯估计均值合适分数用于增强多样性主动学习**  
 Wei Tan; Lan Du; Wray Buntine  
 
 **[Unified 3D and 4D Panoptic Segmentation via Dynamic Shifting Networks](https://ieeexplore.ieee.org/document/10380457/)**  

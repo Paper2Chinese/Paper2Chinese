@@ -111,18 +111,23 @@ Bowen Xing; Ivor W. Tsang
 Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu  
 
 **[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://ieeexplore.ieee.org/document/10345691/)**  
+**DaGAN++: 用于生成会说话的头部视频的深度感知生成对抗网络（Mooomos）**  
 Fa-Ting Hong; Li Shen; Dan Xu  
 
 **[Faster Person Re-Identification: One-Shot-Filter and Coarse-to-Fine Search](https://ieeexplore.ieee.org/document/10354027/)**  
+**更快的人员再识别：单次过滤和粗到细搜索（Mooomos）**  
 Guan’an Wang; Xiaowen Huang; Shaogang Gong; Jian Zhang; Wen Gao  
 
 **[Binary Graph Convolutional Network With Capacity Exploration](https://ieeexplore.ieee.org/document/10356827/)**  
+**具有容量探索的二进制图卷积网络（Mooomos）**  
 Junfu Wang; Yuanfang Guo; Liang Yang; Yunhong Wang  
 
 **[Variational Adversarial Defense: A Bayes Perspective for Adversarial Training](https://ieeexplore.ieee.org/document/10354457/)**  
+**变分对抗性防御：对抗性训练的贝叶斯视角（Mooomos）**  
 Chenglong Zhao; Shibin Mei; Bingbing Ni; Shengchao Yuan; Zhenbo Yu; Jun Wang 
 
 **[A Hybrid Neural Coding Approach for Pattern Recognition With Spiking Neural Networks](https://ieeexplore.ieee.org/document/10347028/)**  
+**用于脉冲神经网络模式识别的混合神经编码方法（Mooomos）**  
 Xinyi Chen; Qu Yang; Jibin Wu; Haizhou Li; Kay Chen Tan  
 
 **[Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing](https://ieeexplore.ieee.org/document/10342779/)**  

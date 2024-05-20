@@ -142,7 +142,8 @@ Yaning Li; Xue Wang; Guoqing Zhou; Hao Zhu; Qing Wang
 **[CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention](https://ieeexplore.ieee.org/document/10366193/)**  
 Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; Wei Liu  
 
-**[AGDF-Net: Learning Domain Generalizable Depth Features With Adaptive Guidance Fusion](https://ieeexplore.ieee.org/document/10356721/)**  
+**[AGDF-Net: Learning Domain Generalizable Depth Features With Adaptive Guidance Fusion](https://ieeexplore.ieee.org/document/10356721/)**   
+**AGDF-Net: 学习具有自适应引导融合的领域泛化深度特征**  
 Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang  
 
 **[X22-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks](https://ieeexplore.ieee.org/document/10356651/)**  

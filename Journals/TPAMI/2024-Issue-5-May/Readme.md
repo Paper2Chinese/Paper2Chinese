@@ -131,6 +131,7 @@ Chenglong Zhao; Shibin Mei; Bingbing Ni; Shengchao Yuan; Zhenbo Yu; Jun Wang
 Xinyi Chen; Qu Yang; Jibin Wu; Haizhou Li; Kay Chen Tan  
 
 **[Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing](https://ieeexplore.ieee.org/document/10342779/)**  
+**图谱域中的点云攻击：当三维几何遇到图信号处理时（zty）**  
 Daizong Liu; Wei Hu; Xin Li  
 
 **[Robust Multi-Agent Communication With Graph Information Bottleneck Optimization](https://ieeexplore.ieee.org/document/10334015/)**  

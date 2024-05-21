@@ -134,7 +134,7 @@ Xinyi Chen; Qu Yang; Jibin Wu; Haizhou Li; Kay Chen Tan
 **图谱域中的点云攻击：当三维几何遇到图信号处理时（zty）**  
 Daizong Liu; Wei Hu; Xin Li  
 
-**[Robust Multi-Agent Communication With Graph Information Bottleneck Optimization](https://ieeexplore.ieee.org/document/10334015/)** 
+**[Robust Multi-Agent Communication With Graph Information Bottleneck Optimization](https://ieeexplore.ieee.org/document/10334015/)**   
 **具有图信息瓶颈优化的鲁棒多Agent通信(zty)**  
 Shifei Ding; Wei Du; Ling Ding; Jian Zhang; Lili Guo; Bo An  
 

@@ -150,6 +150,7 @@ Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; We
 Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang  
 
 **[X22-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks](https://ieeexplore.ieee.org/document/10356651/)**  
+**$\rm X^2$-VLM：视觉语言任务的全能预训练模型**  
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  

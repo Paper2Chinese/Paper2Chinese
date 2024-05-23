@@ -139,6 +139,7 @@ Daizong Liu; Wei Hu; Xin Li
 Shifei Ding; Wei Du; Ling Ding; Jian Zhang; Lili Guo; Bo An  
 
 **[Sheared Epipolar Focus Spectrum for Dense Light Field Reconstruction](https://ieeexplore.ieee.org/document/10334032/)**  
+**用于稠密光场重建的剪切焦谱（zty）**  
 Yaning Li; Xue Wang; Guoqing Zhou; Hao Zhu; Qing Wang  
 
 **[CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention](https://ieeexplore.ieee.org/document/10366193/)**  

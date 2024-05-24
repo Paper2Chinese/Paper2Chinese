@@ -154,18 +154,23 @@ Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  
+**少量真实信息的注入，却能带来巨大的回报：使用图神经网络进行标签聚合（Mooomos）**  
 Zijian Ying; Jing Zhang; Qianmu Li; Ming Wu; Victor S. Sheng  
 
 **[PiCO+: Contrastive Label Disambiguation for Robust Partial Label Learning](https://ieeexplore.ieee.org/document/10356820/)**  
+**PiCO+：用于鲁棒部分标签学习的对比标签消歧（Mooomos）**  
 Haobo Wang; Ruixuan Xiao; Yixuan Li; Lei Feng; Gang Niu; Gang Chen; Junbo Zhao  
 
 **[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)**  
+**一种针对极端动态范围像素差异的快速Alpha-Tree算法（Mooomos）**  
 Jiwoo Ryu; Scott C. Trager; Michael H. F. Wilkinson  
 
 **[Context Disentangling and Prototype Inheriting for Robust Visual Grounding](https://ieeexplore.ieee.org/document/10342826/)**  
+**上下文解耦与原型继承：用于鲁棒视觉定位（Mooomos）**  
 Wei Tang; Liang Li; Xuejing Liu; Lu Jin; Jinhui Tang; Zechao Li  
 
 **[Informed Adaptive Sensing](https://ieeexplore.ieee.org/document/10349951/)**  
+**信息驱动的自适应感知（Mooomos）**  
 Amr Morssy; Marcus R. Frean; Paul D. Teal  
 
 **[Knockoffs-SPR: Clean Sample Selection in Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10337771/)**  

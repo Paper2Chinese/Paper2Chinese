@@ -202,6 +202,7 @@ Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng
 Fei Zhu; Xu-Yao Zhang; Zhen Cheng; Cheng-Lin Liu  
 
 **[Brave the Wind and the Waves: Discovering Robust and Generalizable Graph Lottery Tickets](https://ieeexplore.ieee.org/document/10356750/)**  
+**乘风破浪：发现稳健且具有泛化能力的图彩票**  
 Kun Wang; Yuxuan Liang; Xinglin Li; Guohao Li; Bernard Ghanem; Roger Zimmermann; Zhengyang Zhou; Huahui Yi; Yudong Zhang; Yang Wang  
 
 **[Enhancing Visual Grounding in Vision-Language Pre-Training With Position-Guided Text Prompts](https://ieeexplore.ieee.org/document/10363674/)**  

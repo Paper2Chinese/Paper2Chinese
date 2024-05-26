@@ -40,7 +40,7 @@ Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi
 Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng  
 
 **[A Flexible EM-Like Clustering Algorithm for Noisy Data](https://ieeexplore.ieee.org/document/10330026/)**  
-**一种灵活的EM类噪声数据聚类算法（zty）**  
+**[一种灵活的EM类噪声数据聚类算法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/A%20Flexible%20EM-Like%20Clustering%20Algorithm%20for%20Noisy%20Data.md)**  
 Violeta Roizman; Matthieu Jonckheere; Frédéric Pascal  
 
 **[DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions](https://ieeexplore.ieee.org/document/10324326/)**  
@@ -52,7 +52,7 @@ Guangrun Wang; Changlin Li; Liuchun Yuan; Jiefeng Peng; Xiaoyu Xian; Xiaodan Lia
 Ni Zhang; Nian Liu; Fang Nan; Junwei Han  
 
 **[Cascaded and Generalizable Neural Radiance Fields for Fast View Synthesis](https://ieeexplore.ieee.org/document/10328666/)**  
-**用于快速视图合成的级联和通用化的神经辐射场（Mooomos）**    
+**[用于快速视图合成的级联和通用化的神经辐射场](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Cascaded%20and%20Generalizable%20Neural%20Radiance%20Fields%20for%20Fast%20View%20Synthesis.md)**    
 Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä  
 
 **[DeepM2M2CDL: Deep Multi-Scale Multi-Modal Convolutional Dictionary Learning Network](https://ieeexplore.ieee.org/document/10323520/)**  

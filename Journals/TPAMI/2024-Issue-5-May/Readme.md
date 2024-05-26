@@ -56,7 +56,7 @@ Ni Zhang; Nian Liu; Fang Nan; Junwei Han
 Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä  
 
 **[DeepM2M2CDL: Deep Multi-Scale Multi-Modal Convolutional Dictionary Learning Network](https://ieeexplore.ieee.org/document/10323520/)**  
-**DeepM2M2CDL：深度多尺度多模态卷积字典学习网络（zty）**  
+**[DeepM2M2CDL：深度多尺度多模态卷积字典学习网络]（https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/DeepM2M2CDL_%20Deep%20Multi-Scale%20Multi-Modal%20Convolutional%20Dictionary%20Learning%20Network.md）**   
 Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu  
 
 **[Model-Based Reinforcement Learning With Isolated Imaginations](https://ieeexplore.ieee.org/document/10328687/)**  
@@ -64,14 +64,14 @@ Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu
 Minting Pan; Xiangming Zhu; Yitao Zheng; Yunbo Wang; Xiaokang Yang  
  
 **[Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation](https://ieeexplore.ieee.org/document/10343126/)**  
-**Bi-DexHands：迈向人类水平的双手灵巧操控**  
+**[Bi-DexHands：迈向人类水平的双手灵巧操控](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/Bi-DexHands%3A%20Towards%20Human-Level%20Bimanual%20Dexterous%20Manipulation.md)**  
 Yuanpei Chen; Yiran Geng; Fangwei Zhong; Jiaming Ji; Jiechuang Jiang; Zongqing Lu; Hao Dong; Yaodong Yang  
 
 **[Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification](https://ieeexplore.ieee.org/document/10330766/)**  
 Zan Gao; Shengxun Wei; Weili Guan; Lei Zhu; Meng Wang; Shengyong Chen  
 
 **[Growing Like a Tree: Finding Trunks From Graph Skeleton Trees](https://ieeexplore.ieee.org/document/10330013/)**  
-**Growing Like a Tree: 从图骨架树中识别主干(Mooomos)**  
+**[Growing Like a Tree: 从图骨架树中识别主干](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/Growing%20Like%20a%20Tree_%20Finding%20Trunks%20From%20Graph%20Skeleton%20Trees.md)**  
 Zhongyu Huang; Yingheng Wang; Chaozhuo Li; Huiguang He  
 
 **[Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild](https://ieeexplore.ieee.org/document/10325629/)**  
@@ -83,31 +83,31 @@ Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu
 Huai Yu; Hao Li; Wen Yang; Lei Yu; Gui-Song Xia   
 
 **[Generalized Characteristic Function Loss for Crowd Analysis in the Frequency Domain](https://ieeexplore.ieee.org/document/10328449/)**  
-**人群分析的频域广义特征函数损失（zty）**  
+**[人群分析的频域广义特征函数损失](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/zty0516-Generalized%20Characteristic%20Function%20Loss%20for%20Crowd%20Analysis%20in%20the%20Frequency%20Domain.md)**  
 Weibo Shu; Jia Wan; Antoni B. Chan  
 
 **[Structured Pruning for Deep Convolutional Neural Networks: A Survey](https://ieeexplore.ieee.org/document/10330640/)**  
-**深度卷积神经网络的结构化剪枝：综述（Mooomos）**  
+**[深度卷积神经网络的结构化剪枝：综述](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/Structured%20Pruning%20for%20Deep%20Convolutional%20Neural%20Networks%3A%20A%20Survey.md\\)**  
 Yang He; Lingao Xiao  
 
 **[ConvMatch: Rethinking Network Design for Two-View Correspondence Learning](https://ieeexplore.ieee.org/document/10323178/)**  
-**ConvMatch：重新思考两视图对应学习网络设计(Mooomos)**  
+**[ConvMatch：重新思考两视图对应学习网络设计](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/ConvMatch_%20Rethinking%20Network%20Design%20for%20Two-View%20Correspondence%20Learning.md)**  
 Shihua Zhang; Jiayi Ma  
 
 **[Understanding and Mitigating Dimensional Collapse in Federated Learning](https://ieeexplore.ieee.org/document/10336535/)**  
-**理解并缓解联邦学习中的维度塌缩问题（Mooomos）**  
+**[理解并缓解联邦学习中的维度塌缩问题](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/Understanding%2Band%2BMitigating%2BDimensional%2BCollapse%2Bin%2BFederated%2BLearning.md)**  
 Yujun Shi; Jian Liang; Wenqing Zhang; Chuhui Xue; Vincent Y. F. Tan; Song Bai  
 
 **[SketchTrans: Disentangled Prototype Learning With Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884/)**  
-**SketchTrans：使用Transformer进行草图照片识别的纠缠原型学习（zty）**  
+**[SketchTrans：使用Transformer进行草图照片识别的纠缠原型学习](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/zty0517-SketchTrans_%20Disentangled%20Prototype%20Learning%20With%20Transformer%20for%20Sketch-Photo%20Recognition.md)**  
 Cuiqun Chen; Mang Ye; Meibin Qi; Bo Du  
 
 **[Co-Guiding for Multi-Intent Spoken Language Understanding](https://ieeexplore.ieee.org/document/10333988/)**  
-**多意图口语理解的协同引导（zty）**  
+**[多意图口语理解的协同引导](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/zty0518-Co-Guiding%20for%20Multi-Intent%20Spoken%20Language%20Understanding.md)**  
 Bowen Xing; Ivor W. Tsang  
 
 **[Learning Dynamic Scene-Conditioned 3D Object Detectors](https://ieeexplore.ieee.org/document/10330125/)**  
-**学习动态场景条件三维物体检测器（zty）**  
+**[学习动态场景条件三维物体检测器](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/zty0519-Learning%20Dynamic%20Scene-Conditioned%203D%20Object%20Detectors.md)**  
 Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu  
 
 **[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://ieeexplore.ieee.org/document/10345691/)**  
@@ -216,11 +216,11 @@ Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu
 Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang  
 
 **[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://ieeexplore.ieee.org/document/10373051/)**   
-**DualCoOp++：快速有效地适应有限注释的多标签识别**  
+**[DualCoOp++：快速有效地适应有限注释的多标签识别](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/DualCoOp(2).md)**  
 Ping Hu; Ximeng Sun; Stan Sclaroff; Kate Saenko  
 
 **[Bayesian Estimate of Mean Proper Scores for Diversity-Enhanced Active Learning](https://ieeexplore.ieee.org/document/10360321/)**  
-**贝叶斯估计均值合适分数用于增强多样性主动学习**  
+**[贝叶斯估计均值合适分数用于增强多样性主动学习](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/Bayesian_Estimate_of_Mean.md)**  
 Wei Tan; Lan Du; Wray Buntine  
 
 **[Unified 3D and 4D Panoptic Segmentation via Dynamic Shifting Networks](https://ieeexplore.ieee.org/document/10380457/)**  

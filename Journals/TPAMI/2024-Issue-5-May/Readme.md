@@ -206,7 +206,7 @@ Fei Zhu; Xu-Yao Zhang; Zhen Cheng; Cheng-Lin Liu
 Kun Wang; Yuxuan Liang; Xinglin Li; Guohao Li; Bernard Ghanem; Roger Zimmermann; Zhengyang Zhou; Huahui Yi; Yudong Zhang; Yang Wang  
 
 **[Enhancing Visual Grounding in Vision-Language Pre-Training With Position-Guided Text Prompts](https://ieeexplore.ieee.org/document/10363674/)**  
-** 增强视觉-语言预训练中的视觉定位与位置引导文本提示** 
+**增强视觉-语言预训练中的视觉定位与位置引导文本提示**   
 Alex Jinpeng Wang; Pan Zhou; Mike Zheng Shou; Shuicheng Yan  
 
 **[From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm](https://ieeexplore.ieee.org/document/10361604/)**  

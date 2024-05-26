@@ -56,7 +56,7 @@ Ni Zhang; Nian Liu; Fang Nan; Junwei Han
 Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä  
 
 **[DeepM2M2CDL: Deep Multi-Scale Multi-Modal Convolutional Dictionary Learning Network](https://ieeexplore.ieee.org/document/10323520/)**  
-**[DeepM2M2CDL：深度多尺度多模态卷积字典学习网络]（https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/DeepM2M2CDL_%20Deep%20Multi-Scale%20Multi-Modal%20Convolutional%20Dictionary%20Learning%20Network.md）**   
+**[DeepM2M2CDL：深度多尺度多模态卷积字典学习网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week3/DeepM2M2CDL_%20Deep%20Multi-Scale%20Multi-Modal%20Convolutional%20Dictionary%20Learning%20Network.md)**     
 Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu  
 
 **[Model-Based Reinforcement Learning With Isolated Imaginations](https://ieeexplore.ieee.org/document/10328687/)**  

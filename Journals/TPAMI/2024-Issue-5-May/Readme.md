@@ -20,7 +20,7 @@ Maciej Besta; Torsten Hoefler
 Jiapeng Zhu; Yujun Shen; Yinghao Xu; Deli Zhao; Qifeng Chen; Bolei Zhou
 
 **[t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators](https://ieeexplore.ieee.org/document/10246406/)**  
-**t-EER：无参数串联评估对策和生物特征比较器(Mooomos)**    
+**[t-EER：无参数串联评估对策和生物特征比较器](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/t-EER_%20Parameter-Free%20Tandem%20Evaluation%20of%20Countermeasures%20and%20Biometric%20Comparators.md)**    
 Tomi H. Kinnunen; Kong Aik Lee; Hemlata Tak; Nicholas Evans; Andreas Nautsch  
 
 **[Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity](https://ieeexplore.ieee.org/document/10269093/)**   

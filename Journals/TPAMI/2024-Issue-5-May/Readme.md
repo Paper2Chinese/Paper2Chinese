@@ -210,6 +210,7 @@ Kun Wang; Yuxuan Liang; Xinglin Li; Guohao Li; Bernard Ghanem; Roger Zimmermann;
 Alex Jinpeng Wang; Pan Zhou; Mike Zheng Shou; Shuicheng Yan  
 
 **[From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm](https://ieeexplore.ieee.org/document/10361604/)**  
+**从 NeRFLiX 到 NeRFLiX++: 一种通用的 NeRF-无关恢复范式**   
 Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu  
 
 **[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)**  

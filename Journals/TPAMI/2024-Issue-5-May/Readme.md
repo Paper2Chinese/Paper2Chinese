@@ -150,7 +150,7 @@ Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; We
 Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang  
 
 **[X22-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks](https://ieeexplore.ieee.org/document/10356651/)**  
-**$\rm X^2$-VLM：视觉语言任务的全能预训练模型**  
+** $\rm X^2$ -VLM：视觉语言任务的全能预训练模型**  
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  
@@ -174,9 +174,11 @@ Wei Tang; Liang Li; Xuejing Liu; Lu Jin; Jinhui Tang; Zechao Li
 Amr Morssy; Marcus R. Frean; Paul D. Teal  
 
 **[Knockoffs-SPR: Clean Sample Selection in Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10337771/)**  
+**Knockoff SPR：带噪声标签学习中的干净样本选择（zty）**  
 Yikai Wang; Yanwei Fu; Xinwei Sun  
 
 **[Diffeomorphic Counterfactuals With Generative Models](https://ieeexplore.ieee.org/document/10345703/)**  
+**具有生成模型的变形反事实（zty）**  
 Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel  
 
 **[SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation](https://ieeexplore.ieee.org/document/10354384/)**  

@@ -216,6 +216,7 @@ Alex Jinpeng Wang; Pan Zhou; Mike Zheng Shou; Shuicheng Yan
 Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu  
 
 **[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)**  
+**基于光谱辐射度可分离性增强的遥感图像阴影检测**   
 Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang  
 
 **[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://ieeexplore.ieee.org/document/10373051/)**   

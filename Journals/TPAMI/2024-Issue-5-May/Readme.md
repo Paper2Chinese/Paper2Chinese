@@ -182,6 +182,7 @@ Yikai Wang; Yanwei Fu; Xinwei Sun
 Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel  
 
 **[SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation](https://ieeexplore.ieee.org/document/10354384/)**  
+**SMPLer: 驯服 Transformer 用于单目 3D 人体形状和姿态估计**   
 Xiangyu Xu; Lijuan Liu; Shuicheng Yan  
 
 **[Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563/)**  

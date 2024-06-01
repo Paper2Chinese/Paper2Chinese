@@ -186,6 +186,7 @@ Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel
 Xiangyu Xu; Lijuan Liu; Shuicheng Yan  
 
 **[Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563/)**  
+**用于三维点云处理的可解释旋转等变四元数神经网络（zty）**  
 Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi Zhang  
 
 **[Semi-Supervised Learning for Multi-Label Cardiovascular Diseases Prediction: A Multi-Dataset Study](https://ieeexplore.ieee.org/document/10360273/)**  

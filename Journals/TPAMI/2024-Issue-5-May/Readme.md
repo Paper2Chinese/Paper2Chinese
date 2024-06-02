@@ -79,7 +79,7 @@ Zhongyu Huang; Yingheng Wang; Chaozhuo Li; Huiguang He
 Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu  
 
 **[Detecting Line Segments in Motion-Blurred Images With Events](https://ieeexplore.ieee.org/document/10323537/)**  
-**用事件检测运动模糊图像中的线段（zty）**  
+**[用事件检测运动模糊图像中的线段](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Detecting%20Line%20Segments%20in%20Motion-Blurred%20Images%20With%20Events.md)**  
 Huai Yu; Hao Li; Wen Yang; Lei Yu; Gui-Song Xia   
 
 **[Generalized Characteristic Function Loss for Crowd Analysis in the Frequency Domain](https://ieeexplore.ieee.org/document/10328449/)**  
@@ -115,11 +115,11 @@ Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu
 Fa-Ting Hong; Li Shen; Dan Xu  
 
 **[Faster Person Re-Identification: One-Shot-Filter and Coarse-to-Fine Search](https://ieeexplore.ieee.org/document/10354027/)**  
-**更快的人员再识别：单次过滤和粗到细搜索（Mooomos）**  
+**[更快的人员再识别：单次过滤和粗到细搜索](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Faster%20Person%20Re-Identification%3A%20One-Shot-Filter%20and%20Coarse-to-Fine%20Search)**  
 Guan’an Wang; Xiaowen Huang; Shaogang Gong; Jian Zhang; Wen Gao  
 
 **[Binary Graph Convolutional Network With Capacity Exploration](https://ieeexplore.ieee.org/document/10356827/)**  
-**具有容量探索的二进制图卷积网络（Mooomos）**  
+**[具有容量探索的二进制图卷积网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/%5BBinary%20Graph%20Convolutional%20Network%20With%20Capacity%20Exploration)**  
 Junfu Wang; Yuanfang Guo; Liang Yang; Yunhong Wang  
 
 **[Variational Adversarial Defense: A Bayes Perspective for Adversarial Training](https://ieeexplore.ieee.org/document/10354457/)**  
@@ -127,7 +127,7 @@ Junfu Wang; Yuanfang Guo; Liang Yang; Yunhong Wang
 Chenglong Zhao; Shibin Mei; Bingbing Ni; Shengchao Yuan; Zhenbo Yu; Jun Wang 
 
 **[A Hybrid Neural Coding Approach for Pattern Recognition With Spiking Neural Networks](https://ieeexplore.ieee.org/document/10347028/)**  
-**用于脉冲神经网络模式识别的混合神经编码方法（Mooomos）**  
+**[用于脉冲神经网络模式识别的混合神经编码方法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/A%20Hybrid%20Neural%20Coding%20Approach%20for%20Pattern%20Recognition%20With%20Spiking%20Neural%20Networks.md)**  
 Xinyi Chen; Qu Yang; Jibin Wu; Haizhou Li; Kay Chen Tan  
 
 **[Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing](https://ieeexplore.ieee.org/document/10342779/)**  
@@ -146,11 +146,11 @@ Yaning Li; Xue Wang; Guoqing Zhou; Hao Zhu; Qing Wang
 Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; Wei Liu  
 
 **[AGDF-Net: Learning Domain Generalizable Depth Features With Adaptive Guidance Fusion](https://ieeexplore.ieee.org/document/10356721/)**   
-**AGDF-Net: 学习具有自适应引导融合的领域泛化深度特征**  
+**[AGDF-Net: 学习具有自适应引导融合的领域泛化深度特征](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/AGDF-Net%3A%20Learning%20Domain%20Generalizable%20Depth%20Features%20With%20Adaptive%20Guidance%20Fusion.md)**  
 Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang  
 
 **[X22-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks](https://ieeexplore.ieee.org/document/10356651/)**  
-** $\rm X^2$ -VLM：视觉语言任务的全能预训练模型**  
+** [$\rm X^2$ -VLM：视觉语言任务的全能预训练模型](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/X%5E2-VLM:%20All-in-One%20Pre-Trained%20Model%20for%20Vision-Language%20Tasks)**  
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  
@@ -166,11 +166,11 @@ Haobo Wang; Ruixuan Xiao; Yixuan Li; Lei Feng; Gang Niu; Gang Chen; Junbo Zhao
 Jiwoo Ryu; Scott C. Trager; Michael H. F. Wilkinson  
 
 **[Context Disentangling and Prototype Inheriting for Robust Visual Grounding](https://ieeexplore.ieee.org/document/10342826/)**  
-**上下文解耦与原型继承：用于鲁棒视觉定位（Mooomos）**  
+**[上下文解耦与原型继承：用于鲁棒视觉定位](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Context%20Disentangling%20and%20Prototype%20Inheriting%20for%20Robust%20Visual%20Grounding)**  
 Wei Tang; Liang Li; Xuejing Liu; Lu Jin; Jinhui Tang; Zechao Li  
 
 **[Informed Adaptive Sensing](https://ieeexplore.ieee.org/document/10349951/)**  
-**信息驱动的自适应感知（Mooomos）**  
+**[信息驱动的自适应感知](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/%5BInformed%20Adaptive%20Sensing)**  
 Amr Morssy; Marcus R. Frean; Paul D. Teal  
 
 **[Knockoffs-SPR: Clean Sample Selection in Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10337771/)**  
@@ -203,19 +203,19 @@ Xiaohan Wang; Wenguan Wang; Jiayi Shao; Yi Yang
 Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng  
 
 **[Revisiting Confidence Estimation: Towards Reliable Failure Prediction](https://ieeexplore.ieee.org/document/10356834/)**  
-**重新审视置信度估计：迈向可靠的故障预测**  
+**[重新审视置信度估计：迈向可靠的故障预测](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Revisiting%20Confidence%20Estimation%3A%20Towards%20Reliable%20Failure%20Prediction.md)**  
 Fei Zhu; Xu-Yao Zhang; Zhen Cheng; Cheng-Lin Liu  
 
 **[Brave the Wind and the Waves: Discovering Robust and Generalizable Graph Lottery Tickets](https://ieeexplore.ieee.org/document/10356750/)**  
-**乘风破浪：发现稳健且具有泛化能力的图彩票**  
+**[乘风破浪：发现稳健且具有泛化能力的图彩票](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Brave%20the%20Wind%20and%20the%20Waves%3A%20Discovering%20Robust%20and%20Generalizable%20Graph%20Lottery%20Tickets)**  
 Kun Wang; Yuxuan Liang; Xinglin Li; Guohao Li; Bernard Ghanem; Roger Zimmermann; Zhengyang Zhou; Huahui Yi; Yudong Zhang; Yang Wang  
 
 **[Enhancing Visual Grounding in Vision-Language Pre-Training With Position-Guided Text Prompts](https://ieeexplore.ieee.org/document/10363674/)**  
-**增强视觉-语言预训练中的视觉定位与位置引导文本提示**   
+**[增强视觉-语言预训练中的视觉定位与位置引导文本提示](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Enhancing%20Visual%20Grounding%20in%20Vision-Language%20Pre-Training%20With%20Position-Guided%20Text%20Prompts.md)**   
 Alex Jinpeng Wang; Pan Zhou; Mike Zheng Shou; Shuicheng Yan  
 
 **[From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm](https://ieeexplore.ieee.org/document/10361604/)**  
-**从 NeRFLiX 到 NeRFLiX++: 一种通用的 NeRF-无关恢复范式**   
+**[从 NeRFLiX 到 NeRFLiX++: 一种通用的 NeRF-无关恢复范式	](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/From%20NeRFLiX%20to%20NeRFLiX%2B%2B%3A%20A%20General%20NeRF-Agnostic%20Restorer%20Paradigm)**   
 Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu  
 
 **[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)**  

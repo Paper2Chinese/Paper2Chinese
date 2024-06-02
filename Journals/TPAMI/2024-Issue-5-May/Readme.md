@@ -234,6 +234,7 @@ Wei Tan; Lan Du; Wray Buntine
 Fangzhou Hong; Lingdong Kong; Hui Zhou; Xinge Zhu; Hongsheng Li; Ziwei Liu  
 
 **[Fast Graph Generation via Spectral Diffusion](https://ieeexplore.ieee.org/document/10366850/)**  
+**通过谱扩散快速图生成**  
 Tianze Luo; Zhanfeng Mo; Sinno Jialin Pan
 
 **[CenterNet++ for Object Detection](https://ieeexplore.ieee.org/document/10356840/)**  

@@ -190,6 +190,7 @@ Xiangyu Xu; Lijuan Liu; Shuicheng Yan
 Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi Zhang  
 
 **[Semi-Supervised Learning for Multi-Label Cardiovascular Diseases Prediction: A Multi-Dataset Study](https://ieeexplore.ieee.org/document/10360273/)**  
+**半监督学习用于多标签心血管疾病预测：多数据集研究**   
 Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yining Dong; Yuan-Ting Zhang  
 
 **[Principal Uncertainty Quantification With Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/document/10360418/)**  

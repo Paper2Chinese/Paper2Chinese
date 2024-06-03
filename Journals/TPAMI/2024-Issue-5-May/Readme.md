@@ -150,7 +150,7 @@ Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; We
 Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang  
 
 **[X22-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks](https://ieeexplore.ieee.org/document/10356651/)**  
-** [$\rm X^2$ -VLM：视觉语言任务的全能预训练模型](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/X%5E2-VLM:%20All-in-One%20Pre-Trained%20Model%20for%20Vision-Language%20Tasks)**  
+**[X22-VLM：视觉语言任务的全能预训练模型](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/X%5E2-VLM:%20All-in-One%20Pre-Trained%20Model%20for%20Vision-Language%20Tasks)**  
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  
@@ -231,6 +231,7 @@ Ping Hu; Ximeng Sun; Stan Sclaroff; Kate Saenko
 Wei Tan; Lan Du; Wray Buntine  
 
 **[Unified 3D and 4D Panoptic Segmentation via Dynamic Shifting Networks](https://ieeexplore.ieee.org/document/10380457/)**  
+**通过动态移位网络实现统一的3D和4D全景分割**  
 Fangzhou Hong; Lingdong Kong; Hui Zhou; Xinge Zhu; Hongsheng Li; Ziwei Liu  
 
 **[Fast Graph Generation via Spectral Diffusion](https://ieeexplore.ieee.org/document/10366850/)**  
@@ -238,15 +239,19 @@ Fangzhou Hong; Lingdong Kong; Hui Zhou; Xinge Zhu; Hongsheng Li; Ziwei Liu
 Tianze Luo; Zhanfeng Mo; Sinno Jialin Pan
 
 **[CenterNet++ for Object Detection](https://ieeexplore.ieee.org/document/10356840/)**  
+**用于目标检测的CenterNet++**  
 Kaiwen Duan; Song Bai; Lingxi Xie; Honggang Qi; Qingming Huang; Qi Tian  
 
 **[Regularly Truncated M-Estimators for Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10375792/)**  
+**用于带噪声标签学习的规则截断M-估计器**  
 Xiaobo Xia; Pengqian Lu; Chen Gong; Bo Han; Jun Yu; Jun Yu; Tongliang Liu  
 
 **[3D Object Detection From Images for Autonomous Driving: A Survey](https://ieeexplore.ieee.org/document/10373157/)**  
+**自动驾驶图像中的3D目标检测：一项综述**  
 Xinzhu Ma; Wanli Ouyang; Andrea Simonelli; Elisa Ricci  
 
 **[Face Generation and Editing With StyleGAN: A Survey](https://ieeexplore.ieee.org/document/10399793/)**  
+**使用StyleGAN进行面部生成和编辑：一项综述**  
 Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren Akbulut; Dennis Holzmann; Tarek Renusch; Gustav Reichert; Helge Ritter  
 
 **[Deep Lossy Plus Residual Coding for Lossless and Near-Lossless Image Compression](https://ieeexplore.ieee.org/document/10378746/)**  

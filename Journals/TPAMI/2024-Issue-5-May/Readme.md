@@ -255,6 +255,7 @@ Xinzhu Ma; Wanli Ouyang; Andrea Simonelli; Elisa Ricci
 Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren Akbulut; Dennis Holzmann; Tarek Renusch; Gustav Reichert; Helge Ritter  
 
 **[Deep Lossy Plus Residual Coding for Lossless and Near-Lossless Image Compression](https://ieeexplore.ieee.org/document/10378746/)**  
+**深度有损加残差编码用于无损和近无损图像压缩**  
 Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao  
 
 **[Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/document/10371780/)**  

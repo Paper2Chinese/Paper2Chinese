@@ -198,9 +198,11 @@ Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yini
 Omer Belhasin; Yaniv Romano; Daniel Freedman; Ehud Rivlin; Michael Elad  
 
 **[Learning to Follow and Generate Instructions for Language-Capable Navigation](https://ieeexplore.ieee.org/document/10359152/)**  
+**学习遵循和生成语言导航指令（zty）**  
 Xiaohan Wang; Wenguan Wang; Jiayi Shao; Yi Yang  
 
 **[Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery](https://ieeexplore.ieee.org/document/10354352/)**  
+**多维数据恢复的低阶张量函数表示（zty）**  
 Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng  
 
 **[Revisiting Confidence Estimation: Towards Reliable Failure Prediction](https://ieeexplore.ieee.org/document/10356834/)**  
@@ -260,6 +262,7 @@ Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren
 Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao  
 
 **[Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/document/10371780/)**  
+**基于视频标签的弱监督Tracklet关联学习用于人的重新识别（zty）**  
 Min Liu; Yuan Bian; Qing Liu; Xueping Wang; Yaonan Wang  
 
 **[Vision Transformer With Quadrangle Attention](https://ieeexplore.ieee.org/document/10384565/)**  

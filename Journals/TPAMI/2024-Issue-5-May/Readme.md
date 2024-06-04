@@ -194,6 +194,7 @@ Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi 
 Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yining Dong; Yuan-Ting Zhang  
 
 **[Principal Uncertainty Quantification With Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/document/10360418/)**  
+**图像恢复问题的空间相关主不确定性量化（zty）**  
 Omer Belhasin; Yaniv Romano; Daniel Freedman; Ehud Rivlin; Michael Elad  
 
 **[Learning to Follow and Generate Instructions for Language-Capable Navigation](https://ieeexplore.ieee.org/document/10359152/)**  

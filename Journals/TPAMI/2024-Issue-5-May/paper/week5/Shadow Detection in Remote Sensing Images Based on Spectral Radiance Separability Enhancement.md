@@ -1,4 +1,4 @@
-# 题目：[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement] (https://ieeexplore.ieee.org/document/10363672/)  
+# 题目：[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)  
 ## 基于光谱辐射可分离性增强的遥感图像阴影检测
 **作者：Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang** 
 

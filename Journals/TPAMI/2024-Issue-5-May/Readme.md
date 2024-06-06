@@ -131,15 +131,15 @@ Chenglong Zhao; Shibin Mei; Bingbing Ni; Shengchao Yuan; Zhenbo Yu; Jun Wang
 Xinyi Chen; Qu Yang; Jibin Wu; Haizhou Li; Kay Chen Tan  
 
 **[Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing](https://ieeexplore.ieee.org/document/10342779/)**  
-**图谱域中的点云攻击：当三维几何遇到图信号处理时（zty）**  
+**[图谱域中的点云攻击：当三维几何遇到图信号处理时](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Point%20Cloud%20Attacks%20in%20Graph%20Spectral%20Domain%3A%20When%203D%20Geometry%20Meets%20Graph%20Signal%20Processing.md)**  
 Daizong Liu; Wei Hu; Xin Li  
 
 **[Robust Multi-Agent Communication With Graph Information Bottleneck Optimization](https://ieeexplore.ieee.org/document/10334015/)**   
-**具有图信息瓶颈优化的鲁棒多Agent通信(zty)**  
+**[具有图信息瓶颈优化的鲁棒多Agent通信](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Robust%20Multi-Agent%20Communication%20With%20Graph%20Information%20Bottleneck%20Optimization.md)**  
 Shifei Ding; Wei Du; Ling Ding; Jian Zhang; Lili Guo; Bo An  
 
 **[Sheared Epipolar Focus Spectrum for Dense Light Field Reconstruction](https://ieeexplore.ieee.org/document/10334032/)**  
-**用于稠密光场重建的剪切焦谱（zty）**  
+**[用于稠密光场重建的剪切焦谱](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Sheared%20Epipolar%20Focus%20Spectrum%20for%20Dense%20Light%20Field%20Reconstruction.md)**  
 Yaning Li; Xue Wang; Guoqing Zhou; Hao Zhu; Qing Wang  
 
 **[CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention](https://ieeexplore.ieee.org/document/10366193/)**  
@@ -174,7 +174,7 @@ Wei Tang; Liang Li; Xuejing Liu; Lu Jin; Jinhui Tang; Zechao Li
 Amr Morssy; Marcus R. Frean; Paul D. Teal  
 
 **[Knockoffs-SPR: Clean Sample Selection in Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10337771/)**  
-**Knockoff SPR：带噪声标签学习中的干净样本选择（zty）**  
+**[Knockoff SPR：带噪声标签学习中的干净样本选择](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Knockoffs-SPR%3A%20Clean%20Sample%20Selection%20in%20Learning%20With%20Noisy%20Labels.md)**  
 Yikai Wang; Yanwei Fu; Xinwei Sun  
 
 **[Diffeomorphic Counterfactuals With Generative Models](https://ieeexplore.ieee.org/document/10345703/)**  
@@ -222,7 +222,7 @@ Alex Jinpeng Wang; Pan Zhou; Mike Zheng Shou; Shuicheng Yan
 Kun Zhou; Wenbo Li; Nianjuan Jiang; Xiaoguang Han; Jiangbo Lu  
 
 **[Shadow Detection in Remote Sensing Images Based on Spectral Radiance Separability Enhancement](https://ieeexplore.ieee.org/document/10363672/)**  
-**基于光谱辐射度可分离性增强的遥感图像阴影检测**   
+**[基于光谱辐射度可分离性增强的遥感图像阴影检测](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Shadow%20Detection%20in%20Remote%20Sensing%20Images%20Based%20on%20Spectral%20Radiance%20Separability%20Enhancement.md)**   
 Jiahang Liu; Xiaozhen Wang; Mao Guo; Ruilei Feng; Yue Wang  
 
 **[DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition With Limited Annotations](https://ieeexplore.ieee.org/document/10373051/)**   

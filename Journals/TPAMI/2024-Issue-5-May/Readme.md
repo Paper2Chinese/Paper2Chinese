@@ -266,6 +266,7 @@ Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao
 Min Liu; Yuan Bian; Qing Liu; Xueping Wang; Yaonan Wang  
 
 **[Vision Transformer With Quadrangle Attention](https://ieeexplore.ieee.org/document/10384565/)**  
+**四边形注意力的视觉转换器**  
 Qiming Zhang; Jing Zhang; Yufei Xu; Dacheng Tao  
 
 **[Dimension Reduction With Prior Information for Knowledge Discovery](https://ieeexplore.ieee.org/document/10371783/)**  

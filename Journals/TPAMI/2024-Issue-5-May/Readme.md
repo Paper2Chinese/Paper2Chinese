@@ -270,6 +270,7 @@ Min Liu; Yuan Bian; Qing Liu; Xueping Wang; Yaonan Wang
 Qiming Zhang; Jing Zhang; Yufei Xu; Dacheng Tao  
 
 **[Dimension Reduction With Prior Information for Knowledge Discovery](https://ieeexplore.ieee.org/document/10371783/)**  
+**具有先验信息的降维方法在知识发现中的应用**   
 Anh Tuan Bui  
 
 **[Realize Generative Yet Complete Latent Representation for Incomplete Multi-View Learning](https://ieeexplore.ieee.org/document/10373887/)**  

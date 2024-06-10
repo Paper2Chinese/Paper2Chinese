@@ -274,18 +274,23 @@ Qiming Zhang; Jing Zhang; Yufei Xu; Dacheng Tao
 Anh Tuan Bui  
 
 **[Realize Generative Yet Complete Latent Representation for Incomplete Multi-View Learning](https://ieeexplore.ieee.org/document/10373887/)**  
+**实现不完全多视角学习的生成完全潜在表示（zty）**  
 Hongmin Cai; Weitian Huang; Sirui Yang; Siqi Ding; Yue Zhang; Bin Hu; Fa Zhang; Yiu-Ming Cheung  
 
 **[BAL: Balancing Diversity and Novelty for Active Learning](https://ieeexplore.ieee.org/document/10372131/)**  
+**平衡多样性和新颖性促进主动学习（zty）**  
 Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia  
 
 **[Self-Training Boosted Multi-Factor Matching Network for Composed Image Retrieval](https://ieeexplore.ieee.org/document/10373096/)**  
+**自训练增强的多因素匹配网络在合成图像检索中的应用（zty）**  
 Haokun Wen; Xuemeng Song; Jianhua Yin; Jianlong Wu; Weili Guan; Liqiang Nie  
 
 **[Compressed-SDR to HDR Video Reconstruction](https://ieeexplore.ieee.org/document/10373884/)**  
+**压缩SDR到HDR视频重构（zty）**  
 Hu Wang; Mao Ye; Xiatian Zhu; Shuai Li; Xue Li; Ce Zhu  
 
 **[Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog](https://ieeexplore.ieee.org/document/10374263/)**  
+**对话编辑：通过对话框进行精细的2D和3D面部编辑（zty）**  
 Yuming Jiang; Ziqi Huang; Tianxing Wu; Xingang Pan; Chen Change Loy; Ziwei Liu  
 
 **[PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation Using Model Variants](https://ieeexplore.ieee.org/document/10378867/)**  

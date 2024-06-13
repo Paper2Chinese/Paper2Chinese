@@ -294,18 +294,23 @@ Hu Wang; Mao Ye; Xiatian Zhu; Shuai Li; Xue Li; Ce Zhu
 Yuming Jiang; Ziqi Huang; Tianxing Wu; Xingang Pan; Chen Change Loy; Ziwei Liu  
 
 **[PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation Using Model Variants](https://ieeexplore.ieee.org/document/10378867/)**  
+**PnP-GA+: 使用模型变体的即插即用领域自适应用于注视估计**  
 Ruicong Liu; Yunfei Liu; Haofei Wang; Feng Lu  
 
 **[Semi-Infinitely Constrained Markov Decision Processes and Provably Efficient Reinforcement Learning](https://ieeexplore.ieee.org/document/10378871/)**  
+**半无限约束马尔可夫决策过程与可证明有效的强化学习**  
 Liangyu Zhang; Yang Peng; Wenhao Yang; Zhihua Zhang  
 
 **[MsSVT++: Mixed-Scale Sparse Voxel Transformer With Center Voting for 3D Object Detection](https://ieeexplore.ieee.org/document/10371785/)**  
+**MsSVT++: 用于3D目标检测的混合尺度稀疏体素变换器与中心投票**  
 Jianan Li; Shaocong Dong; Lihe Ding; Tingfa Xu  
 
 **[G2-MonoDepth: A General Framework of Generalized Depth Inference From Monocular RGB+X Data](https://ieeexplore.ieee.org/document/10373158/)**  
+**G2-MonoDepth: 从单目RGB+X数据进行广义深度推断的通用框架**  
 Haotian Wang; Meng Yang; Nanning Zheng  
 
 **[Adaptive Cross-Modal Transferable Adversarial Attacks From Images to Videos](https://ieeexplore.ieee.org/document/10375740/)**  
+**自适应跨模态可转移对抗性攻击：从图像到视频**  
 Zhipeng Wei; Jingjing Chen; Zuxuan Wu; Yu-Gang Jiang  
 
 **[A Dempster-Shafer Approach to Trustworthy AI With Application to Fetal Brain MRI Segmentation](https://ieeexplore.ieee.org/document/10388220/)**  

@@ -317,6 +317,7 @@ Zhipeng Wei; Jingjing Chen; Zuxuan Wu; Yu-Gang Jiang
 Lucas Fidon; Michael Aertsen; Florian Kofler; Andrea Bink; Anna L. David; Thomas Deprest; Doaa Emam; Frédéric Guffens; András Jakab; Gregor Kasprian; Patric Kienast; Andrew Melbourne; Bjoern Menze; Nada Mufti; Ivana Pogledic; Daniela Prayer; Marlene Stuempflen; Esther Van Elslander; Sébastien Ourselin; Jan Deprest; Tom Vercauteren  
 
 **[RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://ieeexplore.ieee.org/document/10380454/)**  
+**RIGA: 适用于点云配准的旋转不变和全局感知描述子**  
 Hao Yu; Ji Hou; Zheng Qin; Mahdi Saleh; Ivan Shugurov; Kai Wang; Benjamin Busam; Slobodan Ilic  
 
 **[Convolutional Cross-View Pose Estimation](https://ieeexplore.ieee.org/document/10373898/)**  

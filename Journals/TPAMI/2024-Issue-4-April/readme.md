@@ -7,6 +7,7 @@
 Feiping Nie; Jingjing Xue; Weizhong Yu; Xuelong Li
 
 **[NExT-OOD: Overcoming Dual Multiple-Choice VQA Biases](https://ieeexplore.ieee.org/document/10107423/)**  
+**NExT OOD：克服双重多选VQA偏差（zty）**  
 Xi Zhang; Feifei Zhang; Changsheng Xu  
 
 **[Transferable Time-Series Forecasting Under Causal Conditional Shift](https://ieeexplore.ieee.org/document/10214679/)**  

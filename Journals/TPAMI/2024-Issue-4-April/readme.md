@@ -3,6 +3,7 @@
 ****
 
 **[Fast Clustering With Anchor Guidance](https://ieeexplore.ieee.org/document/10262202/)**  
+**基于锚点引导的快速聚类**  
 Feiping Nie; Jingjing Xue; Weizhong Yu; Xuelong Li
 
 **[NExT-OOD: Overcoming Dual Multiple-Choice VQA Biases](https://ieeexplore.ieee.org/document/10107423/)**  

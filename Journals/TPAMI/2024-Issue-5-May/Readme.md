@@ -154,11 +154,11 @@ Lina Liu; Xibin Song; Mengmeng Wang; Yuchao Dai; Yong Liu; Liangjun Zhang
 Yan Zeng; Xinsong Zhang; Hang Li; Jiawei Wang; Jipeng Zhang; Wangchunshu Zhou  
 
 **[A Little Truth Injection But a Big Reward: Label Aggregation With Graph Neural Networks](https://ieeexplore.ieee.org/document/10337741/)**  
-**少量真实信息的注入，却能带来巨大的回报：使用图神经网络进行标签聚合（Mooomos）**  
+**[少量真实信息的注入，却能带来巨大的回报：使用图神经网络进行标签聚合](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/A%20Little%20Truth%20Injection%20But%20a%20Big%20Reward_%20Label%20Aggregation%20With%20Graph%20Neural%20Networks.md)**  
 Zijian Ying; Jing Zhang; Qianmu Li; Ming Wu; Victor S. Sheng  
 
 **[PiCO+: Contrastive Label Disambiguation for Robust Partial Label Learning](https://ieeexplore.ieee.org/document/10356820/)**  
-**PiCO+：用于鲁棒部分标签学习的对比标签消歧（Mooomos）**  
+**[PiCO+：用于鲁棒部分标签学习的对比标签消歧](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/PiCO%2B_%20Contrastive%20Label%20Disambiguation%20for%20Robust%20Partial%20Label%20Learning.md)**  
 Haobo Wang; Ruixuan Xiao; Yixuan Li; Lei Feng; Gang Niu; Gang Chen; Junbo Zhao  
 
 **[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)**   
@@ -178,11 +178,11 @@ Amr Morssy; Marcus R. Frean; Paul D. Teal
 Yikai Wang; Yanwei Fu; Xinwei Sun  
 
 **[Diffeomorphic Counterfactuals With Generative Models](https://ieeexplore.ieee.org/document/10345703/)**  
-**具有生成模型的变形反事实（zty）**  
+**[具有生成模型的变形反事实](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Diffeomorphic%20Counterfactuals%20With%20Generative%20Models.md)**  
 Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel  
 
 **[SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation](https://ieeexplore.ieee.org/document/10354384/)**  
-**SMPLer: 驾驭 Transformer 用于单目 3D 人体形状和姿态估计**   
+**[SMPLer: 驾驭 Transformer 用于单目 3D 人体形状和姿态估计](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/SMPLer%3A%20Taming%20Transformers%20for%20Monocular%203D%20Human%20Shape%20and%20Pose%20Estimation.md)**   
 Xiangyu Xu; Lijuan Liu; Shuicheng Yan  
 
 **[Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563/)**  
@@ -190,7 +190,7 @@ Xiangyu Xu; Lijuan Liu; Shuicheng Yan
 Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi Zhang  
 
 **[Semi-Supervised Learning for Multi-Label Cardiovascular Diseases Prediction: A Multi-Dataset Study](https://ieeexplore.ieee.org/document/10360273/)**  
-**半监督学习用于多标签心血管疾病预测：多数据集研究**   
+**[半监督学习用于多标签心血管疾病预测：多数据集研究](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Semi-Supervised%20Learning%20for%20Multi-Label%20Cardiovascular%20Diseases%20Prediction%3A%20A%20Multi-Dataset%20Study%20.md)**   
 Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yining Dong; Yuan-Ting Zhang  
 
 **[Principal Uncertainty Quantification With Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/document/10360418/)**  

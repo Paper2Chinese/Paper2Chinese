@@ -332,7 +332,8 @@ Yingying Wu; Jinchao Liu; Yan Wang; Stuart Gibson; Margarita Osadchy; Yongchun F
 **[Learning Bilateral Cost Volume for Rolling Shutter Temporal Super-Resolution](https://ieeexplore.ieee.org/document/10382595/)**  
 Bin Fan; Yuchao Dai; Hongdong Li  
 
-**[Hypergraph Isomorphism Computation](https://ieeexplore.ieee.org/document/10398457/)**
+**[Hypergraph Isomorphism Computation](https://ieeexplore.ieee.org/document/10398457/)**  
+**超图同构计算**  
 Yifan Feng; Jiashu Han; Shihui Ying; Yue Gao  
 
 **[Unsupervised Object-Centric Learning From Multiple Unspecified Viewpoints](https://ieeexplore.ieee.org/document/10380320/)**  

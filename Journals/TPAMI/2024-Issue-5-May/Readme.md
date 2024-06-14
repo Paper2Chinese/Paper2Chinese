@@ -111,7 +111,7 @@ Bowen Xing; Ivor W. Tsang
 Yu Zheng; Yueqi Duan; Zongtai Li; Jie Zhou; Jiwen Lu  
 
 **[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://ieeexplore.ieee.org/document/10345691/)**  
-**DaGAN++: 用于生成会说话的头部视频的深度感知生成对抗网络（Mooomos）**  
+**[DaGAN++: 用于生成会说话的头部视频的深度感知生成对抗网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/DaGAN%2B%2B%3A%20Depth-Aware%20Generative%20Adversarial%20Network%20for%20Talking%20Head%20Video%20Generation.md)**  
 Fa-Ting Hong; Li Shen; Dan Xu  
 
 **[Faster Person Re-Identification: One-Shot-Filter and Coarse-to-Fine Search](https://ieeexplore.ieee.org/document/10354027/)**  
@@ -234,15 +234,15 @@ Ping Hu; Ximeng Sun; Stan Sclaroff; Kate Saenko
 Wei Tan; Lan Du; Wray Buntine  
 
 **[Unified 3D and 4D Panoptic Segmentation via Dynamic Shifting Networks](https://ieeexplore.ieee.org/document/10380457/)**  
-**通过动态移位网络实现统一的3D和4D全景分割**  
+**[通过动态移位网络实现统一的3D和4D全景分割](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Unified%203D%20and%204D%20Panoptic%20Segmentation%20via%20Dynamic%20Shifting%20Networks.md)**  
 Fangzhou Hong; Lingdong Kong; Hui Zhou; Xinge Zhu; Hongsheng Li; Ziwei Liu  
 
 **[Fast Graph Generation via Spectral Diffusion](https://ieeexplore.ieee.org/document/10366850/)**  
-**通过谱扩散快速图生成**  
+**[通过谱扩散快速图生成](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/Fast%20Graph%20Generation%20via%20Spectral%20Diffusion.md)**  
 Tianze Luo; Zhanfeng Mo; Sinno Jialin Pan
 
 **[CenterNet++ for Object Detection](https://ieeexplore.ieee.org/document/10356840/)**  
-**用于目标检测的CenterNet++**  
+**[用于目标检测的CenterNet++](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/CenterNet%2B%2B%20for%20Object%20Detection.md)**  
 Kaiwen Duan; Song Bai; Lingxi Xie; Honggang Qi; Qingming Huang; Qi Tian  
 
 **[Regularly Truncated M-Estimators for Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10375792/)**  
@@ -258,7 +258,7 @@ Xinzhu Ma; Wanli Ouyang; Andrea Simonelli; Elisa Ricci
 Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren Akbulut; Dennis Holzmann; Tarek Renusch; Gustav Reichert; Helge Ritter  
 
 **[Deep Lossy Plus Residual Coding for Lossless and Near-Lossless Image Compression](https://ieeexplore.ieee.org/document/10378746/)**  
-**深度有损加残差编码用于无损和近无损图像压缩**  
+**[深度有损加残差编码用于无损和近无损图像压缩](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Deep%20Lossy%20Plus%20Residual%20Coding%20for%20Lossless%20and%20Near-Lossless%20Image%20Compression.md)**  
 Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao  
 
 **[Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/document/10371780/)**  

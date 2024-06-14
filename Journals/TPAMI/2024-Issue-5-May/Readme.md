@@ -186,7 +186,7 @@ Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel
 Xiangyu Xu; Lijuan Liu; Shuicheng Yan  
 
 **[Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563/)**  
-**用于三维点云处理的可解释旋转等变四元数神经网络（zty）**  
+**[用于三维点云处理的可解释旋转等变四元数神经网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Interpretable%20Rotation-Equivariant%20Quaternion%20Neural%20Networks%20for%203D%20Point%20Cloud%20Processing.md)（zty）**  
 Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi Zhang  
 
 **[Semi-Supervised Learning for Multi-Label Cardiovascular Diseases Prediction: A Multi-Dataset Study](https://ieeexplore.ieee.org/document/10360273/)**  
@@ -194,15 +194,15 @@ Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi 
 Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yining Dong; Yuan-Ting Zhang  
 
 **[Principal Uncertainty Quantification With Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/document/10360418/)**  
-**图像恢复问题的空间相关主不确定性量化（zty）**  
+**[图像恢复问题的空间相关主不确定性量化](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Principal%20Uncertainty%20Quantification%20With%20Spatial%20Correlation%20for%20Image%20Restoration%20Problems.md)（zty）**  
 Omer Belhasin; Yaniv Romano; Daniel Freedman; Ehud Rivlin; Michael Elad  
 
 **[Learning to Follow and Generate Instructions for Language-Capable Navigation](https://ieeexplore.ieee.org/document/10359152/)**  
-**学习遵循和生成语言导航指令（zty）**  
+**[学习遵循和生成语言导航指令](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Learning%20to%20Follow%20and%20Generate%20Instructions%20for%20Language-Capable%20Navigation.md)（zty）**  
 Xiaohan Wang; Wenguan Wang; Jiayi Shao; Yi Yang  
 
 **[Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery](https://ieeexplore.ieee.org/document/10354352/)**  
-**多维数据恢复的低阶张量函数表示（zty）**  
+**[多维数据恢复的低阶张量函数表示](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Low-Rank%20Tensor%20Function%20Representation%20for%20Multi-Dimensional%20Data%20Recovery.md)（zty）**  
 Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng  
 
 **[Revisiting Confidence Estimation: Towards Reliable Failure Prediction](https://ieeexplore.ieee.org/document/10356834/)**  
@@ -262,15 +262,15 @@ Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren
 Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao  
 
 **[Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/document/10371780/)**  
-**基于视频标签的弱监督Tracklet关联学习用于人的重新识别（zty）**  
+**[基于视频标签的弱监督Tracklet关联学习用于人的重新识别](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Weakly%20Supervised%20Tracklet%20Association%20Learning%20With%20Video%20Labels%20for%20Person%20Re-Identification.md)（zty）**  
 Min Liu; Yuan Bian; Qing Liu; Xueping Wang; Yaonan Wang  
 
 **[Vision Transformer With Quadrangle Attention](https://ieeexplore.ieee.org/document/10384565/)**  
-**四边形注意力的视觉转换器**  
+**[四边形注意力的视觉转换器](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Vision%20Transformer%20With%20Quadrangle%20Attention.md)**  
 Qiming Zhang; Jing Zhang; Yufei Xu; Dacheng Tao  
 
 **[Dimension Reduction With Prior Information for Knowledge Discovery](https://ieeexplore.ieee.org/document/10371783/)**  
-**具有先验信息的降维方法在知识发现中的应用**   
+**[具有先验信息的降维方法在知识发现中的应用](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Dimension%20Reduction%20With%20Prior%20Information%20for%20Knowledge%20Discovery.md)**   
 Anh Tuan Bui  
 
 **[Realize Generative Yet Complete Latent Representation for Incomplete Multi-View Learning](https://ieeexplore.ieee.org/document/10373887/)**  

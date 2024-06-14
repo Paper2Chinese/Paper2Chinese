@@ -15,6 +15,7 @@ Xi Zhang; Feifei Zhang; Changsheng Xu
 Zijian Li; Ruichu Cai; Tom Z. J. Fu; Zhifeng Hao; Kun Zhang  
 
 **[Variational Hierarchical Mixtures for Probabilistic Learning of Inverse Dynamics](https://ieeexplore.ieee.org/document/10247551/)**  
+**用于逆动力学概率学习的变分分层混合**  
 Hany Abdulsamad; Peter Nickl; Pascal Klink; Jan Peters  
 
 **[Introspective Deep Metric Learning](https://ieeexplore.ieee.org/document/10239539/)**  

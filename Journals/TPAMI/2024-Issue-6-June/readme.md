@@ -3,10 +3,6 @@
 **[]()**  
 作者：	Y. Zhang; D. L. Lau
 
-**[	Unsupervised Domain Adaptation of Object Detectors: A Survey	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10075484	)**  
-**[]()**  
-作者：	P. Oza; V. A. Sindagi; V. VS; V. M. Patel
-
 **[	Mutual Voting for Ranking 3D Correspondences	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105460	)**  
 **[]()**  
 作者：	J. Yang; X. Zhang; S. Fan; C. Ren; Y. Zhang

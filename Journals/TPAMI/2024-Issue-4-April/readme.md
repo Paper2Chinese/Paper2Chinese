@@ -19,6 +19,7 @@ Zijian Li; Ruichu Cai; Tom Z. J. Fu; Zhifeng Hao; Kun Zhang
 Hany Abdulsamad; Peter Nickl; Pascal Klink; Jan Peters  
 
 **[Introspective Deep Metric Learning](https://ieeexplore.ieee.org/document/10239539/)**  
+**内省式深度度量学习**   
 Chengkun Wang; Wenzhao Zheng; Zheng Zhu; Jie Zhou; Jiwen Lu  
 
 **[Scalable SoftGroup for 3D Instance Segmentation on Point Clouds](https://ieeexplore.ieee.org/document/10288416/)**  

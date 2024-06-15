@@ -1,4 +1,5 @@
-
+# 2024-Issue-6-June
+****
 **[	BimodalPS: Causes and Corrections for Bimodal Multi-Path in Phase-Shifting Structured Light Scanners	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9889210	)**  
 **[]()**  
 作者：	Y. Zhang; D. L. Lau

@@ -23,12 +23,15 @@ Hany Abdulsamad; Peter Nickl; Pascal Klink; Jan Peters
 Chengkun Wang; Wenzhao Zheng; Zheng Zhu; Jie Zhou; Jiwen Lu  
 
 **[Scalable SoftGroup for 3D Instance Segmentation on Point Clouds](https://ieeexplore.ieee.org/document/10288416/)**  
+**用于点云三维实例分割的可扩展软组（zty）**  
 Thang Vu; Kookhoi Kim; Thanh Nguyen; Tung M. Luu; Junyeong Kim; Chang D. Yoo  
 
 **[Robust Meta-Representation Learning via Global Label Inference and Classification](https://ieeexplore.ieee.org/document/10298810/)**  
+**基于全局标签推理和分类的鲁棒元表示学习（zty）**  
 Ruohan Wang; John Isak Texas Falk; Massimiliano Pontil; Carlo Ciliberto  
 
 **[Event-Based Background-Oriented Schlieren](https://ieeexplore.ieee.org/document/10301562/)**  
+**基于事件的面向背景的纹影（zty）**  
 Shintaro Shiba; Friedhelm Hamann; Yoshimitsu Aoki; Guillermo Gallego  
 
 **[Encoding the Latent Posterior of Bayesian Neural Networks for Uncertainty Quantification](https://ieeexplore.ieee.org/document/10302334/)**  

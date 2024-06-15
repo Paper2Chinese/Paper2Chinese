@@ -161,8 +161,8 @@ Zijian Ying; Jing Zhang; Qianmu Li; Ming Wu; Victor S. Sheng
 **[PiCO+：用于鲁棒部分标签学习的对比标签消歧](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/PiCO%2B_%20Contrastive%20Label%20Disambiguation%20for%20Robust%20Partial%20Label%20Learning.md)**  
 Haobo Wang; Ruixuan Xiao; Yixuan Li; Lei Feng; Gang Niu; Gang Chen; Junbo Zhao  
 
-**[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)**   
-** [一种针对极端动态范围像素差异的快速Alpha-Tree算法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/%5BInformed%20Adaptive%20Sensing.md) ** 
+**[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)** 
+**[一种针对极端动态范围像素差异的快速Alpha-Tree算法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/%5BInformed%20Adaptive%20Sensing.md)**  
 Jiwoo Ryu; Scott C. Trager; Michael H. F. Wilkinson  
 
 **[Context Disentangling and Prototype Inheriting for Robust Visual Grounding](https://ieeexplore.ieee.org/document/10342826/)**  

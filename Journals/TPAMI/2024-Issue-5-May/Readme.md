@@ -123,7 +123,7 @@ Guan’an Wang; Xiaowen Huang; Shaogang Gong; Jian Zhang; Wen Gao
 Junfu Wang; Yuanfang Guo; Liang Yang; Yunhong Wang  
 
 **[Variational Adversarial Defense: A Bayes Perspective for Adversarial Training](https://ieeexplore.ieee.org/document/10354457/)**  
-**变分对抗性防御：对抗性训练的贝叶斯视角（Mooomos）**  
+**[变分对抗性防御：对抗性训练的贝叶斯视角](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/Variational%20Adversarial%20Defense%3A%20A%20Bayes%20Perspective%20for%20Adversarial%20Training.md)**  
 Chenglong Zhao; Shibin Mei; Bingbing Ni; Shengchao Yuan; Zhenbo Yu; Jun Wang 
 
 **[A Hybrid Neural Coding Approach for Pattern Recognition With Spiking Neural Networks](https://ieeexplore.ieee.org/document/10347028/)**  

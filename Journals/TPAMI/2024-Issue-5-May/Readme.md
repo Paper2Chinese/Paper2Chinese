@@ -60,7 +60,7 @@ Phong Nguyen-Ha; Lam Huynh; Esa Rahtu; Jiri Matas; Janne Heikkilä
 Xin Deng; Jingyi Xu; Fangyuan Gao; Xiancheng Sun; Mai Xu  
 
 **[Model-Based Reinforcement Learning With Isolated Imaginations](https://ieeexplore.ieee.org/document/10328687/)**  
-**基于模型的强化学习与独立想象力**  
+**[基于模型的强化学习与独立想象力](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Model-Based%20Reinforcement%20Learning%20With%20Isolated%20Imaginations.md)**  
 Minting Pan; Xiangming Zhu; Yitao Zheng; Yunbo Wang; Xiaokang Yang  
  
 **[Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation](https://ieeexplore.ieee.org/document/10343126/)**  
@@ -75,7 +75,7 @@ Zan Gao; Shengxun Wei; Weili Guan; Lei Zhu; Meng Wang; Shengyong Chen
 Zhongyu Huang; Yingheng Wang; Chaozhuo Li; Huiguang He  
 
 **[Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild](https://ieeexplore.ieee.org/document/10325629/)**  
-**Anti-UAV410: 一种用于野外追踪无人机的热红外基准测试与定制化方案(Mooomos)**  
+**[Anti-UAV410: 一种用于野外追踪无人机的热红外基准测试与定制化方案](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Anti-UAV410_%20A%20Thermal%20Infrared%20Benchmark%20and%20Customized%20Scheme%20for%20Tracking%20Drones%20in%20the%20Wild.md)**  
 Bo Huang; Jianan Li; Junjie Chen; Gang Wang; Jian Zhao; Tingfa Xu  
 
 **[Detecting Line Segments in Motion-Blurred Images With Events](https://ieeexplore.ieee.org/document/10323537/)**  

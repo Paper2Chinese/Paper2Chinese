@@ -35,6 +35,7 @@ Ruohan Wang; John Isak Texas Falk; Massimiliano Pontil; Carlo Ciliberto
 Shintaro Shiba; Friedhelm Hamann; Yoshimitsu Aoki; Guillermo Gallego  
 
 **[Encoding the Latent Posterior of Bayesian Neural Networks for Uncertainty Quantification](https://ieeexplore.ieee.org/document/10302334/)**  
+**编码贝叶斯神经网络潜在后验量化不确定性**  
 Gianni Franchi; Andrei Bursuc; Emanuel Aldea; Séverine Dubuisson; Isabelle Bloch  
 
 **[Shape-Based Measures Improve Scene Categorization](https://ieeexplore.ieee.org/document/10337773/)**  

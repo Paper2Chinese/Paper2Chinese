@@ -345,6 +345,7 @@ Yifan Feng; Jiashu Han; Shihui Ying; Yue Gao
 Jinyang Yuan; Tonglin Chen; Zhimeng Shen; Bin Li; Xiangyang Xue 
 
 **[Pruning Self-Attentions Into Convolutional Layers in Single Path](https://ieeexplore.ieee.org/document/10409620/)**  
+**将自注意力剪枝成单路径中的卷积层**  
 Haoyu He; Jianfei Cai; Jing Liu; Zizheng Pan; Jing Zhang; Dacheng Tao; Bohan Zhuang  
 
 **[Regularized Loss With Hyperparameter Estimation for Weakly Supervised Single Class Segmentation](https://ieeexplore.ieee.org/document/10381766/)**  

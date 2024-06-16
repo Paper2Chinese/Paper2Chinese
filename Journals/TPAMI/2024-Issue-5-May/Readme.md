@@ -321,15 +321,19 @@ Lucas Fidon; Michael Aertsen; Florian Kofler; Andrea Bink; Anna L. David; Thomas
 Hao Yu; Ji Hou; Zheng Qin; Mahdi Saleh; Ivan Shugurov; Kai Wang; Benjamin Busam; Slobodan Ilic  
 
 **[Convolutional Cross-View Pose Estimation](https://ieeexplore.ieee.org/document/10373898/)**  
+**卷积交叉视图姿态估计（zty）**  
 Zimin Xia; Olaf Booij; Julian F. P. Kooij  
 
 **[Underground Diagnosis Based on GPR and Learning in the Model Space](https://ieeexplore.ieee.org/document/10375785/)**  
+**基于GPR和模型空间学习的地下诊断（zty）**  
 Ao Chen; Xiren Zhou; Yizhan Fan; Huanhuan Chen  
 
 **[Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers](https://ieeexplore.ieee.org/document/10375128/)**  
+**重建随机掩蔽谱有助于DNN识别判别波数（zty）**  
 Yingying Wu; Jinchao Liu; Yan Wang; Stuart Gibson; Margarita Osadchy; Yongchun Fang  
 
 **[Learning Bilateral Cost Volume for Rolling Shutter Temporal Super-Resolution](https://ieeexplore.ieee.org/document/10382595/)**  
+**滚动快门时间超分辨率的学习双边成本量（zty）**  
 Bin Fan; Yuchao Dai; Hongdong Li  
 
 **[Hypergraph Isomorphism Computation](https://ieeexplore.ieee.org/document/10398457/)**  
@@ -337,6 +341,7 @@ Bin Fan; Yuchao Dai; Hongdong Li
 Yifan Feng; Jiashu Han; Shihui Ying; Yue Gao  
 
 **[Unsupervised Object-Centric Learning From Multiple Unspecified Viewpoints](https://ieeexplore.ieee.org/document/10380320/)**  
+**从多个未指定的角度进行无监督的以对象为中心的学习（zty）**  
 Jinyang Yuan; Tonglin Chen; Zhimeng Shen; Bin Li; Xiangyang Xue 
 
 **[Pruning Self-Attentions Into Convolutional Layers in Single Path](https://ieeexplore.ieee.org/document/10409620/)**  

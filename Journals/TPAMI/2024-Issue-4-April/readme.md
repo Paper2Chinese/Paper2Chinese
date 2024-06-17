@@ -39,6 +39,7 @@ Shintaro Shiba; Friedhelm Hamann; Yoshimitsu Aoki; Guillermo Gallego
 Gianni Franchi; Andrei Bursuc; Emanuel Aldea; Séverine Dubuisson; Isabelle Bloch  
 
 **[Shape-Based Measures Improve Scene Categorization](https://ieeexplore.ieee.org/document/10337773/)**  
+**基于形状的度量方法提高场景分类（Mooomos）**  
 Morteza Rezanejad; John Wilder; Dirk B. Walther; Allan D. Jepson; Sven Dickinson; Kaleem Siddiqi  
 
 **[No One Left Behind: Real-World Federated Class-Incremental Learning](https://ieeexplore.ieee.org/document/10323204/)**  

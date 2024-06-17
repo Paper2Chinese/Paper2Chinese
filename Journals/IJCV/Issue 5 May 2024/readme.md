@@ -13,6 +13,7 @@
 **Rongcheng WuMingzhe WangChangming Sun**   
 
 **[CAE-GReaT: Convolutional-Auxiliary Efficient Graph Reasoning Transformer for Dense Image Predictions](	https://link.springer.com/article/10.1007/s11263-023-01928-1)**  
+[CAE-GReaT: 卷积辅助高效图推理变换器用于密集图像预测]()(闫）  
 **Dong ZhangYi LinKwang-Ting Cheng**   
 
 **[Universal Representations: A Unified Look at Multiple Task and Domain Learning](	https://link.springer.com/article/10.1007/s11263-023-01931-6)**  

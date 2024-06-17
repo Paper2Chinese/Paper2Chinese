@@ -349,16 +349,21 @@ Jinyang Yuan; Tonglin Chen; Zhimeng Shen; Bin Li; Xiangyang Xue
 Haoyu He; Jianfei Cai; Jing Liu; Zizheng Pan; Jing Zhang; Dacheng Tao; Bohan Zhuang  
 
 **[Regularized Loss With Hyperparameter Estimation for Weakly Supervised Single Class Segmentation](https://ieeexplore.ieee.org/document/10381766/)**  
+**正则化损失与超参数估计在弱监督单类分割中的应用（Mooomos）**  
 Zongliang Ji; Olga Veksler  
 
 **[PASS: Patch Automatic Skip Scheme for Efficient On-Device Video Perception](https://ieeexplore.ieee.org/document/10381763/)**  
+**PASS: 高效设备端视频感知的块自动跳过方案（Mooomos）**  
 Qihua Zhou; Song Guo; Jun Pan; Jiacheng Liang; Jingcai Guo; Zhenda Xu; Jingren Zhou  
 
 **[MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying](https://ieeexplore.ieee.org/document/10398503/)**  
+**MTR++: 具有对称场景建模和引导意图查询的多智能体运动预测（Mooomos）**  
 Shaoshuai Shi; Li Jiang; Dengxin Dai; Bernt Schiele  
 
 **[A Theoretical View of Linear Backpropagation and its Convergence](https://ieeexplore.ieee.org/document/10399892/)**  
+**线性反向传播及其收敛性的理论视角（Mooomos）**  
 Ziang Li; Yiwen Guo; Haodi Liu; Changshui Zhang  
 
 **[Assessing Face Image Quality: A Large-Scale Database and a Transformer Method](https://ieeexplore.ieee.org/document/10381809/)**  
+**评估人脸图像质量：大规模数据库和变换器方法（Mooomos）**  
 Tie Liu; Shengxi Li; Mai Xu; Li Yang; Xiaofei Wang  

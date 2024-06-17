@@ -1,7 +1,7 @@
 # 2024-Issue-6-June
 ****
 **[	BimodalPS: Causes and Corrections for Bimodal Multi-Path in Phase-Shifting Structured Light Scanners	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9889210	)**  
-**[]()**  
+**[BimodalPS: 相移结构光扫描仪中的双峰多路径问题的原因和纠正方法](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9889210)**  
 作者：	Y. Zhang; D. L. Lau
 
 **[	Mutual Voting for Ranking 3D Correspondences	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105460	)**  

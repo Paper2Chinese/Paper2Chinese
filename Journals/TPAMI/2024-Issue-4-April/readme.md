@@ -79,6 +79,7 @@ Binglu Wang; Yongqiang Zhao; Le Yang; Teng Long; Xuelong Li
 Rongjie Li; Songyang Zhang; Xuming He  
 
 **[Hypergraph-Based Multi-Modal Representation for Open-Set 3D Object Retrieval](https://ieeexplore.ieee.org/document/10319392/)**  
+**超图的多模态表示在开放集 3D 对象检索中的应用**  
 Yifan Feng; Shuyi Ji; Yu-Shen Liu; Shaoyi Du; Qionghai Dai; Yue Gao  
 
 **[A Study on the Generality of Neural Network Structures for Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10316606/)**

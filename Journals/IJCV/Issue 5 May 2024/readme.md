@@ -25,12 +25,14 @@
 **Peng GaoZiyi LinYu Qiao**   
 
 **[Robust Unpaired Image Dehazing via Density and Depth Decomposition](	https://link.springer.com/article/10.1007/s11263-023-01940-5)**  
+[]()(闫）
 **Yang YangChaoyue WangDacheng Tao**   
 
 **[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](	https://link.springer.com/article/10.1007/s11263-023-01954-z)**  
 **Jie MaJun LiuJing Tao**   
 
 **[A Comprehensive Study of the Robustness for LiDAR-Based 3D Object Detectors Against Adversarial Attacks](	https://link.springer.com/article/10.1007/s11263-023-01934-3)**  
+[]()(闫）
 **Yifan ZhangJunhui HouYixuan Yuan**   
 
 **[A Deep Learning Framework for Infrared and Visible Image Fusion Without Strict Registration](	https://link.springer.com/article/10.1007/s11263-023-01948-x)**  

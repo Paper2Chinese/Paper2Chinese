@@ -43,30 +43,39 @@ Gianni Franchi; Andrei Bursuc; Emanuel Aldea; Séverine Dubuisson; Isabelle Bloc
 Morteza Rezanejad; John Wilder; Dirk B. Walther; Allan D. Jepson; Sven Dickinson; Kaleem Siddiqi  
 
 **[No One Left Behind: Real-World Federated Class-Incremental Learning](https://ieeexplore.ieee.org/document/10323204/)**  
+**不让一个人掉队：现实世界的联邦类增量学习（Mooomos）**  
 Jiahua Dong; Hongliu Li; Yang Cong; Gan Sun; Yulun Zhang; Luc Van Gool  
 
 **[An Introduction to Adversarially Robust Deep Learning](https://ieeexplore.ieee.org/document/10313059/)**  
+**对抗性鲁棒深度学习简介（Mooomos）**  
 Jonathan Peck; Bart Goossens; Yvan Saeys  
 
 **[Negatives Make a Positive: An Embarrassingly Simple Approach to Semi-Supervised Few-Shot Learning](https://ieeexplore.ieee.org/document/10319790/)**  
+**负样本创造正效果：一种令人尴尬的简单半监督少样本学习方法（Mooomos）**  
 Xiu-Shen Wei; He-Yang Xu; Zhiwen Yang; Chen-Long Duan; Yuxin Peng  
 
 **[Towards Human-Centered Explainable AI: A Survey of User Studies for Model Explanations](https://ieeexplore.ieee.org/document/10316181/)**  
+**走向以人为中心的可解释人工智能：模型解释的用户研究综述（Mooomos）**  
 Yao Rong; Tobias Leemann; Thai-Trang Nguyen; Lisa Fiedler; Peizhu Qian; Vaibhav Unhelkar; Tina Seidel; Gjergji Kasneci; Enkelejda Kasneci  
 
 **[Semantic Hierarchy-Aware Segmentation](https://ieeexplore.ieee.org/document/10316583/)**  
+**语义层级感知分割（Mooomos）**  
 Liulei Li; Wenguan Wang; Tianfei Zhou; Ruijie Quan; Yi Yang  
 
 **[Semantic Invariant Multi-View Clustering With Fully Incomplete Information](https://ieeexplore.ieee.org/document/10319403/)**  
+**完全信息不完整下的语义不变多视图聚类（Mooomos）**  
 Pengxin Zeng; Mouxing Yang; Yiding Lu; Changqing Zhang; Peng Hu; Xi Peng  
 
 **[Delving Into the Devils of Bird’s-Eye-View Perception: A Review, Evaluation and Recipe](https://ieeexplore.ieee.org/document/10321736/)**  
+**深入鸟瞰感知的魔鬼细节：综述、评估与方案（Mooomos）**  
 Hongyang Li; Chonghao Sima; Jifeng Dai; Wenhai Wang; Lewei Lu; Huijie Wang; Jia Zeng; Zhiqi Li; Jiazhi Yang; Hanming Deng; Hao Tian; Enze Xie; Jiangwei Xie; Li Chen; Tianyu Li; Yang Li; Yulu Gao; Xiaosong Jia; Si Liu; Jianping Shi; Dahua Lin; Yu Qiao
 
 **[Temporal Action Localization in the Deep Learning Era: A Survey](https://ieeexplore.ieee.org/document/10310147/)**  
+**深度学习时代的时序动作定位：一项综述（Mooomos）**  
 Binglu Wang; Yongqiang Zhao; Le Yang; Teng Long; Xuelong Li  
 
 **[SGTR+: End-to-End Scene Graph Generation With Transformer](https://ieeexplore.ieee.org/document/10315230/)**  
+**SGTR+：使用Transformer的端到端场景图生成（Mooomos）**  
 Rongjie Li; Songyang Zhang; Xuming He  
 
 **[Hypergraph-Based Multi-Modal Representation for Open-Set 3D Object Retrieval](https://ieeexplore.ieee.org/document/10319392/)**  

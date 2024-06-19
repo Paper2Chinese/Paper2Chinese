@@ -9,23 +9,23 @@
 作者：	J. Yang; X. Zhang; S. Fan; C. Ren; Y. Zhang
 
 **[	DeepSFM: Robust Deep Iterative Refinement for Structure From Motion	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10241282	)**  
-**[]()**  
+**[DeepSFM：结构运动的鲁棒深度迭代精化](zty)**  
 作者：	X. Ren; X. Wei; Z. Li; Y. Fu; Y. Zhang; X. Xue
 
 **[	Incomplete Gamma Kernels: Generalizing Locally Optimal Projection Operators	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380761	)**  
-**[]()**  
-作者：	P. Stotko; M. Weinmann; R. Klein
+**[不完全伽玛核：推广局部最优投影算子](zty)**  
+作者：	P. Stotko; M. Weinmann; R. Klein  
 
 **[	Better Understanding Differences in Attribution Methods via Systematic Evaluations	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10398493	)**  
-**[]()**  
+**[通过系统评价更好地理解归因方法的差异](zty)**  
 作者：	S. Rao; M. Böhle; B. Schiele
 
 **[	ASP: Learn a Universal Neural Solver!	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10387785	)**  
-**[]()**  
+**[ASP：学习通用神经解算器！](zty)**  
 作者：	C. Wang; Z. Yu; S. McAleer; T. Yu; Y. Yang
 
 **[	MotionDiffuse: Text-Driven Human Motion Generation With Diffusion Model	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416192	)**  
-**[]()**  
+**[MotionDiffuse：基于扩散模型的文本驱动人体运动生成](zty)**  
 作者：	M. Zhang; Z. Cai; L. Pan; F. Hong; X. Guo; L. Yang; Z. Liu
 
 **[	MixFormer: End-to-End Tracking With Iterative Mixed Attention	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380715	)**  

@@ -25,10 +25,11 @@
 **Peng GaoZiyi LinYu Qiao**   
 
 **[Robust Unpaired Image Dehazing via Density and Depth Decomposition](	https://link.springer.com/article/10.1007/s11263-023-01940-5)**  
-[]()(闫）
+[鲁棒的无成对图像去雾通过密度和深度分解]()(闫）
 **Yang YangChaoyue WangDacheng Tao**   
 
 **[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](	https://link.springer.com/article/10.1007/s11263-023-01954-z)**  
+[教科书问题回答的图表感知网络：通过联合优化方法]()(闫）
 **Jie MaJun LiuJing Tao**   
 
 **[A Comprehensive Study of the Robustness for LiDAR-Based 3D Object Detectors Against Adversarial Attacks](	https://link.springer.com/article/10.1007/s11263-023-01934-3)**  

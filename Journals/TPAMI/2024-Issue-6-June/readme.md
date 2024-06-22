@@ -33,7 +33,7 @@
 作者：	Y. Cui; C. Jiang; G. Wu; L. Wang
 
 **[	Animatable Implicit Neural Representations for Creating Realistic Avatars From Videos	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401886	)**  
-**[]()**  
+**[基于视频创建逼真化身的可动画隐式神经表示](cky)**  
 作者：	X. Zhou; S. Peng; Z. Xu; J. Dong; Q. Wang; S. Zhang; Q. Shuai; H. Bao
 
 **[	A New Sufficient & Necessary Condition for Testing Linear Separability Between Two Sets	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411108	)**  

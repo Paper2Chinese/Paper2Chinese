@@ -29,7 +29,7 @@
 作者：	M. Zhang; Z. Cai; L. Pan; F. Hong; X. Guo; L. Yang; Z. Liu
 
 **[	MixFormer: End-to-End Tracking With Iterative Mixed Attention	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380715	)**  
-**[]()**  
+**[MixFormer: 基于迭代混合注意力的端到端跟踪](cky)**  
 作者：	Y. Cui; C. Jiang; G. Wu; L. Wang
 
 **[	Animatable Implicit Neural Representations for Creating Realistic Avatars From Videos	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401886	)**  

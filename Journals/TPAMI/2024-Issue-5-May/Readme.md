@@ -314,6 +314,7 @@ Haotian Wang; Meng Yang; Nanning Zheng
 Zhipeng Wei; Jingjing Chen; Zuxuan Wu; Yu-Gang Jiang  
 
 **[A Dempster-Shafer Approach to Trustworthy AI With Application to Fetal Brain MRI Segmentation](https://ieeexplore.ieee.org/document/10388220/)**  
+**基于Dempster-Shafer方法的可信AI在胎儿脑MRI分割中的应用**  
 Lucas Fidon; Michael Aertsen; Florian Kofler; Andrea Bink; Anna L. David; Thomas Deprest; Doaa Emam; Frédéric Guffens; András Jakab; Gregor Kasprian; Patric Kienast; Andrew Melbourne; Bjoern Menze; Nada Mufti; Ivana Pogledic; Daniela Prayer; Marlene Stuempflen; Esther Van Elslander; Sébastien Ourselin; Jan Deprest; Tom Vercauteren  
 
 **[RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://ieeexplore.ieee.org/document/10380454/)**  

@@ -8,7 +8,6 @@ Zequn Qin; Pengyi Zhang; Xi Li
 
 **[On the Robustness of Average Losses for Partial-Label Learning](https://ieeexplore.ieee.org/document/10122995/)**  
 **[关于部分标签学习平均损失的鲁棒性](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/On%20the%20Robustness%20of%20Average%20Losses%20for%20Partial-Label%20Learning.md)**  
-
 Jiaqi Lv; Biao Liu; Lei Feng; Ning Xu; Miao Xu; Bo An; Gang Niu; Xin Geng; Masashi Sugiyama
 
 **[Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis](https://ieeexplore.ieee.org/document/10443519/)**  

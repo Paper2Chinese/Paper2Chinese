@@ -261,7 +261,7 @@ Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren
 Yuanchao Bai; Xianming Liu; Kai Wang; Xiangyang Ji; Xiaolin Wu; Wen Gao  
 
 **[Weakly Supervised Tracklet Association Learning With Video Labels for Person Re-Identification](https://ieeexplore.ieee.org/document/10371780/)**  
-**[基于视频标签的弱监督Tracklet关联学习用于人的重新识别](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Weakly%20Supervised%20Tracklet%20Association%20Learning%20With%20Video%20Labels%20for%20Person%20Re-Identification.md)（zty）**  
+**[基于视频标签的弱监督Tracklet关联学习用于人的重新识别](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Weakly%20Supervised%20Tracklet%20Association%20Learning%20With%20Video%20Labels%20for%20Person%20Re-Identification.md)**  
 Min Liu; Yuan Bian; Qing Liu; Xueping Wang; Yaonan Wang  
 
 **[Vision Transformer With Quadrangle Attention](https://ieeexplore.ieee.org/document/10384565/)**  

@@ -31,11 +31,11 @@ Yi Chang; Yun Guo; Yuntong Ye; Changfeng Yu; Lin Zhu; Xile Zhao; Luxin Yan; Yong
 Ruoyi Du; Dongliang Chang; Zhanyu Ma; Kongming Liang; Yi-Zhe Song; Jun Guo  
 
 **[The Impact of Adversarial Attacks on Federated Learning: A Survey](https://ieeexplore.ieee.org/document/10274102/)**  
-**[对联合学习中对抗性攻击的影响：一项调查](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/The%20Impact%20of%20Adversarial%20Attacks%20on%20Federated%20Learning%3A%20A%20Survey.md)**  
+**[对联合学习中对抗性攻击的影响：一项调查](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/The%20Impact%20of%20Adversarial%20Attacks%20on%20Federated%20Learning%3A%20A%20Survey.md)**   
 Kummari Naveen Kumar; Chalavadi Krishna Mohan; Linga Reddy Cenkeramaddi  
 
 **[Revisiting Person Re-Identification by Camera Selection](https://ieeexplore.ieee.org/document/10308725/)**  
-**[通过相机选择重新识别个人](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Revisiting%20Person%20Re-Identification%20by%20Camera%20Selection.md)** 
+**[通过相机选择重新识别个人](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/Revisiting%20Person%20Re-Identification%20by%20Camera%20Selection.md)**  
 Yi-Xing Peng; Yuanxun Li; Wei-Shi Zheng  
 
 **[A Flexible EM-Like Clustering Algorithm for Noisy Data](https://ieeexplore.ieee.org/document/10330026/)**  

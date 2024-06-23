@@ -161,7 +161,7 @@ Zijian Ying; Jing Zhang; Qianmu Li; Ming Wu; Victor S. Sheng
 **[PiCO+：用于鲁棒部分标签学习的对比标签消歧](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week5/PiCO%2B_%20Contrastive%20Label%20Disambiguation%20for%20Robust%20Partial%20Label%20Learning.md)**  
 Haobo Wang; Ruixuan Xiao; Yixuan Li; Lei Feng; Gang Niu; Gang Chen; Junbo Zhao  
 
-**[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)** 
+**[A Fast Alpha-Tree Algorithm for Extreme Dynamic Range Pixel Dissimilarities](https://ieeexplore.ieee.org/document/10354353/)**  
 **[一种针对极端动态范围像素差异的快速Alpha-Tree算法](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week4/%5BInformed%20Adaptive%20Sensing.md)**  
 Jiwoo Ryu; Scott C. Trager; Michael H. F. Wilkinson  
 
@@ -186,7 +186,7 @@ Ann-Kathrin Dombrowski; Jan E. Gerken; Klaus-Robert Müller; Pan Kessel
 Xiangyu Xu; Lijuan Liu; Shuicheng Yan  
 
 **[Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563/)**  
-**[用于三维点云处理的可解释旋转等变四元数神经网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Interpretable%20Rotation-Equivariant%20Quaternion%20Neural%20Networks%20for%203D%20Point%20Cloud%20Processing.md)（zty）**  
+**[用于三维点云处理的可解释旋转等变四元数神经网络](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Interpretable%20Rotation-Equivariant%20Quaternion%20Neural%20Networks%20for%203D%20Point%20Cloud%20Processing.md)**  
 Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi Zhang  
 
 **[Semi-Supervised Learning for Multi-Label Cardiovascular Diseases Prediction: A Multi-Dataset Study](https://ieeexplore.ieee.org/document/10360273/)**  
@@ -194,15 +194,15 @@ Wen Shen; Zhihua Wei; Qihan Ren; Binbin Zhang; Shikun Huang; Jiaqi Fan; Quanshi 
 Rushuang Zhou; Lei Lu; Zijun Liu; Ting Xiang; Zhen Liang; David A. Clifton; Yining Dong; Yuan-Ting Zhang  
 
 **[Principal Uncertainty Quantification With Spatial Correlation for Image Restoration Problems](https://ieeexplore.ieee.org/document/10360418/)**  
-**[图像恢复问题的空间相关主不确定性量化](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Principal%20Uncertainty%20Quantification%20With%20Spatial%20Correlation%20for%20Image%20Restoration%20Problems.md)（zty）**  
+**[图像恢复问题的空间相关主不确定性量化](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Principal%20Uncertainty%20Quantification%20With%20Spatial%20Correlation%20for%20Image%20Restoration%20Problems.md)**  
 Omer Belhasin; Yaniv Romano; Daniel Freedman; Ehud Rivlin; Michael Elad  
 
 **[Learning to Follow and Generate Instructions for Language-Capable Navigation](https://ieeexplore.ieee.org/document/10359152/)**  
-**[学习遵循和生成语言导航指令](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Learning%20to%20Follow%20and%20Generate%20Instructions%20for%20Language-Capable%20Navigation.md)（zty）**  
+**[学习遵循和生成语言导航指令](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Learning%20to%20Follow%20and%20Generate%20Instructions%20for%20Language-Capable%20Navigation.md)**  
 Xiaohan Wang; Wenguan Wang; Jiayi Shao; Yi Yang  
 
 **[Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery](https://ieeexplore.ieee.org/document/10354352/)**  
-**[多维数据恢复的低阶张量函数表示](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Low-Rank%20Tensor%20Function%20Representation%20for%20Multi-Dimensional%20Data%20Recovery.md)（zty）**  
+**[多维数据恢复的低阶张量函数表示](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/paper/week6/Low-Rank%20Tensor%20Function%20Representation%20for%20Multi-Dimensional%20Data%20Recovery.md)**  
 Yisi Luo; Xile Zhao; Zhemin Li; Michael K. Ng; Deyu Meng  
 
 **[Revisiting Confidence Estimation: Towards Reliable Failure Prediction](https://ieeexplore.ieee.org/document/10356834/)**  

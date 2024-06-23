@@ -67,6 +67,7 @@ Minting Pan; Xiangming Zhu; Yitao Zheng; Yunbo Wang; Xiaokang Yang
 Yuanpei Chen; Yiran Geng; Fangwei Zhong; Jiaming Ji; Jiechuang Jiang; Zongqing Lu; Hao Dong; Yaodong Yang  
 
 **[Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification](https://ieeexplore.ieee.org/document/10330766/)**  
+**基于身份引导协同学习的更换衣物行人再识别**   
 Zan Gao; Shengxun Wei; Weili Guan; Lei Zhu; Meng Wang; Shengyong Chen  
 
 **[Growing Like a Tree: Finding Trunks From Graph Skeleton Trees](https://ieeexplore.ieee.org/document/10330013/)**  

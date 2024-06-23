@@ -246,15 +246,15 @@ Tianze Luo; Zhanfeng Mo; Sinno Jialin Pan
 Kaiwen Duan; Song Bai; Lingxi Xie; Honggang Qi; Qingming Huang; Qi Tian  
 
 **[Regularly Truncated M-Estimators for Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10375792/)**  
-**用于带噪声标签学习的规则截断M-估计器**  
+**[用于带噪声标签学习的规则截断M-估计器](https://mp.weixin.qq.com/s/vXvDuW0VPPqomyRgPB-W5Q)**  
 Xiaobo Xia; Pengqian Lu; Chen Gong; Bo Han; Jun Yu; Jun Yu; Tongliang Liu  
 
 **[3D Object Detection From Images for Autonomous Driving: A Survey](https://ieeexplore.ieee.org/document/10373157/)**  
-**自动驾驶图像中的3D目标检测：一项综述**  
+**[自动驾驶图像中的3D目标检测：一项综述](https://mp.weixin.qq.com/s/8fL2JoklTTb6NxhfWPGXAg)**  
 Xinzhu Ma; Wanli Ouyang; Andrea Simonelli; Elisa Ricci  
 
 **[Face Generation and Editing With StyleGAN: A Survey](https://ieeexplore.ieee.org/document/10399793/)**  
-**使用StyleGAN进行面部生成和编辑：一项综述**  
+**[使用StyleGAN进行面部生成和编辑：一项综述](https://mp.weixin.qq.com/s/YmnwOhbm8cls6oEeGA1WAw)**  
 Andrew Melnik; Maksim Miasayedzenkau; Dzianis Makaravets; Dzianis Pirshtuk; Eren Akbulut; Dennis Holzmann; Tarek Renusch; Gustav Reichert; Helge Ritter  
 
 **[Deep Lossy Plus Residual Coding for Lossless and Near-Lossless Image Compression](https://ieeexplore.ieee.org/document/10378746/)**  
@@ -290,38 +290,38 @@ Haokun Wen; Xuemeng Song; Jianhua Yin; Jianlong Wu; Weili Guan; Liqiang Nie
 Hu Wang; Mao Ye; Xiatian Zhu; Shuai Li; Xue Li; Ce Zhu  
 
 **[Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog](https://ieeexplore.ieee.org/document/10374263/)**  
-**对话编辑：通过对话框进行精细的2D和3D面部编辑（zty）**  
+**[Talk-to-Edit：通过对话框进行精细的2D和3D面部编辑](https://mp.weixin.qq.com/s/Q-kwhs2w9TAhuB_m9mxQKg)**  
 Yuming Jiang; Ziqi Huang; Tianxing Wu; Xingang Pan; Chen Change Loy; Ziwei Liu  
 
 **[PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation Using Model Variants](https://ieeexplore.ieee.org/document/10378867/)**  
-**PnP-GA+: 使用模型变体的即插即用领域自适应用于注视估计**  
+**[PnP-GA+: 使用模型变体的即插即用领域自适应用于注视估计](https://mp.weixin.qq.com/s/vCnwYS9o3w6bcB_qlFbN-A)**  
 Ruicong Liu; Yunfei Liu; Haofei Wang; Feng Lu  
 
 **[Semi-Infinitely Constrained Markov Decision Processes and Provably Efficient Reinforcement Learning](https://ieeexplore.ieee.org/document/10378871/)**  
-**半无限约束马尔可夫决策过程与可证明有效的强化学习**  
+**[半无限约束马尔可夫决策过程与可证明有效的强化学习](https://mp.weixin.qq.com/s/-spuLh_KPkOJEfJhtb6Wng)**  
 Liangyu Zhang; Yang Peng; Wenhao Yang; Zhihua Zhang  
 
 **[MsSVT++: Mixed-Scale Sparse Voxel Transformer With Center Voting for 3D Object Detection](https://ieeexplore.ieee.org/document/10371785/)**  
-**MsSVT++: 用于3D目标检测的混合尺度稀疏体素变换器与中心投票**  
+**[MsSVT++: 用于3D目标检测的混合尺度稀疏体素TransFormer与中心投票](https://mp.weixin.qq.com/s/veLCUZsndWybltzcL_DzOQ)**  
 Jianan Li; Shaocong Dong; Lihe Ding; Tingfa Xu  
 
 **[G2-MonoDepth: A General Framework of Generalized Depth Inference From Monocular RGB+X Data](https://ieeexplore.ieee.org/document/10373158/)**  
-**G2-MonoDepth: 从单目RGB+X数据进行广义深度推断的通用框架**  
+**[G2-MonoDepth: 从单目RGB+X数据进行广义深度推断的通用框架](https://mp.weixin.qq.com/s/7tz748eGaPsXdSoCukgWEw)**  
 Haotian Wang; Meng Yang; Nanning Zheng  
 
 **[Adaptive Cross-Modal Transferable Adversarial Attacks From Images to Videos](https://ieeexplore.ieee.org/document/10375740/)**  
-**自适应跨模态可转移对抗性攻击：从图像到视频**  
+**[自适应跨模态可转移对抗性攻击：从图像到视频](https://mp.weixin.qq.com/s/I4TbZdxwbbOuZnAKzWjuig)**  
 Zhipeng Wei; Jingjing Chen; Zuxuan Wu; Yu-Gang Jiang  
 
 **[A Dempster-Shafer Approach to Trustworthy AI With Application to Fetal Brain MRI Segmentation](https://ieeexplore.ieee.org/document/10388220/)**  
 Lucas Fidon; Michael Aertsen; Florian Kofler; Andrea Bink; Anna L. David; Thomas Deprest; Doaa Emam; Frédéric Guffens; András Jakab; Gregor Kasprian; Patric Kienast; Andrew Melbourne; Bjoern Menze; Nada Mufti; Ivana Pogledic; Daniela Prayer; Marlene Stuempflen; Esther Van Elslander; Sébastien Ourselin; Jan Deprest; Tom Vercauteren  
 
 **[RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://ieeexplore.ieee.org/document/10380454/)**  
-**RIGA: 适用于点云配准的旋转不变和全局感知描述子**  
+**[RIGA: 适用于点云配准的旋转不变和全局感知描述子](https://mp.weixin.qq.com/s/pN0qPcyFG8IO0R8bJ08eJg)**  
 Hao Yu; Ji Hou; Zheng Qin; Mahdi Saleh; Ivan Shugurov; Kai Wang; Benjamin Busam; Slobodan Ilic  
 
 **[Convolutional Cross-View Pose Estimation](https://ieeexplore.ieee.org/document/10373898/)**  
-**卷积交叉视图姿态估计（zty）**  
+**[卷积交叉视角姿态估计](https://mp.weixin.qq.com/s/xfnIjT-QIf_U6gsTZglVAw)**  
 Zimin Xia; Olaf Booij; Julian F. P. Kooij  
 
 **[Underground Diagnosis Based on GPR and Learning in the Model Space](https://ieeexplore.ieee.org/document/10375785/)**  
@@ -345,7 +345,7 @@ Yifan Feng; Jiashu Han; Shihui Ying; Yue Gao
 Jinyang Yuan; Tonglin Chen; Zhimeng Shen; Bin Li; Xiangyang Xue 
 
 **[Pruning Self-Attentions Into Convolutional Layers in Single Path](https://ieeexplore.ieee.org/document/10409620/)**  
-**将自注意力剪枝成单路径中的卷积层**  
+**[将自注意力剪枝成单路径中的卷积层](https://mp.weixin.qq.com/s/eTsCzTIYclI-DdrxA3qM1w)**  
 Haoyu He; Jianfei Cai; Jing Liu; Zizheng Pan; Jing Zhang; Dacheng Tao; Bohan Zhuang  
 
 **[Regularized Loss With Hyperparameter Estimation for Weakly Supervised Single Class Segmentation](https://ieeexplore.ieee.org/document/10381766/)**  
@@ -365,5 +365,5 @@ Shaoshuai Shi; Li Jiang; Dengxin Dai; Bernt Schiele
 Ziang Li; Yiwen Guo; Haodi Liu; Changshui Zhang  
 
 **[Assessing Face Image Quality: A Large-Scale Database and a Transformer Method](https://ieeexplore.ieee.org/document/10381809/)**  
-**评估人脸图像质量：大规模数据库和变换器方法（Mooomos）**  
+**[评估人脸图像质量：大规模数据库和TransFormer方法](https://mp.weixin.qq.com/s/AoIeeF-jnzg2GqeAA7qFIA)**  
 Tie Liu; Shengxi Li; Mai Xu; Li Yang; Xiaofei Wang  

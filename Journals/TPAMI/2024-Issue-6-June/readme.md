@@ -5,7 +5,7 @@
 作者：	Y. Zhang; D. L. Lau
 
 **[	Mutual Voting for Ranking 3D Correspondences	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105460	)**  
-**[排序3D对应关系的互相投票方法]**  
+**[排序3D对应关系的互相投票方法](https://mp.weixin.qq.com/s/i4UkC8El1XW9ahn-EpYw0w)**  
 作者：	J. Yang; X. Zhang; S. Fan; C. Ren; Y. Zhang
 
 **[	DeepSFM: Robust Deep Iterative Refinement for Structure From Motion	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10241282	)**  

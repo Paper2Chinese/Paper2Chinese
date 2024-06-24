@@ -37,6 +37,7 @@
 作者：	X. Zhou; S. Peng; Z. Xu; J. Dong; Q. Wang; S. Zhang; Q. Shuai; H. Bao
 
 **[	A New Sufficient & Necessary Condition for Testing Linear Separability Between Two Sets	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411108	)**  
+**一种测试两集合之间新的线性可分性的充要条件**  
 作者：	S. Zhong; H. Lyu; X. Lu; B. Wang; D. Wang
 
 **[	Query-Oriented Micro-Video Summarization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403941	)**   

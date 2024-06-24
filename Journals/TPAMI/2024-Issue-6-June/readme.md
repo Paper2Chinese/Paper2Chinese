@@ -40,6 +40,7 @@
 作者：	S. Zhong; H. Lyu; X. Lu; B. Wang; D. Wang
 
 **[	Query-Oriented Micro-Video Summarization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403941	)**   
+**面向查询的微视频总结**  
 作者：	M. Jia; Y. Wei; X. Song; T. Sun; M. Zhang; L. Nie
 
 **[	Learning From Human Educational Wisdom: A Student-Centered Knowledge Distillation Method	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400954	)**  

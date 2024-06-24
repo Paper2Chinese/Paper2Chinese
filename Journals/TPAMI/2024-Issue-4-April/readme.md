@@ -82,19 +82,24 @@ Rongjie Li; Songyang Zhang; Xuming He
 **基于超图的多模态表征用于开放集3D对象检索**  
 Yifan Feng; Shuyi Ji; Yu-Shen Liu; Shaoyi Du; Qionghai Dai; Yue Gao  
 
-**[A Study on the Generality of Neural Network Structures for Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10316606/)**
+**[A Study on the Generality of Neural Network Structures for Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10316606/)**  
+**单目深度估计神经网络结构的普适性研究（zty）**  
 Jinwoo Bae; Kyumin Hwang; Sunghoon Im  
 
 **[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://ieeexplore.ieee.org/document/10334480/)**  
+**DN-DETR：通过引入查询去噪加速DETR训练(zty)**  
 Feng Li; Hao Zhang; Shilong Liu; Jian Guo; Lionel M. Ni; Lei Zhang  
 
 **[Structure Mapping Generative Adversarial Network for Multi-View Information Mapping Pattern Mining](https://ieeexplore.ieee.org/document/10310125/)**  
+**结构映射生成对抗网络在多视图信息映射模式挖掘中的应用(zty)**  
 Xia-an Bi; YangJun Huang; Zicheng Yang; Ke Chen; Zhaoxu Xing; Luyun Xu; Xiang Li; Zhengliang Liu; Tianming Liu  
 
-**[ZJUT-EIFD: A Synchronously Collected External and Internal Fingerprint Database](https://ieeexplore.ieee.org/document/10330673/)**
+**[ZJUT-EIFD: A Synchronously Collected External and Internal Fingerprint Database](https://ieeexplore.ieee.org/document/10330673/)**  
+**ZJUT-EIFD：一个同步收集的外部和内部指纹数据库(zty)**  
 Haohao Sun; Haixia Wang; Yilong Zhang; Ronghua Liang; Peng Chen; Jianjiang Feng  
 
-**[Conditional Image Repainting](https://ieeexplore.ieee.org/document/10313073/)**
+**[Conditional Image Repainting](https://ieeexplore.ieee.org/document/10313073/)**  
+**条件图像重绘(zty)**  
 Shuchen Weng; Boxin Shi  
 
 **[Channel Augmentation for Visible-Infrared Re-Identification](https://ieeexplore.ieee.org/document/10319076/)**  

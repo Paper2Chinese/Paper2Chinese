@@ -45,6 +45,7 @@
 作者：	M. Jia; Y. Wei; X. Song; T. Sun; M. Zhang; L. Nie
 
 **[	Learning From Human Educational Wisdom: A Student-Centered Knowledge Distillation Method	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400954	)**  
+**学习人类教育智慧：以学生为中心的知识蒸馏方法**   
 作者：	S. Yang; J. Yang; M. Zhou; Z. Huang; W. -S. Zheng; X. Yang; J. Ren
 
 **[	Implicit Regularization of Dropout	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412142	)**  

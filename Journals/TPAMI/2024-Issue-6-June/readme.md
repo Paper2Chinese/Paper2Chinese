@@ -49,15 +49,19 @@
 作者：	S. Yang; J. Yang; M. Zhou; Z. Huang; W. -S. Zheng; X. Yang; J. Ren
 
 **[	Implicit Regularization of Dropout	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412142	)**  
+**Dropout的隐式正则化**  
 作者：	Z. Zhang; Z. -Q. J. Xu
 
 **[	Self-Supervised Node Representation Learning via Node-to-Neighbourhood Alignment	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10414173	)**  
+**通过节点到邻域对齐的自监督节点表示学习**  
 作者：	W. Dong; D. Yan; P. Wang
 
 **[	NaturalSpeech: End-to-End Text-to-Speech Synthesis With Human-Level Quality	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409539	)**  
+**NaturalSpeech: 具有人类水平质量的端到端文本到语音合成**  
 作者：	X. Tan; J. Chen; H. Liu; J. Cong; C. Zhang; Y. Liu; X. Wang; Y. Leng; Y. Yi; L. He; S. Zhao; T. Qin; F. Soong; T. -Y. Liu
 
 **[	Federated Gaussian Process: Convergence, Automatic Personalization and Multi-Fidelity Modeling	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402074	)**  
+**联邦高斯过程：收敛性、自动个性化与多保真度建模**  
 作者：	X. Yue; R. Kontar
 
 **[	I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411123	)**  

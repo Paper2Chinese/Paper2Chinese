@@ -33,44 +33,55 @@
 **Jie MaJun LiuJing Tao**   
 
 **[A Comprehensive Study of the Robustness for LiDAR-Based 3D Object Detectors Against Adversarial Attacks](	https://link.springer.com/article/10.1007/s11263-023-01934-3)**  
-[]()(Y）
+[通用表示：多任务和领域学习的统一视角]()(Y）
 **Yifan ZhangJunhui HouYixuan Yuan**   
 
 **[A Deep Learning Framework for Infrared and Visible Image Fusion Without Strict Registration](	https://link.springer.com/article/10.1007/s11263-023-01948-x)**  
 **Huafeng LiJunyu LiuYu Liu**   
 
 **[A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression](	https://link.springer.com/article/10.1007/s11263-023-01902-x)**  
+[时空鲁棒跟踪器：搭载空间-通道Transformer与抖动抑制机制]()(Y）
 **Shaochuan ZhaoTianyang XuJosef Kittler**   
 
 **[BioDrone: A Bionic Drone-Based Single Object Tracking Benchmark for Robust Vision](	https://link.springer.com/article/10.1007/s11263-023-01937-0)**  
+[BioDrone：一种基于仿生无人机的单一目标跟踪基准测试]()(Y）
 **Xin ZhaoShiyu HuJiadong Li**   
 
 **[Context-Aware Robust Fine-Tuning](	https://link.springer.com/article/10.1007/s11263-023-01951-2)**  
+[基于上下文感知的鲁棒性微调]()(Y）
 **Xiaofeng MaoYufeng ChenZhao Li**   
 
 **[Generating More Pertinent Captions by Leveraging Semantics and Style on Multi-Source Datasets](	https://link.springer.com/article/10.1007/s11263-023-01949-w)**  
+[]()(Y）
 **Marcella CorniaLorenzo BaraldiRita Cucchiara**   
 
 **[CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion](	https://link.springer.com/article/10.1007/s11263-023-01952-1)**  
+[CoCoNet：用于多模态图像融合的耦合对比学习网络与多级特征集成]()(Y）
 **Jinyuan LiuRunjia LinXin Fan**   
 
 **[Learning Dynamic Prototypes for Visual Pattern Debiasing](	https://link.springer.com/article/10.1007/s11263-023-01956-x)**  
 **Kongming LiangZijin YinJun Guo**   
 
 **[Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation](	https://link.springer.com/article/10.1007/s11263-023-01955-y)**  
+[利用样本间亲和性实现可知晓性感知的通用领域自适应]()(Y）
 **Yifan WangLin ZhangWei Zhang**   
 
 **[Fast Ultra High-Definition Video Deblurring via Multi-scale Separable Network](	https://link.springer.com/article/10.1007/s11263-023-01958-9)**  
+[]()(Y）
 **Wenqi RenSenyou DengMing-Hsuan Yang**   
 
 **[MS-RAFT+: High Resolution Multi-Scale RAFT](	https://link.springer.com/article/10.1007/s11263-023-01930-7)**  
+[]()(Y）
 **Azin JahediMaximilian LuzAndrés Bruhn**   
 
 **[A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions](	https://link.springer.com/article/10.1007/s11263-023-01959-8)**  
+[]()(Y）
 **Jiqing ZhangBo DongXin Yang**   
 
 **[Correction: SOTVerse: A User-Defined Task Space of Single Object Tracking](	https://link.springer.com/article/10.1007/s11263-023-01968-7)**  
+[]()(Y）
 **Shiyu HuXin ZhaoKaiqi Huang**   
 
 **[Convex–Concave Tensor Robust Principal Component Analysis](	https://link.springer.com/article/10.1007/s11263-023-01960-1)**  
+[]()(Y）
 **Youfa LiuBo DuDacheng Tao**   

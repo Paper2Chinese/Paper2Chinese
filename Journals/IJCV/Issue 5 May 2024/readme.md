@@ -52,7 +52,7 @@
 **Xiaofeng MaoYufeng ChenZhao Li**   
 
 **[Generating More Pertinent Captions by Leveraging Semantics and Style on Multi-Source Datasets](	https://link.springer.com/article/10.1007/s11263-023-01949-w)**  
-[]()(Y）
+[利用多源数据集上的语义和风格生成更贴切的标题]()(Y）
 **Marcella CorniaLorenzo BaraldiRita Cucchiara**   
 
 **[CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion](	https://link.springer.com/article/10.1007/s11263-023-01952-1)**  

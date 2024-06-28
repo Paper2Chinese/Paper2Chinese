@@ -65,18 +65,23 @@
 作者：	X. Yue; R. Kontar
 
 **[	I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411123	)**  
+**I2C：用于高保真可变速率图像压缩的可逆连续编解码器（zty）**  
 作者：	S. Cai; L. Chen; Z. Zhang; X. Zhao; J. Zhou; Y. Peng; L. Yan; S. Zhong; X. Zou
 
 **[	Accelerating Globally Optimal Consensus Maximization in Geometric Vision	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412179	)**  
+**加速几何视觉中全局最优共识最大化（zty）**  
 作者：	X. Zhang; L. Peng; W. Xu; L. Kneip
 
 **[	Graph Transformer GANs With Graph Masked Modeling for Architectural Layout Generation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401948	)**  
+**基于图掩码建模的图变换器生成对抗网络用于建筑布局生成(zty)**  
 作者：	H. Tang; L. Shao; N. Sebe; L. Van Gool
 
 **[	BPJDet: Extended Object Representation for Generic Body-Part Joint Detection	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400895	)**  
+**BPJDet：用于通用身体部位关节检测的扩展对象表示(zty)**  
 作者：	H. Zhou; F. Jiang; J. Si; Y. Ding; H. Lu
 
 **[	StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413601	)**  
+**StyleTalk++：一个统一框架用于控制会说话头像的说话风格(zty)**  
 作者：	S. Wang; Y. Ma; Y. Ding; Z. Hu; C. Fan; T. Lv; Z. Deng; X. Yu
 
 **[	Incorporating Season and Solar Specificity Into Renderings Made by a NeRF Architecture Using Satellite Images	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402002	)**  

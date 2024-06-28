@@ -115,6 +115,7 @@ Yun Liu; Yu-Huan Wu; Shi-Chen Zhang; Li Liu; Min Wu; Ming-Ming Cheng
 Nan Yin; Li Shen; Huan Xiong; Bin Gu; Chong Chen; Xian-Sheng Hua; Siwei Liu; Xiao Luo  
 
 **[Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World](https://ieeexplore.ieee.org/document/10310159/)**  
+**统一可见光-红外跨模态攻击的对抗补丁**   
 Xingxing Wei; Yao Huang; Yitong Sun; Jie Yu  
 
 **[NeUDF: Learning Neural Unsigned Distance Fields With Volume Rendering](https://ieeexplore.ieee.org/document/10330070/)**  

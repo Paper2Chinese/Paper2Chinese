@@ -103,12 +103,15 @@ Haohao Sun; Haixia Wang; Yilong Zhang; Ronghua Liang; Peng Chen; Jianjiang Feng
 Shuchen Weng; Boxin Shi  
 
 **[Channel Augmentation for Visible-Infrared Re-Identification](https://ieeexplore.ieee.org/document/10319076/)**  
+**可见光-红外重识别的通道增强**  
 Mang Ye; Zesen Wu; Cuiqun Chen; Bo Du  
 
 **[Revisiting Computer-Aided Tuberculosis Diagnosis](https://ieeexplore.ieee.org/document/10310292/)**  
+**重新审视计算机辅助肺结核诊断**   
 Yun Liu; Yu-Huan Wu; Shi-Chen Zhang; Li Liu; Min Wu; Ming-Ming Cheng  
 
 **[Messages are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-Series Forecasting](https://ieeexplore.ieee.org/document/10314020/)**  
+**消息从不单独传播：时间序列预测的协同超图神经网络**   
 Nan Yin; Li Shen; Huan Xiong; Bin Gu; Chong Chen; Xian-Sheng Hua; Siwei Liu; Xiao Luo  
 
 **[Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World](https://ieeexplore.ieee.org/document/10310159/)**  

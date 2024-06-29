@@ -85,21 +85,27 @@
 作者：	S. Wang; Y. Ma; Y. Ding; Z. Hu; C. Fan; T. Lv; Z. Deng; X. Yu
 
 **[	Incorporating Season and Solar Specificity Into Renderings Made by a NeRF Architecture Using Satellite Images	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402002	)**  
+**将季节与太阳特性整合进基于卫星图像的NeRF架构渲染中**  
 作者：	M. Gableman; A. Kak
 
 **[	Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404027	)**  
+**面向零样本细粒度图像检索的内容感知校正激活**  
 作者：	S. Wang; J. Chang; Z. Wang; H. Li; W. Ouyang; Q. Tian
 
 **[	Point-to-Pixel Prompting for Point Cloud Analysis With Pre-Trained Image Models	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400940	)**  
+**使用预训练图像模型的点到像素提示法进行点云分析**  
 作者：	Z. Wang; Y. Rao; X. Yu; J. Zhou; J. Lu
 
 **[	BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404058	)**  
+**BadLabel：评估与增强标签噪声学习的一种鲁棒视角**  
 作者：	J. Zhang; B. Song; H. Wang; B. Han; T. Liu; L. Liu; M. Sugiyama
 
 **[	SMEMO: Social Memory for Trajectory Forecasting	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411104	)**  
+**SMEMO：用于轨迹预测的社会记忆**  
 作者：	F. Marchetti; F. Becattini; L. Seidenari; A. D. Bimbo
 
 **[	PathNet: Path-Selective Point Cloud Denoising	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409270	)**  
+**PathNet：路径选择性点云去噪网络**  
 作者：	Z. Wei; H. Chen; L. Nan; J. Wang; J. Qin; M. Wei
 
 **[	Boosting Factorization Machines via Saliency-Guided Mixup	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400846	)**  

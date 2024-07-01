@@ -67,7 +67,7 @@ Minting Pan; Xiangming Zhu; Yitao Zheng; Yunbo Wang; Xiaokang Yang
 Yuanpei Chen; Yiran Geng; Fangwei Zhong; Jiaming Ji; Jiechuang Jiang; Zongqing Lu; Hao Dong; Yaodong Yang  
 
 **[Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification](https://ieeexplore.ieee.org/document/10330766/)**  
-**基于身份引导协同学习的更换衣物行人再识别**   
+**[基于身份引导协同学习的更换衣物行人再识别](https://mp.weixin.qq.com/s/C-bZyeW-fFE4caNd8fjKTg)**   
 Zan Gao; Shengxun Wei; Weili Guan; Lei Zhu; Meng Wang; Shengyong Chen  
 
 **[Growing Like a Tree: Finding Trunks From Graph Skeleton Trees](https://ieeexplore.ieee.org/document/10330013/)**  
@@ -143,6 +143,7 @@ Shifei Ding; Wei Du; Ling Ding; Jian Zhang; Lili Guo; Bo An
 Yaning Li; Xue Wang; Guoqing Zhou; Hao Zhu; Qing Wang  
 
 **[CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention](https://ieeexplore.ieee.org/document/10366193/)**  
+**[CrossFormer++: 基于跨尺度注意力的多功能视觉Transformer](https://mp.weixin.qq.com/s/Qaqjz7gwlxhycO9LdRNESQ)**
 Wenxiao Wang; Wei Chen; Qibo Qiu; Long Chen; Boxi Wu; Binbin Lin; Xiaofei He; Wei Liu  
 
 **[AGDF-Net: Learning Domain Generalizable Depth Features With Adaptive Guidance Fusion](https://ieeexplore.ieee.org/document/10356721/)**   
@@ -274,19 +275,19 @@ Qiming Zhang; Jing Zhang; Yufei Xu; Dacheng Tao
 Anh Tuan Bui  
 
 **[Realize Generative Yet Complete Latent Representation for Incomplete Multi-View Learning](https://ieeexplore.ieee.org/document/10373887/)**  
-**实现不完全多视角学习的生成完全潜在表示（zty）**  
+**[实现不完全多视角学习的生成完全潜在表示](https://mp.weixin.qq.com/s/hGSyWW9Vnfv_lizuRY1ZMQ)**  
 Hongmin Cai; Weitian Huang; Sirui Yang; Siqi Ding; Yue Zhang; Bin Hu; Fa Zhang; Yiu-Ming Cheung  
 
 **[BAL: Balancing Diversity and Novelty for Active Learning](https://ieeexplore.ieee.org/document/10372131/)**  
-**平衡多样性和新颖性促进主动学习（zty）**  
+**[BAL：主动学习中多样性与新颖性的平衡](https://mp.weixin.qq.com/s/oEWgjqUw_tJ8sjgSE5TO2Q)**  
 Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia  
 
 **[Self-Training Boosted Multi-Factor Matching Network for Composed Image Retrieval](https://ieeexplore.ieee.org/document/10373096/)**  
-**自训练增强的多因素匹配网络在合成图像检索中的应用（zty）**  
+**[用于组合图像检索的自训练增强的多因素匹配网络](https://mp.weixin.qq.com/s/pqe8GPDFRSlTRrmlc2ZZ0A)**  
 Haokun Wen; Xuemeng Song; Jianhua Yin; Jianlong Wu; Weili Guan; Liqiang Nie  
 
 **[Compressed-SDR to HDR Video Reconstruction](https://ieeexplore.ieee.org/document/10373884/)**  
-**压缩SDR到HDR视频重构（zty）**  
+**[压缩SDR到HDR视频重构](https://mp.weixin.qq.com/s/tJDwWuePouxkT9SsOvOpug)**  
 Hu Wang; Mao Ye; Xiatian Zhu; Shuai Li; Xue Li; Ce Zhu  
 
 **[Talk-to-Edit: Fine-Grained 2D and 3D Facial Editing via Dialog](https://ieeexplore.ieee.org/document/10374263/)**  
@@ -314,7 +315,7 @@ Haotian Wang; Meng Yang; Nanning Zheng
 Zhipeng Wei; Jingjing Chen; Zuxuan Wu; Yu-Gang Jiang  
 
 **[A Dempster-Shafer Approach to Trustworthy AI With Application to Fetal Brain MRI Segmentation](https://ieeexplore.ieee.org/document/10388220/)**  
-**基于Dempster-Shafer方法的可信AI在胎儿脑MRI分割中的应用**  
+**[基于Dempster-Shafer方法的可信AI在胎儿脑MRI分割中的应用](https://mp.weixin.qq.com/s/1WDsMlNopxKaSi-mkGwCug)**  
 Lucas Fidon; Michael Aertsen; Florian Kofler; Andrea Bink; Anna L. David; Thomas Deprest; Doaa Emam; Frédéric Guffens; András Jakab; Gregor Kasprian; Patric Kienast; Andrew Melbourne; Bjoern Menze; Nada Mufti; Ivana Pogledic; Daniela Prayer; Marlene Stuempflen; Esther Van Elslander; Sébastien Ourselin; Jan Deprest; Tom Vercauteren  
 
 **[RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://ieeexplore.ieee.org/document/10380454/)**  
@@ -326,15 +327,15 @@ Hao Yu; Ji Hou; Zheng Qin; Mahdi Saleh; Ivan Shugurov; Kai Wang; Benjamin Busam;
 Zimin Xia; Olaf Booij; Julian F. P. Kooij  
 
 **[Underground Diagnosis Based on GPR and Learning in the Model Space](https://ieeexplore.ieee.org/document/10375785/)**  
-**基于GPR和模型空间学习的地下诊断（zty）**  
+**[基于GPR和模型空间学习的地下诊断](https://mp.weixin.qq.com/s/c1GtQO6XMbBm1tZfYo6WfA)**  
 Ao Chen; Xiren Zhou; Yizhan Fan; Huanhuan Chen  
 
 **[Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers](https://ieeexplore.ieee.org/document/10375128/)**  
-**重建随机掩蔽谱有助于DNN识别判别波数（zty）**  
+**[重建随机掩蔽谱有助于DNN识别判别波数](https://mp.weixin.qq.com/s/kV4YdotwmlaunciIt0Eosg)**  
 Yingying Wu; Jinchao Liu; Yan Wang; Stuart Gibson; Margarita Osadchy; Yongchun Fang  
 
 **[Learning Bilateral Cost Volume for Rolling Shutter Temporal Super-Resolution](https://ieeexplore.ieee.org/document/10382595/)**  
-**滚动快门时间超分辨率的学习双边成本量（zty）**  
+**[学习双边代价体以实现滚动快门时间超分辨率](https://mp.weixin.qq.com/s/ncB95BRNkHgVJsUF1AzRmw)**  
 Bin Fan; Yuchao Dai; Hongdong Li  
 
 **[Hypergraph Isomorphism Computation](https://ieeexplore.ieee.org/document/10398457/)**  
@@ -342,7 +343,7 @@ Bin Fan; Yuchao Dai; Hongdong Li
 Yifan Feng; Jiashu Han; Shihui Ying; Yue Gao  
 
 **[Unsupervised Object-Centric Learning From Multiple Unspecified Viewpoints](https://ieeexplore.ieee.org/document/10380320/)**  
-**从多个未指定的角度进行无监督的以对象为中心的学习（zty）**  
+**[从多个未指定的角度进行无监督的以对象为中心的学习](https://mp.weixin.qq.com/s/4HAS_SqBrTN1r0IcVDfTgA)**  
 Jinyang Yuan; Tonglin Chen; Zhimeng Shen; Bin Li; Xiangyang Xue 
 
 **[Pruning Self-Attentions Into Convolutional Layers in Single Path](https://ieeexplore.ieee.org/document/10409620/)**  
@@ -362,7 +363,7 @@ Qihua Zhou; Song Guo; Jun Pan; Jiacheng Liang; Jingcai Guo; Zhenda Xu; Jingren Z
 Shaoshuai Shi; Li Jiang; Dengxin Dai; Bernt Schiele  
 
 **[A Theoretical View of Linear Backpropagation and its Convergence](https://ieeexplore.ieee.org/document/10399892/)**  
-**线性反向传播及其收敛性的理论视角（Mooomos）**  
+**[线性反向传播及其收敛性的理论视角](https://mp.weixin.qq.com/s/q4m_ALLnNSOxQVaPWZL5nw)**  
 Ziang Li; Yiwen Guo; Haodi Liu; Changshui Zhang  
 
 **[Assessing Face Image Quality: A Large-Scale Database and a Transformer Method](https://ieeexplore.ieee.org/document/10381809/)**  

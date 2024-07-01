@@ -109,6 +109,7 @@
 作者：	Z. Wei; H. Chen; L. Nan; J. Wang; J. Qin; M. Wei
 
 **[	Boosting Factorization Machines via Saliency-Guided Mixup	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400846	)**  
+**通过显著性指导的混合提升因子分解机**   
 作者：	C. Wu; D. Lian; Y. Ge; M. Zhou; E. Chen; D. Tao
 
 **[	Student Loss: Towards the Probability Assumption in Inaccurate Supervision	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412669	)**  

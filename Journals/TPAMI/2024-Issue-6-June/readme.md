@@ -9,7 +9,7 @@
 作者：	J. Yang; X. Zhang; S. Fan; C. Ren; Y. Zhang
 
 **[	DeepSFM: Robust Deep Iterative Refinement for Structure From Motion	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10241282	)**  
-**[DeepSFM：结构运动的鲁棒深度迭代精化]**  
+**[DeepSFM：结构运动的鲁棒深度迭代精化](https://mp.weixin.qq.com/s/-9_Yx8yRl4TBLhV4sQYzBw)**  
 作者：	X. Ren; X. Wei; Z. Li; Y. Fu; Y. Zhang; X. Xue
 
 **[	Incomplete Gamma Kernels: Generalizing Locally Optimal Projection Operators	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380761	)**  
@@ -29,7 +29,7 @@
 作者：	M. Zhang; Z. Cai; L. Pan; F. Hong; X. Guo; L. Yang; Z. Liu
 
 **[	MixFormer: End-to-End Tracking With Iterative Mixed Attention	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380715	)**  
-**[MixFormer: 基于迭代混合注意力的端到端跟踪]**  
+**[MixFormer: 基于迭代混合注意力的端到端跟踪](https://mp.weixin.qq.com/s/rku8k3tyUk6UoeRuC0p77w)**  
 作者：	Y. Cui; C. Jiang; G. Wu; L. Wang
 
 **[	Animatable Implicit Neural Representations for Creating Realistic Avatars From Videos	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401886	)**  

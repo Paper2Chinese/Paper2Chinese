@@ -119,6 +119,7 @@ Nan Yin; Li Shen; Huan Xiong; Bin Gu; Chong Chen; Xian-Sheng Hua; Siwei Liu; Xia
 Xingxing Wei; Yao Huang; Yitong Sun; Jie Yu  
 
 **[NeUDF: Learning Neural Unsigned Distance Fields With Volume Rendering](https://ieeexplore.ieee.org/document/10330070/)**  
+**NeUDF: 通过体积渲染学习神经无符号距离场**   
 Yu-Tao Liu; Li Wang; Jie Yang; Weikai Chen; Xiaoxu Meng; Bo Yang; Lin Gao  
 
 **[Learning Optical Flow and Scene Flow With Bidirectional Camera-LiDAR Fusion](https://ieeexplore.ieee.org/document/10310261/)**  

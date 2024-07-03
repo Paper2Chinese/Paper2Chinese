@@ -113,6 +113,7 @@
 作者：	C. Wu; D. Lian; Y. Ge; M. Zhou; E. Chen; D. Tao
 
 **[	Student Loss: Towards the Probability Assumption in Inaccurate Supervision	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412669	)**  
+**学生损失：走向不准确监督中的概率假设**   
 作者：	S. Zhang; J. -Q. Li; H. Fujita; Y. -W. Li; D. -B. Wang; T. -T. Zhu; M. -L. Zhang; C. -Y. Liu
 
 **[	Selective Random Walk for Transfer Learning in Heterogeneous Label Spaces	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416705	)**  
@@ -124,6 +125,7 @@
 **[	B-Cos Alignment for Inherently Interpretable CNNs and Vision Transformers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401936	)**  
 
 作者：	M. Böhle; N. Singh; M. Fritz; B. Schiele
+
 **[	AIfES: A Next-Generation Edge AI Framework	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403985	)**  
 作者：	L. Wulfert; J. Kühnel; L. Krupp; J. Viga; C. Wiede; P. Gembaczka; A. Grabmaier
 

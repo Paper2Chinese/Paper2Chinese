@@ -129,6 +129,7 @@
 作者：	M. Böhle; N. Singh; M. Fritz; B. Schiele
 
 **[	AIfES: A Next-Generation Edge AI Framework	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403985	)**  
+**AIfES：下一代边缘AI框架**   
 作者：	L. Wulfert; J. Kühnel; L. Krupp; J. Viga; C. Wiede; P. Gembaczka; A. Grabmaier
 
 **[	Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402053	)**  

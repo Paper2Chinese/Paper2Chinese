@@ -125,7 +125,7 @@
 作者：	Z. Dang; L. Wang; Y. Guo; M. Salzmann  
 
 **[	B-Cos Alignment for Inherently Interpretable CNNs and Vision Transformers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401936	)**  
-
+**B-Cos对固有可解释的CNN和视觉变换器的对齐**  
 作者：	M. Böhle; N. Singh; M. Fritz; B. Schiele
 
 **[	AIfES: A Next-Generation Edge AI Framework	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403985	)**  

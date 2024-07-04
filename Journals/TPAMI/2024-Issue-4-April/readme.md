@@ -123,18 +123,23 @@ Xingxing Wei; Yao Huang; Yitong Sun; Jie Yu
 Yu-Tao Liu; Li Wang; Jie Yang; Weikai Chen; Xiaoxu Meng; Bo Yang; Lin Gao  
 
 **[Learning Optical Flow and Scene Flow With Bidirectional Camera-LiDAR Fusion](https://ieeexplore.ieee.org/document/10310261/)**  
+**双向摄像头-激光雷达融合学习光流和场景流（zty）**  
 Haisong Liu; Tao Lu; Yihui Xu; Jia Liu; Limin Wang  
 
 **[Monocular Depth Estimation: A Thorough Review](https://ieeexplore.ieee.org/document/10313067/)**  
+**单目深度估计：全面综述（zty）**  
 Vasileios Arampatzakis; George Pavlidis; Nikolaos Mitianoudis; Nikos Papamarkos  
 
 **[FGAHOI: Fine-Grained Anchors for Human-Object Interaction Detection](https://ieeexplore.ieee.org/document/10315071/)**  
+**FGAHOI：用于人体-物体交互检测的细粒度锚点（zty）**  
 Shuailei Ma; Yuefeng Wang; Shanze Wang; Ying Wei  
 
 **[Human Motion Generation: A Survey](https://ieeexplore.ieee.org/document/10313063/)**  
+**人体运动生成：一项综述研究（zty）**  
 Wentao Zhu; Xiaoxuan Ma; Dongwoo Ro; Hai Ci; Jinlu Zhang; Jiaxin Shi; Feng Gao; Qi Tian; Yizhou Wang  
 
 **[Detecting Road Obstacles by Erasing Them](https://ieeexplore.ieee.org/document/10334623/)**  
+**通过消除法检测道路障碍物（zty）**  
 Krzysztof Lis; Sina Honari; Pascal Fua; Mathieu Salzmann  
 
 **[Accurate and Efficient Stereo Matching via Attention Concatenation Volume](https://ieeexplore.ieee.org/document/10330699/)**  

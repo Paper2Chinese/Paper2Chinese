@@ -17,7 +17,7 @@
 [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://github.com/Papers2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/Readme.md)  
 [IEEE Transactions on Robotics (TRO)](https://github.com/Paper2Chinese/Paper2Chinese/tree/main/Journals/TRO/README.md)  
 [International Journal of Computer Vision (IJCV, IF=19.5, JCR=Q1)](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/IJCV/Readme.md)     
-[IEEE Transactions on Medical Imaging (TMI)]()  
+[IEEE Transactions on Medical Imaging (TMI)](https://github.com/Paper2Chinese/Paper2Chinese/tree/main/Journals/TMI)  
 [IEEE Transactions on Intelligent Vehicles (TIV)](https://github.com/Papers2Chinese/Paper2Chinese/blob/main/Journals/TIV/README.md)  
 [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](gg)  
 [International Conference on Computer Vision (ICCV)](gg)  

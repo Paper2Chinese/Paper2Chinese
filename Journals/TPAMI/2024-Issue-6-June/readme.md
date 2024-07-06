@@ -133,5 +133,5 @@
 作者：	L. Wulfert; J. Kühnel; L. Krupp; J. Viga; C. Wiede; P. Gembaczka; A. Grabmaier
 
 **[	Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402053	)**  
-**多样化：时间序列分布外检测和泛化的通用框架**   
+**Diversify：一种时间序列分布外检测和泛化的通用框架**   
 作者：	W. Lu; J. Wang; X. Sun; Y. Chen; X. Ji; Q. Yang; X. Xie

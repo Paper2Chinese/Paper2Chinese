@@ -2,4 +2,7 @@ IEEE Transactions on Medical Imaging (T-MI) 是一份专注于医学成像领域
 
 ****
 
-Issue 5 • May 2024 
+
+
+
+# [Issue 5 • May 2024](https://github.com/Paper2Chinese/Paper2Chinese/tree/main/Journals/TMI/Issue%205%20%E2%80%A2%20May-2024) 

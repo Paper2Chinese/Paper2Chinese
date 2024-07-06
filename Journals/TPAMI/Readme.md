@@ -7,6 +7,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 作为计
 **[神经重建：从单目视频中实时连贯的3D场景重建](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/Early%20Access/NeuralRecon%3A%20Real-Time%20Coherent%203D%20Scene%20Reconstruction%20from%20Monocular%20Video/NeuralRecon%3A%20Real-Time%20Coherent%203D%20Scene%20Reconstruction%20from%20Monocular%20Video.md)**  
 Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou
 
+## [Issue 8 • August-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-8-August/readme.md)
+
 ## [Issue 7 • July-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-7-July/readme.md)
 
 ## [Issue 6 • June-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-6-June/readme.md)

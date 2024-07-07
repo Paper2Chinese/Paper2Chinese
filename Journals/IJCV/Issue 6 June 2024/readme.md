@@ -14,10 +14,10 @@
 []()(Y)   
 **Hongchen LuoWei ZhaiDacheng Tao**     
 **[Deep Depth from Focal Stack with Defocus Model for Camera-Setting Invariance]( 	https://link.springer.com/article/10.1007/s11263-023-01964-x)**  
-[]()(Y)   
+[深度焦距堆叠中的去焦模型与相机设置不变性]()(Y)   
 **Yuki FujimuraMasaaki IiyamaYasuhiro Mukaigawa**     
 **[SyDog-Video: A Synthetic Dog Video Dataset for Temporal Pose Estimation]( 	https://link.springer.com/article/10.1007/s11263-023-01946-z)**  
-[]()(Y)   
+[SyDog-Video：用于时间姿态估计的合成狗视频数据集]()(Y)   
 **Moira ShooterCharles MallesonAdrian Hilton**     
 **[Joint Learning of Audio–Visual Saliency Prediction and Sound Source Localization on Multi-face Videos]( 	https://link.springer.com/article/10.1007/s11263-023-01950-3)**  
 []()(Y)   
@@ -41,7 +41,7 @@
 []()(Y)   
 **Agniva SenguptaAdrien Bartoli**     
 **[S2P3: Self-Supervised Polarimetric Pose Prediction]( 	https://link.springer.com/article/10.1007/s11263-023-01965-w)**  
-[]()(Y)   
+[$S^2P_3$：自监督偏振光姿态预测]()(Y)   
 **Patrick RuhkampDaoyi GaoBenjamin Busam**     
 **[Generative Adversarial Network Applications in Industry 4.0: A Review]( 	https://link.springer.com/article/10.1007/s11263-023-01966-9)**  
 []()(Y)   
@@ -53,7 +53,7 @@
 []()(Y)   
 **Zhonghua WuYicheng WuJianfei Cai**     
 **[Learning by Asking Questions for Knowledge-Based Novel Object Recognition]( 	https://link.springer.com/article/10.1007/s11263-023-01976-7)**  
-[]()(Y)   
+[基于提问学习的知识型新对象识别]()(Y)   
 **Kohei UeharaTatsuya Harada**     
 **[Delving into Identify-Emphasize Paradigm for Combating Unknown Bias]( 	https://link.springer.com/article/10.1007/s11263-023-01969-6)**  
 []()(Y)   

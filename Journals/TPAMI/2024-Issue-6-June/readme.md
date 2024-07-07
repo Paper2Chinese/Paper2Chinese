@@ -25,7 +25,7 @@
 作者：	C. Wang; Z. Yu; S. McAleer; T. Yu; Y. Yang
 
 **[	MotionDiffuse: Text-Driven Human Motion Generation With Diffusion Model	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416192	)**  
-**[MotionDiffuse：基于扩散模型的文本驱动人体运动生成]**  
+**[MotionDiffuse：基于扩散模型的文本驱动人体运动生成](https://mp.weixin.qq.com/s/LxK57GfkNIRIgsREgXIhCg)**  
 作者：	M. Zhang; Z. Cai; L. Pan; F. Hong; X. Guo; L. Yang; Z. Liu
 
 **[	MixFormer: End-to-End Tracking With Iterative Mixed Attention	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380715	)**  
@@ -37,11 +37,11 @@
 作者：	X. Zhou; S. Peng; Z. Xu; J. Dong; Q. Wang; S. Zhang; Q. Shuai; H. Bao
 
 **[	A New Sufficient & Necessary Condition for Testing Linear Separability Between Two Sets	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411108	)**  
-**一种测试两集合之间新的线性可分性的充要条件**  
+**[一种测试两集合之间新的线性可分性的充要条件](https://mp.weixin.qq.com/s/-W96iy7cIfn3nW4uyrW82g)**  
 作者：	S. Zhong; H. Lyu; X. Lu; B. Wang; D. Wang
 
 **[	Query-Oriented Micro-Video Summarization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403941	)**   
-**面向查询的微视频总结**  
+**[面向查询的微视频总结](https://mp.weixin.qq.com/s/EsmzxKsExtxxu0LNHdr8wQ)**  
 作者：	M. Jia; Y. Wei; X. Song; T. Sun; M. Zhang; L. Nie
 
 **[	Learning From Human Educational Wisdom: A Student-Centered Knowledge Distillation Method	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400954	)**  
@@ -49,7 +49,7 @@
 作者：	S. Yang; J. Yang; M. Zhou; Z. Huang; W. -S. Zheng; X. Yang; J. Ren
 
 **[	Implicit Regularization of Dropout	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412142	)**  
-**Dropout的隐式正则化**  
+**[Dropout的隐式正则化](https://mp.weixin.qq.com/s/YPupGvfL9Xaebu0PeKTTlA)**  
 作者：	Z. Zhang; Z. -Q. J. Xu
 
 **[	Self-Supervised Node Representation Learning via Node-to-Neighbourhood Alignment	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10414173	)**  

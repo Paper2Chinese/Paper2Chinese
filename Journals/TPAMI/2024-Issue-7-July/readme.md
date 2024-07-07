@@ -1,4 +1,4 @@
-# Issue 7 • July-2024 42 Papers
+# Issue 7 • July-2024 39 Papers
  
 ****
 

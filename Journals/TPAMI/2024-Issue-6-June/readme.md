@@ -33,7 +33,7 @@
 作者：	Y. Cui; C. Jiang; G. Wu; L. Wang
 
 **[	Animatable Implicit Neural Representations for Creating Realistic Avatars From Videos	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401886	)**  
-**[基于视频创建逼真化身的可动画隐式神经表示]**  
+**[基于视频创建逼真化身的可动画隐式神经表示](https://mp.weixin.qq.com/s/uyesxh3MhfQISbY9j7RgMQ)**  
 作者：	X. Zhou; S. Peng; Z. Xu; J. Dong; Q. Wang; S. Zhang; Q. Shuai; H. Bao
 
 **[	A New Sufficient & Necessary Condition for Testing Linear Separability Between Two Sets	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411108	)**  
@@ -45,7 +45,7 @@
 作者：	M. Jia; Y. Wei; X. Song; T. Sun; M. Zhang; L. Nie
 
 **[	Learning From Human Educational Wisdom: A Student-Centered Knowledge Distillation Method	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400954	)**  
-**学习人类教育智慧：以学生为中心的知识蒸馏方法**   
+**[学习人类教育智慧：以学生为中心的知识蒸馏方法](https://mp.weixin.qq.com/s/QfsbOI2XDq7FHgmKcZbItQ)**   
 作者：	S. Yang; J. Yang; M. Zhou; Z. Huang; W. -S. Zheng; X. Yang; J. Ren
 
 **[	Implicit Regularization of Dropout	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412142	)**  
@@ -53,7 +53,7 @@
 作者：	Z. Zhang; Z. -Q. J. Xu
 
 **[	Self-Supervised Node Representation Learning via Node-to-Neighbourhood Alignment	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10414173	)**  
-**通过节点到邻域对齐的自监督节点表示学习**  
+**[通过节点到邻域对齐的自监督节点表示学习](https://mp.weixin.qq.com/s/u4W_3HdEquAj9fyV-e12Qw)**  
 作者：	W. Dong; D. Yan; P. Wang
 
 **[	NaturalSpeech: End-to-End Text-to-Speech Synthesis With Human-Level Quality	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409539	)**  
@@ -73,7 +73,7 @@
 作者：	X. Zhang; L. Peng; W. Xu; L. Kneip
 
 **[	Graph Transformer GANs With Graph Masked Modeling for Architectural Layout Generation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401948	)**  
-**基于图掩码建模的图变换器生成对抗网络用于建筑布局生成(zty)**  
+**[基于图掩码建模的图TransFormer生成对抗网络用于建筑布局生成](https://mp.weixin.qq.com/s/EjLgVIXKNr74q_4RTHZK9g)**  
 作者：	H. Tang; L. Shao; N. Sebe; L. Van Gool
 
 **[	BPJDet: Extended Object Representation for Generic Body-Part Joint Detection	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400895	)**  
@@ -97,7 +97,7 @@
 作者：	Z. Wang; Y. Rao; X. Yu; J. Zhou; J. Lu
 
 **[	BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404058	)**  
-**BadLabel：评估与增强标签噪声学习的一种鲁棒视角**  
+**[BadLabel：评估与增强标签噪声学习的一种鲁棒视角](https://mp.weixin.qq.com/s/A-PFEaWyL2hcbz7_AtTScA)**  
 作者：	J. Zhang; B. Song; H. Wang; B. Han; T. Liu; L. Liu; M. Sugiyama
 
 **[	SMEMO: Social Memory for Trajectory Forecasting	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411104	)**  
@@ -125,7 +125,7 @@
 作者：	Z. Dang; L. Wang; Y. Guo; M. Salzmann  
 
 **[	B-Cos Alignment for Inherently Interpretable CNNs and Vision Transformers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401936	)**  
-**B-Cos对固有可解释的CNN和视觉Transformers的对齐**  
+**[B-Cos对固有可解释的CNN和视觉Transformers的对齐](https://mp.weixin.qq.com/s/Q3ILhilaIlc1P7iCWEYwmA)**  
 作者：	M. Böhle; N. Singh; M. Fritz; B. Schiele
 
 **[	AIfES: A Next-Generation Edge AI Framework	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403985	)**  

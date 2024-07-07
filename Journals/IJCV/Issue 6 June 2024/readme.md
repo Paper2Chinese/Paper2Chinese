@@ -2,7 +2,7 @@
 []()(Y)   
 **Aishan LiuShiyu TangDacheng Tao**     
 **[CLIP-guided Prototype Modulating for Few-shot Action Recognition]( 	https://link.springer.com/article/10.1007/s11263-023-01917-4)**  
-[]()(Y)   
+[CLIP 引导的少样本动作识别原型调制方法]()(Y)   
 **Xiang WangShiwei ZhangNong Sang**     
 **[HyperSTAR: Task-Aware Hyperparameter Recommendation for Training and Compression]( 	https://link.springer.com/article/10.1007/s11263-023-01961-0)**  
 []()(Y)   

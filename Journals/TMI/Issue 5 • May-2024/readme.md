@@ -27,7 +27,8 @@ Issue 5 • May-2024
 **[	A Magnetic Particle Imaging Approach for Minimally Invasive Imaging and Sensing With Implantable Bioelectronic Circuits	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376201	)**  
   	Z. Tay; H. -J. Kim; J. S. Ho; M. Olivo	  
    
-**[	A Test Statistic Estimation-Based Approach for Establishing Self-Interpretable CNN-Based Binary Classifiers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10378976	)**  
+**[	A Test Statistic Estimation-Based Approach for Establishing Self-Interpretable CNN-Based Binary Classifiers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10378976	)**    
+[基于检验统计量估计的自解释卷积神经网络二元分类器构建方法]()   
   	S. Sengupta; M. A. Anastasio	  
    
 **[	Exploration of Coincidence Detection of Cascade Photons to Enhance Preclinical Multi-Radionuclide SPECT Imaging	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10378713	)**  

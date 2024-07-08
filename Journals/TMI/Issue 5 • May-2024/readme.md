@@ -19,6 +19,7 @@ Issue 5 • May-2024
   	Y. Zhong; S. Zhang; Z. Liu; X. Zhang; Z. Mo; Y. Zhang; H. Hu; W. Chen; L. Qi	  
    
 **[	Bilateral Supervision Network for Semi-Supervised Medical Image Segmentation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375506	)**  
+[# 双边监督网络在半监督医学图像分割中的应用]()(y)  
   	A. He; T. Li; J. Yan; K. Wang; H. Fu	  
    
 **[	3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375552	)**  

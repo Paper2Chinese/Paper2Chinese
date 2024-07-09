@@ -23,7 +23,8 @@ Issue 5 • May-2024
 [# 双边监督网络在半监督医学图像分割中的应用]()(y)  
   	A. He; T. Li; J. Yan; K. Wang; H. Fu	  
    
-**[	3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375552	)**  
+**[	3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10375552	)** 
+[基于蒙特卡洛树搜索和流形正则化的3D/2D血管配准]()  
   	J. Zhu; C. Wang; Y. Zhang; M. Zhan; W. Zhao; S. Teng; L. Lu; G. -J. Teng	  
    
 **[	A Magnetic Particle Imaging Approach for Minimally Invasive Imaging and Sensing With Implantable Bioelectronic Circuits	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376201	)**  

@@ -7,7 +7,7 @@ Issue 5 • May-2024
 
 
 **[	Multi-Template Meta-Information Regularized Network for Alzheimer’s Disease Diagnosis Using Structural MRI	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10365189	)**  
-[ 多模板元信息正则化网络在结构性MRI中用于阿尔茨海默病诊断的研究]()
+[ 多模板元信息正则化网络在结构性MRI中用于阿尔茨海默病诊断的研究]()   
   	K. Han; G. Li; Z. Fang; F. Yang	  
    
 **[	Noise-Generating and Imaging Mechanism Inspired Implicit Regularization Learning Network for Low Dose CT Reconstrution	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10374095	)**  

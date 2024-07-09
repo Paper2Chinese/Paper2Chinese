@@ -3,9 +3,11 @@
 ****
 
 **[Variational Distillation for Multi-View Learning](https://ieeexplore.ieee.org/document/10372503/)**  
+**多视图学习的变分蒸馏**   
 Xudong Tian; Zhizhong Zhang; Cong Wang; Wensheng Zhang; Yanyun Qu; Lizhuang Ma; Zongze Wu; Yuan Xie; Dacheng Tao  
 
 **[FlowX: Towards Explainable Graph Neural Networks via Message Flows](https://ieeexplore.ieee.org/document/10374255/)**  
+**FlowX: 通过消息流实现可解释的图神经网络**   
 Shurui Gui; Hao Yuan; Jie Wang; Qicheng Lao; Kang Li; Shuiwang Ji  
 
 **[VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/document/10411051/)**  

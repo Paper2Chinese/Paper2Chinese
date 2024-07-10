@@ -31,18 +31,23 @@ Huiqi Deng; Na Zou; Mengnan Du; Weifu Chen; Guocan Feng; Ziwei Yang; Zheyang Li;
 Haoran Bai; Jinshan Pan  
 
 **[Fully Unsupervised Deepfake Video Detection Via Enhanced Contrastive Learning](https://ieeexplore.ieee.org/document/10411047/)**  
+**通过增强对比学习实现完全无监督的深度伪造视频检测（zty）**  
 Tong Qiao; Shichuang Xie; Yanli Chen; Florent Retraint; Xiangyang Luo  
 
 **[RNNPose: 6-DoF Object Pose Estimation via Recurrent Correspondence Field Estimation and Pose Optimization](https://ieeexplore.ieee.org/document/10416758/)**  
+**RNNPose: 通过递归对应场估计和姿态优化实现6-DoF物体姿态估计（zty）**  
 Yan Xu; Kwan-Yee Lin; Guofeng Zhang; Xiaogang Wang; Hongsheng Li  
 
 **[Efficient Visual Computing With Camera RAW Snapshots](https://ieeexplore.ieee.org/document/10415533/)**  
+**利用相机原始快照进行高效的视觉计算（zty）**  
 Zhihao Li; Ming Lu; Xu Zhang; Xin Feng; M. Salman Asif; Zhan Ma  
 
 **[AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping](https://ieeexplore.ieee.org/document/10412658/)**  
+**AdaCS: 基于具有限制等距性质的错误夹持的自适应压缩感知（zty）**  
 Chenxi Qiu; Xuemei Hu  
 
 **[Every Problem, Every Step, All in Focus: Learning to Solve Vision-Language Problems With Integrated Attention](https://ieeexplore.ieee.org/document/10412655/)**  
+**每个问题，每个步骤，全部聚焦：通过集成注意力学习解决视觉-语言问题（zty）**  
 Xianyu Chen; Jinhui Yang; Shi Chen; Louis Wang; Ming Jiang; Qi Zhao  
 
 **[Dense Continuous-Time Optical Flow From Event Cameras](https://ieeexplore.ieee.org/document/10419040/)**  

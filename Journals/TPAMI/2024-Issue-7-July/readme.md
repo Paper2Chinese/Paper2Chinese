@@ -11,18 +11,23 @@ Xudong Tian; Zhizhong Zhang; Cong Wang; Wensheng Zhang; Yanyun Qu; Lizhuang Ma; 
 Shurui Gui; Hao Yuan; Jie Wang; Qicheng Lao; Kang Li; Shuiwang Ji  
 
 **[VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/document/10411051/)**  
+**VNVC: 一种用于高效人机视觉的多功能神经视频编码框架**  
 Xihua Sheng; Li Li; Dong Liu; Houqiang Li  
 
 **[Polarimetric Helmholtz Stereopsis](https://ieeexplore.ieee.org/document/10414400/)**  
+**偏振Helmholtz立体视觉**  
 Yuqi Ding; Yu Ji; Zhang Chen; Mingyuan Zhou; Sing Bing Kang; Jinwei Ye  
 
 **[What Does a Model Really Look at?: Extracting Model-Oriented Concepts for Explaining Deep Neural Networks](https://ieeexplore.ieee.org/document/10412652/)**  
+**模型究竟在看什么？：提取面向模型的概念以解释深度神经网络**  
 Seonggyeom Kim; Dong-Kyu Chae  
 
 **[Unifying Fourteen Post-Hoc Attribution Methods With Taylor Interactions](https://ieeexplore.ieee.org/document/10414149/)**  
+**通过泰勒交互统一十四种后处理归因方法**  
 Huiqi Deng; Na Zou; Mengnan Du; Weifu Chen; Guocan Feng; Ziwei Yang; Zheyang Li; Quanshi Zhang  
 
 **[Self-Supervised Deep Blind Video Super-Resolution](https://ieeexplore.ieee.org/document/10428075/)**  
+**自监督深度盲视频超分辨率**  
 Haoran Bai; Jinshan Pan  
 
 **[Fully Unsupervised Deepfake Video Detection Via Enhanced Contrastive Learning](https://ieeexplore.ieee.org/document/10411047/)**  

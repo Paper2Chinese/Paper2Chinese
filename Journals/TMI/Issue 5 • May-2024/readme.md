@@ -28,6 +28,7 @@ Issue 5 • May-2024
   	J. Zhu; C. Wang; Y. Zhang; M. Zhan; W. Zhao; S. Teng; L. Lu; G. -J. Teng	  
    
 **[	A Magnetic Particle Imaging Approach for Minimally Invasive Imaging and Sensing With Implantable Bioelectronic Circuits	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376201	)**  
+[一种用于微创成像和传感的磁粒子成像方法与植入式生物电子电路]()(Y)   
   	Z. Tay; H. -J. Kim; J. S. Ho; M. Olivo	  
    
 **[	A Test Statistic Estimation-Based Approach for Establishing Self-Interpretable CNN-Based Binary Classifiers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10378976	)**    

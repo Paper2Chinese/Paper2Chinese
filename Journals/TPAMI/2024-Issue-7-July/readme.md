@@ -54,6 +54,7 @@ Xianyu Chen; Jinhui Yang; Shi Chen; Louis Wang; Ming Jiang; Qi Zhao
 Mathias Gehrig; Manasi Muglikar; Davide Scaramuzza  
 
 **[Building an Open-Vocabulary Video CLIP Model With Better Architectures, Optimization and Data](https://ieeexplore.ieee.org/document/10412661/)**  
+**构建具有更好架构、优化和数据的开放词汇视频CLIP模型**  
 Zuxuan Wu; Zejia Weng; Wujian Peng; Xitong Yang; Ang Li; Larry S. Davis; Yu-Gang Jiang  
 
 **[Weakly Supervised AUC Optimization: A Unified Partial AUC Approach](https://ieeexplore.ieee.org/document/10413526/)**  

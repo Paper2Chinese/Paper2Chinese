@@ -51,6 +51,7 @@ Chenxi Qiu; Xuemei Hu
 Xianyu Chen; Jinhui Yang; Shi Chen; Louis Wang; Ming Jiang; Qi Zhao  
 
 **[Dense Continuous-Time Optical Flow From Event Cameras](https://ieeexplore.ieee.org/document/10419040/)**  
+**从事件相机中获取稠密连续时间光流**  
 Mathias Gehrig; Manasi Muglikar; Davide Scaramuzza  
 
 **[Building an Open-Vocabulary Video CLIP Model With Better Architectures, Optimization and Data](https://ieeexplore.ieee.org/document/10412661/)**  

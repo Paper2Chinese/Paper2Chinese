@@ -59,6 +59,7 @@ Mathias Gehrig; Manasi Muglikar; Davide Scaramuzza
 Zuxuan Wu; Zejia Weng; Wujian Peng; Xitong Yang; Ang Li; Larry S. Davis; Yu-Gang Jiang  
 
 **[Weakly Supervised AUC Optimization: A Unified Partial AUC Approach](https://ieeexplore.ieee.org/document/10413526/)**  
+**弱监督 AUC 优化：一种统一的部分 AUC 方法**   
 Zheng Xie; Yu Liu; Hao-Yuan He; Ming Li; Zhi-Hua Zhou  
 
 **[E-Gaze: Gaze Estimation With Event Camera](https://ieeexplore.ieee.org/document/10416378/)**  

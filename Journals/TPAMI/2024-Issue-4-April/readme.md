@@ -143,12 +143,15 @@ Wentao Zhu; Xiaoxuan Ma; Dongwoo Ro; Hai Ci; Jinlu Zhang; Jiaxin Shi; Feng Gao; 
 Krzysztof Lis; Sina Honari; Pascal Fua; Mathieu Salzmann  
 
 **[Accurate and Efficient Stereo Matching via Attention Concatenation Volume](https://ieeexplore.ieee.org/document/10330699/)**  
+**通过注意力连接体实现精确高效的立体匹配（zty）**  
 Gangwei Xu; Yun Wang; Junda Cheng; Jinhui Tang; Xin Yang  
 
 **[Elastic Shape Analysis of Tree-Like 3D Objects Using Extended SRVF Representation](https://ieeexplore.ieee.org/document/10323229/)**  
+**基于扩展的SRVF表示的树状3D对象弹性形状分析（zty）**  
 Guan Wang; Hamid Laga; Anuj Srivastava  
 
 **[Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond](https://ieeexplore.ieee.org/document/10337789/)**  
+**属性下降：在内容层面及更高层次上模拟以对象为中心的数据集（zty）**  
 Yue Yao; Liang Zheng; Xiaodong Yang; Milind Napthade; Tom Gedeon  
 
 **[Contrastive Masked Autoencoders are Stronger Vision Learners](https://ieeexplore.ieee.org/document/10330745/)**  

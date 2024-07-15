@@ -63,18 +63,23 @@ Zuxuan Wu; Zejia Weng; Wujian Peng; Xitong Yang; Ang Li; Larry S. Davis; Yu-Gang
 Zheng Xie; Yu Liu; Hao-Yuan He; Ming Li; Zhi-Hua Zhou  
 
 **[E-Gaze: Gaze Estimation With Event Camera](https://ieeexplore.ieee.org/document/10416378/)**  
+**E-Gaze：基于事件摄像机的注视估计技术**  
 Nealson Li; Muya Chang; Arijit Raychowdhury  
 
 **[Human Versus Machine Intelligence: Assessing Natural Language Generation Models Through Complex Systems Theory](https://ieeexplore.ieee.org/document/10413606/)**  
+**人类与机器智能：通过复杂系统理论评估自然语言生成模型**  
 Enrico De Santis; Alessio Martino; Antonello Rizzi  
 
 **[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/document/10418893/)**  
+**面向实例依赖噪声标签的学习的时间一致性课程**  
 Songhua Wu; Tianyi Zhou; Yuxuan Du; Jun Yu; Bo Han; Tongliang Liu  
 
 **[Probabilistic Principal Curves on Riemannian Manifolds](https://ieeexplore.ieee.org/document/10413614/)**  
+**黎曼流形上的随机主曲线**  
 Seungwoo Kang; Hee-Seok Oh  
 
 **[Stereo Image Restoration via Attention-Guided Correspondence Learning](https://ieeexplore.ieee.org/document/10412659/)**  
+**基于注意力引导的对应关系学习的立体图像恢复**  
 Shengping Zhang; Wei Yu; Feng Jiang; Liqiang Nie; Hongxun Yao; Qingming Huang; Dacheng Tao  
 
 **[Siamese Cooperative Learning for Unsupervised Image Reconstruction From Incomplete Measurements](https://ieeexplore.ieee.org/document/10415211/)**  

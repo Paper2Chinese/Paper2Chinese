@@ -117,7 +117,7 @@
 作者：	S. Zhang; J. -Q. Li; H. Fujita; Y. -W. Li; D. -B. Wang; T. -T. Zhu; M. -L. Zhang; C. -Y. Liu
 
 **[	Selective Random Walk for Transfer Learning in Heterogeneous Label Spaces	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416705	)**  
-**异构标签空间中迁移学习的选择性随机游走**  
+**[异构标签空间中迁移学习的选择性随机游走](https://mp.weixin.qq.com/s/_USCbPXrg3uVw7_fjlA1QQ)**  
 作者：	Q. Xiao; Y. Zhang; Q. Yang
   
 **[	Match Normalization: Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402084	)**  

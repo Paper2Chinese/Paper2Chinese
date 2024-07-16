@@ -17,3 +17,5 @@ Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou
 
 ## [Issue 4 • April-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-4-April/readme.md)
 
+## [Issues • 2023](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2023-Issues/readme.md)
+

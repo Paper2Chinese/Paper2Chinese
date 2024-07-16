@@ -13,7 +13,7 @@
 作者：	X. Ren; X. Wei; Z. Li; Y. Fu; Y. Zhang; X. Xue
 
 **[	Incomplete Gamma Kernels: Generalizing Locally Optimal Projection Operators	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380761	)**  
-**[不完全伽玛核：推广局部最优投影算子]**  
+**[不完全伽玛核：推广局部最优投影算子](https://mp.weixin.qq.com/s/INgGtZj8qKcCpSJt387-PQ)**  
 作者：	P. Stotko; M. Weinmann; R. Klein  
 
 **[	Better Understanding Differences in Attribution Methods via Systematic Evaluations	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10398493	)**  
@@ -21,7 +21,7 @@
 作者：	S. Rao; M. Böhle; B. Schiele
 
 **[	ASP: Learn a Universal Neural Solver!	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10387785	)**  
-**[ASP：学习通用神经解算器！]**  
+**[ASP：学习通用神经解算器！](https://mp.weixin.qq.com/s/BlJq93J3UN4gyurVLoWosA)**  
 作者：	C. Wang; Z. Yu; S. McAleer; T. Yu; Y. Yang
 
 **[	MotionDiffuse: Text-Driven Human Motion Generation With Diffusion Model	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416192	)**  
@@ -57,19 +57,19 @@
 作者：	W. Dong; D. Yan; P. Wang
 
 **[	NaturalSpeech: End-to-End Text-to-Speech Synthesis With Human-Level Quality	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409539	)**  
-**NaturalSpeech: 具有人类水平质量的端到端文本到语音合成**  
+**[NaturalSpeech: 具有人类水平质量的端到端文本到语音合成](https://mp.weixin.qq.com/s/K6rJBfY8Nt8SbM74CovvAA)**  
 作者：	X. Tan; J. Chen; H. Liu; J. Cong; C. Zhang; Y. Liu; X. Wang; Y. Leng; Y. Yi; L. He; S. Zhao; T. Qin; F. Soong; T. -Y. Liu
 
 **[	Federated Gaussian Process: Convergence, Automatic Personalization and Multi-Fidelity Modeling	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402074	)**  
-**联邦高斯过程：收敛性、自动个性化与多保真度建模**  
+**[联邦高斯过程：收敛性、自动个性化与多保真度建模](https://mp.weixin.qq.com/s/dSrreD13g7liWgV7JRBHkQ)**  
 作者：	X. Yue; R. Kontar
 
 **[	I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411123	)**  
-**I2C：用于高保真可变速率图像压缩的可逆连续编解码器（zty）**  
+**[I2C：用于高保真可变速率图像压缩的可逆连续编解码器](https://mp.weixin.qq.com/s/XjEv1ChcPCrduWj1pU-lsg)**  
 作者：	S. Cai; L. Chen; Z. Zhang; X. Zhao; J. Zhou; Y. Peng; L. Yan; S. Zhong; X. Zou
 
 **[	Accelerating Globally Optimal Consensus Maximization in Geometric Vision	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412179	)**  
-**加速几何视觉中全局最优共识最大化（zty）**  
+**[加速几何视觉中全局最优共识最大化](https://mp.weixin.qq.com/s/2WxYTL9h0-CayS3d_dBBGQ)**  
 作者：	X. Zhang; L. Peng; W. Xu; L. Kneip
 
 **[	Graph Transformer GANs With Graph Masked Modeling for Architectural Layout Generation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401948	)**  
@@ -77,7 +77,7 @@
 作者：	H. Tang; L. Shao; N. Sebe; L. Van Gool
 
 **[	BPJDet: Extended Object Representation for Generic Body-Part Joint Detection	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400895	)**  
-**BPJDet：用于通用身体部位关节检测的扩展对象表示(zty)**  
+**[BPJDet：用于通用身体部位关节检测的扩展对象表示](https://mp.weixin.qq.com/s/az_NRSVeOt9cFBTmuXRXHQ)**  
 作者：	H. Zhou; F. Jiang; J. Si; Y. Ding; H. Lu
 
 **[	StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413601	)**  
@@ -85,7 +85,7 @@
 作者：	S. Wang; Y. Ma; Y. Ding; Z. Hu; C. Fan; T. Lv; Z. Deng; X. Yu
 
 **[	Incorporating Season and Solar Specificity Into Renderings Made by a NeRF Architecture Using Satellite Images	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402002	)**  
-**将季节与太阳特性整合进基于卫星图像的NeRF架构渲染中**  
+**[将季节与太阳特性整合进基于卫星图像的NeRF架构渲染中](https://mp.weixin.qq.com/s/dUNsN7p_3GCyvqcfW3qgpw)**  
 作者：	M. Gableman; A. Kak
 
 **[	Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404027	)**  
@@ -93,7 +93,7 @@
 作者：	S. Wang; J. Chang; Z. Wang; H. Li; W. Ouyang; Q. Tian
 
 **[	Point-to-Pixel Prompting for Point Cloud Analysis With Pre-Trained Image Models	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400940	)**  
-**使用预训练图像模型的点到像素提示法进行点云分析**  
+**[使用预训练图像模型的点到像素提示法进行点云分析](https://mp.weixin.qq.com/s/R4V9pRLSQJRLaJYB50xb1Q)**  
 作者：	Z. Wang; Y. Rao; X. Yu; J. Zhou; J. Lu
 
 **[	BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404058	)**  
@@ -105,15 +105,15 @@
 作者：	F. Marchetti; F. Becattini; L. Seidenari; A. D. Bimbo
 
 **[	PathNet: Path-Selective Point Cloud Denoising	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409270	)**  
-**PathNet：路径选择性点云去噪网络**  
+**[PathNet：路径选择性点云去噪网络](https://mp.weixin.qq.com/s/TzZsPlhk4BtFqVR8tQ75_w)**  
 作者：	Z. Wei; H. Chen; L. Nan; J. Wang; J. Qin; M. Wei
 
 **[	Boosting Factorization Machines via Saliency-Guided Mixup	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400846	)**  
-**通过显著性指导的混合提升因子分解机**   
+**[通过显著性指导的混合提升因子分解机](https://mp.weixin.qq.com/s/7fUiZJkzYC0iDL74yl569g)**   
 作者：	C. Wu; D. Lian; Y. Ge; M. Zhou; E. Chen; D. Tao
 
 **[	Student Loss: Towards the Probability Assumption in Inaccurate Supervision	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10412669	)**  
-**学生损失：走向不准确监督中的概率假设**   
+**[学生损失：走向不准确监督中的概率假设](https://mp.weixin.qq.com/s/HOf-H_VNgJ0FGdhvkNKl1Q)**   
 作者：	S. Zhang; J. -Q. Li; H. Fujita; Y. -W. Li; D. -B. Wang; T. -T. Zhu; M. -L. Zhang; C. -Y. Liu
 
 **[	Selective Random Walk for Transfer Learning in Heterogeneous Label Spaces	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416705	)**  
@@ -129,7 +129,7 @@
 作者：	M. Böhle; N. Singh; M. Fritz; B. Schiele
 
 **[	AIfES: A Next-Generation Edge AI Framework	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403985	)**  
-**AIfES：下一代边缘AI框架**   
+**[AIfES：下一代边缘AI框架](https://mp.weixin.qq.com/s/iHbReAUnyF0qa0oBFfaUUg)**   
 作者：	L. Wulfert; J. Kühnel; L. Krupp; J. Viga; C. Wiede; P. Gembaczka; A. Grabmaier
 
 **[	Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402053	)**  

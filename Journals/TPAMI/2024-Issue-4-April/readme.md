@@ -164,5 +164,6 @@ Wenliang Zhao; Yongming Rao; Jie Zhou; Jiwen Lu
 Lu Zhang; Lu Qi; Xu Yang; Hong Qiao; Ming-Hsuan Yang; Zhiyong Liu  
 
 **[Vehicle Perception From Satellite](https://ieeexplore.ieee.org/document/10330623/)**  
+**卫星车辆感知**  
 Bin Zhao; Pengfei Han; Xuelong Li  
 

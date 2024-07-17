@@ -68,6 +68,7 @@ Issue 5 • May-2024
   	Z. Chen; C. Niu; Q. Gao; G. Wang; H. Shan	  
    
 **[	A Hybrid Routing Pattern in Human Brain Structural Network Revealed By Evolutionary Computation	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10385209	)**  
+[通过进化计算揭示的人脑结构网络中的混合路由模式]()(y)    
   	Q. Liang; J. Ma; X. Chen; Q. Lin; N. Shu; Z. Dai; Y. Lin	  
    
 **[	Ultrasound Shear Elastography With Expanded Bandwidth (USEWEB): A Novel Method for 2D Shear Phase Velocity Imaging of Soft Tissues	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10387489	)**  

@@ -40,6 +40,7 @@ Issue 5 • May-2024
   	Y. Jin; L. -J. Meng	  
    
 **[	A High-Sensitivity Benchtop X-Ray Fluorescence Emission Tomography (XFET) System With a Full-Ring of X-Ray Imaging-Spectrometers and a Compound-Eye Collimation Aperture	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10381599	)**  
+[高灵敏度台式X射线荧光发射断层扫描（XFET）系统：配备全环X射线成像光谱仪和复合眼准直孔径]()(Y)   
   	S. Mandot; E. M. Zannoni; L. Cai; X. Nie; P. J. L. Rivière; M. D. Wilson; L. J. Meng	  
    
 **[	Semi-Supervised Thyroid Nodule Detection in Ultrasound Videos	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10379017	)**  

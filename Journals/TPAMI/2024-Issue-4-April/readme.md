@@ -155,12 +155,14 @@ Guan Wang; Hamid Laga; Anuj Srivastava
 Yue Yao; Liang Zheng; Xiaodong Yang; Milind Napthade; Tom Gedeon  
 
 **[Contrastive Masked Autoencoders are Stronger Vision Learners](https://ieeexplore.ieee.org/document/10330745/)**  
+**对比掩码自编码器是更强大的视觉学习者**  
 Zhicheng Huang; Xiaojie Jin; Chengze Lu; Qibin Hou; Ming-Ming Cheng; Dongmei Fu; Xiaohui Shen; Jiashi Feng  
 
 **[DIML: Deep Interpretable Metric Learning via Structural Matching](https://ieeexplore.ieee.org/document/10334048/)**  
 Wenliang Zhao; Yongming Rao; Jie Zhou; Jiwen Lu  
 
 **[Automatically Discovering Novel Visual Categories With Adaptive Prototype Learning](https://ieeexplore.ieee.org/document/10328468/)**  
+**使用自适应原型学习自动发现新的视觉效果类别**  
 Lu Zhang; Lu Qi; Xu Yang; Hong Qiao; Ming-Hsuan Yang; Zhiyong Liu  
 
 **[Vehicle Perception From Satellite](https://ieeexplore.ieee.org/document/10330623/)**  

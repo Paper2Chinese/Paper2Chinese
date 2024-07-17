@@ -159,7 +159,7 @@ Yue Yao; Liang Zheng; Xiaodong Yang; Milind Napthade; Tom Gedeon
 Zhicheng Huang; Xiaojie Jin; Chengze Lu; Qibin Hou; Ming-Ming Cheng; Dongmei Fu; Xiaohui Shen; Jiashi Feng  
 
 **[DIML: Deep Interpretable Metric Learning via Structural Matching](https://ieeexplore.ieee.org/document/10334048/)**  
-**DIML：DIML： 通过结构匹配进行深度可解释度量学习**  
+**DIML： 通过结构匹配进行深度可解释度量学习**  
 Wenliang Zhao; Yongming Rao; Jie Zhou; Jiwen Lu  
 
 **[Automatically Discovering Novel Visual Categories With Adaptive Prototype Learning](https://ieeexplore.ieee.org/document/10328468/)**  

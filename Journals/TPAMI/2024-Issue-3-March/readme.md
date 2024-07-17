@@ -3,6 +3,7 @@
 *****
 
 [Editorial: Learning With Fewer Labels in Computer Vision](https://ieeexplore.ieee.org/document/10423573/)  
+**Editorial：在计算机视觉中使用更少的标签进行学习**  
 Li Liu; Timothy Hospedales; Yann LeCun; Mingsheng Long; Jiebo Luo; Wanli Ouyang; Matti Pietikäinen; Tinne Tuytelaars  
 
 [Semi-Supervised and Unsupervised Deep Visual Learning: A Survey](https://ieeexplore.ieee.org/document/9866825/)  

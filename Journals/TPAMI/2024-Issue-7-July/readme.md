@@ -99,6 +99,7 @@ Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixia
 Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
 
 **[A Two-Stage Noise-Tolerant Paradigm for Label Corrupted Person Re-Identification](https://ieeexplore.ieee.org/document/10419038/)**  
+**一个面向标签损坏行人重识别的两阶段抗噪范式**   
 Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury  
 
 **[Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting](https://ieeexplore.ieee.org/document/10418551/)**  

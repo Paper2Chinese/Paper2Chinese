@@ -103,6 +103,7 @@ Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang
 Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury  
 
 **[Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting](https://ieeexplore.ieee.org/document/10418551/)**  
+**利用光流引导的基于Transformer的视频修复**  
 Kaidong Zhang; Jialun Peng; Jingjing Fu; Dong Liu  
 
 **[Hilbert Curve Projection Distance for Distribution Comparison](https://ieeexplore.ieee.org/document/10428036/)**  

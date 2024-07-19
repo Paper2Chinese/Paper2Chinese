@@ -107,6 +107,7 @@ Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury
 Kaidong Zhang; Jialun Peng; Jingjing Fu; Dong Liu  
 
 **[Hilbert Curve Projection Distance for Distribution Comparison](https://ieeexplore.ieee.org/document/10428036/)**  
+**Hilbert曲线投影距离用于分布比较**  
 Tao Li; Cheng Meng; Hongteng Xu; Jun Yu  
 
 **[Unsupervised Test-Time Adaptation Learning for Effective Hyperspectral Image Super-Resolution With Unknown Degeneration](https://ieeexplore.ieee.org/document/10420496/)**  

@@ -111,6 +111,7 @@ Kaidong Zhang; Jialun Peng; Jingjing Fu; Dong Liu
 Tao Li; Cheng Meng; Hongteng Xu; Jun Yu  
 
 **[Unsupervised Test-Time Adaptation Learning for Effective Hyperspectral Image Super-Resolution With Unknown Degeneration](https://ieeexplore.ieee.org/document/10420496/)**  
+**无监督测试时间适应学习用于在未知退化下实现高效的高光谱图像超分辨率**  
 Lei Zhang; Jiangtao Nie; Wei Wei; Yanning Zhang  
 
 **[Learning With Constraint Learning: New Perspective, Solution Strategy and Various Applications](https://ieeexplore.ieee.org/document/10430445/)**  

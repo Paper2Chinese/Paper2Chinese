@@ -11,6 +11,8 @@ Jie Xiao; Xueyang Fu; Aiping Liu; Feng Wu; Zheng-Jun Zha
 Yujiang Wang; Mingzhi Dong; Jie Shen; Yiming Luo; Yiming Lin; Pingchuan Ma; Stavros Petridis; Maja Pantic  
 
 [TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving](https://ieeexplore.ieee.org/document/9863660)  
+**TransFuser: 基于Transformer的传感器融合用于自动驾驶的模仿学习（zty）**  
+Kashyap Chitta; Aditya Prakash; Bernhard Jaeger; Zehao Yu; Katrin Renz; Andreas Geiger  
 
 [TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning](https://ieeexplore.ieee.org/document/9987664)  
 

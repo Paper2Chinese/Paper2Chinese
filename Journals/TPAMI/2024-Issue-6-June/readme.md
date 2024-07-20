@@ -17,7 +17,7 @@
 作者：	P. Stotko; M. Weinmann; R. Klein  
 
 **[	Better Understanding Differences in Attribution Methods via Systematic Evaluations	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10398493	)**  
-**[通过系统评价更好地理解归因方法的差异]**  
+**[通过系统评价更好地理解归因方法的差异](https://mp.weixin.qq.com/s/jznmUG8Ba25v_Yg6v0T4Yw)**  
 作者：	S. Rao; M. Böhle; B. Schiele
 
 **[	ASP: Learn a Universal Neural Solver!	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10387785	)**  
@@ -89,7 +89,7 @@
 作者：	M. Gableman; A. Kak
 
 **[	Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10404027	)**  
-**面向零样本细粒度图像检索的内容感知校正激活**  
+**[面向零样本细粒度图像检索的内容感知校正激活](https://mp.weixin.qq.com/s/30U06OMiVX5NES2lYJbMTA)**  
 作者：	S. Wang; J. Chang; Z. Wang; H. Li; W. Ouyang; Q. Tian
 
 **[	Point-to-Pixel Prompting for Point Cloud Analysis With Pre-Trained Image Models	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10400940	)**  
@@ -101,7 +101,7 @@
 作者：	J. Zhang; B. Song; H. Wang; B. Han; T. Liu; L. Liu; M. Sugiyama
 
 **[	SMEMO: Social Memory for Trajectory Forecasting	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411104	)**  
-**SMEMO：用于轨迹预测的社会记忆**  
+**[SMEMO：用于轨迹预测的社会记忆](https://mp.weixin.qq.com/s/CWqdVOAGcwkDlShpJZw7AQ)**  
 作者：	F. Marchetti; F. Becattini; L. Seidenari; A. D. Bimbo
 
 **[	PathNet: Path-Selective Point Cloud Denoising	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10409270	)**  
@@ -121,7 +121,7 @@
 作者：	Q. Xiao; Y. Zhang; Q. Yang
   
 **[	Match Normalization: Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402084	)**  
-**匹配归一化：用于实际环境中6D对象姿态估计的基于学习的点云配准**   
+**[匹配归一化：用于实际环境中6D对象姿态估计的基于学习的点云配准](https://mp.weixin.qq.com/s/tBgfT5C3nNVKeSolz08_jQ)**   
 作者：	Z. Dang; L. Wang; Y. Guo; M. Salzmann  
 
 **[	B-Cos Alignment for Inherently Interpretable CNNs and Vision Transformers	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10401936	)**  
@@ -133,5 +133,5 @@
 作者：	L. Wulfert; J. Kühnel; L. Krupp; J. Viga; C. Wiede; P. Gembaczka; A. Grabmaier
 
 **[	Diversify: A General Framework for Time Series Out-of-Distribution Detection and Generalization	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402053	)**  
-**Diversify：一种时间序列分布外检测和泛化的通用框架**   
+**[Diversify：一种时间序列分布外检测和泛化的通用框架](https://mp.weixin.qq.com/s/Yyem8Lhjt5_wH1fGjmJovg)**   
 作者：	W. Lu; J. Wang; X. Sun; Y. Chen; X. Ji; Q. Yang; X. Xie

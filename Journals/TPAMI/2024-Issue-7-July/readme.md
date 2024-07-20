@@ -3,7 +3,7 @@
 ****
 
 **[Variational Distillation for Multi-View Learning](https://ieeexplore.ieee.org/document/10372503/)**  
-**多视图学习的变分蒸馏**   
+**[多视图学习的变分蒸馏](https://mp.weixin.qq.com/s/2nuA6uyTNiy8DMTJs4ye9w)**   
 Xudong Tian; Zhizhong Zhang; Cong Wang; Wensheng Zhang; Yanyun Qu; Lizhuang Ma; Zongze Wu; Yuan Xie; Dacheng Tao  
 
 **[FlowX: Towards Explainable Graph Neural Networks via Message Flows](https://ieeexplore.ieee.org/document/10374255/)**  
@@ -15,7 +15,7 @@ Shurui Gui; Hao Yuan; Jie Wang; Qicheng Lao; Kang Li; Shuiwang Ji
 Xihua Sheng; Li Li; Dong Liu; Houqiang Li  
 
 **[Polarimetric Helmholtz Stereopsis](https://ieeexplore.ieee.org/document/10414400/)**  
-**偏振Helmholtz立体视觉**  
+**[偏振Helmholtz立体视觉](https://mp.weixin.qq.com/s/qtFNfkbIeimGjd0ufwFa3A)**  
 Yuqi Ding; Yu Ji; Zhang Chen; Mingyuan Zhou; Sing Bing Kang; Jinwei Ye  
 
 **[What Does a Model Really Look at?: Extracting Model-Oriented Concepts for Explaining Deep Neural Networks](https://ieeexplore.ieee.org/document/10412652/)**  
@@ -59,7 +59,7 @@ Mathias Gehrig; Manasi Muglikar; Davide Scaramuzza
 Zuxuan Wu; Zejia Weng; Wujian Peng; Xitong Yang; Ang Li; Larry S. Davis; Yu-Gang Jiang  
 
 **[Weakly Supervised AUC Optimization: A Unified Partial AUC Approach](https://ieeexplore.ieee.org/document/10413526/)**  
-**弱监督 AUC 优化：一种统一的部分 AUC 方法**   
+**[弱监督 AUC 优化：一种统一的部分 AUC 方法](https://mp.weixin.qq.com/s/C4g-Z3gkbvh51_zPDL344w)**   
 Zheng Xie; Yu Liu; Hao-Yuan He; Ming Li; Zhi-Hua Zhou  
 
 **[E-Gaze: Gaze Estimation With Event Camera](https://ieeexplore.ieee.org/document/10416378/)**  

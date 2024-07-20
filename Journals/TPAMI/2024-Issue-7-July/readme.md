@@ -87,15 +87,19 @@ Shengping Zhang; Wei Yu; Feng Jiang; Liqiang Nie; Hongxun Yao; Qingming Huang; D
 Yuhui Quan; Xinran Qin; Tongyao Pang; Hui Ji  
 
 **[Learnable Graph Matching: A Practical Paradigm for Data Association](https://ieeexplore.ieee.org/document/10423205/)**  
+**可学习的图匹配：数据关联的实用范式（zty）**  
 Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Robust Audio-Visual Contrastive Learning for Proposal-Based Self-Supervised Sound Source Localization in Videos](https://ieeexplore.ieee.org/document/10423816/)**  
+**鲁棒的视听对比学习：基于提议的视频自我监督声源定位方法（zty）**  
 Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Yan Yan  
 
 **[CPR++: Object Localization via Single Coarse Point Supervision](https://ieeexplore.ieee.org/document/10419178/)**  
+**CPR++: 通过单一粗略点监督实现目标定位(zty)**  
 Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixiang Ye; Jianbin Jiao  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  
+**SMART: 语法校准多方面关系变换器用于变化描述(zty)**  
 Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
 
 **[A Two-Stage Noise-Tolerant Paradigm for Label Corrupted Person Re-Identification](https://ieeexplore.ieee.org/document/10419038/)**  

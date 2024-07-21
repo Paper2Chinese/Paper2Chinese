@@ -39,12 +39,15 @@ Han-Jia Ye; Lu Ming; De-Chuan Zhan; Wei-Lun Chao
 Sungyong Baik; Myungsub Choi; Janghoon Choi; Heewon Kim; Kyoung Mu Lee  
 
 [Reinforcing Generated Images via Meta-Learning for One-Shot Fine-Grained Visual Recognition](https://ieeexplore.ieee.org/document/9756906/)  
+**通过元学习增强生成图像用于一次性细粒度视觉识别（zty）**  
 Satoshi Tsutsui; Yanwei Fu; David Crandall  
 
 [MetaKernel: Learning Variational Random Features With Limited Labels](https://ieeexplore.ieee.org/document/9722994/)  
+**元核：在有限标签条件下学习变分随机特征（zty）**  
 Yingjun Du; Haoliang Sun; Xiantong Zhen; Jun Xu; Yilong Yin; Ling Shao; Cees G. M. Snoek  
 
 [Few-Shot Font Generation With Weakly Supervised Localized Representations](https://ieeexplore.ieee.org/document/9854803/)  
+**少样本字体生成与弱监督定位表征（zty）**  
 Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim  
 
 [Interpretable Compositional Representations for Robust Few-Shot Generalization](https://ieeexplore.ieee.org/document/9913725/)  

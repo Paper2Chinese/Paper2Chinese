@@ -7,27 +7,35 @@
 Li Liu; Timothy Hospedales; Yann LeCun; Mingsheng Long; Jiebo Luo; Wanli Ouyang; Matti Pietikäinen; Tinne Tuytelaars  
 
 [Semi-Supervised and Unsupervised Deep Visual Learning: A Survey](https://ieeexplore.ieee.org/document/9866825/)  
+**半监督与无监督深度视觉学习研究综述**  
 Yanbei Chen; Massimiliano Mancini; Xiatian Zhu; Zeynep Akata  
 
 [Deeply Unsupervised Patch Re-Identification for Pre-Training Object Detectors](https://ieeexplore.ieee.org/document/9749837/)  
+**深度无监督块重识别在目标检测器预训练中的应用**  
 Jian Ding; Enze Xie; Hang Xu; Chenhan Jiang; Zhenguo Li; Ping Luo; Gui-Song Xia  
 
 [Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning](https://ieeexplore.ieee.org/document/9931970/)  
+**自适应训练：桥接监督学习与自监督学习**  
 Lang Huang; Chao Zhang; Hongyang Zhang  
 
 [Learning to Remove Rain in Video With Self-Supervision](https://ieeexplore.ieee.org/document/9815121/)  
+**自监督学习在视频去除雨中的应用**  
 Wenhan Yang; Robby T. Tan; Shiqi Wang; Alex C. Kot; Jiaying Liu  
 
 [Self-Supervised Latent Space Optimization With Nebula Variational Coding](https://ieeexplore.ieee.org/document/9740011/)  
+**星云变分编码中的自监督潜在空间优化**  
 Yida Wang; David Joseph Tan; Nassir Navab; Federico Tombari  
 
 [Incomplete Multiple Kernel Alignment Maximization for Clustering](https://ieeexplore.ieee.org/document/9556554/)  
+**不完全多核对齐最大化在聚类中的应用**  
 Xinwang Liu  
 
 [Few-Shot Learning With a Strong Teacher](https://ieeexplore.ieee.org/document/9737396/)  
+**强教师辅助下的少样本学习**  
 Han-Jia Ye; Lu Ming; De-Chuan Zhan; Wei-Lun Chao  
 
 [Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning](https://ieeexplore.ieee.org/document/10080995/)  
+**少样本学习中任务自适应超参数学习**  
 Sungyong Baik; Myungsub Choi; Janghoon Choi; Heewon Kim; Kyoung Mu Lee  
 
 [Reinforcing Generated Images via Meta-Learning for One-Shot Fine-Grained Visual Recognition](https://ieeexplore.ieee.org/document/9756906/)  

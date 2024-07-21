@@ -26,7 +26,7 @@
 []()(Y)   
 **Sachit MenonIshaan Preetam ChandratreyaCarl Vondrick**     
 **[Data Augmentation for Low-Level Vision: CutBlur and Mixture-of-Augmentation]( 	https://link.springer.com/article/10.1007/s11263-023-01970-z)**  
-[]()(Y)   
+[低级视觉数据增强：CutBlur及混合增强方法]()(Y)   
 **Namhyuk AhnJaejun YooKyung-Ah Sohn**     
 **[Interpretable Task-inspired Adaptive Filter Pruning for Neural Networks Under Multiple Constraints]( 	https://link.springer.com/article/10.1007/s11263-023-01972-x)**  
 []()(Y)   

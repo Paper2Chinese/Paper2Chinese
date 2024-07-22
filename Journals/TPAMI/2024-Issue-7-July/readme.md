@@ -131,16 +131,21 @@ Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung
 Tomáš Souček; Jean-Baptiste Alayrac; Antoine Miech; Ivan Laptev; Josef Sivic  
 
 **[On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations](https://ieeexplore.ieee.org/document/10418534/)**  
+**卷积神经网络中分段线性激活函数的线性区域数量研究**  
 Huan Xiong; Lei Huang; Wenston J.T. Zang; Xiantong Zhen; Guo-Sen Xie; Bin Gu; Le Song  
 
 **[One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching](https://ieeexplore.ieee.org/document/10428035/)**  
+**通过多尺度时空骨架匹配的一次性动作识别**  
 Siyuan Yang; Jun Liu; Shijian Lu; Er Meng Hwa; Alex C. Kot  
 
 **[Box2Mask: Box-Supervised Instance Segmentation via Level-Set Evolution](https://ieeexplore.ieee.org/document/10423160/)**  
+**Box2Mask：通过水平集演化的Box监督实例分割**  
 Wentong Li; Wenyu Liu; Jianke Zhu; Miaomiao Cui; Risheng Yu; Xiansheng Hua; Lei Zhang  
 
 **[Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/document/10440522/)**  
+**面向机器的视频编码：为智能协作分析压缩视觉表示**  
 Wenhan Yang; Haofeng Huang; Yueyu Hu; Ling-Yu Duan; Jiaying Liu  
 
 **[Chinese Title Generation for Short Videos: Dataset, Metric and Algorithm](https://ieeexplore.ieee.org/document/10436633/)**  
+**短视频中文标题生成：数据集、评价指标与算法**  
 Ziqi Zhang; Zongyang Ma; Chunfeng Yuan; Yuxin Chen; Peijin Wang; Zhongang Qi; Chenglei Hao; Bing Li; Ying Shan; Weiming Hu; Stephen Maybank  

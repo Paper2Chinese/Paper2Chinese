@@ -51,6 +51,7 @@ Yingjun Du; Haoliang Sun; Xiantong Zhen; Jun Xu; Yilong Yin; Ling Shao; Cees G. 
 Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim  
 
 [Interpretable Compositional Representations for Robust Few-Shot Generalization](https://ieeexplore.ieee.org/document/9913725/)  
+**可解释的组合式表示，用于鲁棒的小样本泛化（zty）**  
 Samarth Mishra; Pengkai Zhu; Venkatesh Saligrama  
 
 [Bayesian Embeddings for Few-Shot Open World Recognition](https://ieeexplore.ieee.org/document/9875990/)  

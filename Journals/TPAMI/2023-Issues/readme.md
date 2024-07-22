@@ -15,6 +15,8 @@ Yujiang Wang; Mingzhi Dong; Jie Shen; Yiming Luo; Yiming Lin; Pingchuan Ma; Stav
 Kashyap Chitta; Aditya Prakash; Bernhard Jaeger; Zehao Yu; Katrin Renz; Andreas Geiger  
 
 [TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning](https://ieeexplore.ieee.org/document/9987664)  
+**TransZero++: 跨属性引导的Transformer用于零样本学习（zty）**  
+Shiming Chen; Ziming Hong; Wenjin Hou; Guo-Sen Xie; Yibing Song; Jian Zhao; Xinge You; Shuicheng Yan
 
 [Unsupervised Pre-Training for Detection Transformers](https://ieeexplore.ieee.org/document/9926201)  
 

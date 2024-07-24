@@ -3,11 +3,11 @@
 *******
 
 [Image De-Raining Transformer](https://ieeexplore.ieee.org/document/9798773)  
-**图像去雨变换器（zty）**  
+**图像去雨Transformer（zty）**  
 Jie Xiao; Xueyang Fu; Aiping Liu; Feng Wu; Zheng-Jun Zha  
 
 [Self-Supervised Video-Centralised Transformer for Video Face Clustering](https://ieeexplore.ieee.org/document/10042051)  
-**自监督视频中心化变换器在视频人脸聚类中的应用（zty）**  
+**自监督视频中心化Transformer在视频人脸聚类中的应用（zty）**  
 Yujiang Wang; Mingzhi Dong; Jie Shen; Yiming Luo; Yiming Lin; Pingchuan Ma; Stavros Petridis; Maja Pantic  
 
 [TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving](https://ieeexplore.ieee.org/document/9863660)  

@@ -16,13 +16,19 @@ Kashyap Chitta; Aditya Prakash; Bernhard Jaeger; Zehao Yu; Katrin Renz; Andreas 
 
 [TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning](https://ieeexplore.ieee.org/document/9987664)  
 **TransZero++: 跨属性引导的Transformer用于零样本学习（zty）**  
-Shiming Chen; Ziming Hong; Wenjin Hou; Guo-Sen Xie; Yibing Song; Jian Zhao; Xinge You; Shuicheng Yan
+Shiming Chen; Ziming Hong; Wenjin Hou; Guo-Sen Xie; Yibing Song; Jian Zhao; Xinge You; Shuicheng Yan  
 
 [Unsupervised Pre-Training for Detection Transformers](https://ieeexplore.ieee.org/document/9926201)  
+**用于检测Transformers的无监督预训练（zty）**  
+Zhigang Dai; Bolun Cai; Yugeng Lin; Junying Chen  
 
 [P2T: Pyramid Pooling Transformer for Scene Understanding](https://ieeexplore.ieee.org/document/9870559)  
+**P2T：用于场景理解的金字塔池化Transformer（zty）**  
+Yu-Huan Wu; Yun Liu; Xin Zhan; Ming-Ming Cheng  
 
 [Dynamic Unary Convolution in Transformers](https://ieeexplore.ieee.org/document/10004645)  
+**Transformer中的动态一元卷积（zty）**  
+Haoran Duan; Yang Long; Shidong Wang; Haofeng Zhang; Chris G. Willcocks; Ling Shao  
 
 [Facial Video-Based Remote Physiological Measurement via Self-Supervised Learning](https://ieeexplore.ieee.org/document/10193817)  
 

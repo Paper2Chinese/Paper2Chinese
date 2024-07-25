@@ -116,12 +116,15 @@ Tao Li; Cheng Meng; Hongteng Xu; Jun Yu
 Lei Zhang; Jiangtao Nie; Wei Wei; Yanning Zhang  
 
 **[Learning With Constraint Learning: New Perspective, Solution Strategy and Various Applications](https://ieeexplore.ieee.org/document/10430445/)**  
+**使用约束学习的学习：新视角、解决策略及多种应用**  
 Risheng Liu; Jiaxin Gao; Xuan Liu; Xin Fan  
 
 **[A Multi-Level Interpretable Sleep Stage Scoring System by Infusing Experts’ Knowledge Into a Deep Network Architecture](https://ieeexplore.ieee.org/document/10436701/)**  
+**基于专家知识融入深度网络架构的多层次可解释睡眠阶段评分系统**  
 Hamid Niknazar; Sara C. Mednick  
 
 **[Algorithm-Dependent Generalization of AUPRC Optimization: Theory and Algorithm](https://ieeexplore.ieee.org/document/10422838/)**  
+**算法依赖的AUPRC优化泛化：理论与算法**  
 Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang  
 
 **[Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors](https://ieeexplore.ieee.org/document/10420464/)**  

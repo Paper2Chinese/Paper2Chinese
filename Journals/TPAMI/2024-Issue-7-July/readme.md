@@ -43,7 +43,7 @@ Yan Xu; Kwan-Yee Lin; Guofeng Zhang; Xiaogang Wang; Hongsheng Li
 Zhihao Li; Ming Lu; Xu Zhang; Xin Feng; M. Salman Asif; Zhan Ma  
 
 **[AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping](https://ieeexplore.ieee.org/document/10412658/)**  
-**AdaCS: 基于具有限制等距性质的错误夹持的自适应压缩感知（zty）**  
+**[AdaCS: 基于具有限制等距性质的错误夹持的自适应压缩感知](https://mp.weixin.qq.com/s/gYX72iA4q6nJNjouuJ3-xA)**  
 Chenxi Qiu; Xuemei Hu  
 
 **[Every Problem, Every Step, All in Focus: Learning to Solve Vision-Language Problems With Integrated Attention](https://ieeexplore.ieee.org/document/10412655/)**  
@@ -51,7 +51,7 @@ Chenxi Qiu; Xuemei Hu
 Xianyu Chen; Jinhui Yang; Shi Chen; Louis Wang; Ming Jiang; Qi Zhao  
 
 **[Dense Continuous-Time Optical Flow From Event Cameras](https://ieeexplore.ieee.org/document/10419040/)**  
-**从事件相机中获取稠密连续时间光流**  
+**[从事件相机中获取稠密连续时间光流](https://mp.weixin.qq.com/s/pKSDnYSJZrMjc-oQZ6fVFg)**  
 Mathias Gehrig; Manasi Muglikar; Davide Scaramuzza  
 
 **[Building an Open-Vocabulary Video CLIP Model With Better Architectures, Optimization and Data](https://ieeexplore.ieee.org/document/10412661/)**  
@@ -112,7 +112,7 @@ Kaidong Zhang; Jialun Peng; Jingjing Fu; Dong Liu
 Tao Li; Cheng Meng; Hongteng Xu; Jun Yu  
 
 **[Unsupervised Test-Time Adaptation Learning for Effective Hyperspectral Image Super-Resolution With Unknown Degeneration](https://ieeexplore.ieee.org/document/10420496/)**  
-**无监督测试时间适应学习用于在未知退化下实现高效的高光谱图像超分辨率**  
+**[无监督测试时间适应学习用于在未知退化下实现高效的高光谱图像超分辨率](https://mp.weixin.qq.com/s/A0tfNuO_hWcCtwqqmZEWOQ)**  
 Lei Zhang; Jiangtao Nie; Wei Wei; Yanning Zhang  
 
 **[Learning With Constraint Learning: New Perspective, Solution Strategy and Various Applications](https://ieeexplore.ieee.org/document/10430445/)**  

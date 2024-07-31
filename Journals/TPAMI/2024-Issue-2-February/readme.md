@@ -125,5 +125,5 @@ Xiaoliu Luo; Zhuotao Tian; Taiping Zhang; Bei Yu; Yuan Yan Tang; Jiaya Jia
 **[Tobias: A Random CNN Sees Objects](https://ieeexplore.ieee.org/document/10305409/)**  
 Yun-Hao Cao; Jianxin Wu  
 
-**Inequality-Constrained 3D Morphable Face Model Fitting**  
+**[Inequality-Constrained 3D Morphable Face Model Fitting](https://ieeexplore.ieee.org/document/10330115/)**  
 Evangelos Sariyanidi; Casey J. Zampella; Robert T. Schultz; Birkan Tunç  

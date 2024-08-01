@@ -31,16 +31,28 @@ Yu-Huan Wu; Yun Liu; Xin Zhan; Ming-Ming Cheng
 Haoran Duan; Yang Long; Shidong Wang; Haofeng Zhang; Chris G. Willcocks; Ling Shao  
 
 [Facial Video-Based Remote Physiological Measurement via Self-Supervised Learning](https://ieeexplore.ieee.org/document/10193817)  
+**基于面部视频的远程生理测量：自监督学习方法(zty)**  
+Zijie Yue; Miaojing Shi; Shuai Ding  
 
 [FarSeg++: Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10188509)  
+**FarSeg++：面向高空间分辨率遥感图像中地理空间对象分割的前景感知关系网络(zty)**  
+Zhuo Zheng; Yanfei Zhong; Junjue Wang; Ailong Ma; Liangpei Zhang  
 
 [TransVG++: End-to-End Visual Grounding With Language Conditioned Vision Transformer](https://ieeexplore.ieee.org/document/10187690)  
+**TransVG++：基于语言条件视觉Transformer的端到端视觉定位(zty)**  
+Jiajun Deng , Zhengyuan Yang , Daqing Liu , Tianlang Chen , Wengang Zhou ,Yanyong Zhang , Houqiang Li , Wanli Ouyang , Senior Member  
 
 [Adaptive Region-Specific Loss for Improved Medical Image Segmentation](https://ieeexplore.ieee.org/document/10163830)  
+**自适应区域特定损失：提高医学图像分割性能(zty)**  
+Yizheng Chen; Lequan Yu; Jen-Yeu Wang; Neil Panjwani; Jean-Pierre Obeid; Wu Liu; Lianli Liu; Nataliya Kovalchuk
 
 [View Synthesis of Dynamic Scenes Based on Deep 3D Mask Volume](https://ieeexplore.ieee.org/document/10163947)  
+**基于深度三维遮罩体的动态场景视图合成(zty)**  
+Kai-En Lin; Guowei Yang; Lei Xiao; Feng Liu; Ravi Ramamoorthi  
 
 [Towards More Reliable Confidence Estimation](https://ieeexplore.ieee.org/document/10172026)  
+**迈向更可靠的置信度估计(zty)**  
+Haoxuan Qu; Lin Geng Foo; Yanchao Li; Jun Liu  
 
 [3D Visual Saliency: An Independent Perceptual Measure or a Derivative of 2D Image Saliency?](https://ieeexplore.ieee.org/document/10155236)  
 

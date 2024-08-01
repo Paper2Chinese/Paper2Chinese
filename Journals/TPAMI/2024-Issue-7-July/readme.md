@@ -94,6 +94,7 @@ Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang
 Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Yan Yan  
 
 **[CPR++: Object Localization via Single Coarse Point Supervision](https://ieeexplore.ieee.org/document/10419178/)**  
+**CPR++：通过单一粗略点监督进行物体定位**   
 Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixiang Ye; Jianbin Jiao  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  

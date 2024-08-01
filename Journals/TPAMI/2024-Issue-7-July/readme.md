@@ -91,6 +91,7 @@ Yuhui Quan; Xinran Qin; Tongyao Pang; Hui Ji
 Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Robust Audio-Visual Contrastive Learning for Proposal-Based Self-Supervised Sound Source Localization in Videos](https://ieeexplore.ieee.org/document/10423816/)**  
+**基于提案的自监督视频中声源定位的鲁棒音视频对比学习**  
 Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Yan Yan  
 
 **[CPR++: Object Localization via Single Coarse Point Supervision](https://ieeexplore.ieee.org/document/10419178/)**  

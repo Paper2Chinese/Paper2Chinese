@@ -132,6 +132,7 @@ Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang
 Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung  
 
 **[Multi-Task Learning of Object States and State-Modifying Actions From Web Videos](https://ieeexplore.ieee.org/document/10420504/)**  
+**从网络视频中多任务学习物体状态和状态修改动作**  
 Tomáš Souček; Jean-Baptiste Alayrac; Antoine Miech; Ivan Laptev; Josef Sivic  
 
 **[On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations](https://ieeexplore.ieee.org/document/10418534/)**  

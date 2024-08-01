@@ -128,6 +128,7 @@ Hamid Niknazar; Sara C. Mednick
 Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang  
 
 **[Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors](https://ieeexplore.ieee.org/document/10420464/)**  
+**通过多重相似张量集成的深度张量谱聚类网络**  
 Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung  
 
 **[Multi-Task Learning of Object States and State-Modifying Actions From Web Videos](https://ieeexplore.ieee.org/document/10420504/)**  

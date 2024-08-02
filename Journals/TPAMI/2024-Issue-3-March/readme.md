@@ -71,9 +71,11 @@ Massimiliano Mancini; Muhammad Ferjad Naeem; Yongqin Xian; Zeynep Akata
 Pratik Mazumder; Pravendra Singh; Piyush Rai; Vinay P. Namboodiri  
 
 [MgSvF: Multi-Grained Slow versus Fast Framework for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/9645290/)  
+**MgSvF: 少样本类增量学习的多粒度慢与快框架**  
 Hanbin Zhao; Yongjian Fu; Mintong Kang; Qi Tian; Fei Wu; Xi Li  
 
 [Improving Semantic Segmentation via Efficient Self-Training](https://ieeexplore.ieee.org/document/9663011/)  
+**提高语义分割的效率自训练方法**  
 Yi Zhu; Zhongyue Zhang; Chongruo Wu; Zhi Zhang; Tong He; Hang Zhang; R. Manmatha; Mu Li; Alexander Smola  
 
 [RAgE: Robust Age Estimation Through Subject Anchoring With Consistency Regularisation](https://ieeexplore.ieee.org/document/9810519/)  

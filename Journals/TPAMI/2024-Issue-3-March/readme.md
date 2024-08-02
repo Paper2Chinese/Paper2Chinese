@@ -55,13 +55,16 @@ Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim
 Samarth Mishra; Pengkai Zhu; Venkatesh Saligrama  
 
 [Bayesian Embeddings for Few-Shot Open World Recognition](https://ieeexplore.ieee.org/document/9875990/)  
+**贝叶斯嵌入在少样本开放世界识别中的应用（zty）**  
 John Willes; James Harrison; Ali Harakeh; Chelsea Finn; Marco Pavone; Steven L. Waslander  
 
 
 [Semantics-Guided Contrastive Network for Zero-Shot Object Detection](https://ieeexplore.ieee.org/document/9669022/)  
+**语义引导的对比网络在零样本目标检测中的应用（zty）**  
 Caixia Yan; Xiaojun Chang; Minnan Luo; Huan Liu; Xiaoqin Zhang; Qinghua Zheng  
 
 [Learning Graph Embeddings for Open World Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/9745371/)  
+**为开放世界组合式零样本学习学习图嵌入（zty）**  
 Massimiliano Mancini; Muhammad Ferjad Naeem; Yongqin Xian; Zeynep Akata  
 
 [Rectification-Based Knowledge Retention for Task Incremental Learning](https://ieeexplore.ieee.org/document/9966835/)  

@@ -6,9 +6,11 @@
 **Iris Dominguez-Catena; Daniel Paternain; Mikel Galar**  
 
 **[SpectralGPT: Spectral Remote Sensing Foundation Model](https://ieeexplore.ieee.org/document/10490262/)**  
+**SpectralGPT：光谱遥感基础模型**  
 **Danfeng Hong; Bing Zhang; Xuyang Li; Yuxuan Li; Chenyu Li; Jing Yao; Naoto Yokoya; Hao Li; Pedram Ghamisi; Xiuping Jia; Antonio Plaza; Paolo Gamba; Jon Atli  enediktsson; Jocelyn Chanussot**  
 
 **[Towards Inductive and Efficient Explanations for Graph Neural Networks](https://ieeexplore.ieee.org/document/10423141/)**  
+**向图神经网络的归纳和高效解释迈进**  
 **Dongsheng Luo; Tianxiang Zhao; Wei Cheng; Dongkuan Xu; Feng Han; Wenchao Yu; Xiao Liu; Haifeng Chen; Xiang Zhang**  
 
 **[Efficient Offline Reinforcement Learning With Relaxed Conservatism](https://ieeexplore.ieee.org/document/10432784/)**  

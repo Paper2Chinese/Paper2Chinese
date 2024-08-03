@@ -15,18 +15,23 @@
 **Dongsheng Luo; Tianxiang Zhao; Wei Cheng; Dongkuan Xu; Feng Han; Wenchao Yu; Xiao Liu; Haifeng Chen; Xiang Zhang**  
 
 **[Efficient Offline Reinforcement Learning With Relaxed Conservatism](https://ieeexplore.ieee.org/document/10432784/)**  
+**具有放松保守性的高效离线强化学习**  
 **Longyang Huang; Botao Dong; Weidong Zhang**  
 
 **[Deciphering the Feature Representation of Deep Neural Networks for High-Performance AI](https://ieeexplore.ieee.org/document/10439639/)**  
+**解码深度神经网络特征表示以实现高性能人工智能**  
 **Md Tauhidul Islam; Lei Xing**  
 
 **[Evidential Multi-Source-Free Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10420513/)**  
+**无需多源证据的无监督领域自适应**  
 **Jiangbo Pei; Aidong Men; Yang Liu; Xiahai Zhuang; Qingchao Chen**  
 
 **[Adversarial Attack and Defense in Deep Ranking](https://ieeexplore.ieee.org/document/10433769/)**  
+**深度排序中的对抗性攻击与防御**  
 **Mo Zhou; Le Wang; Zhenxing Niu; Qilin Zhang; Nanning Zheng; Gang Hua**  
 
 **[Cross-Modal Federated Human Activity Recognition](https://ieeexplore.ieee.org/document/10440498/)**  
+**跨模态联合人体活动识别**  
 **Xiaoshan Yang; Baochen Xiong; Yi Huang; Changsheng Xu**  
 
 **[Multi-Person Pose Regression With Distribution-Aware Single-Stage Models](https://ieeexplore.ieee.org/document/10430443/)**  

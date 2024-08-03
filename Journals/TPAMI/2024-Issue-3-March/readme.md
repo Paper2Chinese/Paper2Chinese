@@ -79,6 +79,7 @@ Hanbin Zhao; Yongjian Fu; Mintong Kang; Qi Tian; Fei Wu; Xi Li
 Yi Zhu; Zhongyue Zhang; Chongruo Wu; Zhi Zhang; Tong He; Hang Zhang; R. Manmatha; Mu Li; Alexander Smola  
 
 [RAgE: Robust Age Estimation Through Subject Anchoring With Consistency Regularisation](https://ieeexplore.ieee.org/document/9810519/)  
+**RAgE: 基于一致性正则化和主体锚定的鲁棒年龄估计**  
 Ali Akbari; Muhammad Awais; Soroush Fatemifar; Syed Safwan Khalid; Josef Kittler  
 
 [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329/)  

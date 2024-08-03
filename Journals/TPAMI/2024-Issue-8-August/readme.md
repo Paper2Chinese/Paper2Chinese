@@ -35,18 +35,23 @@
 **Xiaoshan Yang; Baochen Xiong; Yi Huang; Changsheng Xu**  
 
 **[Multi-Person Pose Regression With Distribution-Aware Single-Stage Models](https://ieeexplore.ieee.org/document/10430443/)**  
+**考虑分布特性的单阶段多人姿态回归模型**  
 **Leyan Zhu; Zitian Wang; Si Liu; Xuecheng Nie; Luoqi Liu; Bo Li**  
 
 **[Cross-Image Pixel Contrasting for Semantic Segmentation](https://ieeexplore.ieee.org/document/10443562/)**  
+**跨图像像素对比的语义分割方法**  
 **Tianfei Zhou; Wenguan Wang**  
 
 **[Property-Aware Relation Networks for Few-Shot Molecular Property Prediction](https://ieeexplore.ieee.org/document/10443285/)**  
+**面向少样本分子属性预测的属性感知关系网络**  
 **Quanming Yao; Zhenqian Shen; Yaqing Wang; Dejing Dou**  
 
 **[Source-Free Domain Adaptation With Domain Generalized Pretraining for Face Anti-Spoofing](https://ieeexplore.ieee.org/document/10449373/)**  
+**无需源域的领域泛化预训练在面部反欺骗中的应用**  
 **Yuchen Liu; Yabo Chen; Wenrui Dai; Mengran Gou; Chun-Ting Huang; Hongkai Xiong**  
 
 **[From Simple to Complex Scenes: Learning Robust Feature Representations for Accurate Human Parsing](https://ieeexplore.ieee.org/document/10438878/)**  
+**从简单到复杂场景：学习鲁棒特征表示以实现精确人体解析**  
 **Yunan Liu; Chunpeng Wang; Mingyu Lu; Jian Yang; Jie Gui; Shanshan Zhang**  
 
 **[Disorder-Invariant Implicit Neural Representation](https://ieeexplore.ieee.org/document/10436706/)**  

@@ -3,6 +3,7 @@
 *****
 
 **[Metrics for Dataset Demographic Bias: A Case Study on Facial Expression Recognition](https://ieeexplore.ieee.org/document/10420507/)**  
+**数据集人口统计偏见的指标：面部表情识别案例研究**  
 **Iris Dominguez-Catena; Daniel Paternain; Mikel Galar**  
 
 **[SpectralGPT: Spectral Remote Sensing Foundation Model](https://ieeexplore.ieee.org/document/10490262/)**  

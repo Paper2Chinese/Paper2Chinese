@@ -11,11 +11,11 @@ Jie Xiao; Xueyang Fu; Aiping Liu; Feng Wu; Zheng-Jun Zha
 Yujiang Wang; Mingzhi Dong; Jie Shen; Yiming Luo; Yiming Lin; Pingchuan Ma; Stavros Petridis; Maja Pantic  
 
 [TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving](https://ieeexplore.ieee.org/document/9863660)  
-**TransFuser: 基于Transformer的传感器融合用于自动驾驶的模仿学习（zty）**  
+**[TransFuser: 基于Transformer的传感器融合用于自动驾驶的模仿学习](https://mp.weixin.qq.com/s/h5grJzWKaa7Uz4zDd_zgFg)**  
 Kashyap Chitta; Aditya Prakash; Bernhard Jaeger; Zehao Yu; Katrin Renz; Andreas Geiger  
 
 [TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning](https://ieeexplore.ieee.org/document/9987664)  
-**TransZero++: 跨属性引导的Transformer用于零样本学习（zty）**  
+**[TransZero++: 跨属性引导的Transformer用于零样本学习](https://mp.weixin.qq.com/s/FjgDMxSQSRQ6SGwompO8dA)**  
 Shiming Chen; Ziming Hong; Wenjin Hou; Guo-Sen Xie; Yibing Song; Jian Zhao; Xinge You; Shuicheng Yan  
 
 [Unsupervised Pre-Training for Detection Transformers](https://ieeexplore.ieee.org/document/9926201)  
@@ -27,7 +27,7 @@ Zhigang Dai; Bolun Cai; Yugeng Lin; Junying Chen
 Yu-Huan Wu; Yun Liu; Xin Zhan; Ming-Ming Cheng  
 
 [Dynamic Unary Convolution in Transformers](https://ieeexplore.ieee.org/document/10004645)  
-**Transformer中的动态一元卷积（zty）**  
+**[Transformer中的动态一元卷积](https://mp.weixin.qq.com/s/UQvX_ZURGAW2e5Vo4CnviQ)**  
 Haoran Duan; Yang Long; Shidong Wang; Haofeng Zhang; Chris G. Willcocks; Ling Shao  
 
 [Facial Video-Based Remote Physiological Measurement via Self-Supervised Learning](https://ieeexplore.ieee.org/document/10193817)  

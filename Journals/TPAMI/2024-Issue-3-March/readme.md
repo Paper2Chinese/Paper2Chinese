@@ -68,6 +68,7 @@ Caixia Yan; Xiaojun Chang; Minnan Luo; Huan Liu; Xiaoqin Zhang; Qinghua Zheng
 Massimiliano Mancini; Muhammad Ferjad Naeem; Yongqin Xian; Zeynep Akata  
 
 [Rectification-Based Knowledge Retention for Task Incremental Learning](https://ieeexplore.ieee.org/document/9966835/)  
+**基于矫正的知识保持用于任务增量学习（zty）**  
 Pratik Mazumder; Pravendra Singh; Piyush Rai; Vinay P. Namboodiri  
 
 [MgSvF: Multi-Grained Slow versus Fast Framework for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/9645290/)  
@@ -83,15 +84,19 @@ Yi Zhu; Zhongyue Zhang; Chongruo Wu; Zhi Zhang; Tong He; Hang Zhang; R. Manmatha
 Ali Akbari; Muhammad Awais; Soroush Fatemifar; Syed Safwan Khalid; Josef Kittler  
 
 [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329/)  
+**针对弱监督语义分割和目标定位的抗对抗性操纵的归因分析（zty）**  
 Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon  
 
 [Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning](https://ieeexplore.ieee.org/document/9760057/)  
+**超越单一图像的弱监督语义分割学习研究（zty）**  
 Wenguan Wang; Guolei Sun; Luc Van Gool  
 
 [Recognizing Predictive Substructures With Subgraph Information Bottleneck](https://ieeexplore.ieee.org/document/9537601/)  
+**利用子图信息瓶颈识别预测性子结构（zty）**  
 Junchi Yu; Tingyang Xu; Yu Rong; Yatao Bian; Junzhou Huang; Ran He  
 
 [Where and How to Transfer: Knowledge Aggregation-Induced Transferability Perception for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9616392/)  
+**何处以及如何迁移：知识聚合诱导的迁移性感知在无监督领域自适应中的应用（zty）**  
 Jiahua Dong; Yang Cong; Gan Sun; Zhen Fang; Zhengming Ding  
 
 [Feature Re-Representation and Reliable Pseudo Label Retraining for Cross-Domain Semantic Segmentation](https://ieeexplore.ieee.org/document/9733271/)  

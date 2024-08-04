@@ -63,15 +63,15 @@ Zuxuan Wu; Zejia Weng; Wujian Peng; Xitong Yang; Ang Li; Larry S. Davis; Yu-Gang
 Zheng Xie; Yu Liu; Hao-Yuan He; Ming Li; Zhi-Hua Zhou  
 
 **[E-Gaze: Gaze Estimation With Event Camera](https://ieeexplore.ieee.org/document/10416378/)**  
-**E-Gaze：基于事件摄像机的注视估计技术**  
+**[E-Gaze：基于事件摄像机的注视估计技术](https://mp.weixin.qq.com/s/Cms7-Tnfs7NZnVYnrjc-1Q)**  
 Nealson Li; Muya Chang; Arijit Raychowdhury  
 
 **[Human Versus Machine Intelligence: Assessing Natural Language Generation Models Through Complex Systems Theory](https://ieeexplore.ieee.org/document/10413606/)**  
-**人类与机器智能：通过复杂系统理论评估自然语言生成模型**  
+**[人类与机器智能：通过复杂系统理论评估自然语言生成模型](https://mp.weixin.qq.com/s/KHo0ubnWXu2ad_PixZ8vYw)**  
 Enrico De Santis; Alessio Martino; Antonello Rizzi  
 
 **[A Time-Consistency Curriculum for Learning From Instance-Dependent Noisy Labels](https://ieeexplore.ieee.org/document/10418893/)**  
-**面向实例依赖噪声标签的学习的时间一致性**  
+**[面向实例依赖噪声标签的学习的时间一致性](https://mp.weixin.qq.com/s/l3WJAcyNW325MtjcB5-sLQ)**  
 Songhua Wu; Tianyi Zhou; Yuxuan Du; Jun Yu; Bo Han; Tongliang Liu  
 
 **[Probabilistic Principal Curves on Riemannian Manifolds](https://ieeexplore.ieee.org/document/10413614/)**  
@@ -83,11 +83,11 @@ Seungwoo Kang; Hee-Seok Oh
 Shengping Zhang; Wei Yu; Feng Jiang; Liqiang Nie; Hongxun Yao; Qingming Huang; Dacheng Tao  
 
 **[Siamese Cooperative Learning for Unsupervised Image Reconstruction From Incomplete Measurements](https://ieeexplore.ieee.org/document/10415211/)**  
-**无监督图像重建的孪生合作学习方法**   
+**[无监督图像重建的孪生合作学习方法](https://mp.weixin.qq.com/s/f4k1KEaVz7g_GA_PnYtuMQ)**   
 Yuhui Quan; Xinran Qin; Tongyao Pang; Hui Ji  
 
 **[Learnable Graph Matching: A Practical Paradigm for Data Association](https://ieeexplore.ieee.org/document/10423205/)**  
-**可学习的图匹配：数据关联的实用范式（zty）**  
+**[可学习的图匹配：数据关联的实用范式](https://mp.weixin.qq.com/s/Wnvb_InBkM_VLpTzjZwf_g)**  
 Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Robust Audio-Visual Contrastive Learning for Proposal-Based Self-Supervised Sound Source Localization in Videos](https://ieeexplore.ieee.org/document/10423816/)**  
@@ -102,7 +102,7 @@ Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixia
 Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
 
 **[A Two-Stage Noise-Tolerant Paradigm for Label Corrupted Person Re-Identification](https://ieeexplore.ieee.org/document/10419038/)**  
-**一个面向标签损坏行人重识别的两阶段抗噪范式**   
+**[一个面向标签损坏行人重识别的两阶段抗噪范式](https://mp.weixin.qq.com/s/64_09MAbrQgx23ZT-TE8yw)**   
 Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury  
 
 **[Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting](https://ieeexplore.ieee.org/document/10418551/)**  
@@ -110,7 +110,7 @@ Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury
 Kaidong Zhang; Jialun Peng; Jingjing Fu; Dong Liu  
 
 **[Hilbert Curve Projection Distance for Distribution Comparison](https://ieeexplore.ieee.org/document/10428036/)**  
-**Hilbert曲线投影距离用于分布比较**  
+**[Hilbert曲线投影距离用于分布比较](https://mp.weixin.qq.com/s/4_Ld1tEhtmYts_FueAr7aA)**  
 Tao Li; Cheng Meng; Hongteng Xu; Jun Yu  
 
 **[Unsupervised Test-Time Adaptation Learning for Effective Hyperspectral Image Super-Resolution With Unknown Degeneration](https://ieeexplore.ieee.org/document/10420496/)**  
@@ -130,7 +130,7 @@ Hamid Niknazar; Sara C. Mednick
 Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang  
 
 **[Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors](https://ieeexplore.ieee.org/document/10420464/)**  
-**通过多重相似张量集成的深度张量谱聚类网络**  
+**[通过多重相似张量集成的深度张量谱聚类网络](https://mp.weixin.qq.com/s/xmXTx30OPOGZH1KB_cr1hg)**  
 Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung  
 
 **[Multi-Task Learning of Object States and State-Modifying Actions From Web Videos](https://ieeexplore.ieee.org/document/10420504/)**  
@@ -138,7 +138,7 @@ Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung
 Tomáš Souček; Jean-Baptiste Alayrac; Antoine Miech; Ivan Laptev; Josef Sivic  
 
 **[On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations](https://ieeexplore.ieee.org/document/10418534/)**  
-**卷积神经网络中分段线性激活函数的线性区域数量研究**  
+**[卷积神经网络中分段线性激活函数的线性区域数量研究](https://mp.weixin.qq.com/s/BxSYc_r0uzSrc8coHq-UnA)**  
 Huan Xiong; Lei Huang; Wenston J.T. Zang; Xiantong Zhen; Guo-Sen Xie; Bin Gu; Le Song  
 
 **[One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching](https://ieeexplore.ieee.org/document/10428035/)**  

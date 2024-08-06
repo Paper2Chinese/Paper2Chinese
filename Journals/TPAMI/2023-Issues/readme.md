@@ -55,14 +55,24 @@ Kai-En Lin; Guowei Yang; Lei Xiao; Feng Liu; Ravi Ramamoorthi
 Haoxuan Qu; Lin Geng Foo; Yanchao Li; Jun Liu  
 
 [3D Visual Saliency: An Independent Perceptual Measure or a Derivative of 2D Image Saliency?](https://ieeexplore.ieee.org/document/10155236)  
+**三维视觉显著性：一个独立的感知度量还是二维图像显著性的衍生物？（zty）**  
+Ran Song; Wei Zhang; Yitian Zhao; Yonghuai Liu; Paul L. Rosin  
 
 [SODFormer: Streaming Object Detection With Transformer Using Events and Frames](https://ieeexplore.ieee.org/document/10195232)  
+**SODFormer：利用事件和帧流进行Transformer基础的流式目标检测（zty）**  
+Dianze Li; Yonghong Tian; Jianing Li  
 
 [Object Affinity Learning: Towards Annotation-Free Instance Segmentation](https://ieeexplore.ieee.org/document/10192375)  
+**对象亲和性学习：迈向无需标注的实例分割（zty）**  
+Yuqi Wang; Yuntao Chen; Zhaoxiang Zhang  
 
 [Weakly Supervised Semantic Segmentation via Box-Driven Masking and Filling Rate Shifting](https://ieeexplore.ieee.org/document/10202580)  
+**基于框驱动掩模和填充率偏移的弱监督语义分割（zty）**  
+Chunfeng Song; Wanli Ouyang; Zhaoxiang Zhang  
 
 [Wavelet Approximation-Aware Residual Network for Single Image Deraining](https://ieeexplore.ieee.org/document/10227544)  
+**基于小波近似感知残差网络的单图像去雨（zty）**  
+Wei-Yen Hsu; Wei-Chi Chang  
 
 [Unsupervised Local Discrimination for Medical Images](https://ieeexplore.ieee.org/document/10195235)  
 

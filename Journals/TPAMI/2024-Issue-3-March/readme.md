@@ -100,30 +100,39 @@ Junchi Yu; Tingyang Xu; Yu Rong; Yatao Bian; Junzhou Huang; Ran He
 Jiahua Dong; Yang Cong; Gan Sun; Zhen Fang; Zhengming Ding  
 
 [Feature Re-Representation and Reliable Pseudo Label Retraining for Cross-Domain Semantic Segmentation](https://ieeexplore.ieee.org/document/9733271/)  
+**跨域语义分割的特征再表示与可靠伪标签重训练**  
 Jing Li; Kang Zhou; Shenhan Qian; Wen Li; Lixin Duan; Shenghua Gao  
 
 [I2F: A Unified Image-to-Feature Approach for Domain Adaptive Semantic Segmentation](https://ieeexplore.ieee.org/document/9984933/)  
+**I2F: 一种统一的图像到特征的领域自适应语义分割方法**  
 Haoyu Ma; Xiangru Lin; Yizhou Yu  
 
 [Intra-Inter Domain Similarity for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/9745321/)  
+**无监督人员重识别的内部-外部域相似性**  
 Shiyu Xuan; Shiliang Zhang  
 
 [Graphical Modeling for Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/document/9767755/)  
+**多源领域适应的图形建模**  
 Minghao Xu; Hang Wang; Bingbing Ni  
 
 [Multiple Adverse Weather Conditions Adaptation for Object Detection via Causal Intervention](https://ieeexplore.ieee.org/document/9756301/)  
+**通过因果干预适应多种不利天气条件的对象检测**  
 Hua Zhang; Liqiang Xiao; Xiaochun Cao; Hassan Foroosh  
 
 [Unsupervised and Semi-Supervised Robust Spherical Space Domain Adaptation](https://ieeexplore.ieee.org/document/9733209/)  
+**无监督和半监督鲁棒的球形空间领域适应**  
 Xiang Gu; Jian Sun; Zongben Xu  
 
 [Out-of-Domain Generalization From a Single Source: An Uncertainty Quantification Approach](https://ieeexplore.ieee.org/document/9801711/)  
+**单一源域的域外泛化：一种不确定性量化方法**  
 Xi Peng; Fengchun Qiao; Long Zhao  
 
 [Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/9655492/)  
+**遮挡感知的自监督单目6D物体姿态估计**  
 Gu Wang; Fabian Manhardt; Xingyu Liu; Xiangyang Ji; Federico Tombari  
 
 [Generalizable Black-Box Adversarial Attack With Meta Learning](https://ieeexplore.ieee.org/document/10017370/)  
+**元学习通用黑盒对抗攻击**  
 Fei Yin; Yong Zhang; Baoyuan Wu; Yan Feng; Jingyi Zhang; Yanbo Fan; Yujiu Yang  
 
 [Few-Shot Domain-Adaptive Anomaly Detection for Cross-Site Brain Images](https://ieeexplore.ieee.org/document/9606561/)  

@@ -58,6 +58,7 @@
 **Hao Zhu; Shaowen Xie; Zhen Liu; Fengyi Liu; Qi Zhang; You Zhou; Yi Lin; Zhan Ma; Xun Cao**  
 
 **[Parameter-Insensitive Min Cut Clustering With Flexible Size Constrains](https://ieeexplore.ieee.org/document/10440474/)**  
+**具有灵活规模约束的参数不敏感最小割聚类**  
 **Feiping Nie; Fangyuan Xie; Weizhong Yu; Xuelong Li**  
 
 **[DynGAN: Solving Mode Collapse in GANs With Dynamic Clustering](https://ieeexplore.ieee.org/document/10440507/)**  
@@ -65,6 +66,7 @@
 **Yixin Luo; Zhouwang Yang**  
 
 **[Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering Regularized Self-Training](https://ieeexplore.ieee.org/document/10452869/)**  
+**重新审视现实的测试时间训练：通过锚定聚类正则化自训练进行顺序推理和适应**  
 **Yongyi Su; Xun Xu; Tianrui Li; Kui Jia**  
 
 **[Correcting Optical Aberration via Depth-Aware Point Spread Functions](https://ieeexplore.ieee.org/document/10448544/)**  

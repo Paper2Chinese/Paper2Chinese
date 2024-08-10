@@ -61,12 +61,14 @@
 **Feiping Nie; Fangyuan Xie; Weizhong Yu; Xuelong Li**  
 
 **[DynGAN: Solving Mode Collapse in GANs With Dynamic Clustering](https://ieeexplore.ieee.org/document/10440507/)**  
+**已译**  
 **Yixin Luo; Zhouwang Yang**  
 
 **[Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering Regularized Self-Training](https://ieeexplore.ieee.org/document/10452869/)**  
 **Yongyi Su; Xun Xu; Tianrui Li; Kui Jia**  
 
 **[Correcting Optical Aberration via Depth-Aware Point Spread Functions](https://ieeexplore.ieee.org/document/10448544/)**  
+**已译**  
 **Jun Luo; Yunfeng Nie; Wenqi Ren; Xiaochun Cao; Ming-Hsuan Yang**  
 
 **[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/document/10440475/)**  

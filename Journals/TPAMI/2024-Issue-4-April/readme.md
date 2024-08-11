@@ -11,7 +11,7 @@ Feiping Nie; Jingjing Xue; Weizhong Yu; Xuelong Li
 Xi Zhang; Feifei Zhang; Changsheng Xu  
 
 **[Transferable Time-Series Forecasting Under Causal Conditional Shift](https://ieeexplore.ieee.org/document/10214679/)**  
-**因果条件转移下的可转移时间序列预测（zty）**  
+**[因果条件转移下的可转移时间序列预测](https://mp.weixin.qq.com/s/P09YQhviR9f-DkgW7YasBQ)**  
 Zijian Li; Ruichu Cai; Tom Z. J. Fu; Zhifeng Hao; Kun Zhang  
 
 **[Variational Hierarchical Mixtures for Probabilistic Learning of Inverse Dynamics](https://ieeexplore.ieee.org/document/10247551/)**  

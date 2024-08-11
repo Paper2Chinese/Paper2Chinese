@@ -74,6 +74,7 @@
 **Jun Luo; Yunfeng Nie; Wenqi Ren; Xiaochun Cao; Ming-Hsuan Yang**  
 
 **[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/document/10440475/)**  
+**检测和定位多模态媒体操控及其扩展**  
 **Rui Shao; Tianxing Wu; Jianlong Wu; Liqiang Nie; Ziwei Liu**  
 
 **[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/document/10438044/)**  

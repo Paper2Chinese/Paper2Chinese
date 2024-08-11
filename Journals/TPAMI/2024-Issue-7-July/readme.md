@@ -95,7 +95,7 @@ Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang
 Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Yan Yan  
 
 **[CPR++: Object Localization via Single Coarse Point Supervision](https://ieeexplore.ieee.org/document/10419178/)**  
-**CPR++：通过单一粗略点监督进行物体定位**   
+**[CPR++：通过单一粗略点监督进行物体定位](https://mp.weixin.qq.com/s/RzNmRxMEUHh2ssWgeg-ceA)**   
 Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixiang Ye; Jianbin Jiao  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  
@@ -118,11 +118,11 @@ Tao Li; Cheng Meng; Hongteng Xu; Jun Yu
 Lei Zhang; Jiangtao Nie; Wei Wei; Yanning Zhang  
 
 **[Learning With Constraint Learning: New Perspective, Solution Strategy and Various Applications](https://ieeexplore.ieee.org/document/10430445/)**  
-**使用约束学习的学习：新视角、解决策略及多种应用**  
+**[使用约束学习的学习：新视角、解决策略及多种应用](https://mp.weixin.qq.com/s/-lwNOccLrsaGy6HgnjsSDw)**  
 Risheng Liu; Jiaxin Gao; Xuan Liu; Xin Fan  
 
 **[A Multi-Level Interpretable Sleep Stage Scoring System by Infusing Experts’ Knowledge Into a Deep Network Architecture](https://ieeexplore.ieee.org/document/10436701/)**  
-**基于专家知识融入深度网络架构的多层次可解释睡眠阶段评分系统**  
+**[基于专家知识融入深度网络架构的多层次可解释睡眠阶段评分系统](https://mp.weixin.qq.com/s/N2ZI2xzc-xky8qNVzcp5Aw)**  
 Hamid Niknazar; Sara C. Mednick  
 
 **[Algorithm-Dependent Generalization of AUPRC Optimization: Theory and Algorithm](https://ieeexplore.ieee.org/document/10422838/)**  
@@ -134,7 +134,7 @@ Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang
 Hongmin Cai; Yu Hu; Fei Qi; Bin Hu; Yiu-ming Cheung  
 
 **[Multi-Task Learning of Object States and State-Modifying Actions From Web Videos](https://ieeexplore.ieee.org/document/10420504/)**  
-**从网络视频中多任务学习物体状态和状态修改动作**  
+**[从网络视频中多任务学习物体状态和状态修改动作](https://mp.weixin.qq.com/s/vS4hAdSALef3jJyhrcQO0Q)**  
 Tomáš Souček; Jean-Baptiste Alayrac; Antoine Miech; Ivan Laptev; Josef Sivic  
 
 **[On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations](https://ieeexplore.ieee.org/document/10418534/)**  
@@ -142,17 +142,17 @@ Tomáš Souček; Jean-Baptiste Alayrac; Antoine Miech; Ivan Laptev; Josef Sivic
 Huan Xiong; Lei Huang; Wenston J.T. Zang; Xiantong Zhen; Guo-Sen Xie; Bin Gu; Le Song  
 
 **[One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching](https://ieeexplore.ieee.org/document/10428035/)**  
-**通过多尺度时空骨架匹配的一次性动作识别**  
+**[通过多尺度时空骨架匹配的一次性动作识别](https://mp.weixin.qq.com/s/GgWhwtQQ7cO6HaZa9Qc6xA)**  
 Siyuan Yang; Jun Liu; Shijian Lu; Er Meng Hwa; Alex C. Kot  
 
 **[Box2Mask: Box-Supervised Instance Segmentation via Level-Set Evolution](https://ieeexplore.ieee.org/document/10423160/)**  
-**Box2Mask：通过水平集演化的Box监督实例分割**  
+**[Box2Mask：通过水平集演化的Box监督实例分割](https://mp.weixin.qq.com/s/ConGSc5vrP-VC5akD8pN-g)**  
 Wentong Li; Wenyu Liu; Jianke Zhu; Miaomiao Cui; Risheng Yu; Xiansheng Hua; Lei Zhang  
 
 **[Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics](https://ieeexplore.ieee.org/document/10440522/)**  
-**面向机器的视频编码：为智能协作分析压缩视觉表示**  
+**[面向机器的视频编码：为智能协作分析压缩视觉表示](https://mp.weixin.qq.com/s/ExEPqp_UGFOW20BUNUxwhA)**  
 Wenhan Yang; Haofeng Huang; Yueyu Hu; Ling-Yu Duan; Jiaying Liu  
 
 **[Chinese Title Generation for Short Videos: Dataset, Metric and Algorithm](https://ieeexplore.ieee.org/document/10436633/)**  
-**短视频中文标题生成：数据集、评价指标与算法**  
+**[短视频中文标题生成：数据集、评价指标与算法](https://mp.weixin.qq.com/s/0yldhpZEAvWOWXrXsW_6RA)**  
 Ziqi Zhang; Zongyang Ma; Chunfeng Yuan; Yuxin Chen; Peijin Wang; Zhongang Qi; Chenglei Hao; Bing Li; Ying Shan; Weiming Hu; Stephen Maybank  

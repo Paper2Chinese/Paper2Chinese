@@ -82,11 +82,11 @@
 **Jie Ma; Pinghui Wang; Dechen Kong; Zewei Wang; Jun Liu; Hongbin Pei; Junzhou Zhao**  
 
 **[Virtual Category Learning: A Semi-Supervised Learning Method for Dense Prediction With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10440511/)**  
-**虚拟类别学习：一种用于极度有限标签的密集预测的半监督学习方法** 
+**虚拟类别学习：一种用于极度有限标签的密集预测的半监督学习方法**  
 **Changrui Chen; Jungong Han; Kurt Debattista**  
 
 **[BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-Based Video Colorization](https://ieeexplore.ieee.org/document/10453471/)**  
-**BiSTNet：基于语义图像先验引导的双向时间特征融合深度示例视频着色** 
+**BiSTNet：基于语义图像先验引导的双向时间特征融合深度示例视频着色**   
 **Yixin Yang; Jinshan Pan; Zhongzheng Peng; Xiaoyu Du; Zhulin Tao; Jinhui Tang**  
 
 **[Vision-Language Models for Vision Tasks: A Survey](https://ieeexplore.ieee.org/document/10445007/)**  

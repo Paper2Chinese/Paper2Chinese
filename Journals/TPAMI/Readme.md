@@ -13,7 +13,7 @@ Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou
 
 ## [Issue 7 • July-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-7-July/readme.md)
 
-## [Issue 6 • June-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-6-June/readme.md)
+## [Issue 6 • June-2024 （已完结）](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-6-June/readme.md)
 
 ## [Issue 5 • May-2024 （已完结）](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-5-May/Readme.md)
 

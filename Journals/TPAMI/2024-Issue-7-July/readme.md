@@ -98,9 +98,6 @@ Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Ya
 **[CPR++：通过单一粗略点监督进行物体定位](https://mp.weixin.qq.com/s/RzNmRxMEUHh2ssWgeg-ceA)**   
 Xuehui Yu; Pengfei Chen; Kuiran Wang; Xumeng Han; Guorong Li; Zhenjun Han; Qixiang Ye; Jianbin Jiao  
 
-**[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  
-Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
-
 **[A Two-Stage Noise-Tolerant Paradigm for Label Corrupted Person Re-Identification](https://ieeexplore.ieee.org/document/10419038/)**  
 **[一个面向标签损坏行人重识别的两阶段抗噪范式](https://mp.weixin.qq.com/s/64_09MAbrQgx23ZT-TE8yw)**   
 Min Liu; Fei Wang; Xueping Wang; Yaonan Wang; Amit K. Roy-Chowdhury  

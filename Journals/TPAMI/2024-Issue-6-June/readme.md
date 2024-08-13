@@ -81,7 +81,7 @@
 作者：	H. Zhou; F. Jiang; J. Si; Y. Ding; H. Lu
 
 **[	StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10413601	)**  
-**StyleTalk++：一个统一框架用于控制会说话头像的说话风格(zty)**  
+**[StyleTalk++：一个统一框架用于控制会说话头像的说话风格](https://mp.weixin.qq.com/s/50NoOWdcYkik8SPGD87VyA)**  
 作者：	S. Wang; Y. Ma; Y. Ding; Z. Hu; C. Fan; T. Lv; Z. Deng; X. Yu
 
 **[	Incorporating Season and Solar Specificity Into Renderings Made by a NeRF Architecture Using Satellite Images	](	https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402002	)**  

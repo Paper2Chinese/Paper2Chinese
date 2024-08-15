@@ -75,14 +75,24 @@ Chunfeng Song; Wanli Ouyang; Zhaoxiang Zhang
 Wei-Yen Hsu; Wei-Chi Chang  
 
 [Unsupervised Local Discrimination for Medical Images](https://ieeexplore.ieee.org/document/10195235)  
+**无监督医学图像的局部判别研究（zty）**  
+Huai Chen; Renzhen Wang; Xiuying Wang; Jieyu Li; Qu Fang; Hui Li; Jianhao Bai; Qing Peng; Deyu Meng  
 
 [Towards Real-World Visual Tracking With Temporal Contexts](https://ieeexplore.ieee.org/document/10225683)  
+**面向现实世界视觉追踪的时间上下文研究（zty）**  
+Ziang Cao; Ziyuan Huang; Liang Pan; Shiwei Zhang; Ziwei Liu; Changhong Fu  
 
 [TokenCut: Segmenting Objects in Images and Videos With Self-Supervised Transformer and Normalized Cut](https://ieeexplore.ieee.org/document/10224285)  
+**TokenCut: 利用自监督Transformer和归一化割算法在图像和视频中分割对象（zty）**  
+Yangtao Wang; Xi Shen; Yuan Yuan; Yuming Du; Maomao Li; Shell Xu Hu; James L. Crowley; Dominique Vaufrey  
 
 [SAN: Side Adapter Network for Open-Vocabulary Semantic Segmentation](https://ieeexplore.ieee.org/document/10238837)  
+**面向开放词汇表的语义分割的边侧适配器网络（zty）**  
+Mengde Xu; Zheng Zhang; Fangyun Wei; Han Hu; Xiang Bai  
 
 [Rewarded Semi-Supervised Re-Identification on Identities Rarely Crossing Camera Views](https://ieeexplore.ieee.org/document/10174654)  
+**基于奖励机制的半监督跨摄像头视图中罕见身份的再识别研究（zty）**  
+Ancong Wu; Wenhang Ge; Wei-Shi Zheng  
 
 [Predicting Label Distribution From Tie-Allowed Multi-Label Ranking](https://ieeexplore.ieee.org/document/10198360)  
 

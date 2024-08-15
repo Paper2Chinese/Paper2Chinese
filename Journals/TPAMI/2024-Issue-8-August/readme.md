@@ -3,15 +3,15 @@
 *****
 
 **[Metrics for Dataset Demographic Bias: A Case Study on Facial Expression Recognition](https://ieeexplore.ieee.org/document/10420507/)**  
-**数据集人口统计偏见的指标：面部表情识别案例研究**  
+**[数据集人口统计偏见的指标：面部表情识别案例研究](https://mp.weixin.qq.com/s/x7XycJ0NGs7eV6u1KOdtyg)**  
 **Iris Dominguez-Catena; Daniel Paternain; Mikel Galar**  
 
 **[SpectralGPT: Spectral Remote Sensing Foundation Model](https://ieeexplore.ieee.org/document/10490262/)**  
-**SpectralGPT：光谱遥感基础模型**  
+**[SpectralGPT：光谱遥感基础模型](https://mp.weixin.qq.com/s/zEf5ds7pm9DZwG2RI6nNZw)**  
 **Danfeng Hong; Bing Zhang; Xuyang Li; Yuxuan Li; Chenyu Li; Jing Yao; Naoto Yokoya; Hao Li; Pedram Ghamisi; Xiuping Jia; Antonio Plaza; Paolo Gamba; Jon Atli  enediktsson; Jocelyn Chanussot**  
 
 **[Towards Inductive and Efficient Explanations for Graph Neural Networks](https://ieeexplore.ieee.org/document/10423141/)**  
-**向图神经网络的归纳和高效解释迈进**  
+**[向图神经网络的归纳和高效解释迈进](https://mp.weixin.qq.com/s/oPgi32MYTv_e7koLRD7waQ)**  
 **Dongsheng Luo; Tianxiang Zhao; Wei Cheng; Dongkuan Xu; Feng Han; Wenchao Yu; Xiao Liu; Haifeng Chen; Xiang Zhang**  
 
 **[Efficient Offline Reinforcement Learning With Relaxed Conservatism](https://ieeexplore.ieee.org/document/10432784/)**  
@@ -27,7 +27,7 @@
 **Jiangbo Pei; Aidong Men; Yang Liu; Xiahai Zhuang; Qingchao Chen**  
 
 **[Adversarial Attack and Defense in Deep Ranking](https://ieeexplore.ieee.org/document/10433769/)**  
-**深度排序中的对抗性攻击与防御**  
+**[深度排序中的对抗性攻击与防御](https://mp.weixin.qq.com/s/JvUQAlESM3fDRLo829YJzw)**  
 **Mo Zhou; Le Wang; Zhenxing Niu; Qilin Zhang; Nanning Zheng; Gang Hua**  
 
 **[Cross-Modal Federated Human Activity Recognition](https://ieeexplore.ieee.org/document/10440498/)**  

@@ -19,11 +19,11 @@ Kashyap Chitta; Aditya Prakash; Bernhard Jaeger; Zehao Yu; Katrin Renz; Andreas 
 Shiming Chen; Ziming Hong; Wenjin Hou; Guo-Sen Xie; Yibing Song; Jian Zhao; Xinge You; Shuicheng Yan  
 
 [Unsupervised Pre-Training for Detection Transformers](https://ieeexplore.ieee.org/document/9926201)  
-**用于检测Transformers的无监督预训练（zty）**  
+**[用于检测Transformers的无监督预训练](https://mp.weixin.qq.com/s/0m1MAAOEs-9coEQNj3ygCw)**  
 Zhigang Dai; Bolun Cai; Yugeng Lin; Junying Chen  
 
 [P2T: Pyramid Pooling Transformer for Scene Understanding](https://ieeexplore.ieee.org/document/9870559)  
-**P2T：用于场景理解的金字塔池化Transformer（zty）**  
+**[P2T：用于场景理解的金字塔池化Transformer](https://mp.weixin.qq.com/s/PUuZM7E_nUELyOgYRu8SjA)**  
 Yu-Huan Wu; Yun Liu; Xin Zhan; Ming-Ming Cheng  
 
 [Dynamic Unary Convolution in Transformers](https://ieeexplore.ieee.org/document/10004645)  
@@ -31,27 +31,27 @@ Yu-Huan Wu; Yun Liu; Xin Zhan; Ming-Ming Cheng
 Haoran Duan; Yang Long; Shidong Wang; Haofeng Zhang; Chris G. Willcocks; Ling Shao  
 
 [Facial Video-Based Remote Physiological Measurement via Self-Supervised Learning](https://ieeexplore.ieee.org/document/10193817)  
-**基于面部视频的远程生理测量：自监督学习方法(zty)**  
+**[基于面部视频的远程生理测量：自监督学习方法](https://mp.weixin.qq.com/s/ZwDe9p6ks6yNkyXK5FH3Xg)**  
 Zijie Yue; Miaojing Shi; Shuai Ding  
 
 [FarSeg++: Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10188509)  
-**FarSeg++：面向高空间分辨率遥感图像中地理空间对象分割的前景感知关系网络(zty)**  
+**[FarSeg++：面向高空间分辨率遥感图像中地理空间对象分割的前景感知关系网络](https://mp.weixin.qq.com/s/zt7GEXMNCfHEMu4orsN9Uw)**  
 Zhuo Zheng; Yanfei Zhong; Junjue Wang; Ailong Ma; Liangpei Zhang  
 
 [TransVG++: End-to-End Visual Grounding With Language Conditioned Vision Transformer](https://ieeexplore.ieee.org/document/10187690)  
-**TransVG++：基于语言条件视觉Transformer的端到端视觉定位(zty)**  
+**[TransVG++：基于语言条件视觉Transformer的端到端视觉定位](https://mp.weixin.qq.com/s/UOJ3kXezjooqJ6SCoD8A5A)**  
 Jiajun Deng , Zhengyuan Yang , Daqing Liu , Tianlang Chen , Wengang Zhou ,Yanyong Zhang , Houqiang Li , Wanli Ouyang , Senior Member  
 
 [Adaptive Region-Specific Loss for Improved Medical Image Segmentation](https://ieeexplore.ieee.org/document/10163830)  
-**自适应区域特定损失：提高医学图像分割性能(zty)**  
+**[自适应区域特定损失：提高医学图像分割性能](https://mp.weixin.qq.com/s/X02bQN7pfbPfxtrPLwxTWA)**  
 Yizheng Chen; Lequan Yu; Jen-Yeu Wang; Neil Panjwani; Jean-Pierre Obeid; Wu Liu; Lianli Liu; Nataliya Kovalchuk
 
 [View Synthesis of Dynamic Scenes Based on Deep 3D Mask Volume](https://ieeexplore.ieee.org/document/10163947)  
-**基于深度三维遮罩体的动态场景视图合成(zty)**  
+**[基于深度三维遮罩体的动态场景视图合成](https://mp.weixin.qq.com/s/wBauctzBzmcYQNLRjaKmCw)**  
 Kai-En Lin; Guowei Yang; Lei Xiao; Feng Liu; Ravi Ramamoorthi  
 
 [Towards More Reliable Confidence Estimation](https://ieeexplore.ieee.org/document/10172026)  
-**迈向更可靠的置信度估计(zty)**  
+**[迈向更可靠的置信度估计](https://mp.weixin.qq.com/s/x7bJSkfWlz2agEE95j90qA)**  
 Haoxuan Qu; Lin Geng Foo; Yanchao Li; Jun Liu  
 
 [3D Visual Saliency: An Independent Perceptual Measure or a Derivative of 2D Image Saliency?](https://ieeexplore.ieee.org/document/10155236)  
@@ -63,7 +63,7 @@ Ran Song; Wei Zhang; Yitian Zhao; Yonghuai Liu; Paul L. Rosin
 Dianze Li; Yonghong Tian; Jianing Li  
 
 [Object Affinity Learning: Towards Annotation-Free Instance Segmentation](https://ieeexplore.ieee.org/document/10192375)  
-**对象亲和性学习：迈向无需标注的实例分割（zty）**  
+**目标亲和性学习：迈向无需标注的实例分割（zty）**  
 Yuqi Wang; Yuntao Chen; Zhaoxiang Zhang  
 
 [Weakly Supervised Semantic Segmentation via Box-Driven Masking and Filling Rate Shifting](https://ieeexplore.ieee.org/document/10202580)  

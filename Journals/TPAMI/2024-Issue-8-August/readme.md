@@ -127,6 +127,7 @@
 **Quan Zhang; Jianhuang Lai; Xiaohua Xie; Xiaofeng Jin; Sien Huang**  
 
 **[Rethinking the Effectiveness of Objective Evaluation Metrics in Multi-Focus Image Fusion: A Statistic-Based Approach](https://ieeexplore.ieee.org/document/10440470/)**  
+**已译**  
 **Yu Liu; Zhengzheng Qi; Juan Cheng; Xun Chen**  
 
 **[Pose-Driven Compression for Dynamic 3D Human via Human Prior Models](https://ieeexplore.ieee.org/document/10443540/)**  

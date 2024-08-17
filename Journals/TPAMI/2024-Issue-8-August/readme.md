@@ -119,9 +119,11 @@
 **Juntao Li; Xiaobo Liang; Lijun Wu; Yue Wang; Qi Meng; Tao Qin; Min Zhang; Tie-Yan Liu**  
 
 **[EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points](https://ieeexplore.ieee.org/document/10436377/)**  
+**已译**  
 **Chengwei Zheng; Wenbin Lin; Feng Xu**  
 
 **[Separable Spatial-Temporal Residual Graph for Cloth-Changing Group Re-Identification](https://ieeexplore.ieee.org/document/10443971/)**  
+**已译**  
 **Quan Zhang; Jianhuang Lai; Xiaohua Xie; Xiaofeng Jin; Sien Huang**  
 
 **[Rethinking the Effectiveness of Objective Evaluation Metrics in Multi-Focus Image Fusion: A Statistic-Based Approach](https://ieeexplore.ieee.org/document/10440470/)**  

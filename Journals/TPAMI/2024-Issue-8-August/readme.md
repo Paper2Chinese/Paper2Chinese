@@ -19,11 +19,11 @@
 **Longyang Huang; Botao Dong; Weidong Zhang**  
 
 **[Deciphering the Feature Representation of Deep Neural Networks for High-Performance AI](https://ieeexplore.ieee.org/document/10439639/)**  
-**解码深度神经网络特征表示以实现高性能人工智能**  
+**[解码深度神经网络特征表示以实现高性能人工智能](https://mp.weixin.qq.com/s/hRi9aRLfs1oxD3Rvy0eZJA)**  
 **Md Tauhidul Islam; Lei Xing**  
 
 **[Evidential Multi-Source-Free Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10420513/)**  
-**无需多源证据的无监督领域自适应**  
+**基于证据的多源无监督领域自适应**  
 **Jiangbo Pei; Aidong Men; Yang Liu; Xiahai Zhuang; Qingchao Chen**  
 
 **[Adversarial Attack and Defense in Deep Ranking](https://ieeexplore.ieee.org/document/10433769/)**  
@@ -31,7 +31,7 @@
 **Mo Zhou; Le Wang; Zhenxing Niu; Qilin Zhang; Nanning Zheng; Gang Hua**  
 
 **[Cross-Modal Federated Human Activity Recognition](https://ieeexplore.ieee.org/document/10440498/)**  
-**跨模态联合人体活动识别**  
+**[跨模态联合人体活动识别](https://mp.weixin.qq.com/s/Yjc8HKlLGPgO9zclALnfJw)**  
 **Xiaoshan Yang; Baochen Xiong; Yi Huang; Changsheng Xu**  
 
 **[Multi-Person Pose Regression With Distribution-Aware Single-Stage Models](https://ieeexplore.ieee.org/document/10430443/)**  

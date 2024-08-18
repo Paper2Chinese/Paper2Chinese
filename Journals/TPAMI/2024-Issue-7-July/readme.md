@@ -39,7 +39,7 @@ Tong Qiao; Shichuang Xie; Yanli Chen; Florent Retraint; Xiangyang Luo
 Yan Xu; Kwan-Yee Lin; Guofeng Zhang; Xiaogang Wang; Hongsheng Li  
 
 **[Efficient Visual Computing With Camera RAW Snapshots](https://ieeexplore.ieee.org/document/10415533/)**  
-**利用相机原始快照进行高效的视觉计算（zty）**  
+**[利用相机原始快照进行高效的视觉计算](https://mp.weixin.qq.com/s/ezdECfleoMrFjKEc3AKj9A)**  
 Zhihao Li; Ming Lu; Xu Zhang; Xin Feng; M. Salman Asif; Zhan Ma  
 
 **[AdaCS: Adaptive Compressive Sensing With Restricted Isometry Property-Based Error-Clamping](https://ieeexplore.ieee.org/document/10412658/)**  
@@ -91,7 +91,7 @@ Yuhui Quan; Xinran Qin; Tongyao Pang; Hui Ji
 Jiawei He; Zehao Huang; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Robust Audio-Visual Contrastive Learning for Proposal-Based Self-Supervised Sound Source Localization in Videos](https://ieeexplore.ieee.org/document/10423816/)**  
-**基于提案的自监督视频中声源定位的鲁棒音视频对比学习**  
+**[基于提案的自监督视频中声源定位的鲁棒音视频对比学习](https://mp.weixin.qq.com/s/6CA1OGYccydpGdu_5nY55w)**  
 Hanyu Xuan; Zhiliang Wu; Jian Yang; Bo Jiang; Lei Luo; Xavier Alameda-Pineda; Yan Yan  
 
 **[CPR++: Object Localization via Single Coarse Point Supervision](https://ieeexplore.ieee.org/document/10419178/)**  
@@ -123,7 +123,7 @@ Risheng Liu; Jiaxin Gao; Xuan Liu; Xin Fan
 Hamid Niknazar; Sara C. Mednick  
 
 **[Algorithm-Dependent Generalization of AUPRC Optimization: Theory and Algorithm](https://ieeexplore.ieee.org/document/10422838/)**  
-**算法依赖的AUPRC优化泛化：理论与算法**  
+**[算法依赖的AUPRC优化泛化：理论与算法](https://mp.weixin.qq.com/s/2rsPlm4d4oR2mnlhtRlIFQ)**  
 Peisong Wen; Qianqian Xu; Zhiyong Yang; Yuan He; Qingming Huang  
 
 **[Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors](https://ieeexplore.ieee.org/document/10420464/)**  

@@ -135,7 +135,7 @@ Vasileios Arampatzakis; George Pavlidis; Nikolaos Mitianoudis; Nikos Papamarkos
 Shuailei Ma; Yuefeng Wang; Shanze Wang; Ying Wei  
 
 **[Human Motion Generation: A Survey](https://ieeexplore.ieee.org/document/10313063/)**  
-**人体运动生成：一项综述研究（zty）**  
+**[人体运动生成：一项综述研究](https://mp.weixin.qq.com/s/6NG0ZzEirqK-C1Cd9G85sA)**  
 Wentao Zhu; Xiaoxuan Ma; Dongwoo Ro; Hai Ci; Jinlu Zhang; Jiaxin Shi; Feng Gao; Qi Tian; Yizhou Wang  
 
 **[Detecting Road Obstacles by Erasing Them](https://ieeexplore.ieee.org/document/10334623/)**  
@@ -143,15 +143,15 @@ Wentao Zhu; Xiaoxuan Ma; Dongwoo Ro; Hai Ci; Jinlu Zhang; Jiaxin Shi; Feng Gao; 
 Krzysztof Lis; Sina Honari; Pascal Fua; Mathieu Salzmann  
 
 **[Accurate and Efficient Stereo Matching via Attention Concatenation Volume](https://ieeexplore.ieee.org/document/10330699/)**  
-**通过注意力连接体实现精确高效的立体匹配（zty）**  
+**[通过注意力连接体实现精确高效的立体匹配](https://mp.weixin.qq.com/s/7sTlSswXttd1ra3RdAbfJg)**  
 Gangwei Xu; Yun Wang; Junda Cheng; Jinhui Tang; Xin Yang  
 
 **[Elastic Shape Analysis of Tree-Like 3D Objects Using Extended SRVF Representation](https://ieeexplore.ieee.org/document/10323229/)**  
-**基于扩展的SRVF表示的树状3D对象弹性形状分析（zty）**  
+**[基于扩展的SRVF表示的树状3D对象弹性形状分析](https://mp.weixin.qq.com/s/tnAthQ0YYGHS8YTxJfZzkg)**  
 Guan Wang; Hamid Laga; Anuj Srivastava  
 
 **[Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond](https://ieeexplore.ieee.org/document/10337789/)**  
-**属性下降：在内容层面及更高层次上模拟以对象为中心的数据集（zty）**  
+**[属性下降：在内容层面及更高层次上模拟以对象为中心的数据集](https://mp.weixin.qq.com/s/UILKuRL_wVUUdI0SSbelVA)**  
 Yue Yao; Liang Zheng; Xiaodong Yang; Milind Napthade; Tom Gedeon  
 
 **[Contrastive Masked Autoencoders are Stronger Vision Learners](https://ieeexplore.ieee.org/document/10330745/)**  
@@ -163,7 +163,7 @@ Zhicheng Huang; Xiaojie Jin; Chengze Lu; Qibin Hou; Ming-Ming Cheng; Dongmei Fu;
 Wenliang Zhao; Yongming Rao; Jie Zhou; Jiwen Lu  
 
 **[Automatically Discovering Novel Visual Categories With Adaptive Prototype Learning](https://ieeexplore.ieee.org/document/10328468/)**  
-**使用自适应原型学习自动发现新的视觉效果类别**  
+**[使用自适应原型学习自动发现新的视觉效果类别](https://mp.weixin.qq.com/s/zCrtLC1SFCJD8BYarIGqJQ)**  
 Lu Zhang; Lu Qi; Xu Yang; Hong Qiao; Ming-Hsuan Yang; Zhiyong Liu  
 
 **[Vehicle Perception From Satellite](https://ieeexplore.ieee.org/document/10330623/)**  

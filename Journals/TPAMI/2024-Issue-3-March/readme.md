@@ -11,11 +11,11 @@ Li Liu; Timothy Hospedales; Yann LeCun; Mingsheng Long; Jiebo Luo; Wanli Ouyang;
 Yanbei Chen; Massimiliano Mancini; Xiatian Zhu; Zeynep Akata  
 
 [Deeply Unsupervised Patch Re-Identification for Pre-Training Object Detectors](https://ieeexplore.ieee.org/document/9749837/)  
-**深度无监督块重识别在目标检测器预训练中的应用**  
+**[深度无监督块重识别在目标检测器预训练中的应用](https://mp.weixin.qq.com/s/QFNp_FdNdzU5SHa5Mr3Now)**  
 Jian Ding; Enze Xie; Hang Xu; Chenhan Jiang; Zhenguo Li; Ping Luo; Gui-Song Xia  
 
 [Self-Adaptive Training: Bridging Supervised and Self-Supervised Learning](https://ieeexplore.ieee.org/document/9931970/)  
-**自适应训练：桥接监督学习与自监督学习**  
+**[自适应训练：桥接监督学习与自监督学习](https://mp.weixin.qq.com/s/Fx6VeLSfNGxgdPhudAPBIQ)**  
 Lang Huang; Chao Zhang; Hongyang Zhang  
 
 [Learning to Remove Rain in Video With Self-Supervision](https://ieeexplore.ieee.org/document/9815121/)  
@@ -23,31 +23,31 @@ Lang Huang; Chao Zhang; Hongyang Zhang
 Wenhan Yang; Robby T. Tan; Shiqi Wang; Alex C. Kot; Jiaying Liu  
 
 [Self-Supervised Latent Space Optimization With Nebula Variational Coding](https://ieeexplore.ieee.org/document/9740011/)  
-**星云变分编码中的自监督潜在空间优化**  
+**[星云变分编码中的自监督潜在空间优化](https://mp.weixin.qq.com/s/w2_-MlU0-VDxwmcEEQw5AQ)**  
 Yida Wang; David Joseph Tan; Nassir Navab; Federico Tombari  
 
 [Incomplete Multiple Kernel Alignment Maximization for Clustering](https://ieeexplore.ieee.org/document/9556554/)  
-**不完全多核对齐最大化在聚类中的应用**  
+**[不完全多核对齐最大化在聚类中的应用](https://mp.weixin.qq.com/s/pL9LiyHha705FoTyzLOaeQ)**  
 Xinwang Liu  
 
 [Few-Shot Learning With a Strong Teacher](https://ieeexplore.ieee.org/document/9737396/)  
-**强教师辅助下的少样本学习**  
+**[强教师辅助下的少样本学习](https://mp.weixin.qq.com/s/kCLeuIqp8w3bCU990rSsDg)**  
 Han-Jia Ye; Lu Ming; De-Chuan Zhan; Wei-Lun Chao  
 
 [Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning](https://ieeexplore.ieee.org/document/10080995/)  
-**少样本学习中任务自适应超参数学习**  
+**[少样本学习中任务自适应超参数学习](https://mp.weixin.qq.com/s/6X3DgQuOAzD9xmEF_4Axdw)**  
 Sungyong Baik; Myungsub Choi; Janghoon Choi; Heewon Kim; Kyoung Mu Lee  
 
 [Reinforcing Generated Images via Meta-Learning for One-Shot Fine-Grained Visual Recognition](https://ieeexplore.ieee.org/document/9756906/)  
-**通过元学习增强生成图像用于一次性细粒度视觉识别（zty）**  
+**[通过元学习增强生成图像用于一次性细粒度视觉识别](https://mp.weixin.qq.com/s/6ne4qoqlLhh87nS0zqto1w)**  
 Satoshi Tsutsui; Yanwei Fu; David Crandall  
 
 [MetaKernel: Learning Variational Random Features With Limited Labels](https://ieeexplore.ieee.org/document/9722994/)  
-**元核：在有限标签条件下学习变分随机特征（zty）**  
+**[元核：在有限标签条件下学习变分随机特征](https://mp.weixin.qq.com/s/gGpN8vqEVhuoyCc5t8ZZhQ)**  
 Yingjun Du; Haoliang Sun; Xiantong Zhen; Jun Xu; Yilong Yin; Ling Shao; Cees G. M. Snoek  
 
 [Few-Shot Font Generation With Weakly Supervised Localized Representations](https://ieeexplore.ieee.org/document/9854803/)  
-**少样本字体生成与弱监督定位表征（zty）**  
+**[少样本字体生成与弱监督定位表征](https://mp.weixin.qq.com/s/VaB_SkU8o8xwMCeP9SExkQ)**  
 Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim  
 
 [Interpretable Compositional Representations for Robust Few-Shot Generalization](https://ieeexplore.ieee.org/document/9913725/)  
@@ -55,12 +55,12 @@ Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim
 Samarth Mishra; Pengkai Zhu; Venkatesh Saligrama  
 
 [Bayesian Embeddings for Few-Shot Open World Recognition](https://ieeexplore.ieee.org/document/9875990/)  
-**贝叶斯嵌入在少样本开放世界识别中的应用（zty）**  
+**[贝叶斯嵌入在少样本开放世界识别中的应用](https://mp.weixin.qq.com/s/bgfZF-4gnF4hMUw9tOux_g)**  
 John Willes; James Harrison; Ali Harakeh; Chelsea Finn; Marco Pavone; Steven L. Waslander  
 
 
 [Semantics-Guided Contrastive Network for Zero-Shot Object Detection](https://ieeexplore.ieee.org/document/9669022/)  
-**语义引导的对比网络在零样本目标检测中的应用（zty）**  
+**[语义引导的对比网络在零样本目标检测中的应用](https://mp.weixin.qq.com/s/5E4GvTnVl2VsMNRRDqb3yw)**  
 Caixia Yan; Xiaojun Chang; Minnan Luo; Huan Liu; Xiaoqin Zhang; Qinghua Zheng  
 
 [Learning Graph Embeddings for Open World Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/9745371/)  

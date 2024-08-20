@@ -136,17 +136,22 @@ Gu Wang; Fabian Manhardt; Xingyu Liu; Xiangyang Ji; Federico Tombari
 Fei Yin; Yong Zhang; Baoyuan Wu; Yan Feng; Jingyi Zhang; Yanbo Fan; Yujiu Yang  
 
 [Few-Shot Domain-Adaptive Anomaly Detection for Cross-Site Brain Images](https://ieeexplore.ieee.org/document/9606561/)  
+**跨站点脑图像的小样本领域自适应异常检测(zty)**  
 Jianpo Su; Hui Shen; Limin Peng; Dewen Hu  
 
 [Open Long-Tailed Recognition in a Dynamic World](https://ieeexplore.ieee.org/document/9863702/)  
+**动态世界中的开放长尾识别(zty)**  
 Ziwei Liu; Zhongqi Miao; Xiaohang Zhan; Jiayun Wang; Boqing Gong; Stella X. Yu  
 
 [Learning Implicit Functions for Dense 3D Shape Correspondence of Generic Objects](https://ieeexplore.ieee.org/document/10004641/)  
+**学习隐式函数以实现通用对象的密集3D形状对应(zty)**  
 Feng Liu; Xiaoming Liu  
 
 [AutoEval: Are Labels Always Necessary for Classifier Accuracy Evaluation?](https://ieeexplore.ieee.org/document/9655472/)  
+**AutoEval: 标签对于分类器准确性评估总是必要的吗？(zty)**  
 Weijian Deng; Liang Zheng  
 
 [Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking](https://ieeexplore.ieee.org/document/9729522/)  
+**递归最小二乘估计辅助的在线学习在视觉跟踪中的应用(zty)**  
 Jin Gao; Yan Lu; Xiaojuan Qi; Yutong Kou; Bing Li; Liang Li; Shan Yu; Weiming Hu  
 

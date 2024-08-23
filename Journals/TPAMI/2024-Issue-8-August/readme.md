@@ -142,5 +142,6 @@
 **Yuan Tian; Guo Lu; Yichao Yan; Guangtao Zhai; Li Chen; Zhiyong Gao**  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  
+**SMART: 基于语法校准的多方面关系Transformer用于变化描述生成**  
 Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
 

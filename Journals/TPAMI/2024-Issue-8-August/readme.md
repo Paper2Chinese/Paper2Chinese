@@ -131,9 +131,11 @@
 **Yu Liu; Zhengzheng Qi; Juan Cheng; Xun Chen**  
 
 **[Pose-Driven Compression for Dynamic 3D Human via Human Prior Models](https://ieeexplore.ieee.org/document/10443540/)**  
+**已译**  
 **Ruoke Yan; Qian Yin; Xinfeng Zhang; Qi Zhang; Gai Zhang; Siwei Ma**  
 
 **[Contrast-Phys+: Unsupervised and Weakly-Supervised Video-Based Remote Physiological Measurement via Spatiotemporal Contrast](https://ieeexplore.ieee.org/document/10440521/)**  
+**已译**  
 **Zhaodong Sun; Xiaobai Li**  
 
 **[A Coding Framework and Benchmark Towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/document/10440520/)**  

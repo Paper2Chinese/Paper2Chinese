@@ -139,6 +139,7 @@
 **Zhaodong Sun; Xiaobai Li**  
 
 **[A Coding Framework and Benchmark Towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/document/10440520/)**  
+**面向低比特率视频理解的编码框架及基准**  
 **Yuan Tian; Guo Lu; Yichao Yan; Guangtao Zhai; Li Chen; Zhiyong Gao**  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  

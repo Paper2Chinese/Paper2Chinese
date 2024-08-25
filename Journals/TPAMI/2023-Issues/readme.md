@@ -95,14 +95,24 @@ Mengde Xu; Zheng Zhang; Fangyun Wei; Han Hu; Xiang Bai
 Ancong Wu; Wenhang Ge; Wei-Shi Zheng  
 
 [Predicting Label Distribution From Tie-Allowed Multi-Label Ranking](https://ieeexplore.ieee.org/document/10198360)  
+**从允许平局的多标签排序预测标签分布（zty）**  
+Yunan Lu; Weiwei Li; Huaxiong Li; Xiuyi Jia  
 
 [Positive-Unlabeled Learning With Label Distribution Alignment](https://ieeexplore.ieee.org/document/10264106)  
+**基于标签分布对齐的正无标记学习（zty）**  
+Yangbangyan Jiang; Qianqian Xu; Yunrui Zhao; Zhiyong Yang; Peisong Wen; Xiaochun Cao; Qingming Huang  
 
 [Positive-Negative Receptive Field Reasoning for Omni-Supervised 3D Segmentation](https://ieeexplore.ieee.org/document/10264222)  
+**面向全监督3D分割的正负感受野推理（zty）**  
+Xin Tan; Qihang Ma; Jingyu Gong; Jiachen Xu; Zhizhong Zhang; Haichuan Song; Yanyun Qu; Yuan Xie  
 
 [Neural Maximum a Posteriori Estimation on Unpaired Data for Motion Deblurring](https://ieeexplore.ieee.org/document/10214098)  
+**基于非配对数据的神经最大后验估计在运动去模糊中的应用(zty)**  
+Youjian Zhang; Chaoyue Wang; Dacheng Tao  
 
 [Mutual-Assistance Learning for Object Detection](https://ieeexplore.ieee.org/document/10265160)  
+**互辅助学习在目标检测中的应用（zty）**  
+Xingxing Xie; Chunbo Lang; Shicheng Miao; Gong Cheng; Ke Li; Junwei Han  
 
 [Modeling Noisy Annotations for Point-Wise Supervision](https://ieeexplore.ieee.org/document/10197253)  
 

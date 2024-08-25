@@ -11,6 +11,7 @@ Minglang Qiao; Mai Xu; Lai Jiang; Peng Lei; Shijie Wen; Yunjin Chen; Leonid Siga
 Chaoqun Du; Yulin Wang; Shiji Song; Gao Huang  
 
 **[FedCut: A Spectral Analysis Framework for Reliable Detection of Byzantine Colluders](https://ieeexplore.ieee.org/document/10465649/)**  
+**FedCut: 一种可靠检测拜占庭合谋者的光谱分析框架**  
 Hanlin Gu; Lixin Fan; XingXing Tang; Qiang Yang  
 
 **[Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking With Transformer](https://ieeexplore.ieee.org/document/10460168/)**  

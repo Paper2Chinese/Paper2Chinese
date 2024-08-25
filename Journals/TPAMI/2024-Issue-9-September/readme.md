@@ -6,6 +6,7 @@
 Minglang Qiao; Mai Xu; Lai Jiang; Peng Lei; Shijie Wen; Yunjin Chen; Leonid Sigal  
 
 **[Probabilistic Contrastive Learning for Long-Tailed Visual Recognition](https://ieeexplore.ieee.org/document/10444057/)**  
+**长尾视觉识别的概率对比学习**  
 Chaoqun Du; Yulin Wang; Shiji Song; Gao Huang  
 
 **[FedCut: A Spectral Analysis Framework for Reliable Detection of Byzantine Colluders](https://ieeexplore.ieee.org/document/10465649/)**  

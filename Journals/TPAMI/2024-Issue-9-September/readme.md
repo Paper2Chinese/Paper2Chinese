@@ -3,6 +3,7 @@
 ****
 
 **[HyperSOR: Context-Aware Graph Hypernetwork for Salient Object Ranking](https://ieeexplore.ieee.org/document/10443257/)**  
+**HyperSOR: 面向显著对象排序的上下文感知图超网络**  
 Minglang Qiao; Mai Xu; Lai Jiang; Peng Lei; Shijie Wen; Yunjin Chen; Leonid Sigal  
 
 **[Probabilistic Contrastive Learning for Long-Tailed Visual Recognition](https://ieeexplore.ieee.org/document/10444057/)**  

@@ -23,7 +23,7 @@
 **Md Tauhidul Islam; Lei Xing**  
 
 **[Evidential Multi-Source-Free Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10420513/)**  
-**基于证据的多源无监督领域自适应**  
+**[基于证据的多源无监督领域自适应](https://mp.weixin.qq.com/s/3tC6YyHj9Jf4HZIKfRMqFA)**  
 **Jiangbo Pei; Aidong Men; Yang Liu; Xiahai Zhuang; Qingchao Chen**  
 
 **[Adversarial Attack and Defense in Deep Ranking](https://ieeexplore.ieee.org/document/10433769/)**  
@@ -35,11 +35,11 @@
 **Xiaoshan Yang; Baochen Xiong; Yi Huang; Changsheng Xu**  
 
 **[Multi-Person Pose Regression With Distribution-Aware Single-Stage Models](https://ieeexplore.ieee.org/document/10430443/)**  
-**考虑分布特性的单阶段多人姿态回归模型**  
+**[考虑分布特性的单阶段多人姿态回归模型](https://mp.weixin.qq.com/s/EBmXQNfo6EAJwxSwzQqNYg)**  
 **Leyan Zhu; Zitian Wang; Si Liu; Xuecheng Nie; Luoqi Liu; Bo Li**  
 
 **[Cross-Image Pixel Contrasting for Semantic Segmentation](https://ieeexplore.ieee.org/document/10443562/)**  
-**跨图像像素对比的语义分割方法**  
+**[跨图像像素对比的语义分割方法](https://mp.weixin.qq.com/s/OSGNGYjT89JajJb1pRJxuA)**  
 **Tianfei Zhou; Wenguan Wang**  
 
 **[Property-Aware Relation Networks for Few-Shot Molecular Property Prediction](https://ieeexplore.ieee.org/document/10443285/)**  
@@ -47,11 +47,11 @@
 **Quanming Yao; Zhenqian Shen; Yaqing Wang; Dejing Dou**  
 
 **[Source-Free Domain Adaptation With Domain Generalized Pretraining for Face Anti-Spoofing](https://ieeexplore.ieee.org/document/10449373/)**  
-**无需源域的领域泛化预训练在面部反欺骗中的应用**  
+**[无需源域的领域泛化预训练在面部反欺骗中的应用](https://mp.weixin.qq.com/s/Z3-YEfwOih8Gk172Hz5ESw)**  
 **Yuchen Liu; Yabo Chen; Wenrui Dai; Mengran Gou; Chun-Ting Huang; Hongkai Xiong**  
 
 **[From Simple to Complex Scenes: Learning Robust Feature Representations for Accurate Human Parsing](https://ieeexplore.ieee.org/document/10438878/)**  
-**从简单到复杂场景：学习鲁棒特征表示以实现精确人体解析**  
+**[从简单到复杂场景：学习鲁棒特征表示以实现精确人体解析](https://mp.weixin.qq.com/s/sXF2yKZHPOs6SKi5fgQfVw)**  
 **Yunan Liu; Chunpeng Wang; Mingyu Lu; Jian Yang; Jie Gui; Shanshan Zhang**  
 
 **[Disorder-Invariant Implicit Neural Representation](https://ieeexplore.ieee.org/document/10436706/)**  
@@ -62,7 +62,7 @@
 **Feiping Nie; Fangyuan Xie; Weizhong Yu; Xuelong Li**  
 
 **[DynGAN: Solving Mode Collapse in GANs With Dynamic Clustering](https://ieeexplore.ieee.org/document/10440507/)**  
-**已译**  
+**[DynGAN: 使用动态聚类解决GAN中的模式崩溃](https://mp.weixin.qq.com/s/1ORx6ihwhKLcEP4c9ZahMg)**  
 **Yixin Luo; Zhouwang Yang**  
 
 **[Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering Regularized Self-Training](https://ieeexplore.ieee.org/document/10452869/)**  
@@ -95,7 +95,7 @@
 
 
 **[Learning a Contact Potential Field for Modeling the Hand-Object Interaction](https://ieeexplore.ieee.org/document/10478277/)**  
-**学习接触势场以模拟手-物交互**  
+**[学习接触势场以模拟手-物交互](https://mp.weixin.qq.com/s/8k1YVUj6f3z8TN0Cn80oFA)**  
 **Lixin Yang; Xinyu Zhan; Kailin Li; Wenqiang Xu; Junming Zhang; Jiefeng Li; Cewu Lu**  
 
 **[Adaptive Perturbation for Adversarial Attack](https://ieeexplore.ieee.org/document/10440467/)**  
@@ -111,7 +111,7 @@
 **Bang Yang; Fenglin Liu; Yuexian Zou; Xian Wu; Yaowei Wang; David A. Clifton**  
 
 **[CrossHomo: Cross-Modality and Cross-Resolution Homography Estimation](https://ieeexplore.ieee.org/document/10438073/)**  
-**CrossHomo：跨模态和跨分辨率的单应性估计**  
+**[CrossHomo：跨模态和跨分辨率的单应性估计](https://mp.weixin.qq.com/s/Q69R8drlJRN2457AgIo9iQ)**  
 **Xin Deng; Enpeng Liu; Chao Gao; Shengxi Li; Shuhang Gu; Mai Xu**  
 
 **[Randomness Regularization With Simple Consistency Training for Neural Networks](https://ieeexplore.ieee.org/document/10453595/)**  

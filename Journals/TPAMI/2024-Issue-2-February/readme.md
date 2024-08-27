@@ -3,18 +3,23 @@
 *****
 
 **[Diffusion Mechanism in Residual Neural Network: Theory and Applications](https://ieeexplore.ieee.org/document/10114599/)**  
+**残差神经网络中的扩散机制：理论与应用（zty）**  
 Tangjun Wang; Zehao Dou; Chenglong Bao; Zuoqiang Shi  
 
 **[OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation](https://ieeexplore.ieee.org/document/10185573/)**  
+**OPAL：面向无监督光场视差估计的遮挡模式感知损失（zty）**  
 Peng Li; Jiayin Zhao; Jingyao Wu; Chao Deng; Yuqi Han; Haoqian Wang; Tao Yu  
 
 **[An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras](https://ieeexplore.ieee.org/document/10238826/)**  
+**一种用于混合事件-帧摄像机的异步线性滤波器架构（zty）**  
 Ziwei Wang; Yonhon Ng; Cedric Scheerlinck; Robert Mahony  
 
 **[Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning](https://ieeexplore.ieee.org/document/10295990/)**  
+**泛化异构联邦交叉相关性与实例相似性学习（zty）**  
 Wenke Huang; Mang Ye; Zekun Shi; Bo Du  
 
 **[Blockchain Data Mining With Graph Learning: A Survey](https://ieeexplore.ieee.org/document/10296043/)**  
+**基于图学习区块链数据挖掘综述（zty）**  
 Yuxin Qi; Jun Wu; Hansong Xu; Mohsen Guizani  
 
 **[Understanding and Accelerating Neural Architecture Search With Training-Free and Theory-Grounded Metrics](https://ieeexplore.ieee.org/document/10337787/)**  

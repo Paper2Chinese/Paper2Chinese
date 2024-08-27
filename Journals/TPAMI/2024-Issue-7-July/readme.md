@@ -11,7 +11,7 @@ Xudong Tian; Zhizhong Zhang; Cong Wang; Wensheng Zhang; Yanyun Qu; Lizhuang Ma; 
 Shurui Gui; Hao Yuan; Jie Wang; Qicheng Lao; Kang Li; Shuiwang Ji  
 
 **[VNVC: A Versatile Neural Video Coding Framework for Efficient Human-Machine Vision](https://ieeexplore.ieee.org/document/10411051/)**  
-**VNVC: 一种用于高效人机视觉的多功能神经视频编码框架**  
+**[VNVC: 一种用于高效人机视觉的多功能神经视频编码框架](https://mp.weixin.qq.com/s/Xaho6FzY_EA0z0NXxmuyLg)**  
 Xihua Sheng; Li Li; Dong Liu; Houqiang Li  
 
 **[Polarimetric Helmholtz Stereopsis](https://ieeexplore.ieee.org/document/10414400/)**  

@@ -15,6 +15,7 @@ Chaoqun Du; Yulin Wang; Shiji Song; Gao Huang
 Hanlin Gu; Lixin Fan; XingXing Tang; Qiang Yang  
 
 **[Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking With Transformer](https://ieeexplore.ieee.org/document/10460168/)**  
+**探索基于Point-BEV融合的3D点云对象跟踪与Transformer**   
 Zhipeng Luo; Changqing Zhou; Liang Pan; Gongjie Zhang; Tianrui Liu; Yueru Luo; Haiyu Zhao; Ziwei Liu; Shijian Lu  
 
 **[End-to-End Signal Classification in Signed Cumulative Distribution Transform Space](https://ieeexplore.ieee.org/document/10457552/)**  

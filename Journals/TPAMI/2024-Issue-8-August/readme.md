@@ -43,7 +43,7 @@
 **Tianfei Zhou; Wenguan Wang**  
 
 **[Property-Aware Relation Networks for Few-Shot Molecular Property Prediction](https://ieeexplore.ieee.org/document/10443285/)**  
-**面向少样本分子属性预测的属性感知关系网络**  
+**[面向少样本分子属性预测的属性感知关系网络](https://mp.weixin.qq.com/s/W0d4PXgvw6obAgyVnFPoxg)**  
 **Quanming Yao; Zhenqian Shen; Yaqing Wang; Dejing Dou**  
 
 **[Source-Free Domain Adaptation With Domain Generalized Pretraining for Face Anti-Spoofing](https://ieeexplore.ieee.org/document/10449373/)**  
@@ -66,7 +66,7 @@
 **Yixin Luo; Zhouwang Yang**  
 
 **[Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering Regularized Self-Training](https://ieeexplore.ieee.org/document/10452869/)**  
-**重新审视现实的测试时间训练：通过锚定聚类正则化自训练进行顺序推理和适应**  
+**[重新审视现实的测试时间训练：通过锚定聚类正则化自训练进行顺序推理和适应](https://mp.weixin.qq.com/s/GC1jetAiddqDMF35tMumdA)**  
 **Yongyi Su; Xun Xu; Tianrui Li; Kui Jia**  
 
 **[Correcting Optical Aberration via Depth-Aware Point Spread Functions](https://ieeexplore.ieee.org/document/10448544/)**  
@@ -99,7 +99,7 @@
 **Lixin Yang; Xinyu Zhan; Kailin Li; Wenqiang Xu; Junming Zhang; Jiefeng Li; Cewu Lu**  
 
 **[Adaptive Perturbation for Adversarial Attack](https://ieeexplore.ieee.org/document/10440467/)**  
-**自适应扰动对抗性攻击**  
+**[自适应扰动对抗性攻击](https://mp.weixin.qq.com/s/Y4a4A3oYNroym_kYpYMYMA)**  
 **Zheng Yuan; Jie Zhang; Zhaoyan Jiang; Liangliang Li; Shiguang Shan**  
 
 **[Multi-Derivational Parsing of Vague Languages— The New Paradigm of Syntactic Pattern Recognition](https://ieeexplore.ieee.org/document/10439646/)**  
@@ -119,23 +119,23 @@
 **Juntao Li; Xiaobo Liang; Lijun Wu; Yue Wang; Qi Meng; Tao Qin; Min Zhang; Tie-Yan Liu**  
 
 **[EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points](https://ieeexplore.ieee.org/document/10436377/)**  
-**已译**  
+**[EditableNeRF: 通过关键点编辑拓扑变化的神经辐射场](https://mp.weixin.qq.com/s/O5P0S5uqfYqR4s22IZbwfA)**  
 **Chengwei Zheng; Wenbin Lin; Feng Xu**  
 
 **[Separable Spatial-Temporal Residual Graph for Cloth-Changing Group Re-Identification](https://ieeexplore.ieee.org/document/10443971/)**  
-**已译**  
+**[可分离的时空残差图用于换装群体重新识别](https://mp.weixin.qq.com/s/QffdynpktdTTAI6GSK5BNw)**  
 **Quan Zhang; Jianhuang Lai; Xiaohua Xie; Xiaofeng Jin; Sien Huang**  
 
 **[Rethinking the Effectiveness of Objective Evaluation Metrics in Multi-Focus Image Fusion: A Statistic-Based Approach](https://ieeexplore.ieee.org/document/10440470/)**  
-**已译**  
+**[重新思考多焦点图像融合中客观评价指标的有效性：一种基于统计的方法](https://mp.weixin.qq.com/s/XkiH3eEkM5lhvKEYKQCLYg)**  
 **Yu Liu; Zhengzheng Qi; Juan Cheng; Xun Chen**  
 
 **[Pose-Driven Compression for Dynamic 3D Human via Human Prior Models](https://ieeexplore.ieee.org/document/10443540/)**  
-**已译**  
+**[基于人体先验模型的动态三维人体驱动压缩](https://mp.weixin.qq.com/s/LA9r_uTRndlMt6wAVmFUKw)**  
 **Ruoke Yan; Qian Yin; Xinfeng Zhang; Qi Zhang; Gai Zhang; Siwei Ma**  
 
 **[Contrast-Phys+: Unsupervised and Weakly-Supervised Video-Based Remote Physiological Measurement via Spatiotemporal Contrast](https://ieeexplore.ieee.org/document/10440521/)**  
-**已译**  
+**[Contrast-Phys+: 一种通过时空对比进行无监督和弱监督视频远程生理测量的方法](https://mp.weixin.qq.com/s/1zv70yCAbs7je6yjZ317Og)**  
 **Zhaodong Sun; Xiaobai Li**  
 
 **[A Coding Framework and Benchmark Towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/document/10440520/)**  

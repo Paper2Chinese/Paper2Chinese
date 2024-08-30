@@ -86,7 +86,7 @@
 **Changrui Chen; Jungong Han; Kurt Debattista**  
 
 **[BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-Based Video Colorization](https://ieeexplore.ieee.org/document/10453471/)**  
-**BiSTNet：基于语义图像先验引导的双向时间特征融合深度示例视频着色**   
+**[BiSTNet：基于语义图像先验引导的双向时间特征融合深度示例视频着色](https://mp.weixin.qq.com/s/WlCj03FPIkoDDf0E8cpPkQ)**   
 **Yixin Yang; Jinshan Pan; Zhongzheng Peng; Xiaoyu Du; Zhulin Tao; Jinhui Tang**  
 
 **[Vision-Language Models for Vision Tasks: A Survey](https://ieeexplore.ieee.org/document/10445007/)**  

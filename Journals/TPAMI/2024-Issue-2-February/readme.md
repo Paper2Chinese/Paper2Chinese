@@ -52,9 +52,6 @@ Gal Lifshitz; Dan Raviv
 **[Deep Image Matting With Sparse User Interactions](https://ieeexplore.ieee.org/document/10290984/)**  
 Tianyi Wei; Dongdong Chen; Wenbo Zhou; Jing Liao; Hanqing Zhao; Weiming Zhang; Gang Hua; Nenghai Yu  
 
-**[MetaFormer Baselines for Vision](https://ieeexplore.ieee.org/document/10304335/)**  
-Weihao Yu; Chenyang Si; Pan Zhou; Mi Luo; Yichen Zhou; Jiashi Feng; Shuicheng Yan; Xinchao Wang  
-
 **[CGOF++: Controllable 3D Face Synthesis With Conditional Generative Occupancy Fields](https://ieeexplore.ieee.org/document/10375777/)**  
 Keqiang Sun; Shangzhe Wu; Ning Zhang; Zhaoyang Huang; Quan Wang; Hongsheng Li  
 
@@ -97,23 +94,11 @@ Joshua Tobin; Mimi Zhang
 **[Learning Interpretable Rules for Scalable Data Representation and Classification](https://ieeexplore.ieee.org/document/10302393/)**  
 Zhuo Wang; Wei Zhang; Ning Liu; Jianyong Wang  
 
-**[Optimal Composite Likelihood Estimation and Prediction for Distributed Gaussian Process Modeling](https://ieeexplore.ieee.org/document/10301563/)**  
-Yongxiang Li; Qiang Zhou; Wei Jiang; Kwok-Leung Tsui  
-
-**[Differentiable Image Data Augmentation and Its Applications: A Survey](https://ieeexplore.ieee.org/document/10310260/)**  
-Jian Shi; Hakim Ghazzai; Yehia Massoud  
-
 **[Back to Reality: Learning Data-Efficient 3D Object Detector With Shape Guidance](https://ieeexplore.ieee.org/document/10302398/)**  
 Xiuwei Xu; Ziwei Wang; Jie Zhou; Jiwen Lu  
 
-**[Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding](https://ieeexplore.ieee.org/document/10298801/)**  
-Fengyuan Shi; Ruopeng Gao; Weilin Huang; Limin Wang  
-
 **[False Correlation Reduction for Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/10301548/)**  
 Zhihong Deng; Zuyue Fu; Lingxiao Wang; Zhuoran Yang; Chenjia Bai; Tianyi Zhou; Zhaoran Wang; Jing Jiang  
-
-**[ViTPose++: Vision Transformer for Generic Body Pose Estimation](https://ieeexplore.ieee.org/document/10308645/)**  
-Yufei Xu; Jing Zhang; Qiming Zhang; Dacheng Tao  
 
 **[Importance Weighted Structure Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10304391/)**  
 Daqi Liu; Miroslaw Bober; Josef Kittler  
@@ -124,11 +109,43 @@ Yanan Li; Shusen Yang; Xuebin Ren; Liang Shi; Cong Zhao
 **[LayerNet: High-Resolution Semantic 3D Reconstruction of Clothed People](https://ieeexplore.ieee.org/document/10316672/)**  
 Enric Corona; Guillem Alenyà; Gerard Pons-Moll; Francesc Moreno-Noguer  
 
-**[PFENet++: Boosting Few-Shot Semantic Segmentation With the Noise-Filtered Context-Aware Prior Mask](https://ieeexplore.ieee.org/document/10305430/)**  
-Xiaoliu Luo; Zhuotao Tian; Taiping Zhang; Bei Yu; Yuan Yan Tang; Jiaya Jia  
-
 **[Tobias: A Random CNN Sees Objects](https://ieeexplore.ieee.org/document/10305409/)**  
 Yun-Hao Cao; Jianxin Wu  
 
 **[Inequality-Constrained 3D Morphable Face Model Fitting](https://ieeexplore.ieee.org/document/10330115/)**  
 Evangelos Sariyanidi; Casey J. Zampella; Robert T. Schultz; Birkan Tunç  
+
+
+
+**[ViTPose++: Vision Transformer for Generic Body Pose Estimation](https://ieeexplore.ieee.org/document/10308645/)**  
+**自己的**  
+Yufei Xu; Jing Zhang; Qiming Zhang; Dacheng Tao  
+
+
+
+**[PFENet++: Boosting Few-Shot Semantic Segmentation With the Noise-Filtered Context-Aware Prior Mask](https://ieeexplore.ieee.org/document/10305430/)**  
+**自己的**  
+Xiaoliu Luo; Zhuotao Tian; Taiping Zhang; Bei Yu; Yuan Yan Tang; Jiaya Jia  
+
+
+
+**[Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding](https://ieeexplore.ieee.org/document/10298801/)**  
+**自己的**  
+Fengyuan Shi; Ruopeng Gao; Weilin Huang; Limin Wang  
+
+
+
+**[Differentiable Image Data Augmentation and Its Applications: A Survey](https://ieeexplore.ieee.org/document/10310260/)**  
+**自己的**  
+Jian Shi; Hakim Ghazzai; Yehia Massoud  
+
+
+
+**[MetaFormer Baselines for Vision](https://ieeexplore.ieee.org/document/10304335/)**  
+**自己的**  
+Weihao Yu; Chenyang Si; Pan Zhou; Mi Luo; Yichen Zhou; Jiashi Feng; Shuicheng Yan; Xinchao Wang  
+
+
+**[Optimal Composite Likelihood Estimation and Prediction for Distributed Gaussian Process Modeling](https://ieeexplore.ieee.org/document/10301563/)**    
+**自己的**  
+Yongxiang Li; Qiang Zhou; Wei Jiang; Kwok-Leung Tsui  

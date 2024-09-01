@@ -41,8 +41,7 @@ Xuezhi Xiang; Rokia Abdein; Wei Li; Abdulmotaleb El Saddik
 [Development of Few-Shot Learning Capabilities in Artificial Neural Networks When Learning Through Self-Supervised Interaction](https://ieeexplore.ieee.org/document/10274870/)  
 Viviane Clay; Gordon Pipa; Kai-Uwe Kühnberger; Peter König  
 
-[Domain Adaptive and Generalizable Network Architectures and Training Strategies for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/10266755/)  
-Lukas Hoyer; Dengxin Dai; Luc Van Gool  
+
 
 [DualRC: A Dual-Resolution Learning Framework With Neighbourhood Consensus for Visual Correspondences](https://ieeexplore.ieee.org/document/10255317/)  
 Xinghui Li; Kai Han; Shuda Li; Victor Prisacariu  
@@ -91,17 +90,13 @@ Zhihao Duan; Ming Lu; Jack Ma; Yuning Huang; Zhan Ma; Fengqing Zhu
 [Re-Thinking the Effectiveness of Batch Normalization and Beyond](https://ieeexplore.ieee.org/document/10262355/)  
 Hanyang Peng; Yue Yu; Shiqi Yu  
 
-[Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection](https://ieeexplore.ieee.org/document/10288361/)  
-Long Li; Junwei Han; Nian Liu; Salman Khan; Hisham Cholakkal; Rao Muhammad Anwer; Fahad Shahbaz Khan  
+
 
 [SC-DepthV3: Robust Self-Supervised Monocular Depth Estimation for Dynamic Scenes](https://ieeexplore.ieee.org/document/10273446/)  
 Libo Sun; Jia-Wang Bian; Huangying Zhan; Wei Yin; Ian Reid; Chunhua Shen  
 
 [Self-Supervised 3D Action Representation Learning With Skeleton Cloud Colorization](https://ieeexplore.ieee.org/document/10288273/)  
 Siyuan Yang; Jun Liu; Shijian Lu; Er Meng Hwa; Yongjian Hu; Alex C. Kot  
-
-[Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection](https://ieeexplore.ieee.org/document/10273635/)  
-Neelu Madan; Nicolae-Cătălin Ristea; Radu Tudor Ionescu; Kamal Nasrollahi; Fahad Shahbaz Khan; Thomas B.  Moeslund; Mubarak Shah
 
 [Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10274865/)  
 Zhe Liu; Yun Li; Lina Yao; Xiaojun Chang; Wei Fang; Xiaojun Wu; Abdulmotaleb El Saddik  
@@ -115,8 +110,7 @@ Xuanhong Chen; Bingbing Ni; Yutian Liu; Naiyuan Liu; Zhilin Zeng; Hang Wang
 [TextSLAM: Visual SLAM With Semantic Planar Text Features](https://ieeexplore.ieee.org/document/10285400/)  
 Boying Li; Danping Zou; Yuan Huang; Xinghan Niu; Ling Pei; Wenxian Yu  
 
-[TIB: Detecting Unknown Objects via Two-Stream Information Bottleneck
-](https://ieeexplore.ieee.org/document/10275124/)  
+[TIB: Detecting Unknown Objects via Two-Stream Information Bottleneck](https://ieeexplore.ieee.org/document/10275124/)  
 Aming Wu; Cheng Deng
 
 [Towards Codebook-Free Deep Probabilistic Quantization for Image Retrieval](https://ieeexplore.ieee.org/document/10285365/)  
@@ -127,3 +121,15 @@ Zheng Wang; Feiping Nie; Canyu Zhang; Rong Wang; Xuelong Li
 
 [A Novel Normalized-Cut Solver With Nearest Neighbor Hierarchical Initialization](https://ieeexplore.ieee.org/document/10132543/)  
 Feiping Nie; Jitao Lu; Danyang Wu; Rong Wang; Xuelong Li  
+
+-----
+[Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection](https://ieeexplore.ieee.org/document/10273635/)  
+**自己的**  
+Neelu Madan; Nicolae-Cătălin Ristea; Radu Tudor Ionescu; Kamal Nasrollahi; Fahad Shahbaz Khan; Thomas B.  Moeslund; Mubarak Shah
+
+
+[Domain Adaptive and Generalizable Network Architectures and Training Strategies for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/10266755/)  
+Lukas Hoyer; Dengxin Dai; Luc Van Gool  
+
+[Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection](https://ieeexplore.ieee.org/document/10288361/)  
+Long Li; Junwei Han; Nian Liu; Salman Khan; Hisham Cholakkal; Rao Muhammad Anwer; Fahad Shahbaz Khan  

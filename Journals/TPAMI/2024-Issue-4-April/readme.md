@@ -27,11 +27,11 @@ Chengkun Wang; Wenzhao Zheng; Zheng Zhu; Jie Zhou; Jiwen Lu
 Thang Vu; Kookhoi Kim; Thanh Nguyen; Tung M. Luu; Junyeong Kim; Chang D. Yoo  
 
 **[Robust Meta-Representation Learning via Global Label Inference and Classification](https://ieeexplore.ieee.org/document/10298810/)**  
-**基于全局标签推理和分类的鲁棒元表示学习（zty）**  
+**[基于全局标签推理和分类的鲁棒元表示学习](https://mp.weixin.qq.com/s/9wIEWvbunNwCXAM_AoJoSA)**  
 Ruohan Wang; John Isak Texas Falk; Massimiliano Pontil; Carlo Ciliberto  
 
 **[Event-Based Background-Oriented Schlieren](https://ieeexplore.ieee.org/document/10301562/)**  
-**基于事件的面向背景的纹影（zty）**  
+**[基于事件的面向背景的纹影](https://mp.weixin.qq.com/s/bTuuR7ODmsqCLKj_Ex2vAg)**  
 Shintaro Shiba; Friedhelm Hamann; Yoshimitsu Aoki; Guillermo Gallego  
 
 **[Encoding the Latent Posterior of Bayesian Neural Networks for Uncertainty Quantification](https://ieeexplore.ieee.org/document/10302334/)**  
@@ -47,7 +47,7 @@ Morteza Rezanejad; John Wilder; Dirk B. Walther; Allan D. Jepson; Sven Dickinson
 Jiahua Dong; Hongliu Li; Yang Cong; Gan Sun; Yulun Zhang; Luc Van Gool  
 
 **[An Introduction to Adversarially Robust Deep Learning](https://ieeexplore.ieee.org/document/10313059/)**  
-**对抗性鲁棒深度学习简介（Mooomos）**  
+**[对抗性鲁棒深度学习简介](https://mp.weixin.qq.com/s/EW3krljeIJZEAewrWm2klQ)s）**  
 Jonathan Peck; Bart Goossens; Yvan Saeys  
 
 **[Negatives Make a Positive: An Embarrassingly Simple Approach to Semi-Supervised Few-Shot Learning](https://ieeexplore.ieee.org/document/10319790/)**  
@@ -79,7 +79,7 @@ Binglu Wang; Yongqiang Zhao; Le Yang; Teng Long; Xuelong Li
 Rongjie Li; Songyang Zhang; Xuming He  
 
 **[Hypergraph-Based Multi-Modal Representation for Open-Set 3D Object Retrieval](https://ieeexplore.ieee.org/document/10319392/)**  
-**基于超图的多模态表征用于开放集3D对象检索**  
+**[基于超图的多模态表征用于开放集3D对象检索](https://mp.weixin.qq.com/s/rEXXjPLhyv_zY7QpA2-GmQ)** 
 Yifan Feng; Shuyi Ji; Yu-Shen Liu; Shaoyi Du; Qionghai Dai; Yue Gao  
 
 **[A Study on the Generality of Neural Network Structures for Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10316606/)**  

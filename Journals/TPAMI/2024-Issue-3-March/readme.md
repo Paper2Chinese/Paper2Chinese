@@ -51,7 +51,7 @@ Yingjun Du; Haoliang Sun; Xiantong Zhen; Jun Xu; Yilong Yin; Ling Shao; Cees G. 
 Song Park; Sanghyuk Chun; Junbum Cha; Bado Lee; Hyunjung Shim  
 
 [Interpretable Compositional Representations for Robust Few-Shot Generalization](https://ieeexplore.ieee.org/document/9913725/)  
-**可解释的组合式表示，用于鲁棒的小样本泛化（zty）**  
+**[可解释的组合式表示，用于鲁棒的小样本泛化](https://mp.weixin.qq.com/s/d8pNWrISAjr6MqBCVyM17Q)**  
 Samarth Mishra; Pengkai Zhu; Venkatesh Saligrama  
 
 [Bayesian Embeddings for Few-Shot Open World Recognition](https://ieeexplore.ieee.org/document/9875990/)  
@@ -64,23 +64,23 @@ John Willes; James Harrison; Ali Harakeh; Chelsea Finn; Marco Pavone; Steven L. 
 Caixia Yan; Xiaojun Chang; Minnan Luo; Huan Liu; Xiaoqin Zhang; Qinghua Zheng  
 
 [Learning Graph Embeddings for Open World Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/9745371/)  
-**为开放世界组合式零样本学习学习图嵌入（zty）**  
+**[为开放世界组合式零样本学习学习图嵌入](https://mp.weixin.qq.com/s/poSZlyyOmJeE0y-jGKyYag)**  
 Massimiliano Mancini; Muhammad Ferjad Naeem; Yongqin Xian; Zeynep Akata  
 
 [Rectification-Based Knowledge Retention for Task Incremental Learning](https://ieeexplore.ieee.org/document/9966835/)  
-**基于矫正的知识保持用于任务增量学习（zty）**  
+**[基于矫正的知识保持用于任务增量学习](https://mp.weixin.qq.com/s/cakOgXWGyMW7AUMc9i-0Gw)**  
 Pratik Mazumder; Pravendra Singh; Piyush Rai; Vinay P. Namboodiri  
 
 [MgSvF: Multi-Grained Slow versus Fast Framework for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/9645290/)  
-**MgSvF: 少样本类增量学习的多粒度慢与快框架**  
+**[MgSvF: 少样本类增量学习的多粒度慢与快框架](https://mp.weixin.qq.com/s/9znd-uugxaAFqVhLKRdJLg)**  
 Hanbin Zhao; Yongjian Fu; Mintong Kang; Qi Tian; Fei Wu; Xi Li  
 
 [Improving Semantic Segmentation via Efficient Self-Training](https://ieeexplore.ieee.org/document/9663011/)  
-**提高语义分割的效率自训练方法**  
+**[提高语义分割的效率自训练方法](https://mp.weixin.qq.com/s/7B3Zp8_MijSHIv1AZHVL6A)**  
 Yi Zhu; Zhongyue Zhang; Chongruo Wu; Zhi Zhang; Tong He; Hang Zhang; R. Manmatha; Mu Li; Alexander Smola  
 
 [RAgE: Robust Age Estimation Through Subject Anchoring With Consistency Regularisation](https://ieeexplore.ieee.org/document/9810519/)  
-**RAgE: 基于一致性正则化和主体锚定的鲁棒年龄估计**  
+**[RAgE: 基于一致性正则化和主体锚定的鲁棒年龄估计](https://mp.weixin.qq.com/s/JxZWjI0-Dn6hJHvC1Pz1Lw)**  
 Ali Akbari; Muhammad Awais; Soroush Fatemifar; Syed Safwan Khalid; Josef Kittler  
 
 [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329/)  

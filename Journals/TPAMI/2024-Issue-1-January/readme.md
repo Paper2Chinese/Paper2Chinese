@@ -129,7 +129,9 @@ Neelu Madan; Nicolae-Cătălin Ristea; Radu Tudor Ionescu; Kamal Nasrollahi; Fah
 
 
 [Domain Adaptive and Generalizable Network Architectures and Training Strategies for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/10266755/)  
+**自己的**  
 Lukas Hoyer; Dengxin Dai; Luc Van Gool  
 
 [Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection](https://ieeexplore.ieee.org/document/10288361/)  
+**自己的**  
 Long Li; Junwei Han; Nian Liu; Salman Khan; Hisham Cholakkal; Rao Muhammad Anwer; Fahad Shahbaz Khan  

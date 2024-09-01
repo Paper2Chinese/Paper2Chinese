@@ -115,14 +115,24 @@ Youjian Zhang; Chaoyue Wang; Dacheng Tao
 Xingxing Xie; Chunbo Lang; Shicheng Miao; Gong Cheng; Ke Li; Junwei Han  
 
 [Modeling Noisy Annotations for Point-Wise Supervision](https://ieeexplore.ieee.org/document/10197253)  
+**点级监督下的噪声标注建模（zty）**  
+Jia Wan; Qiangqiang Wu; Antoni B. Chan  
 
 [HexNet: An Orientation-Aware Deep Learning Framework for Omni-Directional Input](https://ieeexplore.ieee.org/document/10225707)  
+**HexNet: 面向全向输入的定向感知深度学习框架（zty）**  
+Chao Zhang; Stephan Liwicki; Sen He; William Smith; Roberto Cipolla  
 
 [Generative Multi-Label Zero-Shot Learning](https://ieeexplore.ieee.org/document/10184028)  
+**生成式多标签零样本学习（zty）**  
+Akshita Gupta; Sanath Narayan; Salman Khan; Fahad Shahbaz Khan; Ling Shao; Joost van de Weijer  
 
 [Edge Guided GANs With Multi-Scale Contrastive Learning for Semantic Image Synthesis](https://ieeexplore.ieee.org/document/10193781)  
+**基于边缘引导的多尺度对比学习GANs用于语义图像合成（zty）**  
+Hao Tang; Guolei Sun; Nicu Sebe; Luc Van Gool  
 
 [Dynamic Keypoint Detection Network for Image Matching](https://ieeexplore.ieee.org/document/10229243)  
+**用于图像匹配的动态关键点检测网络(zty)**  
+Yuan Gao; Jianfeng He; Tianzhu Zhang; Zhe Zhang; Yongdong Zhang
 
 [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10234713)  
 

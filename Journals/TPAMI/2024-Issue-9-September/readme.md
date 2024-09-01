@@ -23,12 +23,15 @@ Zhipeng Luo; Changqing Zhou; Liang Pan; Gongjie Zhang; Tianrui Liu; Yueru Luo; H
 Abu Hasnat Mohammad Rubaiyat; Shiying Li; Xuwang Yin; Mohammad Shifat-E-Rabbi; Yan Zhuang; Gustavo K. Rohde  
 
 **[Unsupervised Illumination Adaptation for Low-Light Vision](https://ieeexplore.ieee.org/document/10480646/)**  
+**无监督光照适应低光视觉**   
 Wenjing Wang; Rundong Luo; Wenhan Yang; Jiaying Liu  
 
 **[Gradient-Based Instance-Specific Visual Explanations for Object Specification and Object Discrimination](https://ieeexplore.ieee.org/document/10478163/)**  
+**基于梯度的实例特定视觉解释：对象规范与对象区分**   
 Chenyang Zhao; Janet H. Hsiao; Antoni B. Chan  
 
 **[NeRF-Texture: Synthesizing Neural Radiance Field Textures](https://ieeexplore.ieee.org/document/10489854/)**  
+**NeRF-Texture：合成神经辐射场纹理**  
 Yi-Hua Huang; Yan-Pei Cao; Yu-Kun Lai; Ying Shan; Lin Gao  
 
 **[Real-Time CNN Training and Compression for Neural-Enhanced Adaptive Live Streaming](https://ieeexplore.ieee.org/document/10472651/)**  

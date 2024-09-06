@@ -74,7 +74,7 @@
 **Jun Luo; Yunfeng Nie; Wenqi Ren; Xiaochun Cao; Ming-Hsuan Yang**  
 
 **[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/document/10440475/)**  
-**检测和定位多模态媒体操控及其扩展**  
+**[检测和定位多模态媒体操控及其扩展](https://mp.weixin.qq.com/s/ioVGwV45KdEVp7e-qbxKVQ)**  
 **Rui Shao; Tianxing Wu; Jianlong Wu; Liqiang Nie; Ziwei Liu**  
 
 **[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/document/10438044/)**  
@@ -103,7 +103,7 @@
 **Zheng Yuan; Jie Zhang; Zhaoyan Jiang; Liangliang Li; Shiguang Shan**  
 
 **[Multi-Derivational Parsing of Vague Languages— The New Paradigm of Syntactic Pattern Recognition](https://ieeexplore.ieee.org/document/10439646/)**  
-**模糊语言的多派生解析—句法模式识别的新范式**  
+**[模糊语言的多派生解析—句法模式识别的新范式](https://mp.weixin.qq.com/s/ubZ9aHHmO_zZ3tJzEOTIAQ)**  
 **Mariusz Flasiński; Janusz Jurek; Tomasz Peszek**  
 
 **[ZeroNLG: Aligning and Autoencoding Domains for Zero-Shot Multimodal and Multilingual Natural Language Generation](https://ieeexplore.ieee.org/document/10453989/)**  

@@ -35,33 +35,43 @@ Chenyang Zhao; Janet H. Hsiao; Antoni B. Chan
 Yi-Hua Huang; Yan-Pei Cao; Yu-Kun Lai; Ying Shan; Lin Gao  
 
 **[Real-Time CNN Training and Compression for Neural-Enhanced Adaptive Live Streaming](https://ieeexplore.ieee.org/document/10472651/)**  
+**用于神经增强的自适应实时流媒体传输的实时卷积神经网络训练与压缩**  
 Seunghwa Jeong; Bumki Kim; Seunghoon Cha; Kwanggyoon Seo; Hayoung Chang; Jungjin Lee; Younghui Kim; Junyong Noh  
 
 **[Turning a CLIP Model Into a Scene Text Spotter](https://ieeexplore.ieee.org/document/10476714/)**  
+**将CLIP模型转化为场景文本识别器**  
 Wenwen Yu; Yuliang Liu; Xingkui Zhu; Haoyu Cao; Xing Sun; Xiang Bai  
 
 **[A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection](https://ieeexplore.ieee.org/document/10472872/)**  
+**用于动作检测的语义与运动感知时空变换网络**  
 Matthew Korban; Peter Youngs; Scott T. Acton  
 
 **[Exploiting Structural Consistency of Chest Anatomy for Unsupervised Anomaly Detection in Radiography Images](https://ieeexplore.ieee.org/document/10480307/)**  
+**利用胸部解剖结构一致性进行放射影像中无监督异常检测**  
 Tiange Xiang; Yixiao Zhang; Yongyi Lu; Alan Yuille; Chaoyi Zhang; Weidong Cai; Zongwei Zhou  
 
 **[Bi-Directional Ensemble Feature Reconstruction Network for Few-Shot Fine-Grained Classification](https://ieeexplore.ieee.org/document/10472065/)**  
+**用于少样本细粒度分类的双向集成特征重构网络**  
 Jijie Wu; Dongliang Chang; Aneeshan Sain; Xiaoxu Li; Zhanyu Ma; Jie Cao; Jun Guo; Yi-Zhe Song  
 
 **[MVEB: Self-Supervised Learning With Multi-View Entropy Bottleneck](https://ieeexplore.ieee.org/document/10477543/)**  
+**MVEB：使用多视图熵瓶颈的自监督学习**  
 Liangjian Wen; Xiasi Wang; Jianzhuang Liu; Zenglin Xu  
 
 **[Monocular BEV Perception of Road Scenes via Front-to-Top View Projection](https://ieeexplore.ieee.org/document/10473113/)**  
+**通过前视至顶视图投影的单目道路场景鸟瞰感知**  
 Wenxi Liu; Qi Li; Weixiang Yang; Jiaxin Cai; Yuanlong Yu; Yuexin Ma; Shengfeng He; Jia Pan  
 
 **[Latent Semantic Consensus for Deterministic Geometric Model Fitting](https://ieeexplore.ieee.org/document/10472101/)**  
+**用于确定性几何模型拟合的潜在语义共识**  
 Guobao Xiao; Jun Yu; Jiayi Ma; Deng-Ping Fan; Ling Shao  
 
 **[Generative Variational-Contrastive Learning for Self-Supervised Point Cloud Representation](https://ieeexplore.ieee.org/document/10475594/)**  
+**用于自监督点云表示的生成变分对比学习**  
 Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao  
 
 **[Multi-Label Conditional Generation From Pre-Trained Models](https://ieeexplore.ieee.org/document/10480286/)**  
+**从预训练模型进行多标签条件生成**  
 Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja  
 
 **[Uncovering the Over-Smoothing Challenge in Image Super-Resolution: Entropy-Based Quantification and Contrastive Optimization](https://ieeexplore.ieee.org/document/10475558/)**  

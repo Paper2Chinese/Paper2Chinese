@@ -23,24 +23,31 @@ Wenke Huang; Mang Ye; Zekun Shi; Bo Du
 Yuxin Qi; Jun Wu; Hansong Xu; Mohsen Guizani  
 
 **[Understanding and Accelerating Neural Architecture Search With Training-Free and Theory-Grounded Metrics](https://ieeexplore.ieee.org/document/10337787/)**  
+**理解与加速神经架构搜索：无需训练且基于理论的度量方法（zty）**  
 Wuyang Chen; Xinyu Gong; Junru Wu; Yunchao Wei; Humphrey Shi; Zhicheng Yan; Yi Yang; Zhangyang Wang  
 
 **[Image Captioning With Controllable and Adaptive Length Levels](https://ieeexplore.ieee.org/document/10310015/)**  
+**具有可控和自适应长度级别的图像字幕生成（zty）**  
 Ning Ding; Chaorui Deng; Mingkui Tan; Qing Du; Zhiwei Ge; Qi Wu  
 
 **[Tessellating the Latent Space for Non-Adversarial Generative Auto-Encoders](https://ieeexplore.ieee.org/document/10288226/)**  
+**为非对抗性生成自编码器划分潜在空间（zty）**  
 Kuo Gai; Shihua Zhang  
 
 **[Progressive Learning of 3D Reconstruction Network From 2D GAN Data](https://ieeexplore.ieee.org/document/10286100/)**  
+**从2D生成对抗网络数据逐步学习3D重建网络（zty）**  
 Aysegul Dundar; Jun Gao; Andrew Tao; Bryan Catanzaro  
 
-**[COLD Fusion: Calibrated and Ordinal Latent Distribution Fusion for Uncertainty-Aware Multimodal Emotion Recognition](https://ieeexplore.ieee.org/document/10287630/)**
+**[COLD Fusion: Calibrated and Ordinal Latent Distribution Fusion for Uncertainty-Aware Multimodal Emotion Recognition](https://ieeexplore.ieee.org/document/10287630/)**  
+**COLD融合：校准和序数潜在分布融合用于不确定性感知的多模态情感识别（zty）**  
 Mani Kumar Tellamekala; Shahin Amiriparian; Björn W. Schuller; Elisabeth André; Timo Giesbrecht; Michel Valstar  
 
-**[Video Frame Interpolation With Many-to-Many Splatting and Spatial Selective Refinement](https://ieeexplore.ieee.org/document/10294102/)**
+**[Video Frame Interpolation With Many-to-Many Splatting and Spatial Selective Refinement](https://ieeexplore.ieee.org/document/10294102/)**  
+**基于多对多散射与空间选择性细化的视频帧插值（zty）**  
 Ping Hu; Simon Niklaus; Lu Zhang; Stan Sclaroff; Kate Saenko  
 
 **[Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation](https://ieeexplore.ieee.org/document/10321682/)**  
+**非流利合成目标语言数据改善神经机器翻译（zty）**  
 Víctor M. Sánchez-Cartagena; Miquel Esplà-Gomis; Juan Antonio Pérez-Ortiz; Felipe Sánchez-Martínez  
 
 **[Explanatory Object Part Aggregation for Zero-Shot Learning](https://ieeexplore.ieee.org/document/10287616/)**  

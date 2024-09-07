@@ -82,7 +82,7 @@ Tianshuo Xu; Lijiang Li; Peng Mi; Xiawu Zheng; Fei Chao; Rongrong Ji; Yonghong T
 **因果不变交互挖掘用于跨模态相似性学习**  
 Jiexi Yan; Cheng Deng; Heng Huang; Wei Liu  
 
-**[Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach](https://ieeexplore.ieee.org/document/10477580/)** 
+**[Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach](https://ieeexplore.ieee.org/document/10477580/)**  
 **设计具有通用逼近能力的深度神经网络：一种一阶优化方法**  
 Zhoutong Wu; Mingqing Xiao; Cong Fang; Zhouchen Lin  
 

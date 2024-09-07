@@ -75,6 +75,7 @@ Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao
 Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja  
 
 **[Uncovering the Over-Smoothing Challenge in Image Super-Resolution: Entropy-Based Quantification and Contrastive Optimization](https://ieeexplore.ieee.org/document/10475558/)**  
+**揭示图像超分辨率中的过平滑挑战：基于熵的量化和对比优化**  
 Tianshuo Xu; Lijiang Li; Peng Mi; Xiawu Zheng; Fei Chao; Rongrong Ji; Yonghong Tian; Qiang Shen  
 
 **[Causality-Invariant Interactive Mining for Cross-Modal Similarity Learning](https://ieeexplore.ieee.org/document/10477878/)**  

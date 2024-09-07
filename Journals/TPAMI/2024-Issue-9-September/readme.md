@@ -79,6 +79,7 @@ Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz
 Tianshuo Xu; Lijiang Li; Peng Mi; Xiawu Zheng; Fei Chao; Rongrong Ji; Yonghong Tian; Qiang Shen  
 
 **[Causality-Invariant Interactive Mining for Cross-Modal Similarity Learning](https://ieeexplore.ieee.org/document/10477878/)**  
+**因果不变交互挖掘用于跨模态相似性学习**  
 Jiexi Yan; Cheng Deng; Heng Huang; Wei Liu  
 
 **[Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach](https://ieeexplore.ieee.org/document/10477580/)**  

@@ -91,6 +91,7 @@ Zhoutong Wu; Mingqing Xiao; Cong Fang; Zhouchen Lin
 Zongxin Yang; Jiaxu Miao; Yunchao Wei; Wenguan Wang; Xiaohan Wang; Yi Yang  
 
 **[Adaptive Surface Normal Constraint for Geometric Estimation From Monocular Images](https://ieeexplore.ieee.org/document/10480285/)**  
+**自适应表面法线约束的单目图像几何估计**   
 Xiaoxiao Long; Yuhang Zheng; Yupeng Zheng; Beiwen Tian; Cheng Lin; Lingjie Liu; Hao Zhao; Guyue Zhou; Wenping Wang  
 
 **[Unpacking the Gap Box Against Data-Free Knowledge Distillation](https://ieeexplore.ieee.org/document/10476709/)**  

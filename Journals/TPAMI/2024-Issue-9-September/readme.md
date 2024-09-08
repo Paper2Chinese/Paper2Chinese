@@ -7,11 +7,11 @@
 Minglang Qiao; Mai Xu; Lai Jiang; Peng Lei; Shijie Wen; Yunjin Chen; Leonid Sigal  
 
 **[Probabilistic Contrastive Learning for Long-Tailed Visual Recognition](https://ieeexplore.ieee.org/document/10444057/)**  
-**长尾视觉识别的概率对比学习**  
+**[长尾视觉识别的概率对比学习](https://mp.weixin.qq.com/s/RiewTP28cFbyllssBlEPbw)**  
 Chaoqun Du; Yulin Wang; Shiji Song; Gao Huang  
 
 **[FedCut: A Spectral Analysis Framework for Reliable Detection of Byzantine Colluders](https://ieeexplore.ieee.org/document/10465649/)**  
-**FedCut: 一种可靠检测拜占庭合谋者的光谱分析框架**  
+**[FedCut: 一种可靠检测拜占庭合谋者的光谱分析框架](https://mp.weixin.qq.com/s/dRM_aThNQkJKJBq-fiCVNg)**  
 Hanlin Gu; Lixin Fan; XingXing Tang; Qiang Yang  
 
 **[Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking With Transformer](https://ieeexplore.ieee.org/document/10460168/)**  

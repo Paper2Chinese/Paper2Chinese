@@ -55,6 +55,7 @@
 **Yunan Liu; Chunpeng Wang; Mingyu Lu; Jian Yang; Jie Gui; Shanshan Zhang**  
 
 **[Disorder-Invariant Implicit Neural Representation](https://ieeexplore.ieee.org/document/10436706/)**  
+**抗扰动不变的隐式神经表示**  
 **Hao Zhu; Shaowen Xie; Zhen Liu; Fengyi Liu; Qi Zhang; You Zhou; Yi Lin; Zhan Ma; Xun Cao**  
 
 **[Parameter-Insensitive Min Cut Clustering With Flexible Size Constrains](https://ieeexplore.ieee.org/document/10440474/)**  

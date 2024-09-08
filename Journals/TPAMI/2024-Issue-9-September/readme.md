@@ -87,6 +87,7 @@ Jiexi Yan; Cheng Deng; Heng Huang; Wei Liu
 Zhoutong Wu; Mingqing Xiao; Cong Fang; Zhouchen Lin  
 
 **[Scalable Video Object Segmentation With Identification Mechanism](https://ieeexplore.ieee.org/document/10487964/)**  
+**具有识别机制的可扩展视频目标分割**  
 Zongxin Yang; Jiaxu Miao; Yunchao Wei; Wenguan Wang; Xiaohan Wang; Yi Yang  
 
 **[Adaptive Surface Normal Constraint for Geometric Estimation From Monocular Images](https://ieeexplore.ieee.org/document/10480285/)**  

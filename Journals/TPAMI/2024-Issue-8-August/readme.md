@@ -78,7 +78,7 @@
 **Rui Shao; Tianxing Wu; Jianlong Wu; Liqiang Nie; Ziwei Liu**  
 
 **[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/document/10438044/)**  
-**鲁棒性视觉问答：数据集、方法与未来挑战**  
+**[鲁棒性视觉问答：数据集、方法与未来挑战](https://mp.weixin.qq.com/s/dKj2v0TZ6-5nbxwgQR9KaQ)**  
 **Jie Ma; Pinghui Wang; Dechen Kong; Zewei Wang; Jun Liu; Hongbin Pei; Junzhou Zhao**  
 
 **[Virtual Category Learning: A Semi-Supervised Learning Method for Dense Prediction With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10440511/)**  
@@ -139,7 +139,7 @@
 **Zhaodong Sun; Xiaobai Li**  
 
 **[A Coding Framework and Benchmark Towards Low-Bitrate Video Understanding](https://ieeexplore.ieee.org/document/10440520/)**  
-**面向低比特率视频理解的编码框架及基准**  
+**[面向低比特率视频理解的编码框架及基准](https://mp.weixin.qq.com/s/nGpZV9e9jMcTutTYLqMh-Q)**  
 **Yuan Tian; Guo Lu; Yichao Yan; Guangtao Zhai; Li Chen; Zhiyong Gao**  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  

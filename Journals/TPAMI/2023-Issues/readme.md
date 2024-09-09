@@ -135,24 +135,44 @@ Hao Tang; Guolei Sun; Nicu Sebe; Luc Van Gool
 Yuan Gao; Jianfeng He; Tianzhu Zhang; Zhe Zhang; Yongdong Zhang
 
 [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10234713)  
+**用于点云分割领域适应的组合语义混合（zty）**  
+Cristiano Saltori; Fabio Galasso; Giuseppe Fiameni; Nicu Sebe; Fabio Poiesi; Elisa Ricci  
 
 [Background-Aware Classification Activation Map for Weakly Supervised Object Localization](https://ieeexplore.ieee.org/document/10234096)  
+**用于弱监督目标定位的背景感知分类激活图（zty）**  
+Lei Zhu; Qi She; Qian Chen; Xiangxi Meng; Mufeng Geng; Lujia Jin; Yibao Zhang; Qiushi Ren; Yanye Lu
 
 [Attribute-Guided Collaborative Learning for Partial Person Re-Identification](https://ieeexplore.ieee.org/document/10239469)  
+**面向部分人体再识别的属性引导协同学习（zty）**  
+Haoyu Zhang; Meng Liu; Yuhong Li; Ming Yan; Zan Gao; Xiaojun Chang; Liqiang Nie  
 
 [Adversarial Data Augmentation for HMM-Based Anomaly Detection](https://ieeexplore.ieee.org/document/10210524)  
+**基于隐马尔可夫模型的对抗性数据增强用于异常检测（zty）**  
+Alberto Castellini; Francesco Masillo; Davide Azzalini; Francesco Amigoni; Alessandro Farinelli  
 
 [ActiveZero++: Mixed Domain Learning Stereo and Confidence-Based Depth Completion With Zero Annotation](https://ieeexplore.ieee.org/document/10219021)  
+**ActiveZero++：基于零标注的混合域学习立体视觉与基于置信度的深度完成（zty）**  
+Rui Chen; Isabella Liu; Edward Yang; Jianyu Tao; Xiaoshuai Zhang; Qing Ran; Zhu Liu; Jing Xu; Hao Su
 
 [AdaPoinTr: Diverse Point Cloud Completion With Adaptive Geometry-Aware Transformers](https://ieeexplore.ieee.org/document/10232862)  
+**AdaPoinTr：采用自适应几何感知Transformer的多样化点云补全（zty）**  
+Xumin Yu; Yongming Rao; Ziyi Wang; Jiwen Lu; Jie Zhou  
 
 [Action Recognition and Benchmark Using Event Cameras](https://ieeexplore.ieee.org/document/10198747)  
+**基于事件相机的动作识别与基准测试（zty）**  
+Yue Gao; Jiaxuan Lu; Siqi Li; Nan Ma; Shaoyi Du; Yipeng Li; Qionghai Dai  
 
 [A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)  
+**面向实例依赖标签噪声的参数化模型（zty）**  
+Shuo Yang; Songhua Wu; Erkun Yang; Bo Han; Yang Liu; Min Xu; Gang Niu; Tongliang Liu
 
 [Split-GCN: Effective Interactive Annotation for Segmentation of Disconnected Instance](https://ieeexplore.ieee.org/document/9984937)  
+**Split-GCN：用于分割不连续实例的有效交互式标注（zty）**  
+Namgil Kim; Barom Kang; Yeonok Cho  
 
 [MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10145811)  
+**MO-MIX：基于深度强化学习的多目标多智能体协同决策（zty）**  
+Tianmeng Hu; Biao Luo; Chunhua Yang; Tingwen Huang  
 
 [Multiple Instance Differentiation Learning for Active Object Detection](https://ieeexplore.ieee.org/document/10129096)  
 

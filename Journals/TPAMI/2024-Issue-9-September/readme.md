@@ -95,15 +95,19 @@ Zongxin Yang; Jiaxu Miao; Yunchao Wei; Wenguan Wang; Xiaohan Wang; Yi Yang
 Xiaoxiao Long; Yuhang Zheng; Yupeng Zheng; Beiwen Tian; Cheng Lin; Lingjie Liu; Hao Zhao; Guyue Zhou; Wenping Wang  
 
 **[Unpacking the Gap Box Against Data-Free Knowledge Distillation](https://ieeexplore.ieee.org/document/10476709/)**  
+**解构数据无关知识蒸馏中的Gap Box机制**  
 Yang Wang; Biao Qian; Haipeng Liu; Yong Rui; Meng Wang  
 
 **[3D Scene Creation and Rendering via Rough Meshes: A Lighting Transfer Avenue](https://ieeexplore.ieee.org/document/10480280/)**  
+**基于粗糙网格的三维场景构建与渲染：探索光照传递的新途径** 
 Bowen Cai; Yujie Li; Yuqin Liang; Rongfei Jia; Binqiang Zhao; Mingming Gong; Huan Fu  
 
 **[Robust Shape Fitting for 3D Scene Abstraction](https://ieeexplore.ieee.org/document/10475588/)**  
+**三维场景抽象中的鲁棒性形状拟合方法**  
 Florian Kluger; Eric Brachmann; Michael Ying Yang; Bodo Rosenhahn  
 
 **[Bridging Implicit and Explicit Geometric Transformation for Single-Image View Synthesis](https://ieeexplore.ieee.org/document/10475596/)**  
+**单一图像视图合成中隐式与显式几何变换的桥梁构建**  
 Byeongjun Park; Hyojun Go; Changick Kim  
 
 **[Tackling Noisy Labels With Network Parameter Additive Decomposition](https://ieeexplore.ieee.org/document/10480647/)**  

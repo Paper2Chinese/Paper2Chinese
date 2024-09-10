@@ -7,7 +7,7 @@
 Li Liu; Timothy Hospedales; Yann LeCun; Mingsheng Long; Jiebo Luo; Wanli Ouyang; Matti Pietikäinen; Tinne Tuytelaars  
 
 [Semi-Supervised and Unsupervised Deep Visual Learning: A Survey](https://ieeexplore.ieee.org/document/9866825/)  
-**半监督与无监督深度视觉学习研究综述**  
+**[半监督与无监督深度视觉学习研究综述](https://mp.weixin.qq.com/s/Kp-rLPtT33mGACW4L-c34Q)**  
 Yanbei Chen; Massimiliano Mancini; Xiatian Zhu; Zeynep Akata  
 
 [Deeply Unsupervised Patch Re-Identification for Pre-Training Object Detectors](https://ieeexplore.ieee.org/document/9749837/)  
@@ -88,7 +88,7 @@ Ali Akbari; Muhammad Awais; Soroush Fatemifar; Syed Safwan Khalid; Josef Kittler
 Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon  
 
 [Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning](https://ieeexplore.ieee.org/document/9760057/)  
-**超越单一图像的弱监督语义分割学习研究（zty）**  
+**[超越单一图像的弱监督语义分割学习研究](https://mp.weixin.qq.com/s/j17a8tljDkKGFzlzNXmDEw)**  
 Wenguan Wang; Guolei Sun; Luc Van Gool  
 
 [Recognizing Predictive Substructures With Subgraph Information Bottleneck](https://ieeexplore.ieee.org/document/9537601/)  
@@ -100,27 +100,27 @@ Junchi Yu; Tingyang Xu; Yu Rong; Yatao Bian; Junzhou Huang; Ran He
 Jiahua Dong; Yang Cong; Gan Sun; Zhen Fang; Zhengming Ding  
 
 [Feature Re-Representation and Reliable Pseudo Label Retraining for Cross-Domain Semantic Segmentation](https://ieeexplore.ieee.org/document/9733271/)  
-**跨域语义分割的特征再表示与可靠伪标签重训练**  
+**[跨域语义分割的特征再表示与可靠伪标签重训练](https://mp.weixin.qq.com/s/El8n1K_2nGIZhr1kNkPhEg)**  
 Jing Li; Kang Zhou; Shenhan Qian; Wen Li; Lixin Duan; Shenghua Gao  
 
 [I2F: A Unified Image-to-Feature Approach for Domain Adaptive Semantic Segmentation](https://ieeexplore.ieee.org/document/9984933/)  
-**I2F: 一种统一的图像到特征的领域自适应语义分割方法**  
+**[I2F: 一种统一的图像到特征的领域自适应语义分割方法](https://mp.weixin.qq.com/s/cYELzFagNeAGfwNb3xiPVA)**  
 Haoyu Ma; Xiangru Lin; Yizhou Yu  
 
 [Intra-Inter Domain Similarity for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/9745321/)  
-**无监督人员重识别的内部-外部域相似性**  
+**[无监督人员重识别的内部-外部域相似性](https://mp.weixin.qq.com/s/J5EZFsmYDhxStfAgA9BA4g)**  
 Shiyu Xuan; Shiliang Zhang  
 
 [Graphical Modeling for Multi-Source Domain Adaptation](https://ieeexplore.ieee.org/document/9767755/)  
-**多源领域适应的图形建模**  
+**[多源领域适应的图形建模](https://mp.weixin.qq.com/s/dxQ-2cYBGj5iC7ZbeD_AHA)**  
 Minghao Xu; Hang Wang; Bingbing Ni  
 
 [Multiple Adverse Weather Conditions Adaptation for Object Detection via Causal Intervention](https://ieeexplore.ieee.org/document/9756301/)  
-**通过因果干预适应多种不利天气条件的对象检测**  
+**[通过因果干预适应多种不利天气条件的对象检测](https://mp.weixin.qq.com/s/xtlK2Tb5oAdyaBuPZAL9yA)**  
 Hua Zhang; Liqiang Xiao; Xiaochun Cao; Hassan Foroosh  
 
 [Unsupervised and Semi-Supervised Robust Spherical Space Domain Adaptation](https://ieeexplore.ieee.org/document/9733209/)  
-**无监督和半监督鲁棒的球形空间领域适应**  
+**[无监督和半监督鲁棒的球形空间领域适应](https://mp.weixin.qq.com/s/m_WARsbNzLwMTMwD_ewLCg)**  
 Xiang Gu; Jian Sun; Zongben Xu  
 
 [Out-of-Domain Generalization From a Single Source: An Uncertainty Quantification Approach](https://ieeexplore.ieee.org/document/9801711/)  

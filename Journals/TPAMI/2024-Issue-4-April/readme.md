@@ -55,7 +55,7 @@ Jonathan Peck; Bart Goossens; Yvan Saeys
 Xiu-Shen Wei; He-Yang Xu; Zhiwen Yang; Chen-Long Duan; Yuxin Peng  
 
 **[Towards Human-Centered Explainable AI: A Survey of User Studies for Model Explanations](https://ieeexplore.ieee.org/document/10316181/)**  
-**走向以人为中心的可解释人工智能：模型解释的用户研究综述（Mooomos）**  
+**[走向以人为中心的可解释人工智能：模型解释的用户研究综述](https://mp.weixin.qq.com/s/DP1CZs-v1Q8mhZ-OVASGAg)**  
 Yao Rong; Tobias Leemann; Thai-Trang Nguyen; Lisa Fiedler; Peizhu Qian; Vaibhav Unhelkar; Tina Seidel; Gjergji Kasneci; Enkelejda Kasneci  
 
 **[Semantic Hierarchy-Aware Segmentation](https://ieeexplore.ieee.org/document/10316583/)**  
@@ -103,11 +103,11 @@ Haohao Sun; Haixia Wang; Yilong Zhang; Ronghua Liang; Peng Chen; Jianjiang Feng
 Shuchen Weng; Boxin Shi  
 
 **[Channel Augmentation for Visible-Infrared Re-Identification](https://ieeexplore.ieee.org/document/10319076/)**  
-**可见光-红外重识别的通道增强**  
+**[可见光-红外重识别的通道增强](https://mp.weixin.qq.com/s/BvussMyye20UgxUfTuqxIw)**  
 Mang Ye; Zesen Wu; Cuiqun Chen; Bo Du  
 
 **[Revisiting Computer-Aided Tuberculosis Diagnosis](https://ieeexplore.ieee.org/document/10310292/)**  
-**重新审视计算机辅助肺结核诊断**   
+**[重新审视计算机辅助肺结核诊断](https://mp.weixin.qq.com/s/N65M4rwd6GsZpSfbS7DnMg)**   
 Yun Liu; Yu-Huan Wu; Shi-Chen Zhang; Li Liu; Min Wu; Ming-Ming Cheng  
 
 **[Messages are Never Propagated Alone: Collaborative Hypergraph Neural Network for Time-Series Forecasting](https://ieeexplore.ieee.org/document/10314020/)**  
@@ -115,7 +115,7 @@ Yun Liu; Yu-Huan Wu; Shi-Chen Zhang; Li Liu; Min Wu; Ming-Ming Cheng
 Nan Yin; Li Shen; Huan Xiong; Bin Gu; Chong Chen; Xian-Sheng Hua; Siwei Liu; Xiao Luo  
 
 **[Unified Adversarial Patch for Visible-Infrared Cross-Modal Attacks in the Physical World](https://ieeexplore.ieee.org/document/10310159/)**  
-**统一可见光-红外跨模态攻击的对抗补丁**   
+**[统一可见光-红外跨模态攻击的对抗补丁](https://mp.weixin.qq.com/s/AaNGktiaE14O8wVvFieQwA)**   
 Xingxing Wei; Yao Huang; Yitong Sun; Jie Yu  
 
 **[NeUDF: Learning Neural Unsigned Distance Fields With Volume Rendering](https://ieeexplore.ieee.org/document/10330070/)**  

@@ -140,7 +140,7 @@ Fei Yin; Yong Zhang; Baoyuan Wu; Yan Feng; Jingyi Zhang; Yanbo Fan; Yujiu Yang
 Jianpo Su; Hui Shen; Limin Peng; Dewen Hu  
 
 [Open Long-Tailed Recognition in a Dynamic World](https://ieeexplore.ieee.org/document/9863702/)  
-**动态世界中的开放长尾识别(zty)**  
+**[动态世界中的开放长尾识别](https://mp.weixin.qq.com/s/LF71UoITQ8IcZTxIMf5_SA)**  
 Ziwei Liu; Zhongqi Miao; Xiaohang Zhan; Jiayun Wang; Boqing Gong; Stella X. Yu  
 
 [Learning Implicit Functions for Dense 3D Shape Correspondence of Generic Objects](https://ieeexplore.ieee.org/document/10004641/)  

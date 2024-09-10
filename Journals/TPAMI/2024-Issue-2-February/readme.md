@@ -3,7 +3,7 @@
 *****
 
 **[Diffusion Mechanism in Residual Neural Network: Theory and Applications](https://ieeexplore.ieee.org/document/10114599/)**  
-**残差神经网络中的扩散机制：理论与应用（zty）**  
+**[残差神经网络中的扩散机制：理论与应用](https://mp.weixin.qq.com/s/4Yr1Z2YVaIQvFhuHlj9oFw)**  
 Tangjun Wang; Zehao Dou; Chenglong Bao; Zuoqiang Shi  
 
 **[OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation](https://ieeexplore.ieee.org/document/10185573/)**  

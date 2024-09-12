@@ -92,7 +92,7 @@ Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon
 Wenguan Wang; Guolei Sun; Luc Van Gool  
 
 [Recognizing Predictive Substructures With Subgraph Information Bottleneck](https://ieeexplore.ieee.org/document/9537601/)  
-**利用子图信息瓶颈识别预测性子结构（zty）**  
+**[利用子图信息瓶颈识别预测性子结构](https://mp.weixin.qq.com/s/8tDjx6G9iuaFNT1yL3wprw)**  
 Junchi Yu; Tingyang Xu; Yu Rong; Yatao Bian; Junzhou Huang; Ran He  
 
 [Where and How to Transfer: Knowledge Aggregation-Induced Transferability Perception for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9616392/)  
@@ -128,7 +128,7 @@ Xiang Gu; Jian Sun; Zongben Xu
 Xi Peng; Fengchun Qiao; Long Zhao  
 
 [Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/9655492/)  
-**遮挡感知的自监督单目6D物体姿态估计**  
+**[遮挡感知的自监督单目6D物体姿态估计](https://mp.weixin.qq.com/s/_KUhFVm8eC-5W6FeCsnf-Q)**  
 Gu Wang; Fabian Manhardt; Xingyu Liu; Xiangyang Ji; Federico Tombari  
 
 [Generalizable Black-Box Adversarial Attack With Meta Learning](https://ieeexplore.ieee.org/document/10017370/)  
@@ -136,7 +136,7 @@ Gu Wang; Fabian Manhardt; Xingyu Liu; Xiangyang Ji; Federico Tombari
 Fei Yin; Yong Zhang; Baoyuan Wu; Yan Feng; Jingyi Zhang; Yanbo Fan; Yujiu Yang  
 
 [Few-Shot Domain-Adaptive Anomaly Detection for Cross-Site Brain Images](https://ieeexplore.ieee.org/document/9606561/)  
-**跨站点脑图像的小样本领域自适应异常检测(zty)**  
+**[跨站点脑图像的小样本领域自适应异常检测](https://mp.weixin.qq.com/s/jrKxywLpShBlEUBB3hLlCQ)**  
 Jianpo Su; Hui Shen; Limin Peng; Dewen Hu  
 
 [Open Long-Tailed Recognition in a Dynamic World](https://ieeexplore.ieee.org/document/9863702/)  

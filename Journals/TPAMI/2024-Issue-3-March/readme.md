@@ -84,7 +84,7 @@ Yi Zhu; Zhongyue Zhang; Chongruo Wu; Zhi Zhang; Tong He; Hang Zhang; R. Manmatha
 Ali Akbari; Muhammad Awais; Soroush Fatemifar; Syed Safwan Khalid; Josef Kittler  
 
 [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329/)  
-**针对弱监督语义分割和目标定位的抗对抗性操纵的归因分析（zty）**  
+**[针对弱监督语义分割和目标定位的抗对抗性操纵的归因分析](https://mp.weixin.qq.com/s/6DjI9Zo5B_rmb7VjvqX6Gw)**  
 Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon  
 
 [Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning](https://ieeexplore.ieee.org/document/9760057/)  

@@ -19,7 +19,7 @@ Jian Ding; Enze Xie; Hang Xu; Chenhan Jiang; Zhenguo Li; Ping Luo; Gui-Song Xia
 Lang Huang; Chao Zhang; Hongyang Zhang  
 
 [Learning to Remove Rain in Video With Self-Supervision](https://ieeexplore.ieee.org/document/9815121/)  
-**自监督学习在视频去除雨中的应用**  
+**[自监督学习在视频去除雨中的应用](https://mp.weixin.qq.com/s/1VzQXQRwTN0d1jtxQvfv3g)**  
 Wenhan Yang; Robby T. Tan; Shiqi Wang; Alex C. Kot; Jiaying Liu  
 
 [Self-Supervised Latent Space Optimization With Nebula Variational Coding](https://ieeexplore.ieee.org/document/9740011/)  

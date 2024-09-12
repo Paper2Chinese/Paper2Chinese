@@ -96,7 +96,7 @@ Wenguan Wang; Guolei Sun; Luc Van Gool
 Junchi Yu; Tingyang Xu; Yu Rong; Yatao Bian; Junzhou Huang; Ran He  
 
 [Where and How to Transfer: Knowledge Aggregation-Induced Transferability Perception for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9616392/)  
-**何处以及如何迁移：知识聚合诱导的迁移性感知在无监督领域自适应中的应用（zty）**  
+**[何处以及如何迁移：知识聚合诱导的迁移性感知在无监督领域自适应中的应用](https://mp.weixin.qq.com/s/noFfspE2yH9_FDD6cos80Q)**  
 Jiahua Dong; Yang Cong; Gan Sun; Zhen Fang; Zhengming Ding  
 
 [Feature Re-Representation and Reliable Pseudo Label Retraining for Cross-Domain Semantic Segmentation](https://ieeexplore.ieee.org/document/9733271/)  

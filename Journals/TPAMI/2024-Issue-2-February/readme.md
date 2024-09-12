@@ -19,11 +19,11 @@ Ziwei Wang; Yonhon Ng; Cedric Scheerlinck; Robert Mahony
 Wenke Huang; Mang Ye; Zekun Shi; Bo Du  
 
 **[Blockchain Data Mining With Graph Learning: A Survey](https://ieeexplore.ieee.org/document/10296043/)**  
-**基于图学习区块链数据挖掘综述（zty）**  
+**[基于图学习区块链数据挖掘综述](https://mp.weixin.qq.com/s/1Zw5YOSro3G6RUhQ4w9_0g)**  
 Yuxin Qi; Jun Wu; Hansong Xu; Mohsen Guizani  
 
 **[Understanding and Accelerating Neural Architecture Search With Training-Free and Theory-Grounded Metrics](https://ieeexplore.ieee.org/document/10337787/)**  
-**理解与加速神经架构搜索：无需训练且基于理论的度量方法（zty）**  
+**[理解与加速神经架构搜索：无需训练且基于理论的度量方法](https://mp.weixin.qq.com/s/9PsjBKsmTqCT5kJxiqnk1A)**  
 Wuyang Chen; Xinyu Gong; Junru Wu; Yunchao Wei; Humphrey Shi; Zhicheng Yan; Yi Yang; Zhangyang Wang  
 
 **[Image Captioning With Controllable and Adaptive Length Levels](https://ieeexplore.ieee.org/document/10310015/)**  

@@ -11,7 +11,7 @@ Tangjun Wang; Zehao Dou; Chenglong Bao; Zuoqiang Shi
 Peng Li; Jiayin Zhao; Jingyao Wu; Chao Deng; Yuqi Han; Haoqian Wang; Tao Yu  
 
 **[An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras](https://ieeexplore.ieee.org/document/10238826/)**  
-**一种用于混合事件-帧摄像机的异步线性滤波器架构（zty）**  
+**[一种用于混合事件-帧摄像机的异步线性滤波器架构](https://mp.weixin.qq.com/s/LwoWS0UOQ4W-Y9-P7Gq9qA)**  
 Ziwei Wang; Yonhon Ng; Cedric Scheerlinck; Robert Mahony  
 
 **[Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning](https://ieeexplore.ieee.org/document/10295990/)**  

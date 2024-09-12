@@ -152,6 +152,6 @@ Feng Liu; Xiaoming Liu
 Weijian Deng; Liang Zheng  
 
 [Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking](https://ieeexplore.ieee.org/document/9729522/)  
-**递归最小二乘估计辅助的在线学习在视觉跟踪中的应用(zty)**  
+**[递归最小二乘估计辅助的在线学习在视觉跟踪中的应用](https://mp.weixin.qq.com/s/UZmCsQi9c7dBhUDSakQpxw)**  
 Jin Gao; Yan Lu; Xiaojuan Qi; Yutong Kou; Bing Li; Liang Li; Shan Yu; Weiming Hu  
 

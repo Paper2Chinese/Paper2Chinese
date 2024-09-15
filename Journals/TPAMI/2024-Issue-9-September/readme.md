@@ -118,6 +118,7 @@ Jingyi Wang; Xiaobo Xia; Long Lan; Xinghao Wu; Jun Yu; Wenjing Yang; Bo Han; Ton
 Xiaowei Zhou; Haoyu Guo; Sida Peng; Yuxi Xiao; Haotong Lin; Qianqian Wang; Guofeng Zhang; Hujun Bao  
 
 **[Improving Fast Adversarial Training With Prior-Guided Knowledge](https://ieeexplore.ieee.org/document/10478545/)**  
+**利用先验引导知识改进快速对抗训练**   
 Xiaojun Jia; Yong Zhang; Xingxing Wei; Baoyuan Wu; Ke Ma; Jue Wang; Xiaochun Cao  
 
 **[Quadratic Matrix Factorization With Applications to Manifold Learning](https://ieeexplore.ieee.org/document/10478194/)**  

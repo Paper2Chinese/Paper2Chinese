@@ -127,6 +127,7 @@ Xiaojun Jia; Yong Zhang; Xingxing Wei; Baoyuan Wu; Ke Ma; Jue Wang; Xiaochun Cao
 Zheng Zhai; Hengchao Chen; Qiang Sun  
 
 **[FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation](https://ieeexplore.ieee.org/document/10480276/)**  
+**FeatAug-DETR: 通过特征增强丰富DETR的一对多匹配**  
 Rongyao Fang; Peng Gao; Aojun Zhou; Yingjie Cai; Si Liu; Jifeng Dai; Hongsheng Li  
 
 **[EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision](https://ieeexplore.ieee.org/document/10478195/)**  

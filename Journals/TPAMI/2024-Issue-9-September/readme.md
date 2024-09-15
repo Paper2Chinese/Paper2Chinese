@@ -111,6 +111,7 @@ Florian Kluger; Eric Brachmann; Michael Ying Yang; Bodo Rosenhahn
 Byeongjun Park; Hyojun Go; Changick Kim  
 
 **[Tackling Noisy Labels With Network Parameter Additive Decomposition](https://ieeexplore.ieee.org/document/10480647/)**  
+**处理带噪声标签的网络参数加性分解方法**   
 Jingyi Wang; Xiaobo Xia; Long Lan; Xinghao Wu; Jun Yu; Wenjing Yang; Bo Han; Tongliang Liu  
 
 **[Neural 3D Scene Reconstruction With Indoor Planar Priors](https://ieeexplore.ieee.org/document/10476755/)**  

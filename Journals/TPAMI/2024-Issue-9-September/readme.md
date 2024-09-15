@@ -122,6 +122,7 @@ Xiaowei Zhou; Haoyu Guo; Sida Peng; Yuxi Xiao; Haotong Lin; Qianqian Wang; Guofe
 Xiaojun Jia; Yong Zhang; Xingxing Wei; Baoyuan Wu; Ke Ma; Jue Wang; Xiaochun Cao  
 
 **[Quadratic Matrix Factorization With Applications to Manifold Learning](https://ieeexplore.ieee.org/document/10478194/)**  
+**二次矩阵分解及其在流形学习中的应用**  
 Zheng Zhai; Hengchao Chen; Qiang Sun  
 
 **[FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation](https://ieeexplore.ieee.org/document/10480276/)**  

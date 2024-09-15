@@ -114,6 +114,7 @@ Byeongjun Park; Hyojun Go; Changick Kim
 Jingyi Wang; Xiaobo Xia; Long Lan; Xinghao Wu; Jun Yu; Wenjing Yang; Bo Han; Tongliang Liu  
 
 **[Neural 3D Scene Reconstruction With Indoor Planar Priors](https://ieeexplore.ieee.org/document/10476755/)**  
+**基于室内平面先验的神经3D场景重建**  
 Xiaowei Zhou; Haoyu Guo; Sida Peng; Yuxi Xiao; Haotong Lin; Qianqian Wang; Guofeng Zhang; Hujun Bao  
 
 **[Improving Fast Adversarial Training With Prior-Guided Knowledge](https://ieeexplore.ieee.org/document/10478545/)**  

@@ -15,7 +15,7 @@ Peng Li; Jiayin Zhao; Jingyao Wu; Chao Deng; Yuqi Han; Haoqian Wang; Tao Yu
 Ziwei Wang; Yonhon Ng; Cedric Scheerlinck; Robert Mahony  
 
 **[Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning](https://ieeexplore.ieee.org/document/10295990/)**  
-**泛化异构联邦交叉相关性与实例相似性学习（zty）**  
+**[泛化异构联邦交叉相关性与实例相似性学习](https://mp.weixin.qq.com/s/7tkrp62jKLBAZKCBHif_sA)**  
 Wenke Huang; Mang Ye; Zekun Shi; Bo Du  
 
 **[Blockchain Data Mining With Graph Learning: A Survey](https://ieeexplore.ieee.org/document/10296043/)**  

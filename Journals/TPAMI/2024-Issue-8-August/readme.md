@@ -71,7 +71,7 @@
 **Yongyi Su; Xun Xu; Tianrui Li; Kui Jia**  
 
 **[Correcting Optical Aberration via Depth-Aware Point Spread Functions](https://ieeexplore.ieee.org/document/10448544/)**  
-**已译**  
+**[基于深度感知点扩散函数的光学像差校正](https://mp.weixin.qq.com/s/qbTbhJAxKFzZPMzpjnrFAg)**  
 **Jun Luo; Yunfeng Nie; Wenqi Ren; Xiaochun Cao; Ming-Hsuan Yang**  
 
 **[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/document/10440475/)**  

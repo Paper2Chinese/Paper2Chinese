@@ -103,7 +103,7 @@ Yunan Lu; Weiwei Li; Huaxiong Li; Xiuyi Jia
 Yangbangyan Jiang; Qianqian Xu; Yunrui Zhao; Zhiyong Yang; Peisong Wen; Xiaochun Cao; Qingming Huang  
 
 [Positive-Negative Receptive Field Reasoning for Omni-Supervised 3D Segmentation](https://ieeexplore.ieee.org/document/10264222)  
-**面向全监督3D分割的正负感受野推理（zty）**  
+**[面向全监督3D分割的正负感受野推理](https://mp.weixin.qq.com/s/eq08j2XXJ80vIYL_fNG0WA)**  
 Xin Tan; Qihang Ma; Jingyu Gong; Jiachen Xu; Zhizhong Zhang; Haichuan Song; Yanyun Qu; Yuan Xie  
 
 [Neural Maximum a Posteriori Estimation on Unpaired Data for Motion Deblurring](https://ieeexplore.ieee.org/document/10214098)  

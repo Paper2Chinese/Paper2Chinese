@@ -116,7 +116,7 @@
 **Xin Deng; Enpeng Liu; Chao Gao; Shengxi Li; Shuhang Gu; Mai Xu**  
 
 **[Randomness Regularization With Simple Consistency Training for Neural Networks](https://ieeexplore.ieee.org/document/10453595/)**  
-**神经网络的随机正则化与简单一致性训练**  
+**[神经网络的随机正则化与简单一致性训练](https://mp.weixin.qq.com/s/xtDJrYlGoiTH3WzDYg9yZQ)**  
 **Juntao Li; Xiaobo Liang; Lijun Wu; Yue Wang; Qi Meng; Tao Qin; Min Zhang; Tie-Yan Liu**  
 
 **[EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points](https://ieeexplore.ieee.org/document/10436377/)**  

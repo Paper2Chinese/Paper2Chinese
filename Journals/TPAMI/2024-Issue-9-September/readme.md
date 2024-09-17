@@ -19,7 +19,7 @@ Hanlin Gu; Lixin Fan; XingXing Tang; Qiang Yang
 Zhipeng Luo; Changqing Zhou; Liang Pan; Gongjie Zhang; Tianrui Liu; Yueru Luo; Haiyu Zhao; Ziwei Liu; Shijian Lu  
 
 **[End-to-End Signal Classification in Signed Cumulative Distribution Transform Space](https://ieeexplore.ieee.org/document/10457552/)**  
-**基于有符号累积分布变换空间的端到端信号分类**   
+**[基于有符号累积分布变换空间的端到端信号分类](https://mp.weixin.qq.com/s/-7M3WH5msLFVt2TIjKOyjw)**   
 Abu Hasnat Mohammad Rubaiyat; Shiying Li; Xuwang Yin; Mohammad Shifat-E-Rabbi; Yan Zhuang; Gustavo K. Rohde  
 
 **[Unsupervised Illumination Adaptation for Low-Light Vision](https://ieeexplore.ieee.org/document/10480646/)**  

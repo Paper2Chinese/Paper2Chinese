@@ -115,7 +115,7 @@ Youjian Zhang; Chaoyue Wang; Dacheng Tao
 Xingxing Xie; Chunbo Lang; Shicheng Miao; Gong Cheng; Ke Li; Junwei Han  
 
 [Modeling Noisy Annotations for Point-Wise Supervision](https://ieeexplore.ieee.org/document/10197253)  
-**点级监督下的噪声标注建模（zty）**  
+**[点级监督下的噪声标注建模](https://mp.weixin.qq.com/s/WTioonoF-zgynrkosYgbqQ)**  
 Jia Wan; Qiangqiang Wu; Antoni B. Chan  
 
 [HexNet: An Orientation-Aware Deep Learning Framework for Omni-Directional Input](https://ieeexplore.ieee.org/document/10225707)  
@@ -123,7 +123,7 @@ Jia Wan; Qiangqiang Wu; Antoni B. Chan
 Chao Zhang; Stephan Liwicki; Sen He; William Smith; Roberto Cipolla  
 
 [Generative Multi-Label Zero-Shot Learning](https://ieeexplore.ieee.org/document/10184028)  
-**生成式多标签零样本学习（zty）**  
+**[生成式多标签零样本学习](https://mp.weixin.qq.com/s/S027Lxgri0tyrXg4Y_aAOg)**  
 Akshita Gupta; Sanath Narayan; Salman Khan; Fahad Shahbaz Khan; Ling Shao; Joost van de Weijer  
 
 [Edge Guided GANs With Multi-Scale Contrastive Learning for Semantic Image Synthesis](https://ieeexplore.ieee.org/document/10193781)  

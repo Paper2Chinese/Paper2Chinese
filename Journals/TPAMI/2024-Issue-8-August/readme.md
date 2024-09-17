@@ -15,7 +15,7 @@
 **Dongsheng Luo; Tianxiang Zhao; Wei Cheng; Dongkuan Xu; Feng Han; Wenchao Yu; Xiao Liu; Haifeng Chen; Xiang Zhang**  
 
 **[Efficient Offline Reinforcement Learning With Relaxed Conservatism](https://ieeexplore.ieee.org/document/10432784/)**  
-**具有放松保守性的高效离线强化学习**  
+**[具有放松保守性的高效离线强化学习](https://mp.weixin.qq.com/s/-T0GD8cU7toKdLNr1FZXkw)**
 **Longyang Huang; Botao Dong; Weidong Zhang**  
 
 **[Deciphering the Feature Representation of Deep Neural Networks for High-Performance AI](https://ieeexplore.ieee.org/document/10439639/)**  
@@ -144,6 +144,6 @@
 **Yuan Tian; Guo Lu; Yichao Yan; Guangtao Zhai; Li Chen; Zhiyong Gao**  
 
 **[SMART: Syntax-Calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10433795/)**  
-**SMART: 基于语法校准的多方面关系Transformer用于变化描述生成**  
+**[SMART: 基于语法校准的多方面关系Transformer用于变化描述生成](https://mp.weixin.qq.com/s/kDPJ23oJ3ef-PtPT41vzfQ)**  
 Yunbin Tu; Liang Li; Li Su; Zheng-Jun Zha; Qingming Huang  
 

@@ -51,7 +51,7 @@ Ping Hu; Simon Niklaus; Lu Zhang; Stan Sclaroff; Kate Saenko
 Víctor M. Sánchez-Cartagena; Miquel Esplà-Gomis; Juan Antonio Pérez-Ortiz; Felipe Sánchez-Martínez  
 
 **[Explanatory Object Part Aggregation for Zero-Shot Learning](https://ieeexplore.ieee.org/document/10287616/)**  
-**对于零样本学习中的解释性对象部分聚合（zty）**  
+**[对于零样本学习中的解释性对象部分聚合](https://mp.weixin.qq.com/s/Qbgz9u3jpwCFBoxwP04wmg)**  
 Xin Chen; Xiaoling Deng; Yubin Lan; Yongbing Long; Jian Weng; Zhiquan Liu; Qi Tian  
 
 **[Cost Function Unrolling in Unsupervised Optical Flow](https://ieeexplore.ieee.org/document/10294105/)**  

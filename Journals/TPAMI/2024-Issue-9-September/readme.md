@@ -131,12 +131,15 @@ Zheng Zhai; Hengchao Chen; Qiang Sun
 Rongyao Fang; Peng Gao; Aojun Zhou; Yingjie Cai; Si Liu; Jifeng Dai; Hongsheng Li  
 
 **[EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision](https://ieeexplore.ieee.org/document/10478195/)**  
+**基于事件的稀疏监督3D手势姿态估计（zty）**  
 Jianping Jiang; Jiahe Li; Baowen Zhang; Xiaoming Deng; Boxin Shi  
 
 **[HIRI-ViT: Scaling Vision Transformer With High Resolution Inputs](https://ieeexplore.ieee.org/document/10475592/)**  
+**HIRI-ViT: 通过高分辨率输入扩展视觉Transformer（zty）**  
 Ting Yao; Yehao Li; Yingwei Pan; Tao Mei  
 
 **[Gaussian Process-Gated Hierarchical Mixtures of Experts](https://ieeexplore.ieee.org/document/10480265/)**  
+**高斯过程门控的层次混合专家模型（zty）**  
 Yuhao Liu; Marzieh Ajirak; Petar M. Djurić  
 
 **[Create Your World: Lifelong Text-to-Image Diffusion](https://ieeexplore.ieee.org/document/10489849/)**  

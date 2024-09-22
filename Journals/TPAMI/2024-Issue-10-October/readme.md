@@ -6,18 +6,23 @@
 
 
 [On Boundary Discontinuity in Angle Regression Based Arbitrary Oriented Object Detection](https://ieeexplore.ieee.org/document/10475581/)  
+**基于角度回归的任意方向目标检测中的边界不连续性**  
 Yi Yu; Feipeng Da  
 
 [Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution](https://ieeexplore.ieee.org/document/10475573/)  
+**无需训练的变换器架构搜索：零成本代理引导进化**  
 Qinqin Zhou; Kekai Sheng; Xiawu Zheng; Ke Li; Yonghong Tian; Jie Chen; Rongrong Ji  
 
 [PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks](https://ieeexplore.ieee.org/document/10475563/)  
+**PAGE：图神经网络的基于原型的模型级解释**  
 Yong-Min Shin; Sun-Woo Kim; Won-Yong Shin  
 
 [Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration](https://ieeexplore.ieee.org/document/10487002/)  
+**图像恢复中深度展开方法的旋转等变近端算子**  
 Jiahong Fu; Qi Xie; Deyu Meng; Zongben Xu  
 
 [A Task-Guided, Implicitly-Searched and Meta-Initialized Deep Model for Image Fusion](https://ieeexplore.ieee.org/document/10480582/)  
+**一种任务引导、隐式搜索和元初始化的图像融合深度模型**  
 Risheng Liu; Zhu Liu; Jinyuan Liu; Xin Fan; Zhongxuan Luo  
 
 [Federated Learning of Generalized Linear Causal Networks](https://ieeexplore.ieee.org/document/10480288/)  

@@ -143,12 +143,15 @@ Ting Yao; Yehao Li; Yingwei Pan; Tao Mei
 Yuhao Liu; Marzieh Ajirak; Petar M. Djurić  
 
 **[Create Your World: Lifelong Text-to-Image Diffusion](https://ieeexplore.ieee.org/document/10489849/)**  
+**创造你的世界：终身文本到图像扩散（zty）**  
 Gan Sun; Wenqi Liang; Jiahua Dong; Jun Li; Zhengming Ding; Yang Cong  
 
 **[EGCN++: A New Fusion Strategy for Ensemble Learning in Skeleton-Based Rehabilitation Exercise Assessment](https://ieeexplore.ieee.org/document/10475587/)**  
+**EGCN++：基于骨架的康复运动评估中集成学习的新融合策略（zty）**  
 Bruce X. B. Yu; Yan Liu; Keith C. C. Chan; Chang Wen Chen  
 
 **[Towards Understanding Convergence and Generalization of AdamW](https://ieeexplore.ieee.org/document/10480574/)**  
+**走向理解AdamW的收敛与泛化（zty）**  
 Pan Zhou; Xingyu Xie; Zhouchen Lin; Shuicheng Yan  
 
 

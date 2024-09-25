@@ -131,7 +131,7 @@ Akshita Gupta; Sanath Narayan; Salman Khan; Fahad Shahbaz Khan; Ling Shao; Joost
 Hao Tang; Guolei Sun; Nicu Sebe; Luc Van Gool  
 
 [Dynamic Keypoint Detection Network for Image Matching](https://ieeexplore.ieee.org/document/10229243)  
-**用于图像匹配的动态关键点检测网络(zty)**  
+**[用于图像匹配的动态关键点检测网络](https://mp.weixin.qq.com/s/7rbsLY49xXmY34gXEQOWeg)**  
 Yuan Gao; Jianfeng He; Tianzhu Zhang; Zhe Zhang; Yongdong Zhang
 
 [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10234713)  
@@ -151,11 +151,11 @@ Haoyu Zhang; Meng Liu; Yuhong Li; Ming Yan; Zan Gao; Xiaojun Chang; Liqiang Nie
 Alberto Castellini; Francesco Masillo; Davide Azzalini; Francesco Amigoni; Alessandro Farinelli  
 
 [ActiveZero++: Mixed Domain Learning Stereo and Confidence-Based Depth Completion With Zero Annotation](https://ieeexplore.ieee.org/document/10219021)  
-**ActiveZero++：基于零标注的混合域学习立体视觉与基于置信度的深度完成（zty）**  
+**[ActiveZero++：基于零标注的混合域学习立体视觉与基于置信度的深度完成](https://mp.weixin.qq.com/s/tWlDYeuPvA0SGnfE3e1VKw)**  
 Rui Chen; Isabella Liu; Edward Yang; Jianyu Tao; Xiaoshuai Zhang; Qing Ran; Zhu Liu; Jing Xu; Hao Su
 
 [AdaPoinTr: Diverse Point Cloud Completion With Adaptive Geometry-Aware Transformers](https://ieeexplore.ieee.org/document/10232862)  
-**AdaPoinTr：采用自适应几何感知Transformer的多样化点云补全（zty）**  
+**[AdaPoinTr：采用自适应几何感知Transformer的多样化点云补全](https://mp.weixin.qq.com/s/zI122UEzvyAM33yKw_7-Qw)**  
 Xumin Yu; Yongming Rao; Ziyi Wang; Jiwen Lu; Jie Zhou  
 
 [Action Recognition and Benchmark Using Event Cameras](https://ieeexplore.ieee.org/document/10198747)  

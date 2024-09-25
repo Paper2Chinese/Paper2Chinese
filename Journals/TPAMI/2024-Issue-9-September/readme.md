@@ -15,7 +15,7 @@ Chaoqun Du; Yulin Wang; Shiji Song; Gao Huang
 Hanlin Gu; Lixin Fan; XingXing Tang; Qiang Yang  
 
 **[Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking With Transformer](https://ieeexplore.ieee.org/document/10460168/)**  
-**探索基于Point-BEV融合的3D点云对象跟踪与Transformer**   
+**[探索基于Point-BEV融合的3D点云对象跟踪与Transformer](https://mp.weixin.qq.com/s/HCl-eZw2kr0FIB8SeehsoA)**   
 Zhipeng Luo; Changqing Zhou; Liang Pan; Gongjie Zhang; Tianrui Liu; Yueru Luo; Haiyu Zhao; Ziwei Liu; Shijian Lu  
 
 **[End-to-End Signal Classification in Signed Cumulative Distribution Transform Space](https://ieeexplore.ieee.org/document/10457552/)**  
@@ -27,7 +27,7 @@ Abu Hasnat Mohammad Rubaiyat; Shiying Li; Xuwang Yin; Mohammad Shifat-E-Rabbi; Y
 Wenjing Wang; Rundong Luo; Wenhan Yang; Jiaying Liu  
 
 **[Gradient-Based Instance-Specific Visual Explanations for Object Specification and Object Discrimination](https://ieeexplore.ieee.org/document/10478163/)**  
-**基于梯度的实例特定视觉解释：对象规范与对象区分**   
+**[基于梯度的实例特定视觉解释：对象规范与对象区分](https://mp.weixin.qq.com/s/k7g-s9GEyhNn7KKeeMnWng)**   
 Chenyang Zhao; Janet H. Hsiao; Antoni B. Chan  
 
 **[NeRF-Texture: Synthesizing Neural Radiance Field Textures](https://ieeexplore.ieee.org/document/10489854/)**  
@@ -35,7 +35,7 @@ Chenyang Zhao; Janet H. Hsiao; Antoni B. Chan
 Yi-Hua Huang; Yan-Pei Cao; Yu-Kun Lai; Ying Shan; Lin Gao  
 
 **[Real-Time CNN Training and Compression for Neural-Enhanced Adaptive Live Streaming](https://ieeexplore.ieee.org/document/10472651/)**  
-**用于神经增强的自适应实时流媒体传输的实时卷积神经网络训练与压缩**  
+**[用于神经增强的自适应实时流媒体传输的实时卷积神经网络训练与压缩](https://mp.weixin.qq.com/s/y4KtYRzUXT-lPNup5D5WQw)**  
 Seunghwa Jeong; Bumki Kim; Seunghoon Cha; Kwanggyoon Seo; Hayoung Chang; Jungjin Lee; Younghui Kim; Junyong Noh  
 
 **[Turning a CLIP Model Into a Scene Text Spotter](https://ieeexplore.ieee.org/document/10476714/)**  
@@ -55,7 +55,7 @@ Tiange Xiang; Yixiao Zhang; Yongyi Lu; Alan Yuille; Chaoyi Zhang; Weidong Cai; Z
 Jijie Wu; Dongliang Chang; Aneeshan Sain; Xiaoxu Li; Zhanyu Ma; Jie Cao; Jun Guo; Yi-Zhe Song  
 
 **[MVEB: Self-Supervised Learning With Multi-View Entropy Bottleneck](https://ieeexplore.ieee.org/document/10477543/)**  
-**MVEB：使用多视图熵瓶颈的自监督学习**  
+**[MVEB：使用多视图熵瓶颈的自监督学习](https://mp.weixin.qq.com/s/Ta3msQkFe9oCkldwBZ5OxQ)**  
 Liangjian Wen; Xiasi Wang; Jianzhuang Liu; Zenglin Xu  
 
 **[Monocular BEV Perception of Road Scenes via Front-to-Top View Projection](https://ieeexplore.ieee.org/document/10473113/)**  
@@ -63,7 +63,7 @@ Liangjian Wen; Xiasi Wang; Jianzhuang Liu; Zenglin Xu
 Wenxi Liu; Qi Li; Weixiang Yang; Jiaxin Cai; Yuanlong Yu; Yuexin Ma; Shengfeng He; Jia Pan  
 
 **[Latent Semantic Consensus for Deterministic Geometric Model Fitting](https://ieeexplore.ieee.org/document/10472101/)**  
-**用于确定性几何模型拟合的潜在语义共识**  
+**[用于确定性几何模型拟合的潜在语义共识](https://mp.weixin.qq.com/s/_lmqLiTODDgzBvF4T3GKWA)**  
 Guobao Xiao; Jun Yu; Jiayi Ma; Deng-Ping Fan; Ling Shao  
 
 **[Generative Variational-Contrastive Learning for Self-Supervised Point Cloud Representation](https://ieeexplore.ieee.org/document/10475594/)**  
@@ -75,11 +75,11 @@ Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao
 Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja  
 
 **[Uncovering the Over-Smoothing Challenge in Image Super-Resolution: Entropy-Based Quantification and Contrastive Optimization](https://ieeexplore.ieee.org/document/10475558/)**  
-**揭示图像超分辨率中的过平滑挑战：基于熵的量化和对比优化**  
+**[揭示图像超分辨率中的过平滑挑战：基于熵的量化和对比优化](https://mp.weixin.qq.com/s/nPp2n7_rBtInHWA8JjbnWw)**  
 Tianshuo Xu; Lijiang Li; Peng Mi; Xiawu Zheng; Fei Chao; Rongrong Ji; Yonghong Tian; Qiang Shen  
 
 **[Causality-Invariant Interactive Mining for Cross-Modal Similarity Learning](https://ieeexplore.ieee.org/document/10477878/)**  
-**因果不变交互挖掘用于跨模态相似性学习**  
+**[因果不变交互挖掘用于跨模态相似性学习](https://mp.weixin.qq.com/s/pHMUqhn--TwsYKuP3Ggutg)**  
 Jiexi Yan; Cheng Deng; Heng Huang; Wei Liu  
 
 **[Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach](https://ieeexplore.ieee.org/document/10477580/)**  
@@ -139,7 +139,7 @@ Jianping Jiang; Jiahe Li; Baowen Zhang; Xiaoming Deng; Boxin Shi
 Ting Yao; Yehao Li; Yingwei Pan; Tao Mei  
 
 **[Gaussian Process-Gated Hierarchical Mixtures of Experts](https://ieeexplore.ieee.org/document/10480265/)**  
-**高斯过程门控的层次混合专家模型（zty）**  
+**[高斯过程门控的层次混合专家模型](https://mp.weixin.qq.com/s/GF9qjWw6_iuSqiu4gILMNA)**  
 Yuhao Liu; Marzieh Ajirak; Petar M. Djurić  
 
 **[Create Your World: Lifelong Text-to-Image Diffusion](https://ieeexplore.ieee.org/document/10489849/)**  

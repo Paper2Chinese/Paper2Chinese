@@ -91,7 +91,7 @@
 **Yixin Yang; Jinshan Pan; Zhongzheng Peng; Xiaoyu Du; Zhulin Tao; Jinhui Tang**  
 
 **[Vision-Language Models for Vision Tasks: A Survey](https://ieeexplore.ieee.org/document/10445007/)**  
-**视觉-语言模型在视觉任务中的综述**  
+**[视觉-语言模型在视觉任务中的综述](https://mp.weixin.qq.com/s/bzTlPB0VsIwA-UhSrBTUqQ)**  
 **Jingyi Zhang; Jiaxing Huang; Sheng Jin; Shijian Lu**  
 
 

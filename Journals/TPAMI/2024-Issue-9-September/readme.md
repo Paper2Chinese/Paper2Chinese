@@ -123,15 +123,15 @@ Xiaowei Zhou; Haoyu Guo; Sida Peng; Yuxi Xiao; Haotong Lin; Qianqian Wang; Guofe
 Xiaojun Jia; Yong Zhang; Xingxing Wei; Baoyuan Wu; Ke Ma; Jue Wang; Xiaochun Cao  
 
 **[Quadratic Matrix Factorization With Applications to Manifold Learning](https://ieeexplore.ieee.org/document/10478194/)**  
-**二次矩阵分解及其在流形学习中的应用**  
+**[二次矩阵分解及其在流形学习中的应用](https://mp.weixin.qq.com/s/gw0rrYsTG4SjLvXQbQzn7Q)**  
 Zheng Zhai; Hengchao Chen; Qiang Sun  
 
 **[FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation](https://ieeexplore.ieee.org/document/10480276/)**  
-**FeatAug-DETR: 通过特征增强丰富DETR的一对多匹配**  
+**[FeatAug-DETR: 通过特征增强丰富DETR的一对多匹配](https://mp.weixin.qq.com/s/kvi8hm0K8UX20bNlPaymyQ)**  
 Rongyao Fang; Peng Gao; Aojun Zhou; Yingjie Cai; Si Liu; Jifeng Dai; Hongsheng Li  
 
 **[EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision](https://ieeexplore.ieee.org/document/10478195/)**  
-**基于事件的稀疏监督3D手势姿态估计（zty）**  
+**[基于事件的稀疏监督3D手势姿态估计](https://mp.weixin.qq.com/s/taRa3XWj0f1Z7Z2sYdQHeQ)**  
 Jianping Jiang; Jiahe Li; Baowen Zhang; Xiaoming Deng; Boxin Shi  
 
 **[HIRI-ViT: Scaling Vision Transformer With High Resolution Inputs](https://ieeexplore.ieee.org/document/10475592/)**  

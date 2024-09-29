@@ -49,6 +49,7 @@ Linwei Chen; Ying Fu; Lin Gu; Chenggang Yan; Tatsuya Harada; Gao Huang
 Lianyu Wang; Meng Wang; Huazhu Fu; Daoqaing Zhang  
 
 [Gaseous Object Detection](https://ieeexplore.ieee.org/document/10648775/)  
+**气体物体检测**  
 Kailai Zhou; Yibo Wang; Tao Lv; Qiu Shen; Xun Cao  
 
 [LTM-NeRF: Embedding 3D Local Tone Mapping in HDR Neural Radiance Field](https://ieeexplore.ieee.org/document/10645297/)  

@@ -135,7 +135,7 @@ Hao Tang; Guolei Sun; Nicu Sebe; Luc Van Gool
 Yuan Gao; Jianfeng He; Tianzhu Zhang; Zhe Zhang; Yongdong Zhang
 
 [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10234713)  
-**用于点云分割领域适应的组合语义混合（zty）**  
+**[用于点云分割领域适应的组合语义混合](https://mp.weixin.qq.com/s/V0FmU-rx-drewLeosvrmdg)**  
 Cristiano Saltori; Fabio Galasso; Giuseppe Fiameni; Nicu Sebe; Fabio Poiesi; Elisa Ricci  
 
 [Background-Aware Classification Activation Map for Weakly Supervised Object Localization](https://ieeexplore.ieee.org/document/10234096)  
@@ -143,11 +143,11 @@ Cristiano Saltori; Fabio Galasso; Giuseppe Fiameni; Nicu Sebe; Fabio Poiesi; Eli
 Lei Zhu; Qi She; Qian Chen; Xiangxi Meng; Mufeng Geng; Lujia Jin; Yibao Zhang; Qiushi Ren; Yanye Lu
 
 [Attribute-Guided Collaborative Learning for Partial Person Re-Identification](https://ieeexplore.ieee.org/document/10239469)  
-**面向部分人体再识别的属性引导协同学习（zty）**  
+**[面向部分人体再识别的属性引导协同学习](https://mp.weixin.qq.com/s/yBcbVKyTU7-M6o1fFp8U4g)**  
 Haoyu Zhang; Meng Liu; Yuhong Li; Ming Yan; Zan Gao; Xiaojun Chang; Liqiang Nie  
 
 [Adversarial Data Augmentation for HMM-Based Anomaly Detection](https://ieeexplore.ieee.org/document/10210524)  
-**基于隐马尔可夫模型的对抗性数据增强用于异常检测（zty）**  
+**[基于隐马尔可夫模型的对抗性数据增强用于异常检测](https://mp.weixin.qq.com/s/B0agqzJRYZwUsGIJX82qFQ)**  
 Alberto Castellini; Francesco Masillo; Davide Azzalini; Francesco Amigoni; Alessandro Farinelli  
 
 [ActiveZero++: Mixed Domain Learning Stereo and Confidence-Based Depth Completion With Zero Annotation](https://ieeexplore.ieee.org/document/10219021)  
@@ -159,7 +159,7 @@ Rui Chen; Isabella Liu; Edward Yang; Jianyu Tao; Xiaoshuai Zhang; Qing Ran; Zhu 
 Xumin Yu; Yongming Rao; Ziyi Wang; Jiwen Lu; Jie Zhou  
 
 [Action Recognition and Benchmark Using Event Cameras](https://ieeexplore.ieee.org/document/10198747)  
-**基于事件相机的动作识别与基准测试（zty）**  
+**[基于事件相机的动作识别与基准测试](https://mp.weixin.qq.com/s/qyfv8NgYvovDmU57gi5qSA)**  
 Yue Gao; Jiaxuan Lu; Siqi Li; Nan Ma; Shaoyi Du; Yipeng Li; Qionghai Dai  
 
 [A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)  

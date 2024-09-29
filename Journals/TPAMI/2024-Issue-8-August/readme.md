@@ -55,11 +55,11 @@
 **Yunan Liu; Chunpeng Wang; Mingyu Lu; Jian Yang; Jie Gui; Shanshan Zhang**  
 
 **[Disorder-Invariant Implicit Neural Representation](https://ieeexplore.ieee.org/document/10436706/)**  
-**抗扰动不变的隐式神经表示**  
+**[抗扰动不变的隐式神经表示](https://mp.weixin.qq.com/s/rmacO7oQWqrukErv9enbRA)**  
 **Hao Zhu; Shaowen Xie; Zhen Liu; Fengyi Liu; Qi Zhang; You Zhou; Yi Lin; Zhan Ma; Xun Cao**  
 
 **[Parameter-Insensitive Min Cut Clustering With Flexible Size Constrains](https://ieeexplore.ieee.org/document/10440474/)**  
-**具有灵活规模约束的参数不敏感最小割聚类**  
+**[具有灵活规模约束的参数不敏感最小割聚类](https://mp.weixin.qq.com/s/qkzmRfQRF8-8P2pvngL7pQ)**  
 **Feiping Nie; Fangyuan Xie; Weizhong Yu; Xuelong Li**  
 
 **[DynGAN: Solving Mode Collapse in GANs With Dynamic Clustering](https://ieeexplore.ieee.org/document/10440507/)**  

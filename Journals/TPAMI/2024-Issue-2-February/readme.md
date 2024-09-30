@@ -61,6 +61,7 @@ Gal Lifshitz; Dan Raviv
 Tianyi Wei; Dongdong Chen; Wenbo Zhou; Jing Liao; Hanqing Zhao; Weiming Zhang; Gang Hua; Nenghai Yu  
 
 **[CGOF++: Controllable 3D Face Synthesis With Conditional Generative Occupancy Fields](https://ieeexplore.ieee.org/document/10375777/)**  
+**CGOF++: 基于条件生成占用场的可控3D面部合成**  
 Keqiang Sun; Shangzhe Wu; Ning Zhang; Zhaoyang Huang; Quan Wang; Hongsheng Li  
 
 **[Reliable Event Generation With Invertible Conditional Normalizing Flow](https://ieeexplore.ieee.org/document/10292537/)**  

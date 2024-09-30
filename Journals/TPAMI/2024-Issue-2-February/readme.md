@@ -65,9 +65,11 @@ Tianyi Wei; Dongdong Chen; Wenbo Zhou; Jing Liao; Hanqing Zhao; Weiming Zhang; G
 Keqiang Sun; Shangzhe Wu; Ning Zhang; Zhaoyang Huang; Quan Wang; Hongsheng Li  
 
 **[Reliable Event Generation With Invertible Conditional Normalizing Flow](https://ieeexplore.ieee.org/document/10292537/)**  
+**基于可逆条件归一化流的可靠事件生成（zty）**  
 Daxin Gu; Jia Li; Lin Zhu; Yu Zhang; Jimmy S. Ren  
 
 **[WOOD: Wasserstein-Based Out-of-Distribution Detection](https://ieeexplore.ieee.org/document/10302348/)**  
+**WOOD：基于Wasserstein距离的分布外检测（zty）**  
 Yinan Wang; Wenbo Sun; Jionghua Jin; Zhenyu Kong; Xiaowei Yue  
 
 **[Mitigating Confounding Bias in Practical Recommender Systems With Partially Inaccessible Exposure Status](https://ieeexplore.ieee.org/document/10296027/)**  

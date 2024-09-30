@@ -3,6 +3,7 @@
 ----
 
 [A Bayesian Federated Learning Framework With Online Laplace Approximation](https://ieeexplore.ieee.org/document/10274722/)  
+**基于在线拉普拉斯近似的贝叶斯联邦学习框架**  
 Liangxi Liu; Xi Jiang; Feng Zheng; Hong Chen; Guo-Jun Qi; Heng Huang; Ling Shao  
 
 [A Comprehensive Survey of Dataset Distillation](https://ieeexplore.ieee.org/document/10273632/)  

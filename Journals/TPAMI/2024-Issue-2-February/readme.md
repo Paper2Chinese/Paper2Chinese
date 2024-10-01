@@ -73,27 +73,35 @@ Daxin Gu; Jia Li; Lin Zhu; Yu Zhang; Jimmy S. Ren
 Yinan Wang; Wenbo Sun; Jionghua Jin; Zhenyu Kong; Xiaowei Yue  
 
 **[Mitigating Confounding Bias in Practical Recommender Systems With Partially Inaccessible Exposure Status](https://ieeexplore.ieee.org/document/10296027/)**  
+**在部分曝光状态不可访问的实用推荐系统中减轻混杂偏差(zty)**  
 Tianwei Cao; Qianqian Xu; Zhiyong Yang; Qingming Huang  
 
 **[3-D Point Cloud Attribute Compression With -Laplacian Embedding Graph Dictionary Learning](https://ieeexplore.ieee.org/document/10301698/)**  
+**基于拉普拉斯嵌入图字典学习的三维点云属性压缩(zty)**  
 Xin Li; Wenrui Dai; Shaohui Li; Chenglin Li; Junni Zou; Hongkai Xiong  
 
 **[Room-Object Entity Prompting and Reasoning for Embodied Referring Expression](https://ieeexplore.ieee.org/document/10292872/)**  
+**面向具身指代表达的房间-物体实体提示与推理(zty)**  
 Chen Gao; Si Liu; Jinyu Chen; Luting Wang; Qi Wu; Bo Li; Qi Tian  
 
 **[Temporal Action Segmentation: An Analysis of Modern Techniques](https://ieeexplore.ieee.org/document/10294187/)**  
+**时序动作分割：现代技术的分析(zty)**  
 Guodong Ding; Fadime Sener; Angela Yao  
 
 **[Variance Reduced Domain Randomization for Reinforcement Learning With Policy Gradient](https://ieeexplore.ieee.org/document/10309220/)**  
+**方差降低域随机化在策略梯度强化学习中的应用(zty)**  
 Yuankun Jiang; Chenglin Li; Wenrui Dai; Junni Zou; Hongkai Xiong  
 
 **[Learning Hierarchical Modular Networks for Video Captioning](https://ieeexplore.ieee.org/document/10296527/)**  
+**学习层次化模块化网络用于视频描述生成(zty)**  
 Guorong Li; Hanhua Ye; Yuankai Qi; Shuhui Wang; Laiyun Qing; Qingming Huang; Ming-Hsuan Yang  
 
 **[A Theoretical Analysis of DeepWalk and Node2vec for Exact Recovery of Community Structures in Stochastic Blockmodels](https://ieeexplore.ieee.org/document/10296009/)**  
+**对DeepWalk和Node2vec在随机块模型中精确恢复社区结构的理论研究分析(zty)**  
 Yichi Zhang; Minh Tang  
 
 **[SPLiT: Single Portrait Lighting Estimation via a Tetrad of Face Intrinsics](https://ieeexplore.ieee.org/document/10301699/)**  
+**SPLiT：通过四元组面部内在属性估计单幅肖像的光照(zty)**  
 Fan Fei; Yean Cheng; Yongjie Zhu; Qian Zheng; Si Li; Gang Pan; Boxin Shi  
 
 **[Image Restoration via Frequency Selection](https://ieeexplore.ieee.org/document/10310164/)**  

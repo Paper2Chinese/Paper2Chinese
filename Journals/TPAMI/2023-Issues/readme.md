@@ -175,6 +175,8 @@ Namgil Kim; Barom Kang; Yeonok Cho
 Tianmeng Hu; Biao Luo; Chunhua Yang; Tingwen Huang  
 
 [Multiple Instance Differentiation Learning for Active Object Detection](https://ieeexplore.ieee.org/document/10129096)  
+**用于主动目标检测的多实例差异化学习（zty）**  
+Fang Wan; Qixiang Ye; Tianning Yuan; Songcen Xu; Jianzhuang Liu; Xiangyang Ji  
 
 [MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion](https://ieeexplore.ieee.org/document/10145843)  
 

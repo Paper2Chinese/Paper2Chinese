@@ -26,12 +26,15 @@ Jiahong Fu; Qi Xie; Deyu Meng; Zongben Xu
 Risheng Liu; Zhu Liu; Jinyuan Liu; Xin Fan; Zhongxuan Luo  
 
 [Federated Learning of Generalized Linear Causal Networks](https://ieeexplore.ieee.org/document/10480288/)  
+**广义线性因果网络的联邦学习(zty)**  
 Qiaoling Ye; Arash A. Amini; Qing Zhou  
 
 [Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks](https://ieeexplore.ieee.org/document/10494561/)  
+**面向对未知对抗性攻击具有泛化鲁棒性的元不变性防御(zty)**  
 Lei Zhang; Yuhang Zhou; Yi Yang; Xinbo Gao  
 
 [Convergence Analysis of Mean Shift](https://ieeexplore.ieee.org/document/10494563/)  
+**均值漂移算法的收敛性分析(zty)**  
 Ryoya Yamasaki; Toshiyuki Tanaka  
 
 [Bayesian Optimization for Sparse Neural Networks With Trainable Activation Functions](https://ieeexplore.ieee.org/document/10496211/)  

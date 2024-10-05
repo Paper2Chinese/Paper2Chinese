@@ -38,12 +38,15 @@ Lei Zhang; Yuhang Zhou; Yi Yang; Xinbo Gao
 Ryoya Yamasaki; Toshiyuki Tanaka  
 
 [Bayesian Optimization for Sparse Neural Networks With Trainable Activation Functions](https://ieeexplore.ieee.org/document/10496211/)  
+**贝叶斯优化在具有可训练激活函数的稀疏神经网络中的应用(zty)**  
 Mohamed Fakhfakh; Lotfi Chaari  
 
 [Representing Noisy Image Without Denoising](https://ieeexplore.ieee.org/document/10496213/)  
+**无需去噪的含噪图像表示(zty)**  
 Shuren Qi; Yushu Zhang; Chao Wang; Tao Xiang; Xiaochun Cao; Yong Xiang  
 
 [XGrad: Boosting Gradient-Based Optimizers With Weight Prediction](https://ieeexplore.ieee.org/document/10496892/)  
+**XGrad：利用权重预测提升基于梯度的优化器(zty)**  
 Lei Guan; Dongsheng Li; Yanqi Shi; Jian Meng  
 
 [Hybrid Open-Set Segmentation With Synthetic Negative Data](https://ieeexplore.ieee.org/document/10496197/)  

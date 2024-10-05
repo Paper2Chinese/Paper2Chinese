@@ -105,18 +105,23 @@ Yichi Zhang; Minh Tang
 Fan Fei; Yean Cheng; Yongjie Zhu; Qian Zheng; Si Li; Gang Pan; Boxin Shi  
 
 **[Image Restoration via Frequency Selection](https://ieeexplore.ieee.org/document/10310164/)**  
+**基于频率选择的图像复原(zty)**  
 Yuning Cui; Wenqi Ren; Xiaochun Cao; Alois Knoll  
 
 **[A Theoretical Analysis of Density Peaks Clustering and the Component-Wise Peak-Finding Algorithm](https://ieeexplore.ieee.org/document/10296014/)**  
+**密度峰值聚类与逐分量峰值寻找算法的理论分析(zty)**  
 Joshua Tobin; Mimi Zhang  
 
 **[Learning Interpretable Rules for Scalable Data Representation and Classification](https://ieeexplore.ieee.org/document/10302393/)**  
+**学习可解释规则以实现可扩展的数据表示与分类(zty)**  
 Zhuo Wang; Wei Zhang; Ning Liu; Jianyong Wang  
 
 **[Back to Reality: Learning Data-Efficient 3D Object Detector With Shape Guidance](https://ieeexplore.ieee.org/document/10302398/)**  
+**回归现实：学习具有形状引导的数据高效3D物体检测器(zty)**  
 Xiuwei Xu; Ziwei Wang; Jie Zhou; Jiwen Lu  
 
 **[False Correlation Reduction for Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/10301548/)**  
+**离线强化学习中错误相关性的降低(zty)**  
 Zhihong Deng; Zuyue Fu; Lingxiao Wang; Zhuoran Yang; Chenjia Bai; Tianyi Zhou; Zhaoran Wang; Jing Jiang  
 
 **[Importance Weighted Structure Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10304391/)**  

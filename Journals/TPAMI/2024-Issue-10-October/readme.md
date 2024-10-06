@@ -56,6 +56,7 @@ Matej Grcić; Siniša Šegvić
 Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei  
 
 [Multiview Tensor Spectral Clustering via Co-Regularization](https://ieeexplore.ieee.org/document/10495145/)  
+**多视角张量谱聚类通过协同正则化**   
 Hongmin Cai; Yu Wang; Fei Qi; Zhuoyao Wang; Yiu-ming Cheung  
 
 [PPDM++: Parallel Point Detection and Matching for Fast and Accurate HOI Detection](https://ieeexplore.ieee.org/document/10496247/)  

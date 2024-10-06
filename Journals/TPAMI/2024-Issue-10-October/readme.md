@@ -18,7 +18,7 @@ Qinqin Zhou; Kekai Sheng; Xiawu Zheng; Ke Li; Yonghong Tian; Jie Chen; Rongrong 
 Yong-Min Shin; Sun-Woo Kim; Won-Yong Shin  
 
 [Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration](https://ieeexplore.ieee.org/document/10487002/)  
-**图像恢复中深度展开方法的旋转等变近端算子**  
+**[图像恢复中深度展开方法的旋转等变近端算子](https://mp.weixin.qq.com/s/qZ-Q-VJsn4kJPc44jVtUTg)**  
 Jiahong Fu; Qi Xie; Deyu Meng; Zongben Xu  
 
 [A Task-Guided, Implicitly-Searched and Meta-Initialized Deep Model for Image Fusion](https://ieeexplore.ieee.org/document/10480582/)  

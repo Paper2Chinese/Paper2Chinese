@@ -119,7 +119,7 @@ Xingxing Xie; Chunbo Lang; Shicheng Miao; Gong Cheng; Ke Li; Junwei Han
 Jia Wan; Qiangqiang Wu; Antoni B. Chan  
 
 [HexNet: An Orientation-Aware Deep Learning Framework for Omni-Directional Input](https://ieeexplore.ieee.org/document/10225707)  
-**HexNet: 面向全向输入的定向感知深度学习框架（zty）**  
+**[HexNet: 面向全向输入的定向感知深度学习框架](https://mp.weixin.qq.com/s/2jkz1HExeQnFKAv5ApBzNg)**  
 Chao Zhang; Stephan Liwicki; Sen He; William Smith; Roberto Cipolla  
 
 [Generative Multi-Label Zero-Shot Learning](https://ieeexplore.ieee.org/document/10184028)  
@@ -139,7 +139,7 @@ Yuan Gao; Jianfeng He; Tianzhu Zhang; Zhe Zhang; Yongdong Zhang
 Cristiano Saltori; Fabio Galasso; Giuseppe Fiameni; Nicu Sebe; Fabio Poiesi; Elisa Ricci  
 
 [Background-Aware Classification Activation Map for Weakly Supervised Object Localization](https://ieeexplore.ieee.org/document/10234096)  
-**用于弱监督目标定位的背景感知分类激活图（zty）**  
+**[用于弱监督目标定位的背景感知分类激活图](https://mp.weixin.qq.com/s/lCH36-qI6ol8fBsNL_FDJA)**  
 Lei Zhu; Qi She; Qian Chen; Xiangxi Meng; Mufeng Geng; Lujia Jin; Yibao Zhang; Qiushi Ren; Yanye Lu
 
 [Attribute-Guided Collaborative Learning for Partial Person Re-Identification](https://ieeexplore.ieee.org/document/10239469)  

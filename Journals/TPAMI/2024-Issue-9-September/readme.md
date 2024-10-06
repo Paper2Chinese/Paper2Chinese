@@ -99,7 +99,7 @@ Xiaoxiao Long; Yuhang Zheng; Yupeng Zheng; Beiwen Tian; Cheng Lin; Lingjie Liu; 
 Yang Wang; Biao Qian; Haipeng Liu; Yong Rui; Meng Wang  
 
 **[3D Scene Creation and Rendering via Rough Meshes: A Lighting Transfer Avenue](https://ieeexplore.ieee.org/document/10480280/)**  
-**[基于粗糙网格的三维场景构建与渲染：探索光照传递的新途径](https://mp.weixin.qq.com/s/FIsszl8aUOcbBELq1h_baA)** 
+**[基于粗糙网格的三维场景构建与渲染：探索光照传递的新途径](https://mp.weixin.qq.com/s/FIsszl8aUOcbBELq1h_baA)**  
 Bowen Cai; Yujie Li; Yuqin Liang; Rongfei Jia; Binqiang Zhao; Mingming Gong; Huan Fu  
 
 **[Robust Shape Fitting for 3D Scene Abstraction](https://ieeexplore.ieee.org/document/10475588/)**  

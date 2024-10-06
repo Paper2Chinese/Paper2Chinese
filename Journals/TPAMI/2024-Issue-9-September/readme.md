@@ -51,7 +51,7 @@ Matthew Korban; Peter Youngs; Scott T. Acton
 Tiange Xiang; Yixiao Zhang; Yongyi Lu; Alan Yuille; Chaoyi Zhang; Weidong Cai; Zongwei Zhou  
 
 **[Bi-Directional Ensemble Feature Reconstruction Network for Few-Shot Fine-Grained Classification](https://ieeexplore.ieee.org/document/10472065/)**  
-**用于少样本细粒度分类的双向集成特征重构网络**  
+**[用于少样本细粒度分类的双向集成特征重构网络](https://mp.weixin.qq.com/s/bTlkxr9cL_RnCchVncqPOQ)**  
 Jijie Wu; Dongliang Chang; Aneeshan Sain; Xiaoxu Li; Zhanyu Ma; Jie Cao; Jun Guo; Yi-Zhe Song  
 
 **[MVEB: Self-Supervised Learning With Multi-View Entropy Bottleneck](https://ieeexplore.ieee.org/document/10477543/)**  
@@ -71,7 +71,7 @@ Guobao Xiao; Jun Yu; Jiayi Ma; Deng-Ping Fan; Ling Shao
 Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao  
 
 **[Multi-Label Conditional Generation From Pre-Trained Models](https://ieeexplore.ieee.org/document/10480286/)**  
-**从预训练模型进行多标签条件生成**  
+**[从预训练模型进行多标签条件生成](https://mp.weixin.qq.com/s/ezj4yU9IkRz7MlOQGp7mlQ)**  
 Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja  
 
 **[Uncovering the Over-Smoothing Challenge in Image Super-Resolution: Entropy-Based Quantification and Contrastive Optimization](https://ieeexplore.ieee.org/document/10475558/)**  
@@ -91,15 +91,15 @@ Zhoutong Wu; Mingqing Xiao; Cong Fang; Zhouchen Lin
 Zongxin Yang; Jiaxu Miao; Yunchao Wei; Wenguan Wang; Xiaohan Wang; Yi Yang  
 
 **[Adaptive Surface Normal Constraint for Geometric Estimation From Monocular Images](https://ieeexplore.ieee.org/document/10480285/)**  
-**自适应表面法线约束的单目图像几何估计**   
+**[自适应表面法线约束的单目图像几何估计](https://mp.weixin.qq.com/s/TXlRJ0filo5V_h5TBM_upQ)**   
 Xiaoxiao Long; Yuhang Zheng; Yupeng Zheng; Beiwen Tian; Cheng Lin; Lingjie Liu; Hao Zhao; Guyue Zhou; Wenping Wang  
 
 **[Unpacking the Gap Box Against Data-Free Knowledge Distillation](https://ieeexplore.ieee.org/document/10476709/)**  
-**解构数据无关知识蒸馏中的Gap Box机制**  
+**[解构数据无关知识蒸馏中的Gap Box机制](https://mp.weixin.qq.com/s/dSpOQkvjuiLBuh70Nslp4w)**  
 Yang Wang; Biao Qian; Haipeng Liu; Yong Rui; Meng Wang  
 
 **[3D Scene Creation and Rendering via Rough Meshes: A Lighting Transfer Avenue](https://ieeexplore.ieee.org/document/10480280/)**  
-**基于粗糙网格的三维场景构建与渲染：探索光照传递的新途径** 
+**[基于粗糙网格的三维场景构建与渲染：探索光照传递的新途径](https://mp.weixin.qq.com/s/FIsszl8aUOcbBELq1h_baA)** 
 Bowen Cai; Yujie Li; Yuqin Liang; Rongfei Jia; Binqiang Zhao; Mingming Gong; Huan Fu  
 
 **[Robust Shape Fitting for 3D Scene Abstraction](https://ieeexplore.ieee.org/document/10475588/)**  
@@ -111,15 +111,15 @@ Florian Kluger; Eric Brachmann; Michael Ying Yang; Bodo Rosenhahn
 Byeongjun Park; Hyojun Go; Changick Kim  
 
 **[Tackling Noisy Labels With Network Parameter Additive Decomposition](https://ieeexplore.ieee.org/document/10480647/)**  
-**通过网络参数加法分解处理噪声标签**   
+**[通过网络参数加法分解处理噪声标签](https://mp.weixin.qq.com/s/0lozNaPsMsMh6e-6xY6WXQ)**   
 Jingyi Wang; Xiaobo Xia; Long Lan; Xinghao Wu; Jun Yu; Wenjing Yang; Bo Han; Tongliang Liu  
 
 **[Neural 3D Scene Reconstruction With Indoor Planar Priors](https://ieeexplore.ieee.org/document/10476755/)**  
-**基于室内平面先验的神经3D场景重建**  
+**[基于室内平面先验的神经3D场景重建](https://mp.weixin.qq.com/s/ok8t7WLcfZwqyXpttMzqCw)**  
 Xiaowei Zhou; Haoyu Guo; Sida Peng; Yuxi Xiao; Haotong Lin; Qianqian Wang; Guofeng Zhang; Hujun Bao  
 
 **[Improving Fast Adversarial Training With Prior-Guided Knowledge](https://ieeexplore.ieee.org/document/10478545/)**  
-**利用先验引导知识改进快速对抗训练**   
+**[利用先验引导知识改进快速对抗训练](https://mp.weixin.qq.com/s/yqKq7iz9p35aRGrmDFUshg)**   
 Xiaojun Jia; Yong Zhang; Xingxing Wei; Baoyuan Wu; Ke Ma; Jue Wang; Xiaochun Cao  
 
 **[Quadratic Matrix Factorization With Applications to Manifold Learning](https://ieeexplore.ieee.org/document/10478194/)**  
@@ -135,7 +135,7 @@ Rongyao Fang; Peng Gao; Aojun Zhou; Yingjie Cai; Si Liu; Jifeng Dai; Hongsheng L
 Jianping Jiang; Jiahe Li; Baowen Zhang; Xiaoming Deng; Boxin Shi  
 
 **[HIRI-ViT: Scaling Vision Transformer With High Resolution Inputs](https://ieeexplore.ieee.org/document/10475592/)**  
-**HIRI-ViT: 通过高分辨率输入扩展视觉Transformer（zty）**  
+**[HIRI-ViT: 通过高分辨率输入扩展视觉Transformer](https://mp.weixin.qq.com/s/iqvNQt3xxP2c0DUmv5emRw)**  
 Ting Yao; Yehao Li; Yingwei Pan; Tao Mei  
 
 **[Gaussian Process-Gated Hierarchical Mixtures of Experts](https://ieeexplore.ieee.org/document/10480265/)**  
@@ -147,7 +147,7 @@ Yuhao Liu; Marzieh Ajirak; Petar M. Djurić
 Gan Sun; Wenqi Liang; Jiahua Dong; Jun Li; Zhengming Ding; Yang Cong  
 
 **[EGCN++: A New Fusion Strategy for Ensemble Learning in Skeleton-Based Rehabilitation Exercise Assessment](https://ieeexplore.ieee.org/document/10475587/)**  
-**EGCN++：基于骨架的康复运动评估中集成学习的新融合策略（zty）**  
+**[EGCN++：基于骨架的康复运动评估中集成学习的新融合策略](https://mp.weixin.qq.com/s/Enaq3LBdZKtqklWX04Xpug)**  
 Bruce X. B. Yu; Yan Liu; Keith C. C. Chan; Chang Wen Chen  
 
 **[Towards Understanding Convergence and Generalization of AdamW](https://ieeexplore.ieee.org/document/10480574/)**  

@@ -70,6 +70,7 @@ Yue Liao; Si Liu; Yulu Gao; Aixi Zhang; Zhimin Li; Fei Wang; Bo Li
 Tao Wu; Mengqi Cao; Ziteng Gao; Gangshan Wu; Limin Wang  
 
 [Prototype-Based Semantic Segmentation](https://ieeexplore.ieee.org/document/10496237/)  
+**基于原型的语义分割**   
 Tianfei Zhou; Wenguan Wang  
 
 [NICEST: Noisy Label Correction and Training for Robust Scene Graph Generation](https://ieeexplore.ieee.org/document/10496249/)  

@@ -3,21 +3,27 @@
 ----
 
 **[Non-Serial Quantization-Aware Deep Optics for Snapshot Hyperspectral Imaging](https://ieeexplore.ieee.org/document/10591456/)**  
+**面向快照式高光谱成像的非串行量化感知深度光学**  
 Lizhi Wang; Lingen Li; Weitao Song; Lei Zhang; Zhiwei Xiong; Hua Huang  
 
 **[Deep Variational Network Toward Blind Image Restoration](https://ieeexplore.ieee.org/document/10433564/)**  
+**面向盲图像恢复的深度变分网络**  
 Zongsheng Yue; Hongwei Yong; Qian Zhao; Lei Zhang; Deyu Meng; Kwan-Yee K. Wong  
 
 **[A Closed-Form, Pairwise Solution to Local Non-Rigid Structure-From-Motion](https://ieeexplore.ieee.org/document/10492858/)**  
+**局部非刚性运动恢复结构的封闭形式、成对解决方案**  
 Shaifali Parashar; Yuxuan Long; Mathieu Salzmann; Pascal Fua  
 
 **[Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Beyond](https://ieeexplore.ieee.org/document/10541091/)**  
+**Flare7K++：混合合成与真实数据集用于夜间眩光去除及其它应用**  
 Yuekun Dai; Chongyi Li; Shangchen Zhou; Ruicheng Feng; Yihang Luo; Chen Change Loy  
 
 **[Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models](https://ieeexplore.ieee.org/document/10499199/)**  
+**通过设计简约视频质量模型对视频质量数据集的分析**  
 Wei Sun; Wen Wen; Xiongkuo Min; Long Lan; Guangtao Zhai; Kede Ma  
 
 **[DeepMesh: Differentiable Iso-Surface Extraction](https://ieeexplore.ieee.org/document/10506652/)**  
+**DeepMesh：可微等值面提取**  
 Benoît Guillard; Edoardo Remelli; Artem Lukoianov; Pierre Yvernay; Stephan R. Richter; Timur Bagautdinov; Pierre Baque; Pascal Fua  
 
 **[RDFC-GAN: RGB-Depth Fusion CycleGAN for Indoor Depth Completion](https://ieeexplore.ieee.org/document/10497905/)**  

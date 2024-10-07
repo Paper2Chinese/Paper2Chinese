@@ -83,7 +83,7 @@ Lin Li; Jun Xiao; Hanrong Shi; Hanwang Zhang; Yi Yang; Wei Liu; Long Chen
 Jiaxu Zhang; Zhigang Tu; Junwu Weng; Junsong Yuan; Bo Du  
 
 [PERF: Panoramic Neural Radiance Field From a Single Panorama](https://ieeexplore.ieee.org/document/10496207/)  
-**PERF：来自单个全景的全景神经辐射场**   
+**PERF: 从单张全景图生成全景神经辐射场**   
 Guangcong Wang; Peng Wang; Zhaoxi Chen; Wenping Wang; Chen Change Loy; Ziwei Liu 
 
 [Learning Local and Global Temporal Contexts for Video Semantic Segmentation](https://ieeexplore.ieee.org/document/10496250/)  

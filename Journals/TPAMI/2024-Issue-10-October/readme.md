@@ -87,13 +87,17 @@ Jiaxu Zhang; Zhigang Tu; Junwu Weng; Junsong Yuan; Bo Du
 Guangcong Wang; Peng Wang; Zhaoxi Chen; Wenping Wang; Chen Change Loy; Ziwei Liu 
 
 [Learning Local and Global Temporal Contexts for Video Semantic Segmentation](https://ieeexplore.ieee.org/document/10496250/)  
+**视频语义分割中局部与全局时间上下文的学习**  
 Guolei Sun; Yun Liu; Henghui Ding; Min Wu; Luc Van Gool  
 
 [Context-Based Meta-Reinforcement Learning With Bayesian Nonparametric Models](https://ieeexplore.ieee.org/document/10495171/)  
+**基于上下文的贝叶斯非参数模型元强化学习**  
 Zhenshan Bing; Yuqi Yun; Kai Huang; Alois Knoll  
 
 [Efficient and Robust Point Cloud Registration via Heuristics-Guided Parameter Search](https://ieeexplore.ieee.org/document/10496861/)  
+**基于启发式引导参数搜索的高效稳健点云配准**  
 Tianyu Huang; Haoang Li; Liangzu Peng; Yinlong Liu; Yun-Hui Liu  
 
 [Robust Model Watermarking for Image Processing Networks via Structure Consistency](https://ieeexplore.ieee.org/document/10478663/)  
+**通过结构一致性实现图像处理网络的稳健模型水印**  
 Jie Zhang; Dongdong Chen; Jing Liao; Zehua Ma; Han Fang; Weiming Zhang; Huamin Feng; Gang Hua; Nenghai Yu  

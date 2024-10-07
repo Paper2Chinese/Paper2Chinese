@@ -73,7 +73,7 @@ Tao Wu; Mengqi Cao; Ziteng Gao; Gangshan Wu; Limin Wang
 Tianfei Zhou; Wenguan Wang  
 
 [NICEST: Noisy Label Correction and Training for Robust Scene Graph Generation](https://ieeexplore.ieee.org/document/10496249/)  
-**NICEST：噪声标签校正和鲁棒场景图生成的训练**   
+**NICEST：用于鲁棒场景图生成的噪声标签修正与训练**   
 Lin Li; Jun Xiao; Hanrong Shi; Hanwang Zhang; Yi Yang; Wei Liu; Long Chen  
 
 

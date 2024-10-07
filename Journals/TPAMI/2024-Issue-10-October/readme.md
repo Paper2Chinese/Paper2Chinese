@@ -79,6 +79,7 @@ Lin Li; Jun Xiao; Hanrong Shi; Hanwang Zhang; Yi Yang; Wei Liu; Long Chen
 
 
 [A Modular Neural Motion Retargeting System Decoupling Skeleton and Shape Perception](https://ieeexplore.ieee.org/document/10495176/)  
+**模块化神经运动重定向系统解耦骨骼和形状感知**  
 Jiaxu Zhang; Zhigang Tu; Junwu Weng; Junsong Yuan; Bo Du  
 
 [PERF: Panoramic Neural Radiance Field From a Single Panorama](https://ieeexplore.ieee.org/document/10496207/)  

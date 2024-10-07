@@ -50,9 +50,11 @@ Shuren Qi; Yushu Zhang; Chao Wang; Tao Xiang; Xiaochun Cao; Yong Xiang
 Lei Guan; Dongsheng Li; Yanqi Shi; Jian Meng  
 
 [Hybrid Open-Set Segmentation With Synthetic Negative Data](https://ieeexplore.ieee.org/document/10496197/)  
+**使用合成负样本的混合开放集分割**  
 Matej Grcić; Siniša Šegvić
 
 [DeepNet: Scaling Transformers to 1,000 Layers](https://ieeexplore.ieee.org/document/10496231/)  
+**DeepNet：将Transformer扩展到1000层**  
 Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei  
 
 [Multiview Tensor Spectral Clustering via Co-Regularization](https://ieeexplore.ieee.org/document/10495145/)  
@@ -60,9 +62,11 @@ Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei
 Hongmin Cai; Yu Wang; Fei Qi; Zhuoyao Wang; Yiu-ming Cheung  
 
 [PPDM++: Parallel Point Detection and Matching for Fast and Accurate HOI Detection](https://ieeexplore.ieee.org/document/10496247/)  
+**PPDM++: 用于快速准确人体交互检测的并行点检测与匹配技术**  
 Yue Liao; Si Liu; Yulu Gao; Aixi Zhang; Zhimin Li; Fei Wang; Bo Li  
 
 [STMixer: A One-Stage Sparse Action Detector](https://ieeexplore.ieee.org/document/10496238/)  
+**STMixer：一种单阶段稀疏动作检测器**  
 Tao Wu; Mengqi Cao; Ziteng Gao; Gangshan Wu; Limin Wang  
 
 [Prototype-Based Semantic Segmentation](https://ieeexplore.ieee.org/document/10496237/)  

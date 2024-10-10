@@ -125,18 +125,23 @@ Xiuwei Xu; Ziwei Wang; Jie Zhou; Jiwen Lu
 Zhihong Deng; Zuyue Fu; Lingxiao Wang; Zhuoran Yang; Chenjia Bai; Tianyi Zhou; Zhaoran Wang; Jing Jiang  
 
 **[Importance Weighted Structure Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10304391/)**  
+**场景图生成中的重要性加权结构学习(zty)**  
 Daqi Liu; Miroslaw Bober; Josef Kittler  
 
 **[Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy](https://ieeexplore.ieee.org/document/10316599/)**  
+**多阶段异步联合学习结合自适应差分隐私(zty)**  
 Yanan Li; Shusen Yang; Xuebin Ren; Liang Shi; Cong Zhao  
 
 **[LayerNet: High-Resolution Semantic 3D Reconstruction of Clothed People](https://ieeexplore.ieee.org/document/10316672/)**  
+**LayerNet：服装人物高分辨率语义三维重建(zty)**  
 Enric Corona; Guillem Alenyà; Gerard Pons-Moll; Francesc Moreno-Noguer  
 
 **[Tobias: A Random CNN Sees Objects](https://ieeexplore.ieee.org/document/10305409/)**  
+**Tobias：一个随机卷积神经网络识别物体(zty)**  
 Yun-Hao Cao; Jianxin Wu  
 
 **[Inequality-Constrained 3D Morphable Face Model Fitting](https://ieeexplore.ieee.org/document/10330115/)**  
+**受限等式约束的三维可变形面部模型拟合(zty)**  
 Evangelos Sariyanidi; Casey J. Zampella; Robert T. Schultz; Birkan Tunç  
 
 

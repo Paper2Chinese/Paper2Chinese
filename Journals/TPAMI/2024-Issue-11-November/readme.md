@@ -27,12 +27,15 @@ Wei Sun; Wen Wen; Xiongkuo Min; Long Lan; Guangtao Zhai; Kede Ma
 Benoît Guillard; Edoardo Remelli; Artem Lukoianov; Pierre Yvernay; Stephan R. Richter; Timur Bagautdinov; Pierre Baque; Pascal Fua  
 
 **[RDFC-GAN: RGB-Depth Fusion CycleGAN for Indoor Depth Completion](https://ieeexplore.ieee.org/document/10497905/)**  
+**RDFC-GAN:RGB-Depth融合循环GAN用于室内深度补全(zty)**  
 Haowen Wang; Zhengping Che; Yufan Yang; Mingyuan Wang; Zhiyuan Xu; Xiuquan Qiao; Mengshi Qi; Feifei Feng; Jian Tang  
 
 **[Bridging Visual and Textual Semantics: Towards Consistency for Unbiased Scene Graph Generation](https://ieeexplore.ieee.org/document/10502321/)**  
+**桥接视觉与文本语义：迈向无偏见场景图生成的一致性(zty)**  
 Ruonan Zhang; Gaoyun An; Yiqing Hao; Dapeng Oliver Wu  
 
 **[Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data](https://ieeexplore.ieee.org/document/10499867/)**  
+**学习素描：流数据中项目频率估计的神经方法(zty)**  
 Yukun Cao; Yuan Feng; Hairu Wang; Xike Xie; S. Kevin Zhou  
 
 **[Deep Learning Methods for Calibrated Photometric Stereo and Beyond](https://ieeexplore.ieee.org/document/10497891/)**  

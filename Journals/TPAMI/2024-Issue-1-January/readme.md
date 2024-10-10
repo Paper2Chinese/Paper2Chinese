@@ -7,39 +7,51 @@
 Liangxi Liu; Xi Jiang; Feng Zheng; Hong Chen; Guo-Jun Qi; Heng Huang; Ling Shao  
 
 [A Comprehensive Survey of Dataset Distillation](https://ieeexplore.ieee.org/document/10273632/)  
+**数据集蒸馏技术全面综述**  
 Shiye Lei; Dacheng Tao  
 
 [A Machine Learning Paradigm for Studying Pictorial Realism: How Accurate are Constable's Clouds?](https://ieeexplore.ieee.org/document/10286060/)  
+**机器学习范式在探究绘画现实主义中的应用：对康斯特布尔云彩描绘的分析**  
 Zhuomin Zhang; Elizabeth C. Mansfield; Jia Li; John Russell; George S. Young; Catherine Adams; Kevin A.  Bowley; James Z. Wang  
 
 [An Effective Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://ieeexplore.ieee.org/document/10285389/)  
+**点云数据中3D单目标跟踪的有效运动中心框架**  
 Chaoda Zheng; Xu Yan; Haiming Zhang; Baoyuan Wang; Shenghui Cheng; Shuguang Cui; Zhen Li  
 
 [Automatic Gaze Analysis: A Survey of Deep Learning Based Approaches](https://ieeexplore.ieee.org/document/10319064/)  
+**自动化视线分析：基于深度学习的策略综述**  
 Shreya Ghosh; Abhinav Dhall; Munawar Hayat; Jarrod Knibbe; Qiang Ji  
 
 [Booster: A Benchmark for Depth From Images of Specular and Transparent Surfaces](https://ieeexplore.ieee.org/document/10278453/)  
+**Booster：针对镜面和透明材料图像深度估计的基准框架**  
 Pierluigi Zama Ramirez; Alex Costanzino; Fabio Tosi; Matteo Poggi; Samuele Salti; Stefano Mattoccia; Luigi Di Stefano  
 
 [Compact Neural Network via Stacking Hybrid Units](https://ieeexplore.ieee.org/document/10275036/)  
+**通过混合单元堆叠构建紧凑神经网络架构**  
 Weichao Lan; Yiu-Ming Cheung; Juyong Jiang; Zhikai Hu; Mengke Li  
 
 [Contextualizing Meta-Learning via Learning to Decompose](https://ieeexplore.ieee.org/document/10256146/)  
+**通过分解学习策略实现情境化元学习**  
 Han-Jia Ye; Da-Wei Zhou; Lanqing Hong; Zhenguo Li; Xiu-Shen Wei; De-Chuan Zhan  
 
 [Continual Learning, Fast and Slow](https://ieeexplore.ieee.org/document/10285461/)  
+**持续学习的动态：快速与渐进的获取过程**  
 Quang Pham; Chenghao Liu; Steven C. H. Hoi  
 
 [Dataset Distillation: A Comprehensive Review](https://ieeexplore.ieee.org/document/10275116/)  
+**数据集蒸馏：彻底的回顾与分析**  
 Ruonan Yu; Songhua Liu; Xinchao Wang  
 
 [Deep Efficient Continuous Manifold Learning for Time Series Modeling](https://ieeexplore.ieee.org/document/10266751/)  
+**用于时间序列建模的深度高效连续流形学习**  
 Seungwoo Jeong; Wonjun Ko; Ahmad Wisnu Mulyadi; Heung-Il Suk  
 
 [Deep Scene Flow Learning: From 2D Images to 3D Point Clouds](https://ieeexplore.ieee.org/document/10264132/)  
+**深度场景流估计：从2D图像到3D点云的转换**  
 Xuezhi Xiang; Rokia Abdein; Wei Li; Abdulmotaleb El Saddik  
 
 [Development of Few-Shot Learning Capabilities in Artificial Neural Networks When Learning Through Self-Supervised Interaction](https://ieeexplore.ieee.org/document/10274870/)  
+**通过自监督交互学习时人工神经网络中少样本学习能力的发展**  
 Viviane Clay; Gordon Pipa; Kai-Uwe Kühnberger; Peter König  
 
 

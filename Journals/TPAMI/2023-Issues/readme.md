@@ -163,15 +163,15 @@ Xumin Yu; Yongming Rao; Ziyi Wang; Jiwen Lu; Jie Zhou
 Yue Gao; Jiaxuan Lu; Siqi Li; Nan Ma; Shaoyi Du; Yipeng Li; Qionghai Dai  
 
 [A Parametrical Model for Instance-Dependent Label Noise](https://ieeexplore.ieee.org/document/10209198)  
-**面向实例依赖标签噪声的参数化模型（zty）**  
+**[面向实例依赖标签噪声的参数化模型](https://mp.weixin.qq.com/s/-XKhxnifo_mZKJF3-pzzbQ)**  
 Shuo Yang; Songhua Wu; Erkun Yang; Bo Han; Yang Liu; Min Xu; Gang Niu; Tongliang Liu
 
 [Split-GCN: Effective Interactive Annotation for Segmentation of Disconnected Instance](https://ieeexplore.ieee.org/document/9984937)  
-**Split-GCN：用于分割不连续实例的有效交互式标注（zty）**  
+**[Split-GCN：用于分割不连续实例的有效交互式标注](https://mp.weixin.qq.com/s/gDzQ05mTXNHFHycz28aMfQ)**  
 Namgil Kim; Barom Kang; Yeonok Cho  
 
 [MO-MIX: Multi-Objective Multi-Agent Cooperative Decision-Making With Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10145811)  
-**MO-MIX：基于深度强化学习的多目标多智能体协同决策（zty）**  
+**[MO-MIX：基于深度强化学习的多目标多智能体协同决策](https://mp.weixin.qq.com/s/AXHBwW9n0w_PHaUOHoW7Nw)**  
 Tianmeng Hu; Biao Luo; Chunhua Yang; Tingwen Huang  
 
 [Multiple Instance Differentiation Learning for Active Object Detection](https://ieeexplore.ieee.org/document/10129096)  

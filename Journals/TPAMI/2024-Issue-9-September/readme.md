@@ -151,7 +151,7 @@ Gan Sun; Wenqi Liang; Jiahua Dong; Jun Li; Zhengming Ding; Yang Cong
 Bruce X. B. Yu; Yan Liu; Keith C. C. Chan; Chang Wen Chen  
 
 **[Towards Understanding Convergence and Generalization of AdamW](https://ieeexplore.ieee.org/document/10480574/)**  
-**走向理解AdamW的收敛与泛化（zty）**  
+**[走向理解AdamW的收敛与泛化](https://mp.weixin.qq.com/s/kiP6uB3-nnjUMkl3b40MCA)**  
 Pan Zhou; Xingyu Xie; Zhouchen Lin; Shuicheng Yan  
 
 

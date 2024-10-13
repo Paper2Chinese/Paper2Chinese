@@ -39,7 +39,7 @@ Yi-Hua Huang; Yan-Pei Cao; Yu-Kun Lai; Ying Shan; Lin Gao
 Seunghwa Jeong; Bumki Kim; Seunghoon Cha; Kwanggyoon Seo; Hayoung Chang; Jungjin Lee; Younghui Kim; Junyong Noh  
 
 **[Turning a CLIP Model Into a Scene Text Spotter](https://ieeexplore.ieee.org/document/10476714/)**  
-**将CLIP模型转化为场景文本识别器**  
+**[将CLIP模型转化为场景文本识别器](https://mp.weixin.qq.com/s/q7Vb8YRZPDhR3KR5ijQmNw)**  
 Wenwen Yu; Yuliang Liu; Xingkui Zhu; Haoyu Cao; Xing Sun; Xiang Bai  
 
 **[A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection](https://ieeexplore.ieee.org/document/10472872/)**  
@@ -107,7 +107,7 @@ Bowen Cai; Yujie Li; Yuqin Liang; Rongfei Jia; Binqiang Zhao; Mingming Gong; Hua
 Florian Kluger; Eric Brachmann; Michael Ying Yang; Bodo Rosenhahn  
 
 **[Bridging Implicit and Explicit Geometric Transformation for Single-Image View Synthesis](https://ieeexplore.ieee.org/document/10475596/)**  
-**单一图像视图合成中隐式与显式几何变换的桥梁构建**  
+**[单一图像视图合成中隐式与显式几何变换的桥梁构建](https://mp.weixin.qq.com/s/2MYcxBtV5De9hc4ZWlK3dg)**  
 Byeongjun Park; Hyojun Go; Changick Kim  
 
 **[Tackling Noisy Labels With Network Parameter Additive Decomposition](https://ieeexplore.ieee.org/document/10480647/)**  

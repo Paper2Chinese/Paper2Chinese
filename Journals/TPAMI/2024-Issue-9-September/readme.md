@@ -72,6 +72,10 @@ Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao
 
 **[Multi-Label Conditional Generation From Pre-Trained Models](https://ieeexplore.ieee.org/document/10480286/)**  
 **[从预训练模型进行多标签条件生成](https://mp.weixin.qq.com/s/ezj4yU9IkRz7MlOQGp7mlQ)**  
+Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja
+
+
+**[从预训练模型进行多标签条件生成](https://mp.weixin.qq.com/s/ezj4yU9IkRz7MlOQGp7mlQ)**  
 Magdalena Proszewska; Maciej Wołczyk; Maciej Zieba; Patryk Wielopolski; Łukasz Maziarka; Marek Śmieja  
 
 **[Uncovering the Over-Smoothing Challenge in Image Super-Resolution: Entropy-Based Quantification and Contrastive Optimization](https://ieeexplore.ieee.org/document/10475558/)**  
@@ -103,7 +107,7 @@ Yang Wang; Biao Qian; Haipeng Liu; Yong Rui; Meng Wang
 Bowen Cai; Yujie Li; Yuqin Liang; Rongfei Jia; Binqiang Zhao; Mingming Gong; Huan Fu  
 
 **[Robust Shape Fitting for 3D Scene Abstraction](https://ieeexplore.ieee.org/document/10475588/)**  
-**三维场景抽象中的鲁棒性形状拟合方法**  
+**[三维场景抽象中的鲁棒性形状拟合方法](https://mp.weixin.qq.com/s/FjcnC6DgWQNKn6LZQHuPvQ)**  
 Florian Kluger; Eric Brachmann; Michael Ying Yang; Bodo Rosenhahn  
 
 **[Bridging Implicit and Explicit Geometric Transformation for Single-Image View Synthesis](https://ieeexplore.ieee.org/document/10475596/)**  

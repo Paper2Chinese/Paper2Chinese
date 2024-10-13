@@ -39,33 +39,43 @@ Ruonan Zhang; Gaoyun An; Yiqing Hao; Dapeng Oliver Wu
 Yukun Cao; Yuan Feng; Hairu Wang; Xike Xie; S. Kevin Zhou  
 
 **[Deep Learning Methods for Calibrated Photometric Stereo and Beyond](https://ieeexplore.ieee.org/document/10497891/)**  
+**深度学习方法在标定光度立体渲染及其它领域的应用**  
 Yakun Ju; Kin-Man Lam; Wuyuan Xie; Huiyu Zhou; Junyu Dong; Boxin Shi  
 
 **[IG2: Integrated Gradient on Iterative Gradient Path for Feature Attribution](https://ieeexplore.ieee.org/document/10497902/)**  
+**IG2：迭代梯度路径上的集成梯度用于特征归因**  
 Yue Zhuo; Zhiqiang Ge  
 
 **[On the Benefit of Optimal Transport for Curriculum Reinforcement Learning](https://ieeexplore.ieee.org/document/10502148/)**  
+**最优传输在课程化强化学习中的益处**  
 Pascal Klink; Carlo D'Eramo; Jan Peters; Joni Pajarinen  
 
 **[Ensemble Predictors: Possibilistic Combination of Conformal Predictors for Multivariate Time Series Classification](https://ieeexplore.ieee.org/document/10497903/)**  
+**集成预测器：多变量时间序列分类的一致性预测器的可能性组合**  
 Andrea Campagner; Marília Barandas; Duarte Folgado; Hugo Gamboa; Federico Cabitza  
 
 **[Fully Sparse Fusion for 3D Object Detection](https://ieeexplore.ieee.org/document/10506794/)**  
+**用于3D目标检测的全稀疏融合方法**  
 Yingyan Li; Lue Fan; Yang Liu; Zehao Huang; Yuntao Chen; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Bridging Actions: Generate 3D Poses and Shapes In-Between Photos](https://ieeexplore.ieee.org/document/10497888/)**  
+**桥接动作：在照片之间生成3D姿态和形状**  
 Wen-Li Wei; Jen-Chun Lin  
 
 **[One Fits Many: Class Confusion Loss for Versatile Domain Adaptation](https://ieeexplore.ieee.org/document/10506994/)**  
+**万用一法：类别混淆损失在多领域自适应中的应用**  
 Ying Jin; Zhangjie Cao; Ximei Wang; Jianmin Wang; Mingsheng Long  
 
 **[Fast Building Instance Proxy Reconstruction for Large Urban Scenes](https://ieeexplore.ieee.org/document/10499907/)**  
+**面向大型城市场景的快速建筑实例代理重建**  
 Jianwei Guo; Haobo Qin; Yinchang Zhou; Xin Chen; Liangliang Nan; Hui Huang  
 
 **[Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces](https://ieeexplore.ieee.org/document/10497845/)**  
+**通过寻找相关子空间对神经网络预测进行解耦解释**  
 Pattarawat Chormai; Jan Herrmann; Klaus-Robert Müller; Grégoire Montavon  
 
 **[VST++: Efficient and Stronger Visual Saliency Transformer](https://ieeexplore.ieee.org/document/10497889/)**  
+**VST++：高效且强大的视觉显著性变换器**  
 Nian Liu; Ziyang Luo; Ni Zhang; Junwei Han  
 
 **[Empowering Real-World Image Super-Resolution With Flexible Interactive Modulation](https://ieeexplore.ieee.org/document/10505802/)**  

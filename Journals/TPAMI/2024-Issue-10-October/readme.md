@@ -54,7 +54,7 @@ Lei Guan; Dongsheng Li; Yanqi Shi; Jian Meng
 Matej Grcić; Siniša Šegvić
 
 [DeepNet: Scaling Transformers to 1,000 Layers](https://ieeexplore.ieee.org/document/10496231/)  
-**DeepNet：将Transformer扩展到1000层**  
+**[DeepNet：将Transformer扩展到1000层](https://mp.weixin.qq.com/s/J0bx0K0gT2Pta8Jkg4PY2w)**  
 Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei  
 
 [Multiview Tensor Spectral Clustering via Co-Regularization](https://ieeexplore.ieee.org/document/10495145/)  

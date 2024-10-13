@@ -6,7 +6,7 @@
 
 
 [On Boundary Discontinuity in Angle Regression Based Arbitrary Oriented Object Detection](https://ieeexplore.ieee.org/document/10475581/)  
-**基于角度回归的任意方向目标检测中的边界不连续性**  
+**[基于角度回归的任意方向目标检测中的边界不连续性](https://mp.weixin.qq.com/s/Ru0axZpRVuNQEe-EM3DaYQ)**  
 Yi Yu; Feipeng Da  
 
 [Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution](https://ieeexplore.ieee.org/document/10475573/)  
@@ -14,7 +14,7 @@ Yi Yu; Feipeng Da
 Qinqin Zhou; Kekai Sheng; Xiawu Zheng; Ke Li; Yonghong Tian; Jie Chen; Rongrong Ji  
 
 [PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks](https://ieeexplore.ieee.org/document/10475563/)  
-**PAGE：图神经网络的基于原型的模型级解释**  
+**[PAGE：图神经网络的基于原型的模型级解释](https://mp.weixin.qq.com/s/PX_96lfHn4isiMYG98ACbQ)**  
 Yong-Min Shin; Sun-Woo Kim; Won-Yong Shin  
 
 [Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration](https://ieeexplore.ieee.org/document/10487002/)  
@@ -38,11 +38,11 @@ Lei Zhang; Yuhang Zhou; Yi Yang; Xinbo Gao
 Ryoya Yamasaki; Toshiyuki Tanaka  
 
 [Bayesian Optimization for Sparse Neural Networks With Trainable Activation Functions](https://ieeexplore.ieee.org/document/10496211/)  
-**贝叶斯优化在具有可训练激活函数的稀疏神经网络中的应用(zty)**  
+**[贝叶斯优化在具有可训练激活函数的稀疏神经网络中的应用](https://mp.weixin.qq.com/s/0EnSZju2yADJoo-J63uOgw)**  
 Mohamed Fakhfakh; Lotfi Chaari  
 
 [Representing Noisy Image Without Denoising](https://ieeexplore.ieee.org/document/10496213/)  
-**无需去噪的含噪图像表示(zty)**  
+**[无需去噪的含噪图像表示](https://mp.weixin.qq.com/s/MQzOW31WH1twtEnewM8NcQ)**  
 Shuren Qi; Yushu Zhang; Chao Wang; Tao Xiang; Xiaochun Cao; Yong Xiang  
 
 [XGrad: Boosting Gradient-Based Optimizers With Weight Prediction](https://ieeexplore.ieee.org/document/10496892/)  
@@ -62,11 +62,11 @@ Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei
 Hongmin Cai; Yu Wang; Fei Qi; Zhuoyao Wang; Yiu-ming Cheung  
 
 [PPDM++: Parallel Point Detection and Matching for Fast and Accurate HOI Detection](https://ieeexplore.ieee.org/document/10496247/)  
-**PPDM++: 用于快速准确人体交互检测的并行点检测与匹配技术**  
+**[PPDM++: 用于快速准确人体交互检测的并行点检测与匹配技术](https://mp.weixin.qq.com/s/huToikFWf2sQ5g8XtoyenQ)**  
 Yue Liao; Si Liu; Yulu Gao; Aixi Zhang; Zhimin Li; Fei Wang; Bo Li  
 
 [STMixer: A One-Stage Sparse Action Detector](https://ieeexplore.ieee.org/document/10496238/)  
-**STMixer：一种单阶段稀疏动作检测器**  
+**[STMixer：一种单阶段稀疏动作检测器](https://mp.weixin.qq.com/s/bb4-lNkUWhWdS3Qi00sj2w)**  
 Tao Wu; Mengqi Cao; Ziteng Gao; Gangshan Wu; Limin Wang  
 
 [Prototype-Based Semantic Segmentation](https://ieeexplore.ieee.org/document/10496237/)  
@@ -79,7 +79,7 @@ Lin Li; Jun Xiao; Hanrong Shi; Hanwang Zhang; Yi Yang; Wei Liu; Long Chen
 
 
 [A Modular Neural Motion Retargeting System Decoupling Skeleton and Shape Perception](https://ieeexplore.ieee.org/document/10495176/)  
-**模块化神经运动重定向系统：解耦骨架与形状感知**  
+**[模块化神经运动重定向系统：解耦骨架与形状感知](https://mp.weixin.qq.com/s/5bdOb3lW9LgZja6Rm0ewSA)**  
 Jiaxu Zhang; Zhigang Tu; Junwu Weng; Junsong Yuan; Bo Du  
 
 [PERF: Panoramic Neural Radiance Field From a Single Panorama](https://ieeexplore.ieee.org/document/10496207/)  

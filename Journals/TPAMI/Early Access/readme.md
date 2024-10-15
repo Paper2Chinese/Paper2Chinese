@@ -900,7 +900,7 @@ Yihua Cheng; Haofei Wang; Yiwei Bao; Feng Lu
 Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Gao  
 
 [Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment](https://ieeexplore.ieee.org/document/10508488/)  
-**通过结构化时空对齐增强视频-语言表示**
+**通过结构化时空对齐增强视频-语言表示**  
 Hao Fei; Shengqiong Wu; Meishan Zhang; Min Zhang; Tat-Seng Chua; Shuicheng Yan  
 
 [Latency-aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)  

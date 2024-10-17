@@ -79,18 +79,23 @@ Pattarawat Chormai; Jan Herrmann; Klaus-Robert Müller; Grégoire Montavon
 Nian Liu; Ziyang Luo; Ni Zhang; Junwei Han  
 
 **[Empowering Real-World Image Super-Resolution With Flexible Interactive Modulation](https://ieeexplore.ieee.org/document/10505802/)**  
+**通过灵活的交互式调制增强现实世界图像的超分辨率能力（zty）**  
 Chong Mou; Xintao Wang; Yanze Wu; Ying Shan; Jian Zhang  
 
 **[Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning](https://ieeexplore.ieee.org/document/10496863/)**  
+**Vote2Cap-DETR++：解耦定位与描述的端到端3D密集描述（zty）**  
 Sijin Chen; Hongyuan Zhu; Mingsheng Li; Xin Chen; Peng Guo; Yinjie Lei; Gang Yu; Taihao Li; Tao Chen  
 
 **[Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition](https://ieeexplore.ieee.org/document/10497880/)**  
+**层次增强与蒸馏：面向类别增量音频-视觉视频识别的研究（zty）**  
 Yukun Zuo; Hantao Yao; Liansheng Zhuang; Changsheng Xu  
 
 **[Asymmetric Convolution: An Efficient and Generalized Method to Fuse Feature Maps in Multiple Vision Tasks](https://ieeexplore.ieee.org/document/10530458/)**  
+**非对称卷积：一种在多视觉任务中融合特征图的高效通用方法（zty）**  
 Wencheng Han; Xingping Dong; Yiyuan Zhang; David Crandall; Cheng-Zhong Xu; Jianbing Shen  
 
 **[Transferring Annotator- and Instance-Dependent Transition Matrix for Learning From Crowds](https://ieeexplore.ieee.org/document/10497879/)**  
+**迁移标注者和实例依赖的转移矩阵以实现从群体学习（zty）**  
 Shikun Li; Xiaobo Xia; Jiankang Deng; Shiming Ge; Tongliang Liu  
 
 **[Graph Convolutional Networks With Adaptive Neighborhood Awareness](https://ieeexplore.ieee.org/document/10505798/)**  

@@ -102,6 +102,7 @@ Shikun Li; Xiaobo Xia; Jiankang Deng; Shiming Ge; Tongliang Liu
 Mingjian Guang; Chungang Yan; Yuhua Xu; Junli Wang; Changjun Jiang  
 
 **[What Makes Deviant Places?](https://ieeexplore.ieee.org/document/10508107/)**  
+**什么样的地方会成为异常之地？**   
 Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon Jeon  
  
 **[OoD-Control: Generalizing Control in Unseen Environments](https://ieeexplore.ieee.org/document/10510598/)**  

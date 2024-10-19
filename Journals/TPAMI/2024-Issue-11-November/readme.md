@@ -99,6 +99,7 @@ Wencheng Han; Xingping Dong; Yiyuan Zhang; David Crandall; Cheng-Zhong Xu; Jianb
 Shikun Li; Xiaobo Xia; Jiankang Deng; Shiming Ge; Tongliang Liu  
 
 **[Graph Convolutional Networks With Adaptive Neighborhood Awareness](https://ieeexplore.ieee.org/document/10505798/)**  
+**图卷积网络与自适应邻域感知**   
 Mingjian Guang; Chungang Yan; Yuhua Xu; Junli Wang; Changjun Jiang  
 
 **[What Makes Deviant Places?](https://ieeexplore.ieee.org/document/10508107/)**  

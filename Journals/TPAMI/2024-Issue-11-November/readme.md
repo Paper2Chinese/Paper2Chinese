@@ -108,6 +108,7 @@ Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon J
 Nanyang Ye; Zhaoyu Zeng; Jundong Zhou; Lin Zhu; Yuxiao Duan; Yifei Wu; Junqi Wu; Haoqi Zeng; Qinying Gu; Xinbing Wang; Chenghu Zhou  
 
 **[Learning With Style: Continual Semantic Segmentation Across Tasks and Domains](https://ieeexplore.ieee.org/document/10521870/)**  
+**风格化学习：跨任务和领域的持续语义分割**  
 Marco Toldo; Umberto Michieli; Pietro Zanuttigh  
 
 **[Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One](https://ieeexplore.ieee.org/document/10507024/)**  

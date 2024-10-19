@@ -105,6 +105,7 @@ Mingjian Guang; Chungang Yan; Yuhua Xu; Junli Wang; Changjun Jiang
 Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon Jeon  
  
 **[OoD-Control: Generalizing Control in Unseen Environments](https://ieeexplore.ieee.org/document/10510598/)**  
+**OoD-Control: 在陌生环境中泛化的控制**  
 Nanyang Ye; Zhaoyu Zeng; Jundong Zhou; Lin Zhu; Yuxiao Duan; Yifei Wu; Junqi Wu; Haoqi Zeng; Qinying Gu; Xinbing Wang; Chenghu Zhou  
 
 **[Learning With Style: Continual Semantic Segmentation Across Tasks and Domains](https://ieeexplore.ieee.org/document/10521870/)**  

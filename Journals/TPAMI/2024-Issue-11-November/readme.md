@@ -111,4 +111,5 @@ Nanyang Ye; Zhaoyu Zeng; Jundong Zhou; Lin Zhu; Yuxiao Duan; Yifei Wu; Junqi Wu;
 Marco Toldo; Umberto Michieli; Pietro Zanuttigh  
 
 **[Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One](https://ieeexplore.ieee.org/document/10507024/)**  
+**解耦图神经网络：同时训练多个简单的GNN而不是一个**  
 Hongyuan Zhang; Yanan Zhu; Xuelong Li  

@@ -175,7 +175,7 @@ Namgil Kim; Barom Kang; Yeonok Cho
 Tianmeng Hu; Biao Luo; Chunhua Yang; Tingwen Huang  
 
 [Multiple Instance Differentiation Learning for Active Object Detection](https://ieeexplore.ieee.org/document/10129096)  
-**用于主动目标检测的多实例差异化学习（zty）**  
+**[用于主动目标检测的多实例差异化学习](https://mp.weixin.qq.com/s/1YBZexpWZECINsYDSefQxQ)**  
 Fang Wan; Qixiang Ye; Tianning Yuan; Songcen Xu; Jianzhuang Liu; Xiangyang Ji  
 
 [MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion](https://ieeexplore.ieee.org/document/10145843)  
@@ -183,7 +183,7 @@ Fang Wan; Qixiang Ye; Tianning Yuan; Songcen Xu; Jianzhuang Liu; Xiangyang Ji
 Han Xu; Jiteng Yuan; Jiayi Ma  
 
 [Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10120949)  
-**利用显著性作为伪像素监督的弱监督和半监督语义分割(zty)**  
+**[利用显著性作为伪像素监督的弱监督和半监督语义分割](https://mp.weixin.qq.com/s/GsvnwDvk2qwsXL4pH2-zvg)**  
 Minhyun Lee; Seungho Lee; Jongwuk Lee; Hyunjung Shim  
 
 [Self-Supervised Arbitrary-Scale Implicit Point Clouds Upsampling](https://ieeexplore.ieee.org/document/10159515)  
@@ -191,7 +191,7 @@ Minhyun Lee; Seungho Lee; Jongwuk Lee; Hyunjung Shim
 Wenbo Zhao; Xianming Liu; Deming Zhai; Junjun Jiang; Xiangyang Ji  
 
 [SPDET: Edge-Aware Self-Supervised Panoramic Depth Estimation Transformer With Spherical Geometry](https://ieeexplore.ieee.org/document/10115484)  
-**边缘感知自监督全景深度估计Transformer与球面几何(zty)**  
+**[边缘感知自监督全景深度估计Transformer与球面几何](https://mp.weixin.qq.com/s/97-Mdz0mYqSYLEcPlpkI4w)**  
 Chuanqing Zhuang; Zhengda Lu; Yiqun Wang; Jun Xiao; Ying Wang  
 
 [Super Sparse 3D Object Detection](https://ieeexplore.ieee.org/document/10153690)  

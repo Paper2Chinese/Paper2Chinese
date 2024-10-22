@@ -147,7 +147,7 @@ Ting Yao; Yehao Li; Yingwei Pan; Tao Mei
 Yuhao Liu; Marzieh Ajirak; Petar M. Djurić  
 
 **[Create Your World: Lifelong Text-to-Image Diffusion](https://ieeexplore.ieee.org/document/10489849/)**  
-**创造你的世界：终身文本到图像扩散（zty）**  
+**[创造你的世界：终身文本到图像扩散](https://mp.weixin.qq.com/s/EguarwlcWf1HZq9jj_l_bA)**  
 Gan Sun; Wenqi Liang; Jiahua Dong; Jun Li; Zhengming Ding; Yang Cong  
 
 **[EGCN++: A New Fusion Strategy for Ensemble Learning in Skeleton-Based Rehabilitation Exercise Assessment](https://ieeexplore.ieee.org/document/10475587/)**  

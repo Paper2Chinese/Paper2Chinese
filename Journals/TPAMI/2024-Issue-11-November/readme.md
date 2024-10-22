@@ -23,7 +23,7 @@ Yuekun Dai; Chongyi Li; Shangchen Zhou; Ruicheng Feng; Yihang Luo; Chen Change L
 Wei Sun; Wen Wen; Xiongkuo Min; Long Lan; Guangtao Zhai; Kede Ma  
 
 **[DeepMesh: Differentiable Iso-Surface Extraction](https://ieeexplore.ieee.org/document/10506652/)**  
-**DeepMesh：可微等值面提取**  
+**[DeepMesh：可微等值面提取](https://mp.weixin.qq.com/s/q29HOwQeR343V4ohdAzZNA)**  
 Benoît Guillard; Edoardo Remelli; Artem Lukoianov; Pierre Yvernay; Stephan R. Richter; Timur Bagautdinov; Pierre Baque; Pascal Fua  
 
 **[RDFC-GAN: RGB-Depth Fusion CycleGAN for Indoor Depth Completion](https://ieeexplore.ieee.org/document/10497905/)**  

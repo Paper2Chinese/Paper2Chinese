@@ -1052,6 +1052,7 @@ Dor Verbin; Peter Hedman; Ben Mildenhall; Todd Zickler; Jonathan T. Barron; Prat
 Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Yang  
 
 [EPro-PnP: Generalized End-to-End Probabilistic Perspective-N-Points for Monocular Object Pose Estimation](https://ieeexplore.ieee.org/document/10400900/)  
+**EPro-PnP：面向单目物体姿态估计的广义端到端概率透视n点**  
 Hansheng Chen; Wei Tian; Pichao Wang; Fan Wang; Lu Xiong; Hao Li  
 
 [AnyFace++: A Unified Framework for Free-style Text-to-Face Synthesis and Manipulation](https://ieeexplore.ieee.org/document/10380501/)  

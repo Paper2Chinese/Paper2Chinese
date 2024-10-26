@@ -1055,6 +1055,7 @@ Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Ya
 Hansheng Chen; Wei Tian; Pichao Wang; Fan Wang; Lu Xiong; Hao Li  
 
 [AnyFace++: A Unified Framework for Free-style Text-to-Face Synthesis and Manipulation](https://ieeexplore.ieee.org/document/10380501/)  
+** AnyFace++：自由风格文本到人脸合成与操纵的统一框架**   
 Jianxin Sun; Qiyao Deng; Qi Li; Muyi Sun; Yunfan Liu; Zhenan Sun  
 
 

@@ -1028,18 +1028,23 @@ Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han
 Aleix Boquet-Pujadas; Pol del Aguila Pla; Michael Unser  
 
 [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://ieeexplore.ieee.org/document/10495141/)  
+**ETPNav：连续环境中视觉语言导航的进化拓扑规划(zty)**  
 Dong An; Hanqing Wang; Wenguan Wang; Zun Wang; Yan Huang; Keji He; Liang Wang  
 
 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://ieeexplore.ieee.org/document/10478788/)  
+**烘焙神经辐射场以实现实时视图合成(zty)**  
 Peter Hedman; Pratul P. Srinivasan; Ben Mildenhall; Christian Reiser; Jonathan T. Barron; Paul Debevec  
 
 [Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey](https://ieeexplore.ieee.org/document/10476763/)  
+**机器学习中的可扩展最优传输方法：一项当代综述(zty)**  
 Abdelwahed Khamis; Russell Tsuchida; Mohamed Tarek; Vivien Rolland; Lars Petersson  
 
 [Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations](https://ieeexplore.ieee.org/document/10476716/)  
+**基于自监督学习的现实世界超分辨率：从双重和多重缩放观测中学习(zty)**  
 Zhilu Zhang; Ruohao Wang; Hongzhi Zhang; Wangmeng Zuo  
 
 [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://ieeexplore.ieee.org/document/10461053/)  
+**NineRec：一个用于评估可迁移推荐系统的基准数据集套件(zty)**  
 Jiaqi Zhang; Yu Cheng; Yongxin Ni; Yunzhu Pan; Zheng Yuan; Junchen Fu; Youhua Li; Jie Wang; Fajie Yuan  
 
 [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/document/10443302/)  

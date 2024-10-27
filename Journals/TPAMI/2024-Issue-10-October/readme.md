@@ -30,11 +30,11 @@ Risheng Liu; Zhu Liu; Jinyuan Liu; Xin Fan; Zhongxuan Luo
 Qiaoling Ye; Arash A. Amini; Qing Zhou  
 
 [Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks](https://ieeexplore.ieee.org/document/10494561/)  
-**面向对未知对抗性攻击具有泛化鲁棒性的元不变性防御(zty)**  
+**[面向对未知对抗性攻击具有泛化鲁棒性的元不变性防御](https://mp.weixin.qq.com/s/bR5E9QRAStDV1qyBcMKrMg)**  
 Lei Zhang; Yuhang Zhou; Yi Yang; Xinbo Gao  
 
 [Convergence Analysis of Mean Shift](https://ieeexplore.ieee.org/document/10494563/)  
-**均值漂移算法的收敛性分析(zty)**  
+**[均值漂移算法的收敛性分析](https://mp.weixin.qq.com/s/xjfZ1kzn9qnJ8bEQ72BCuQ)**  
 Ryoya Yamasaki; Toshiyuki Tanaka  
 
 [Bayesian Optimization for Sparse Neural Networks With Trainable Activation Functions](https://ieeexplore.ieee.org/document/10496211/)  
@@ -46,11 +46,11 @@ Mohamed Fakhfakh; Lotfi Chaari
 Shuren Qi; Yushu Zhang; Chao Wang; Tao Xiang; Xiaochun Cao; Yong Xiang  
 
 [XGrad: Boosting Gradient-Based Optimizers With Weight Prediction](https://ieeexplore.ieee.org/document/10496892/)  
-**XGrad：利用权重预测提升基于梯度的优化器(zty)**  
+**[XGrad：利用权重预测提升基于梯度的优化器](https://mp.weixin.qq.com/s/ILWyiuQ_VLATW-Zi3F1tSA)**  
 Lei Guan; Dongsheng Li; Yanqi Shi; Jian Meng  
 
 [Hybrid Open-Set Segmentation With Synthetic Negative Data](https://ieeexplore.ieee.org/document/10496197/)  
-**使用合成负样本的混合开放集分割**  
+**[使用合成负样本的混合开放集分割](https://mp.weixin.qq.com/s/KCWwm0fRH9RQ1TuKE2O9qQ)**  
 Matej Grcić; Siniša Šegvić
 
 [DeepNet: Scaling Transformers to 1,000 Layers](https://ieeexplore.ieee.org/document/10496231/)  
@@ -58,7 +58,7 @@ Matej Grcić; Siniša Šegvić
 Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei  
 
 [Multiview Tensor Spectral Clustering via Co-Regularization](https://ieeexplore.ieee.org/document/10495145/)  
-**多视角张量谱聚类通过协同正则化**   
+**[多视角张量谱聚类通过协同正则化](https://mp.weixin.qq.com/s/SJiofdBsJBc4xufDr2UlFA)**   
 Hongmin Cai; Yu Wang; Fei Qi; Zhuoyao Wang; Yiu-ming Cheung  
 
 [PPDM++: Parallel Point Detection and Matching for Fast and Accurate HOI Detection](https://ieeexplore.ieee.org/document/10496247/)  
@@ -99,5 +99,5 @@ Zhenshan Bing; Yuqi Yun; Kai Huang; Alois Knoll
 Tianyu Huang; Haoang Li; Liangzu Peng; Yinlong Liu; Yun-Hui Liu  
 
 [Robust Model Watermarking for Image Processing Networks via Structure Consistency](https://ieeexplore.ieee.org/document/10478663/)  
-**通过结构一致性实现图像处理网络的稳健模型水印**  
+**[通过结构一致性实现图像处理网络的稳健模型水印](https://mp.weixin.qq.com/s/xVloeDFmaN-IEStrM6Sedg)**  
 Jie Zhang; Dongdong Chen; Jing Liao; Zehua Ma; Han Fang; Weiming Zhang; Huamin Feng; Gang Hua; Nenghai Yu  

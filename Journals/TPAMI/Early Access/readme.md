@@ -1048,6 +1048,7 @@ Zhilu Zhang; Ruohao Wang; Hongzhi Zhang; Wangmeng Zuo
 Jiaqi Zhang; Yu Cheng; Yongxin Ni; Yunzhu Pan; Zheng Yuan; Junchen Fu; Youhua Li; Jie Wang; Fajie Yuan  
 
 [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/document/10443302/)  
+**多模态图像融合的通用空间-频率学习框架**   
 Man Zhou; Jie Huang; Keyu Yan; Danfeng Hong; Xiuping Jia; Jocelyn Chanussot; Chongyi Li  
 
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://ieeexplore.ieee.org/document/10416701/)  

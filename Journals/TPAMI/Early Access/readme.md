@@ -1054,6 +1054,7 @@ Man Zhou; Jie Huang; Keyu Yan; Danfeng Hong; Xiuping Jia; Jocelyn Chanussot; Cho
 Dor Verbin; Peter Hedman; Ben Mildenhall; Todd Zickler; Jonathan T. Barron; Pratul P. Srinivasan  
 
 [Burst Image Restoration and Enhancement](https://ieeexplore.ieee.org/document/10409532/)  
+**连拍图像恢复与增强**  
 Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Yang  
 
 [EPro-PnP: Generalized End-to-End Probabilistic Perspective-N-Points for Monocular Object Pose Estimation](https://ieeexplore.ieee.org/document/10400900/)  

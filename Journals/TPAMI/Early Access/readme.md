@@ -1052,6 +1052,7 @@ Jiaqi Zhang; Yu Cheng; Yongxin Ni; Yunzhu Pan; Zheng Yuan; Junchen Fu; Youhua Li
 Man Zhou; Jie Huang; Keyu Yan; Danfeng Hong; Xiuping Jia; Jocelyn Chanussot; Chongyi Li  
 
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://ieeexplore.ieee.org/document/10416701/)  
+**Ref-NeRF: 神经辐射场的结构化视角依赖外观**   
 Dor Verbin; Peter Hedman; Ben Mildenhall; Todd Zickler; Jonathan T. Barron; Pratul P. Srinivasan  
 
 [Burst Image Restoration and Enhancement](https://ieeexplore.ieee.org/document/10409532/)  

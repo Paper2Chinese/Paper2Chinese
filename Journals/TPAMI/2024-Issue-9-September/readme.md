@@ -31,7 +31,7 @@ Wenjing Wang; Rundong Luo; Wenhan Yang; Jiaying Liu
 Chenyang Zhao; Janet H. Hsiao; Antoni B. Chan  
 
 **[NeRF-Texture: Synthesizing Neural Radiance Field Textures](https://ieeexplore.ieee.org/document/10489854/)**  
-**NeRF-Texture：合成神经辐射场纹理**  
+**[NeRF-Texture：合成神经辐射场纹理](https://mp.weixin.qq.com/s/XjefDlLmM1catS0sN9VdRg)**  
 Yi-Hua Huang; Yan-Pei Cao; Yu-Kun Lai; Ying Shan; Lin Gao  
 
 **[Real-Time CNN Training and Compression for Neural-Enhanced Adaptive Live Streaming](https://ieeexplore.ieee.org/document/10472651/)**  
@@ -67,7 +67,7 @@ Wenxi Liu; Qi Li; Weixiang Yang; Jiaxin Cai; Yuanlong Yu; Yuexin Ma; Shengfeng H
 Guobao Xiao; Jun Yu; Jiayi Ma; Deng-Ping Fan; Ling Shao  
 
 **[Generative Variational-Contrastive Learning for Self-Supervised Point Cloud Representation](https://ieeexplore.ieee.org/document/10475594/)**  
-**用于自监督点云表示的生成变分对比学习**  
+**[用于自监督点云表示的生成变分对比学习](https://mp.weixin.qq.com/s/PntftMmuYE7TTMl7LhrTRQ)**  
 Bohua Wang; Zhiqiang Tian; Aixue Ye; Feng Wen; Shaoyi Du; Yue Gao  
 
 **[Multi-Label Conditional Generation From Pre-Trained Models](https://ieeexplore.ieee.org/document/10480286/)**  

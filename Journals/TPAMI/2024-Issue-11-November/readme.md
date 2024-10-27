@@ -11,15 +11,15 @@ Lizhi Wang; Lingen Li; Weitao Song; Lei Zhang; Zhiwei Xiong; Hua Huang
 Zongsheng Yue; Hongwei Yong; Qian Zhao; Lei Zhang; Deyu Meng; Kwan-Yee K. Wong  
 
 **[A Closed-Form, Pairwise Solution to Local Non-Rigid Structure-From-Motion](https://ieeexplore.ieee.org/document/10492858/)**  
-**局部非刚性运动恢复结构的封闭形式、成对解决方案**  
+**[局部非刚性运动恢复结构的封闭形式、成对解决方案](https://mp.weixin.qq.com/s/aeT8jW3qqHK_pdPO8CQ1Mw)**  
 Shaifali Parashar; Yuxuan Long; Mathieu Salzmann; Pascal Fua  
 
 **[Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Beyond](https://ieeexplore.ieee.org/document/10541091/)**  
-**Flare7K++：混合合成与真实数据集用于夜间眩光去除及其它应用**  
+**[Flare7K++：混合合成与真实数据集用于夜间眩光去除及其它应用](https://mp.weixin.qq.com/s/LDRfVHy4oabemmdNRncjvg)**  
 Yuekun Dai; Chongyi Li; Shangchen Zhou; Ruicheng Feng; Yihang Luo; Chen Change Loy  
 
 **[Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models](https://ieeexplore.ieee.org/document/10499199/)**  
-**通过设计简约视频质量模型对视频质量数据集的分析**  
+**[通过设计简约视频质量模型对视频质量数据集的分析](https://mp.weixin.qq.com/s/Y1675g2e_WXK2O-wUc9N1w)**  
 Wei Sun; Wen Wen; Xiongkuo Min; Long Lan; Guangtao Zhai; Kede Ma  
 
 **[DeepMesh: Differentiable Iso-Surface Extraction](https://ieeexplore.ieee.org/document/10506652/)**  
@@ -39,7 +39,7 @@ Ruonan Zhang; Gaoyun An; Yiqing Hao; Dapeng Oliver Wu
 Yukun Cao; Yuan Feng; Hairu Wang; Xike Xie; S. Kevin Zhou  
 
 **[Deep Learning Methods for Calibrated Photometric Stereo and Beyond](https://ieeexplore.ieee.org/document/10497891/)**  
-**深度学习方法在标定光度立体渲染及其它领域的应用**  
+**[深度学习方法在标定光度立体渲染及其它领域的应用](https://mp.weixin.qq.com/s/JqnyLYtqJ2vDTk1dsbeUtw)**  
 Yakun Ju; Kin-Man Lam; Wuyuan Xie; Huiyu Zhou; Junyu Dong; Boxin Shi  
 
 **[IG2: Integrated Gradient on Iterative Gradient Path for Feature Attribution](https://ieeexplore.ieee.org/document/10497902/)**  
@@ -59,7 +59,7 @@ Andrea Campagner; Marília Barandas; Duarte Folgado; Hugo Gamboa; Federico Cabit
 Yingyan Li; Lue Fan; Yang Liu; Zehao Huang; Yuntao Chen; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Bridging Actions: Generate 3D Poses and Shapes In-Between Photos](https://ieeexplore.ieee.org/document/10497888/)**  
-**桥接动作：在照片之间生成3D姿态和形状**  
+**[桥接动作：在照片之间生成3D姿态和形状](https://mp.weixin.qq.com/s/Q-ORhbQBBeqHqVWsr1koFg)**  
 Wen-Li Wei; Jen-Chun Lin  
 
 **[One Fits Many: Class Confusion Loss for Versatile Domain Adaptation](https://ieeexplore.ieee.org/document/10506994/)**  
@@ -111,9 +111,9 @@ Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon J
 Nanyang Ye; Zhaoyu Zeng; Jundong Zhou; Lin Zhu; Yuxiao Duan; Yifei Wu; Junqi Wu; Haoqi Zeng; Qinying Gu; Xinbing Wang; Chenghu Zhou  
 
 **[Learning With Style: Continual Semantic Segmentation Across Tasks and Domains](https://ieeexplore.ieee.org/document/10521870/)**  
-**风格化学习：跨任务和领域的持续语义分割**  
+**[风格化学习：跨任务和领域的持续语义分割](https://mp.weixin.qq.com/s/gIS9SDrgkYtYfi2d_zBN0A)**  
 Marco Toldo; Umberto Michieli; Pietro Zanuttigh  
 
 **[Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One](https://ieeexplore.ieee.org/document/10507024/)**  
-**解耦图神经网络：同时训练多个简单的GNN而不是一个**  
+**[解耦图神经网络：同时训练多个简单的GNN而不是一个](https://mp.weixin.qq.com/s/9PcKLeL8KXSVy9-L6TyMcw)**  
 Hongyuan Zhang; Yanan Zhu; Xuelong Li  

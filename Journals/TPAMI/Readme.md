@@ -7,7 +7,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 作为计
 
 ## [Issue 10 • October-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-10-October/readme.md)
 
-## [Issue 9 • September-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-9-September/readme.md)
+## [Issue 9 • September-2024（已完结）](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-9-September/readme.md)
 
 ## [Issue 8 • August-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-8-August/readme.md)
 

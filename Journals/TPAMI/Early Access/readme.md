@@ -3,34 +3,44 @@
 
 ----
 [Illuminating Salient Contributions in Neuron Activation with Attribution Equilibrium](https://ieeexplore.ieee.org/document/10734265/)  
+**揭示神经元激活中的显著贡献：归因均衡**  
 Woo-Jeoung Nam; Seong-Whan Lee  
 
 [Ensemble-Enhanced Semi-Supervised Learning with Optimized Graph Construction for High-Dimensional Data](https://ieeexplore.ieee.org/document/10735110/)  
+**面向高维数据的优化图构建增强半监督学习**  
 Guojie Li; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen; Xuelong Li  
 
 [Universal Fingerprint Generation: Controllable Diffusion Model with Multimodal Conditions](https://ieeexplore.ieee.org/document/10734169/)  
+**通用指纹生成：可控扩散模型与多模态条件** 
 Steven A. Grosz; Anil K. Jain  
 
 [On the Distillation of Stories for Transferring Narrative Arcs in Collections of Independent Media](https://ieeexplore.ieee.org/document/10734853/)  
+**独立媒体集合中叙事弧线的迁移：故事蒸馏**  
 Dylan R. Ashley; Vincent Herrmann; Zachary Friggstad; Jürgen Schmidhuber  
 
 [Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition](https://ieeexplore.ieee.org/document/10726873/)  
+**针对说话人自适应视觉语音识别的深度神经网络提示调整**  
 Minsu Kim; Hyung-Il Kim; Yong Man Ro  
 
 
 [Intelligent Bionic Polarization Orientation Method Using Biological Neuron Model for Harsh Conditions](https://ieeexplore.ieee.org/document/10723758/)  
+**恶劣条件下使用生物神经元模型的智能仿生偏振定向方法**  
 Chong Shen; Yicheng Wu; Guanyu Qian; Xindong Wu; Huiliang Cao; Chenguang Wang; Jun Tang; Jun Liu  
 
 [Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small](https://ieeexplore.ieee.org/document/10721599/)  
+**在忆阻器交叉阵列上实现大型语言模型的能效部署：大与小的协同**  
 Zhehui Wang; Tao Luo; Cheng Liu; Weichen Liu; Rick Siow Mong Goh; Weng-Fai Wong  
 
 [Towards Data-and Knowledge-Driven AI: A Survey on Neuro-Symbolic Computing](https://ieeexplore.ieee.org/document/10721277/)  
+**走向数据和知识驱动的人工智能：神经符号计算综述**  
 Wenguan Wang; Yi Yang; Fei Wu  
 
 [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://ieeexplore.ieee.org/document/10721284/)  
+**VALOR：视觉-音频-语言全感知预训练模型与数据集**  
 Jing Liu; Sihan Chen; Xingjian He; Longteng Guo; Xinxin Zhu; Weining Wang; Jinhui Tang  
 
 [Diffusion Models for Imperceptible and Transferable Adversarial Attack](https://ieeexplore.ieee.org/document/10716799/)  
+**用于不可感知和可迁移对抗性攻击的扩散模型**  
 Jianqi Chen; Hao Chen; Keyan Chen; Yilan Zhang; Zhengxia Zou; Zhenwei Shi  
 
 [VATr++: Choose Your Words Wisely for Handwritten Text Generation](https://ieeexplore.ieee.org/document/10716806/)  

@@ -982,21 +982,27 @@ Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng
 Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi  
 
 [Consistency-Aware Anchor Pyramid Network for Crowd Localization](https://ieeexplore.ieee.org/document/10510228/)  
+**面向人群定位的一致性感知锚点金字塔网络**  
 Xinyan Liu; Guorong Li; Yuankai Qi; Zhenjun Han; Anton van den Hengel; Nicu Sebe; Ming-Hsuan Yang; Qingming Huang  
 
 [Uncertainty-boosted Robust Video Activity Anticipation](https://ieeexplore.ieee.org/document/10510333/)  
+**不确定性增强的鲁棒视频活动预测**  
 Zhaobo Qi; Shuhui Wang; Weigang Zhang; Qingming Huang  
 
 [Hierarchical Recognizing Vector Graphics and A New Chart-based Vector Graphics Dataset](https://ieeexplore.ieee.org/document/10508965/)  
+**分层识别矢量图形和一种新的基于图表的矢量图形数据集**  
 Shuguang Dou; Xinyang Jiang; Lu Liu; Lu Ying; Caihua Shan; Yifei Shen; Xuanyi Dong; Yun Wang; Dongsheng Li; Cairong Zhao  
 
 [Structure-Guided Image Completion with Image-level and Object-level Semantic Discriminators](https://ieeexplore.ieee.org/document/10508968/)  
+**结构引导的图像补全：图像级和对象级语义判别器**  
 Haitian Zheng; Zhe Lin; Jingwan Lu; Scott Cohen; Eli Shechtman; Connelly Barnes; Jianming Zhang; Qing Liu; Sohrab Amirghodsi; Yuqian Zhou; Jiebo Luo  
 
 [Appearance-based Gaze Estimation with Deep Learning: A Review and Benchmark](https://ieeexplore.ieee.org/document/10508472/)  
+**基于外观的深度学习凝视估计：综述与基准测试**  
 Yihua Cheng; Haofei Wang; Yiwei Bao; Feng Lu  
 
 [Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://ieeexplore.ieee.org/document/10508463/)  
+**通过满意机器比率建模的机器感知视频编码**  
 Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Gao  
 
 [Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment](https://ieeexplore.ieee.org/document/10508488/)  
@@ -1004,15 +1010,19 @@ Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Ga
 Hao Fei; Shengqiong Wu; Meishan Zhang; Min Zhang; Tat-Seng Chua; Shuicheng Yan  
 
 [Latency-aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)  
+**延迟感知的统一动态网络用于高效图像识别**  
 Yizeng Han; Zeyu Liu; Zhihang Yuan; Yifan Pu; Chaofei Wang; Shiji Song; Gao Huang  
 
 [Graph Denoising with Framelet Regularizers](https://ieeexplore.ieee.org/document/10508114/)  
+**基于框架正则化器的图去噪**  
 Bingxin Zhou; Ruikun Li; Xuebin Zheng; Yu Guang Wang; Junbin Gao  
 
 [Learning Graph Attentions via Replicator Dynamics](https://ieeexplore.ieee.org/document/10508103/)  
+**通过复制动态学习图注意力**  
 Bo Jiang; Ziyan Zhang; Sheng Ge; Beibei Wang; Xiao Wang; Jin Tang  
 
 [Novel Uncertainty Quantification through Perturbation-Assisted Sample Synthesis](https://ieeexplore.ieee.org/document/10508110/)  
+**通过扰动辅助样本合成的新型不确定性量化**  
 Yifei Liu; Rex Shen; Xiaotong Shen  
 
 **[NeuralRecon: Real-Time Coherent 3D Scene Reconstruction from Monocular Video](https://ieeexplore.ieee.org/document/10508111)**  

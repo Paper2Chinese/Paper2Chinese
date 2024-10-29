@@ -1023,18 +1023,23 @@ Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou
 Lorenzo Papa; Paolo Russo; Irene Amerini; Luping Zhou  
 
 [ELODI: Ensemble Logit Difference Inhibition for Positive-Congruent Training](https://ieeexplore.ieee.org/document/10507026/)  
+**ELODI：用于正向一致性训练的集成逻辑差异抑制（zty）**  
 Yue Zhao; Yantao Shen; Yuanjun Xiong; Shuo Yang; Wei Xia; Zhuowen Tu; Bernt Schiele; Stefano Soatto  
 
 [Towards Unified Robustness Against Both Backdoor and Adversarial Attacks](https://ieeexplore.ieee.org/document/10506988/)  
+**面向同时抵御后门和对抗性攻击的统一鲁棒性研究（zty）**  
 Zhenxing Niu; Yuyao Sun; Qiguang Miao; Rong Jin; Gang Hua  
 
 [Cross-Modal Hashing Method with Properties of Hamming Space: A New Perspective](https://ieeexplore.ieee.org/document/10506992/)  
+**具有汉明空间性质的跨模态哈希方法：一个新的视角（zty）**  
 Zhikai Hu; Yiu-ming Cheung; Mengke Li; Weichao Lan  
 
 [CAP-UDF: Learning Unsigned Distance Functions Progressively from Raw Point Clouds with Consistency-Aware Field Optimization](https://ieeexplore.ieee.org/document/10506631/)  
+**CAP-UDF：从原始点云中渐进学习无符号距离函数及一致性感知场优化（zty）**  
 Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han  
 
 [Sensitivity-Aware Density Estimation in Multiple Dimensions](https://ieeexplore.ieee.org/document/10497882/)  
+**多维敏感性感知密度估计（zty）**  
 Aleix Boquet-Pujadas; Pol del Aguila Pla; Michael Unser  
 
 [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://ieeexplore.ieee.org/document/10495141/)  

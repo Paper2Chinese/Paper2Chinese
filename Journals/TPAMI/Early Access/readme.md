@@ -941,6 +941,7 @@ Tingxiong Xiao; Weihang Zhang; Yuxiao Cheng; Jinli Suo
 Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe  
 
 [Evaluation metrics for intelligent generation of graphical game assets: a systematic survey-based framework](https://ieeexplore.ieee.org/document/10526444/)  
+**评估图形游戏资产智能生成的评价指标：基于系统调查的框架**  
 Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius  
 
 [EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion](https://ieeexplore.ieee.org/document/10522848/)  

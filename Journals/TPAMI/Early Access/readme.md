@@ -937,6 +937,7 @@ Kang-Zhi Liu; Chao Gan
 Tingxiong Xiao; Weihang Zhang; Yuxiao Cheng; Jinli Suo  
 
 [Artificial Intelligence and Machine Learning tools for improving Early Warning systems of volcanic eruptions: the case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)  
+**人工智能和机器学习工具用于改进火山爆发预警系统：斯特龙博利火山案例**  
 Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe  
 
 [Evaluation metrics for intelligent generation of graphical game assets: a systematic survey-based framework](https://ieeexplore.ieee.org/document/10526444/)  

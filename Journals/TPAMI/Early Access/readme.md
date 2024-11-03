@@ -945,6 +945,7 @@ Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe
 Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius  
 
 [EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion](https://ieeexplore.ieee.org/document/10522848/)  
+**EBMGC-GNF：通过好邻居融合实现高效平衡的多视图图聚类**   
 Danyang Wu; Zhenkun Yang; Jitao Lu; Jin Xu; Xiangmin Xu; Feiping Nie  
 
 [Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering](https://ieeexplore.ieee.org/document/10522958/)  

@@ -949,6 +949,7 @@ Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius
 Danyang Wu; Zhenkun Yang; Jitao Lu; Jin Xu; Xiangmin Xu; Feiping Nie  
 
 [Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering](https://ieeexplore.ieee.org/document/10522958/)  
+**将神经符号推理与变分因果推理网络相结合，实现解释性视觉问答**   
 Dizhan Xue; Shengsheng Qian; Changsheng Xu  
 
 [Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)  

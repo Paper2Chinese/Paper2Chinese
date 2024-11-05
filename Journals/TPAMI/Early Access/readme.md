@@ -952,38 +952,49 @@ Danyang Wu; Zhenkun Yang; Jitao Lu; Jin Xu; Xiangmin Xu; Feiping Nie
 **将神经符号推理与变分因果推理网络相结合，实现解释性视觉问答**   
 Dizhan Xue; Shengsheng Qian; Changsheng Xu  
 
-[Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)  
-Ruiying Lu; Ziheng Cheng; Bo Chen; Xin Yuan  
+[Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)   
+**运动感知动态图神经网络在视频压缩感知中的应用**  
+Ruiying Lu; Ziheng Cheng; Bo Chen; Xin Yuan
 
-[InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding](https://ieeexplore.ieee.org/document/10520818/)  
-Hanrong Ye; Dan Xu  
+[InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding](https://ieeexplore.ieee.org/document/10520818/)   
+**InvPT++：用于视觉场景理解的倒金字塔多任务变换器**  
+Hanrong Ye; Dan Xu
 
-[Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling](https://ieeexplore.ieee.org/document/10520832/)  
-Bo Yuan; Danpei Zhao; Zhenwei Shi  
+[Learning At a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation Via Semantic-Invariance Modelling](https://ieeexplore.ieee.org/document/10520832/)   
+**一目了然的学习：通过语义不变性建模实现可解释的数据有限持续语义分割**  
+Bo Yuan; Danpei Zhao; Zhenwei Shi
 
-[DeTAL: Open-Vocabulary Temporal Action Localization with Decoupled Networks](https://ieeexplore.ieee.org/document/10517407/)  
-Zhiheng Li; Yujie Zhong; Ran Song; Tianjiao Li; Lin Ma; Wei Zhang  
+[DeTAL: Open-Vocabulary Temporal Action Localization with Decoupled Networks](https://ieeexplore.ieee.org/document/10517407/)   
+**DeTAL：使用解耦网络的开放词汇表时序动作定位**  
+Zhiheng Li; Yujie Zhong; Ran Song; Tianjiao Li; Lin Ma; Wei Zhang
 
-[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/document/10517639/)  
-Shintaro Shiba; Yannick Klose; Yoshimitsu Aoki; Guillermo Gallego  
+[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/document/10517639/)   
+**通过对比度最大化揭示基于事件的光流、深度和自运动估计的秘密**  
+Shintaro Shiba; Yannick Klose; Yoshimitsu Aoki; Guillermo Gallego
 
-[Machine learning with tree tensor networks, CP rank constraints, and tensor dropout](https://ieeexplore.ieee.org/document/10517663/)  
-Hao Chen; Thomas Barthel  
+[Machine learning with tree tensor networks, CP rank constraints, and tensor dropout](https://ieeexplore.ieee.org/document/10517663/)   
+**树张量网络、CP秩约束和张量丢弃的机器学习**  
+Hao Chen; Thomas Barthel
 
-[Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities](https://ieeexplore.ieee.org/document/10516268/)  
-Guihong Li; Duc Hoang; Kartikeya Bhardwaj; Ming Lin; Zhangyang Wang; Radu Marculescu  
+[Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities](https://ieeexplore.ieee.org/document/10516268/)   
+**零样本神经架构搜索：挑战、解决方案和机遇**  
+Guihong Li; Duc Hoang; Kartikeya Bhardwaj; Ming Lin; Zhangyang Wang; Radu Marculescu
 
-[Searching to Exploit Memorization Effect in Deep Learning with Noisy Labels](https://ieeexplore.ieee.org/document/10509799/)  
-Hansi Yang; Quanming Yao; Bo Han; James T. Kwok  
+[Searching to Exploit Memorization Effect in Deep Learning with Noisy Labels](https://ieeexplore.ieee.org/document/10509799/)   
+**在带有噪声标签的深度学习中寻找利用记忆效应的方法**  
+Hansi Yang; Quanming Yao; Bo Han; James T. Kwok
 
-[Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10509806/)  
-Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai  
+[Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10509806/)   
+**从大型VHR遥感图像中整体学习检测桥梁**  
+Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai
 
-[A Versatile Framework for Multi-Scene Person Re-Identification](https://ieeexplore.ieee.org/document/10510353/)  
-Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng  
+[A Versatile Framework for Multi-Scene Person Re-Identification](https://ieeexplore.ieee.org/document/10510353/)   
+**多场景人员再识别的多功能框架**  
+Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng
 
-[A Review of State-of-the-Art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)  
-Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi  
+[A Review of State-of-the-Art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)   
+**最新混合精度神经网络框架综述**  
+Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi
 
 [Consistency-Aware Anchor Pyramid Network for Crowd Localization](https://ieeexplore.ieee.org/document/10510228/)  
 **面向人群定位的一致性感知锚点金字塔网络**  

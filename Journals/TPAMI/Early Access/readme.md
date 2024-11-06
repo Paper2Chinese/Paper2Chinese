@@ -1084,11 +1084,11 @@ Abdelwahed Khamis; Russell Tsuchida; Mohamed Tarek; Vivien Rolland; Lars Peterss
 Zhilu Zhang; Ruohao Wang; Hongzhi Zhang; Wangmeng Zuo  
 
 [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://ieeexplore.ieee.org/document/10461053/)  
-**NineRec：一个用于评估可迁移推荐系统的基准数据集套件(zty)**  
+**[NineRec：一个用于评估可迁移推荐系统的基准数据集套件](https://mp.weixin.qq.com/s/dutDejuh9gz883lyezutQA)**  
 Jiaqi Zhang; Yu Cheng; Yongxin Ni; Yunzhu Pan; Zheng Yuan; Junchen Fu; Youhua Li; Jie Wang; Fajie Yuan  
 
 [A General Spatial-Frequency Learning Framework for Multimodal Image Fusion](https://ieeexplore.ieee.org/document/10443302/)  
-**多模态图像融合的通用空间-频率学习框架**   
+**[多模态图像融合的通用空间-频率学习框架](https://mp.weixin.qq.com/s/z4022xWkEMBut6p4eFp4xw)**   
 Man Zhou; Jie Huang; Keyu Yan; Danfeng Hong; Xiuping Jia; Jocelyn Chanussot; Chongyi Li  
 
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://ieeexplore.ieee.org/document/10416701/)  
@@ -1104,7 +1104,7 @@ Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Ya
 Hansheng Chen; Wei Tian; Pichao Wang; Fan Wang; Lu Xiong; Hao Li  
 
 [AnyFace++: A Unified Framework for Free-style Text-to-Face Synthesis and Manipulation](https://ieeexplore.ieee.org/document/10380501/)  
-**AnyFace++：自由风格文本到人脸合成与操纵的统一框架**   
+**[AnyFace++：自由风格文本到人脸合成与操纵的统一框架](https://mp.weixin.qq.com/s/9OZQicaqm-xg8acT1n-hug)**   
 Jianxin Sun; Qiyao Deng; Qi Li; Muyi Sun; Yunfan Liu; Zhenan Sun  
 
 

@@ -35,7 +35,7 @@ Haowen Wang; Zhengping Che; Yufan Yang; Mingyuan Wang; Zhiyuan Xu; Xiuquan Qiao;
 Ruonan Zhang; Gaoyun An; Yiqing Hao; Dapeng Oliver Wu  
 
 **[Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data](https://ieeexplore.ieee.org/document/10499867/)**  
-**学习素描：流数据中项目频率估计的神经方法(zty)**  
+**[学习素描：流数据中项目频率估计的神经方法](https://mp.weixin.qq.com/s/byNUMkuhl_BIuuktaWufZg)**  
 Yukun Cao; Yuan Feng; Hairu Wang; Xike Xie; S. Kevin Zhou  
 
 **[Deep Learning Methods for Calibrated Photometric Stereo and Beyond](https://ieeexplore.ieee.org/document/10497891/)**  
@@ -43,7 +43,7 @@ Yukun Cao; Yuan Feng; Hairu Wang; Xike Xie; S. Kevin Zhou
 Yakun Ju; Kin-Man Lam; Wuyuan Xie; Huiyu Zhou; Junyu Dong; Boxin Shi  
 
 **[IG2: Integrated Gradient on Iterative Gradient Path for Feature Attribution](https://ieeexplore.ieee.org/document/10497902/)**  
-**IG2：迭代梯度路径上的集成梯度用于特征归因**  
+**[IG2：迭代梯度路径上的集成梯度用于特征归因](https://mp.weixin.qq.com/s/mpAYeZbsYfQre6vPKBtujg)**  
 Yue Zhuo; Zhiqiang Ge  
 
 **[On the Benefit of Optimal Transport for Curriculum Reinforcement Learning](https://ieeexplore.ieee.org/document/10502148/)**  
@@ -63,27 +63,27 @@ Yingyan Li; Lue Fan; Yang Liu; Zehao Huang; Yuntao Chen; Naiyan Wang; Zhaoxiang 
 Wen-Li Wei; Jen-Chun Lin  
 
 **[One Fits Many: Class Confusion Loss for Versatile Domain Adaptation](https://ieeexplore.ieee.org/document/10506994/)**  
-**万用一法：类别混淆损失在多领域自适应中的应用**  
+**[万用一法：类别混淆损失在多领域自适应中的应用](https://mp.weixin.qq.com/s/Pm3w7GgNgdJUmhSlq7U9SQ)**  
 Ying Jin; Zhangjie Cao; Ximei Wang; Jianmin Wang; Mingsheng Long  
 
 **[Fast Building Instance Proxy Reconstruction for Large Urban Scenes](https://ieeexplore.ieee.org/document/10499907/)**  
-**面向大型城市场景的快速建筑实例代理重建**  
+**[面向大型城市场景的快速建筑实例代理重建](https://mp.weixin.qq.com/s/CLXCBzLNjThKHefFwDc-7w)**  
 Jianwei Guo; Haobo Qin; Yinchang Zhou; Xin Chen; Liangliang Nan; Hui Huang  
 
 **[Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces](https://ieeexplore.ieee.org/document/10497845/)**  
-**通过寻找相关子空间对神经网络预测进行解耦解释**  
+**[通过寻找相关子空间对神经网络预测进行解耦解释](https://mp.weixin.qq.com/s/a1-MFqikq2mByubMaz0eBA)**  
 Pattarawat Chormai; Jan Herrmann; Klaus-Robert Müller; Grégoire Montavon  
 
 **[VST++: Efficient and Stronger Visual Saliency Transformer](https://ieeexplore.ieee.org/document/10497889/)**  
-**VST++：高效且强大的视觉显著性变换器**  
+**[VST++：高效且强大的视觉显著性Transformer](https://mp.weixin.qq.com/s/K7JHyhGtXIZvM167KJezKQ)**  
 Nian Liu; Ziyang Luo; Ni Zhang; Junwei Han  
 
 **[Empowering Real-World Image Super-Resolution With Flexible Interactive Modulation](https://ieeexplore.ieee.org/document/10505802/)**  
-**通过灵活的交互式调制增强现实世界图像的超分辨率能力（zty）**  
+**[通过灵活的交互式调制增强现实世界图像的超分辨率能力](https://mp.weixin.qq.com/s/gJj8lU906X99P4HF09OC_A)**  
 Chong Mou; Xintao Wang; Yanze Wu; Ying Shan; Jian Zhang  
 
 **[Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning](https://ieeexplore.ieee.org/document/10496863/)**  
-**Vote2Cap-DETR++：解耦定位与描述的端到端3D密集描述（zty）**  
+**[Vote2Cap-DETR++：解耦定位与描述的端到端3D密集描述](https://mp.weixin.qq.com/s/Xhxr98ZTbV6rN5NNAY4Rkw)**  
 Sijin Chen; Hongyuan Zhu; Mingsheng Li; Xin Chen; Peng Guo; Yinjie Lei; Gang Yu; Taihao Li; Tao Chen  
 
 **[Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition](https://ieeexplore.ieee.org/document/10497880/)**  
@@ -95,7 +95,7 @@ Yukun Zuo; Hantao Yao; Liansheng Zhuang; Changsheng Xu
 Wencheng Han; Xingping Dong; Yiyuan Zhang; David Crandall; Cheng-Zhong Xu; Jianbing Shen  
 
 **[Transferring Annotator- and Instance-Dependent Transition Matrix for Learning From Crowds](https://ieeexplore.ieee.org/document/10497879/)**  
-**迁移标注者和实例依赖的转移矩阵以实现从群体学习（zty）**  
+**[迁移标注者和实例依赖的转移矩阵以实现从群体学习](https://mp.weixin.qq.com/s/IssBvJ7uzvuqMmybq22LZQ)**  
 Shikun Li; Xiaobo Xia; Jiankang Deng; Shiming Ge; Tongliang Liu  
 
 **[Graph Convolutional Networks With Adaptive Neighborhood Awareness](https://ieeexplore.ieee.org/document/10505798/)**  
@@ -107,7 +107,7 @@ Mingjian Guang; Chungang Yan; Yuhua Xu; Junli Wang; Changjun Jiang
 Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon Jeon  
  
 **[OoD-Control: Generalizing Control in Unseen Environments](https://ieeexplore.ieee.org/document/10510598/)**  
-**OoD-Control: 在陌生环境中泛化的控制**  
+**[OoD-Control: 在陌生环境中泛化的控制](https://mp.weixin.qq.com/s/KO04UezlROz9clvtsC311g)**  
 Nanyang Ye; Zhaoyu Zeng; Jundong Zhou; Lin Zhu; Yuxiao Duan; Yifei Wu; Junqi Wu; Haoqi Zeng; Qinying Gu; Xinbing Wang; Chenghu Zhou  
 
 **[Learning With Style: Continual Semantic Segmentation Across Tasks and Domains](https://ieeexplore.ieee.org/document/10521870/)**  

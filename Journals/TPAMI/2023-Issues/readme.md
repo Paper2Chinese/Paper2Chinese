@@ -187,7 +187,7 @@ Han Xu; Jiteng Yuan; Jiayi Ma
 Minhyun Lee; Seungho Lee; Jongwuk Lee; Hyunjung Shim  
 
 [Self-Supervised Arbitrary-Scale Implicit Point Clouds Upsampling](https://ieeexplore.ieee.org/document/10159515)  
-**自监督任意尺度隐式点云上采样研究(zty)**  
+**[自监督任意尺度隐式点云上采样研究](https://mp.weixin.qq.com/s/5HoKhgCWEMlCrkQ0uck0DQ)**  
 Wenbo Zhao; Xianming Liu; Deming Zhai; Junjun Jiang; Xiangyang Ji  
 
 [SPDET: Edge-Aware Self-Supervised Panoramic Depth Estimation Transformer With Spherical Geometry](https://ieeexplore.ieee.org/document/10115484)  

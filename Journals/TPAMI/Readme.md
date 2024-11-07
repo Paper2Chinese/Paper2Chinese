@@ -3,6 +3,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 作为计
 
 ## [Early Access](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/Early%20Access/readme.md)
 
+## [Issue 12 • December-2024](https://github.com/Paper2Chinese/Paper2Chinese/tree/main/Journals/TPAMI/2024-Issue-12-December)
+
 ## [Issue 11 • November-2024](https://github.com/Paper2Chinese/Paper2Chinese/tree/main/Journals/TPAMI/2024-Issue-11-November)
 
 ## [Issue 10 • October-2024](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/2024-Issue-10-October/readme.md)

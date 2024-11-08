@@ -154,220 +154,155 @@ Aleix Alcacer; Irene Epifanio; Ximo Gual-Arnau
 Tong Li; Hansen Feng; Lizhi Wang; Lin Zhu; Zhiwei Xiong; Hua Huang  
 
 [EPMF: Efficient Perception-Aware Multi-Sensor Fusion for 3D Semantic Segmentation](https://ieeexplore.ieee.org/document/10541899/)
-Mingkui Tan;
-Zhuangwei Zhuang;
-Sitao Chen;
-Rong Li;
-Kui Jia;
-Qicheng Wang;
-Yuanqing Li
+Mingkui Tan; Zhuangwei Zhuang; Sitao Chen; Rong Li; Kui Jia; Qicheng Wang; Yuanqing Li  
 
 [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://ieeexplore.ieee.org/document/10531070/)  
-Qibin Hou;
-Cheng-Ze Lu;
-Ming-Ming Cheng;
-Jiashi Feng
+Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng  
 
 
 [Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)  
-Jiacheng Li;
-Chang Chen;
-Zhen Cheng;
-Zhiwei Xiong
+Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
 
 [Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)  
-Lilin Zhang;
-Ning Yang;
-Yanchao Sun;
-Philip S. Yu
+Lilin Zhang; Ning Yang; Yanchao Sun; Philip S. Yu  
 
 [Bridging Global Context Interactions for High-Fidelity Pluralistic Image Completion](https://ieeexplore.ieee.org/document/10535740/)  
-Chuanxia Zheng;
-Guoxian Song;
-Tat-Jen Cham;
-Jianfei Cai;
-Linjie Luo;
-Dinh Phung
-
+Chuanxia Zheng; Guoxian Song; Tat-Jen Cham; Jianfei Cai; Linjie Luo; Dinh Phung  
 
 [Robust Semi-Supervised Learning by Wisely Leveraging Open-Set Data](https://ieeexplore.ieee.org/document/10536663/)  
-Yang Yang;
-Nan Jiang;
-Yi Xu;
-De-Chuan Zhan
+Yang Yang; Nan Jiang; Yi Xu; De-Chuan Zhan  
 
 [Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/document/10536627/)  
-Qi Li;
-Weining Wang;
-Chengzhong Xu;
-Zhenan Sun;
-Ming-Hsuan Yang
+Qi Li; Weining Wang; Chengzhong Xu; Zhenan Sun; Ming-Hsuan Yang  
 
 [Towards Lightweight Super-Resolution With Dual Regression Learning](https://ieeexplore.ieee.org/document/10558846/)  
-Yong Guo;
-Mingkui Tan;
-Zeshuai Deng;
-Jingdong Wang;
-Qi Chen;
-Jiezhang Cao;
-Yanwu Xu;
-Jian Chen
-
+Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu Xu; Jian Chen  
 
 [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)  
-Lian Xu;
-Mohammed Bennamoun;
-Farid Boussaid;
-Hamid Laga;
-Wanli Ouyang;
-Dan Xu
+Lian Xu; Mohammed Bennamoun; Farid Boussaid; Hamid Laga; Wanli Ouyang; Dan Xu  
 
 [IGCN: A Provably Informative GCN Embedding for Semi-Supervised Learning With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10538043/)  
-Lin Zhang;
-Ran Song;
-Wenhao Tan;
-Lin Ma;
-Wei Zhang
+Lin Zhang; Ran Song; Wenhao Tan; Lin Ma; Wei Zhang  
 
 [Object-Centric Representation Learning for Video Scene Understanding](https://ieeexplore.ieee.org/document/10531009/)  
-Yi Zhou;
-Hui Zhang;
-Seung-In Park;
-ByungIn Yoo;
-Xiaojuan Qi
-
+Yi Zhou; Hui Zhang; Seung-In Park; ByungIn Yoo; Xiaojuan Qi  
 
 [Brain-Inspired Image Perceptual Quality Assessment Based on EEG: A QoE Perspective](https://ieeexplore.ieee.org/document/10546309/)  
-Shuzhan Hu;
-Yiping Duan;
-Xiaoming Tao;
-Geoffrey Ye Li;
-Jianhua Lu;
-Guangyi Liu;
-Zhimin Zheng;
-Chengkang Pan
+Shuzhan Hu; Yiping Duan; Xiaoming Tao; Geoffrey Ye Li; Jianhua Lu; Guangyi Liu; Zhimin Zheng; Chengkang Pan  
 
 [Operational Support Estimator Networks](https://ieeexplore.ieee.org/document/10542410/)  
-Mete Ahishali;
-Mehmet Yamac;
-Serkan Kiranyaz;
-Moncef Gabbouj
+Mete Ahishali; Mehmet Yamac; Serkan Kiranyaz; Moncef Gabbouj  
 
 [Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency](https://ieeexplore.ieee.org/document/10551495/)  
-Ziyang Song;
-Bo Yang
+Ziyang Song; Bo Yang  
 
 [Curvature Regularization for Non-Line-of-Sight Imaging From Under-Sampled Data](https://ieeexplore.ieee.org/document/10552070/)  
-Rui Ding;
-Juntian Ye;
-Qifeng Gao;
-Feihu Xu;
-Yuping Duan
+Rui Ding; Juntian Ye; Qifeng Gao; Feihu Xu; Yuping Duan  
 
 [SSR-2D: Semantic 3D Scene Reconstruction From 2D Images](https://ieeexplore.ieee.org/document/10549849/)  
-Junwen Huang;
-Alexey Artemov;
-Yujin Chen;
-Shuaifeng Zhi;
-Kai Xu;
-Matthias Nießner
-
+Junwen Huang; Alexey Artemov; Yujin Chen; Shuaifeng Zhi; Kai Xu; Matthias Nießner  
 
 [Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/document/10540667/)  
-Mingkai Zheng;
-Shan You;
-Fei Wang;
-Chen Qian;
-Changshui Zhang;
-Xiaogang Wang;
-Chang Xu
+Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Chang Xu  
 
 [Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding](https://ieeexplore.ieee.org/document/10551628/)  
-Runyu Ding;
-Jihan Yang;
-Chuhui Xue;
-Wenqing Zhang;
-Song Bai;
-Xiaojuan Qi
+Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi  
 
 [Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)  
-Bingqian Lin;
-Yunshuang Nie;
-Ziming Wei;
-Yi Zhu;
-Hang Xu;
-Shikui Ma;
-Jianzhuang Liu;
-Xiaodan Liang
-
+Bingqian Lin; Yunshuang Nie; Ziming Wei; Yi Zhu; Hang Xu; Shikui Ma; Jianzhuang Liu; Xiaodan Liang  
 
 [Behind Every Domain There is a Shift: Adapting Distortion-Aware Vision Transformers for Panoramic Semantic Segmentation](https://ieeexplore.ieee.org/document/10546335/)  
-Jiaming Zhang;
-Kailun Yang;
-Hao Shi;
-Simon Reiß;
-Kunyu Peng;
-Chaoxiang Ma;
-Haodong Fu;
-Philip H. S. Torr;
-Kaiwei Wang;
-Rainer Stiefelhagen
-
+Jiaming Zhang; Kailun Yang; Hao Shi; Simon Reiß; Kunyu Peng; Chaoxiang Ma; Haodong Fu; Philip H. S. Torr; Kaiwei Wang; Rainer Stiefelhagen  
 
 [Bilinear Models of Parts and Appearances in Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10572317/)  
-James Oldfield;
-Christos Tzelepis;
-Yannis Panagakis;
-Mihalis A. Nicolaou;
-Ioannis Patras
+James Oldfield; Christos Tzelepis; Yannis Panagakis; Mihalis A. Nicolaou; Ioannis Patras  
 
 [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/document/10546317/)  
-Shengchao Hu;
-Li Shen;
-Ya Zhang;
-Yixin Chen;
-Dacheng Tao
+Shengchao Hu; Li Shen; Ya Zhang; Yixin Chen; Dacheng Tao  
 
 [Divert More Attention to Vision-Language Object Tracking](https://ieeexplore.ieee.org/document/10547435/)  
-Mingzhe Guo;
-Zhipeng Zhang;
-Liping Jing;
-Haibin Ling;
-Heng Fan
+Mingzhe Guo; Zhipeng Zhang; Liping Jing; Haibin Ling; Heng Fan  
 
 [Wasserstein Discriminant Dictionary Learning for Graph Representation](https://ieeexplore.ieee.org/document/10549813/)  
-Tong Zhang;
-Guangbu Liu;
-Zhen Cui;
-Wei Liu;
-Wenming Zheng;
-Jian Yang
+Tong Zhang; Guangbu Liu; Zhen Cui; Wei Liu; Wenming Zheng; Jian Yang  
 
 [Zone Evaluation: Revealing Spatial Bias in Object Detection](https://ieeexplore.ieee.org/document/10547427/)  
-Zhaohui Zheng;
-Yuming Chen;
-Qibin Hou;
-Xiang Li;
-Ping Wang;
-Ming-Ming Cheng
+Zhaohui Zheng; Yuming Chen; Qibin Hou; Xiang Li; Ping Wang; Ming-Ming Cheng  
 
+[Relational Proxies: Fine-Grained Relationships as Zero-Shot Discriminators](https://ieeexplore.ieee.org/document/10547449/)  
+Abhra Chaudhuri; Massimiliano Mancini; Zeynep Akata; Anjan Dutta  
 
+[Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline](https://ieeexplore.ieee.org/document/10557672/)  
+Yangguang Li; Bin Huang; Zeren Chen; Yufeng Cui; Feng Liang; Mingzhu Shen; Fenggang Liu; Enze Xie; Lu Sheng; Wanli Ouyang; Jing Shao  
 
+[Boosting Weakly Supervised Object Localization and Segmentation With Domain Adaption](https://ieeexplore.ieee.org/document/10552078/)  
+Lei Zhu; Qi She; Qian Chen; Qiushi Ren; Yanye Lu  
 
+[DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10547294/)  
+Zhenchen Li; Xu Yang; Jiazheng Liu; Bei Hong; Yanchao Zhang; Hao Zhai; Lijun Shen; Xi Chen; Zhiyong Liu; Hua Han  
 
+[Dual Input Stream Transformer for Vertical Drift Correction in Eye-Tracking Reading Data](https://ieeexplore.ieee.org/document/10552407/)  
+Thomas M. Mercier; Marcin Budka; Martin R. Vasilev; Julie A. Kirkby; Bernhard Angele; Timothy J. Slattery  
 
+[Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation](https://ieeexplore.ieee.org/document/10552873/)  
+You-Wei Luo; Chuan-Xian Ren; Xiao-Lin Xu; Qingshan Liu  
 
+[Efficient Masked Autoencoders With Self-Consistency](https://ieeexplore.ieee.org/document/10549831/)  
+Zhaowen Li; Yousong Zhu; Zhiyang Chen; Wei Li; Rui Zhao; Chaoyang Zhao; Ming Tang; Jinqiao Wang  
 
+[Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://ieeexplore.ieee.org/document/10547422/)  
+Anni Tang; Tianyu He; Xu Tan; Jun Ling; Runnan Li; Sheng Zhao; Jiang Bian; Li Song  
 
+[Pix2HDR - A Pixel-Wise Acquisition and Deep Learning-Based Synthesis Approach for High-Speed HDR Videos](https://ieeexplore.ieee.org/document/10549830/)  
+Caixin Wang; Jie Zhang; Matthew A. Wilson; Ralph Etienne-Cummings  
 
+[Statistical Analysis of Complex Shape Graphs](https://ieeexplore.ieee.org/document/10552433/)  
+Aditi Basu Bal; Xiaoyang Guo; Tom Needham; Anuj Srivastava  
 
+[GT-CAM: Game Theory Based Class Activation Map for GCN](https://ieeexplore.ieee.org/document/10555344/)  
+Yanshan Li; Ting Shi; Zhiyuan Chen; Li Zhang; Weixin Xie  
 
+[Many-Objective Jaccard-Based Evolutionary Feature Selection for High-Dimensional Imbalanced Data Classification](https://ieeexplore.ieee.org/document/10561590/)  
+H. Saadatmand; Mohammad-R. Akbarzadeh-T  
 
+[Towards Visual-Prompt Temporal Answer Grounding in Instructional Video](https://ieeexplore.ieee.org/document/10552074/)  
+Shutao Li; Bin Li; Bin Sun; Yixuan Weng  
 
+[DebSDF: Delving Into the Details and Bias of Neural Indoor Scene Reconstruction](https://ieeexplore.ieee.org/document/10559771/)  
+Yuting Xiao; Jingwei Xu; Zehao Yu; Shenghua Gao  
 
+[Revisiting the Trade-Off Between Accuracy and Robustness via Weight Distribution of Filters](https://ieeexplore.ieee.org/document/10552117/)  
+Xingxing Wei; Shiji Zhao; Bo Li  
 
+[NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion](https://ieeexplore.ieee.org/document/10552412/)  
+Shuwei Shao; Zhongcai Pei; Weihai Chen; Peter C. Y. Chen; Zhengguo Li  
 
+[Neural Disparity Refinement](https://ieeexplore.ieee.org/document/10552115/)  
+Fabio Tosi; Filippo Aleotti; Pierluigi Zama Ramirez; Matteo Poggi; Samuele Salti; Stefano Mattoccia; Luigi Di Stefano  
 
+[CC4S: Encouraging Certainty and Consistency in Scribble-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10559264/)  
+Zhiyi Pan; Haochen Sun; Peng Jiang; Ge Li; Changhe Tu; Haibin Ling  
+
+[Fast Learning of Signed Distance Functions From Noisy Point Clouds via Noise to Noise Mapping](https://ieeexplore.ieee.org/document/10561582/)  
+Junsheng Zhou; Baorui Ma; Yu-Shen Liu; Zhizhong Han  
+
+[A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://ieeexplore.ieee.org/document/10558790/)  
+Chaoyang Zhu; Long Chen  
+
+[HOPE: A Hierarchical Perspective for Semi-Supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262/)  
+Fan Zhang; Hang Zhou; Xian-Sheng Hua; Chong Chen; Xiao Luo  
+
+[MOODv2: Masked Image Modeling for Out-of-Distribution Detection](https://ieeexplore.ieee.org/document/10553645/)  
+Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia  
+
+[Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/document/10553349/)
+Shilong Bao; Qianqian Xu; Zhiyong Yang; Yuan He; Xiaochun Cao; Qingming Huang  
+
+[Influence Function Based Second-Order Channel Pruning: Evaluating True Loss Changes for Pruning is Possible Without Retraining](https://ieeexplore.ieee.org/document/10561558/)
+Hongrong Cheng; Miao Zhang; Javen Qinfeng Shi  
+
+[GALA: Graph Diffusion-Based Alignment With Jigsaw for Source-Free Domain Adaptation](https://ieeexplore.ieee.org/document/10561561/)
+Junyu Luo; Yiyang Gu; Xiao Luo; Wei Ju; Zhiping Xiao; Yusheng Zhao; Jingyang Yuan; Ming Zhang  
 
 
 

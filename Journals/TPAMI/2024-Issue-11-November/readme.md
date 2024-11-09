@@ -3,11 +3,11 @@
 ----
 
 **[Non-Serial Quantization-Aware Deep Optics for Snapshot Hyperspectral Imaging](https://ieeexplore.ieee.org/document/10591456/)**  
-**面向快照式高光谱成像的非串行量化感知深度光学**  
+**[面向快照式高光谱成像的非串行量化感知深度光学](https://mp.weixin.qq.com/s/Kvt4RrFizJU7No_5CCazkQ)**  
 Lizhi Wang; Lingen Li; Weitao Song; Lei Zhang; Zhiwei Xiong; Hua Huang  
 
 **[Deep Variational Network Toward Blind Image Restoration](https://ieeexplore.ieee.org/document/10433564/)**  
-**面向盲图像恢复的深度变分网络**  
+**[面向盲图像恢复的深度变分网络](https://mp.weixin.qq.com/s/cWgLgJbiSFrEhB2bSkdO9A)**  
 Zongsheng Yue; Hongwei Yong; Qian Zhao; Lei Zhang; Deyu Meng; Kwan-Yee K. Wong  
 
 **[A Closed-Form, Pairwise Solution to Local Non-Rigid Structure-From-Motion](https://ieeexplore.ieee.org/document/10492858/)**  
@@ -27,7 +27,7 @@ Wei Sun; Wen Wen; Xiongkuo Min; Long Lan; Guangtao Zhai; Kede Ma
 Benoît Guillard; Edoardo Remelli; Artem Lukoianov; Pierre Yvernay; Stephan R. Richter; Timur Bagautdinov; Pierre Baque; Pascal Fua  
 
 **[RDFC-GAN: RGB-Depth Fusion CycleGAN for Indoor Depth Completion](https://ieeexplore.ieee.org/document/10497905/)**  
-**RDFC-GAN:RGB-Depth融合循环GAN用于室内深度补全(zty)**  
+**[RDFC-GAN:RGB-Depth融合循环GAN用于室内深度补全](https://mp.weixin.qq.com/s/J9v_N37KkMagKTebIG-ZwQ)**  
 Haowen Wang; Zhengping Che; Yufan Yang; Mingyuan Wang; Zhiyuan Xu; Xiuquan Qiao; Mengshi Qi; Feifei Feng; Jian Tang  
 
 **[Bridging Visual and Textual Semantics: Towards Consistency for Unbiased Scene Graph Generation](https://ieeexplore.ieee.org/document/10502321/)**  
@@ -47,7 +47,7 @@ Yakun Ju; Kin-Man Lam; Wuyuan Xie; Huiyu Zhou; Junyu Dong; Boxin Shi
 Yue Zhuo; Zhiqiang Ge  
 
 **[On the Benefit of Optimal Transport for Curriculum Reinforcement Learning](https://ieeexplore.ieee.org/document/10502148/)**  
-**最优传输在课程化强化学习中的益处**  
+**[最优传输在课程化强化学习中的益处](https://mp.weixin.qq.com/s/LXOwaUocGUiwc4Mptuvg1g)**  
 Pascal Klink; Carlo D'Eramo; Jan Peters; Joni Pajarinen  
 
 **[Ensemble Predictors: Possibilistic Combination of Conformal Predictors for Multivariate Time Series Classification](https://ieeexplore.ieee.org/document/10497903/)**  
@@ -87,11 +87,11 @@ Chong Mou; Xintao Wang; Yanze Wu; Ying Shan; Jian Zhang
 Sijin Chen; Hongyuan Zhu; Mingsheng Li; Xin Chen; Peng Guo; Yinjie Lei; Gang Yu; Taihao Li; Tao Chen  
 
 **[Hierarchical Augmentation and Distillation for Class Incremental Audio-Visual Video Recognition](https://ieeexplore.ieee.org/document/10497880/)**  
-**层次增强与蒸馏：面向类别增量音频-视觉视频识别的研究（zty）**  
+**[层次增强与蒸馏：面向类别增量音频-视觉视频识别的研究](https://mp.weixin.qq.com/s/q7Fi3hIVhGsF_Iqp0RHmEg)**  
 Yukun Zuo; Hantao Yao; Liansheng Zhuang; Changsheng Xu  
 
 **[Asymmetric Convolution: An Efficient and Generalized Method to Fuse Feature Maps in Multiple Vision Tasks](https://ieeexplore.ieee.org/document/10530458/)**  
-**非对称卷积：一种在多视觉任务中融合特征图的高效通用方法（zty）**  
+**[非对称卷积：一种在多视觉任务中融合特征图的高效通用方法](https://mp.weixin.qq.com/s/vN6-GqZ888oT3ayuWZccvg)**  
 Wencheng Han; Xingping Dong; Yiyuan Zhang; David Crandall; Cheng-Zhong Xu; Jianbing Shen  
 
 **[Transferring Annotator- and Instance-Dependent Transition Matrix for Learning From Crowds](https://ieeexplore.ieee.org/document/10497879/)**  
@@ -99,11 +99,11 @@ Wencheng Han; Xingping Dong; Yiyuan Zhang; David Crandall; Cheng-Zhong Xu; Jianb
 Shikun Li; Xiaobo Xia; Jiankang Deng; Shiming Ge; Tongliang Liu  
 
 **[Graph Convolutional Networks With Adaptive Neighborhood Awareness](https://ieeexplore.ieee.org/document/10505798/)**  
-**图卷积网络与自适应邻域感知**   
+**[图卷积网络与自适应邻域感知](https://mp.weixin.qq.com/s/mREZRdnCRtNCzQg3_aRTEg)**   
 Mingjian Guang; Chungang Yan; Yuhua Xu; Junli Wang; Changjun Jiang  
 
 **[What Makes Deviant Places?](https://ieeexplore.ieee.org/document/10508107/)**  
-**什么样的地方会成为异常之地？**   
+**[什么样的地方会成为异常之地？](https://mp.weixin.qq.com/s/7HiEProsmGetli0l9HzzQA)**   
 Jin-Hwi Park; Young-Jae Park; Ilyung Cheong; Junoh Lee; Young Eun Huh; Hae-Gon Jeon  
  
 **[OoD-Control: Generalizing Control in Unseen Environments](https://ieeexplore.ieee.org/document/10510598/)**  

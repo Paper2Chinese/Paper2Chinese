@@ -2,6 +2,51 @@
 # 379 Papers
 
 ----
+
+
+
+[Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/10746343/)  
+Yifan Zhao; Jia Li; Zeyin Song; Yonghong Tian  
+
+[Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10746353/)  
+Yipo Huang; Leida Li; Pengfei Chen; Haoning Wu; Weisi Lin; Guangming Shi  
+
+[360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10741594/)  
+Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang  
+
+[Anti-Forgetting Adaptation for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10742299/)  
+Hao Chen; Francois Bremond; Nicu Sebe; Shiliang Zhang  
+
+[OffsetNet: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](https://ieeexplore.ieee.org/document/10742444/)  
+Wei Zhang; Jiaming Li; Meng Xia; Xu Gao; Xiao Tan; Yifeng Shi; Zhenhua Huang; Guanbin Li  
+
+[Evolved Hierarchical Masking for Self-Supervised Learning](https://ieeexplore.ieee.org/document/10742293/)  
+Zhanzhou Feng; Shiliang Zhang  
+
+[The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10740789/)  
+Rui Zhang; Xingbo Du; Junchi Yan; Shihua Zhang  
+
+[Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10740558/)  
+Shilin Gu; Chao Xu; Dewen Hu; Chenping Hou  
+
+[Unsupervised Degradation Representation Learning for Unpaired Restoration of Images and Point Clouds](https://ieeexplore.ieee.org/document/10738507/)  
+Longguang Wang; Yulan Guo; Yingqian Wang; Xiaoyu Dong; Qingyu Xu; Jungang Yang; Wei An  
+
+[Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination](https://ieeexplore.ieee.org/document/10737702/)  
+Chenyi Jiang; Shidong Wang; Yang Long; Zechao Li; Haofeng Zhang; Ling Shao  
+
+[Noise Self-Regression: A New Learning Paradigm to Enhance Low-Light Images Without Task-Related Data](https://ieeexplore.ieee.org/document/10737245/)  
+Zhao Zhang; Suiyi Zhao; Xiaojie Jin; Mingliang Xu; Yi Yang; Shuicheng Yan; Meng Wang  
+
+[FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations](https://ieeexplore.ieee.org/document/10737139/)  
+Ioannis Sarridis; Christos Koutlis; Symeon Papadopoulos; Christos Diou  
+
+[PSRR-MaxpoolNMS++: Fast Non-Maximum Suppression with Discretization and Pooling](https://ieeexplore.ieee.org/document/10736991/)  
+Tianyi Zhang; Chunyun Chen; Yun Liu; Xue Geng; Mohamed M. Sabry Aly; Jie Lin  
+
+[Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10737100/)  
+Tian Zhang; Kongming Liang; Ruoyi Du; Wei Chen; Zhanyu Ma  
+
 [Illuminating Salient Contributions in Neuron Activation with Attribution Equilibrium](https://ieeexplore.ieee.org/document/10734265/)  
 **揭示神经元激活中的显著贡献：归因均衡**  
 Woo-Jeoung Nam; Seong-Whan Lee  
@@ -21,7 +66,6 @@ Dylan R. Ashley; Vincent Herrmann; Zachary Friggstad; Jürgen Schmidhuber
 [Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition](https://ieeexplore.ieee.org/document/10726873/)  
 **针对说话人自适应视觉语音识别的深度神经网络提示调整**  
 Minsu Kim; Hyung-Il Kim; Yong Man Ro  
-
 
 [Intelligent Bionic Polarization Orientation Method Using Biological Neuron Model for Harsh Conditions](https://ieeexplore.ieee.org/document/10723758/)  
 **恶劣条件下使用生物神经元模型的智能仿生偏振定向方法**  
@@ -405,4 +449,13 @@ Xiaofeng Liu; Site Li; Yubin Ge; Pengyi Ye; Jane You; Jun Lu
 Antoine Yang; Antoine Miech; Josef Sivic; Ivan Laptev; Cordelia Schmid  
 
 [FINC: An Efficient and Effective Optimization Method for Normalized Cut](https://ieeexplore.ieee.org/document/9706351/)  
-Xiaojun Chen; Zhicong Xiao; Feiping Nie; Joshua Zhexue Huang  
+Xiaojun Chen; Zhicong Xiao; Feiping Nie; Joshua Zhexue Huang 
+
+[Minimum Latency Deep Online Video Stabilization and Its Extensions](https://ieeexplore.ieee.org/document/10746630/)
+Shuaicheng Liu; Zhuofan Zhang; Zhen Liu; Ping Tan; Bing Zeng  
+
+[Recent Advances in Optimal Transport for Machine Learning](https://ieeexplore.ieee.org/document/10740308/)
+Eduardo Fernandes Montesuma; Fred Maurice Ngolè Mboula; Antoine Souloumiac  
+
+[Efficient Analysis of Overdispersed Data Using an Accurate Computation of the Dirichlet Multinomial Distribution](https://ieeexplore.ieee.org/document/10740644/)
+Sherenaz Al-Haj Baddar; Alessandro Languasco; Mauro Migliardi  

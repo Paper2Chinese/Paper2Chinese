@@ -26,7 +26,7 @@ Jiahong Fu; Qi Xie; Deyu Meng; Zongben Xu
 Risheng Liu; Zhu Liu; Jinyuan Liu; Xin Fan; Zhongxuan Luo  
 
 [Federated Learning of Generalized Linear Causal Networks](https://ieeexplore.ieee.org/document/10480288/)  
-**广义线性因果网络的联邦学习(zty)**  
+**[广义线性因果网络的联邦学习](https://mp.weixin.qq.com/s/SUzdhn60WQ5rx0UA-G_O_w)**  
 Qiaoling Ye; Arash A. Amini; Qing Zhou  
 
 [Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks](https://ieeexplore.ieee.org/document/10494561/)  

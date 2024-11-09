@@ -5,19 +5,24 @@
 [Generalized Parametric Contrastive Learning](https://ieeexplore.ieee.org/document/10130611/)              
 Jiequan Cui; Zhisheng Zhong; Zhuotao Tian; Shu Liu; Bei Yu; Jiaya Jia  
 
-[CAP-UDF: Learning Unsigned Distance Functions Progressively From Raw Point Clouds With Consistency-Aware Field Optimization](https://ieeexplore.ieee.org/document/10506631/)              
+[CAP-UDF: Learning Unsigned Distance Functions Progressively From Raw Point Clouds With Consistency-Aware Field Optimization](https://ieeexplore.ieee.org/document/10506631/)     
+**CAP-UDF：从原始点云中渐进学习无符号距离函数及一致性感知场优化（zty）**  
 Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han  
 
 [InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding](https://ieeexplore.ieee.org/document/10520818/)              
+**InvPT++：用于视觉场景理解的倒金字塔多任务Transformer**  
 Hanrong Ye; Dan Xu  
 
-[Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark](https://ieeexplore.ieee.org/document/10508472/)              
+[Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark](https://ieeexplore.ieee.org/document/10508472/)     
+**基于外观的深度学习凝视估计：综述与基准测试**  
 Yihua Cheng; Haofei Wang; Yiwei Bao; Feng Lu  
 
-[Elodi: Ensemble Logit Difference Inhibition for Positive-Congruent Training](https://ieeexplore.ieee.org/document/10507026/)               
+[Elodi: Ensemble Logit Difference Inhibition for Positive-Congruent Training](https://ieeexplore.ieee.org/document/10507026/)    
+**ELODI：用于正向一致性训练的集成逻辑差异抑制（zty）**  
 Yue Zhao; Yantao Shen; Yuanjun Xiong; Shuo Yang; Wei Xia; Zhuowen Tu; Bernt Schiele; Stefano Soatto  
 
-[NeuralRecon: Real-Time Coherent 3D Scene Reconstruction From Monocular Video](https://ieeexplore.ieee.org/document/10508111/)               
+[NeuralRecon: Real-Time Coherent 3D Scene Reconstruction From Monocular Video](https://ieeexplore.ieee.org/document/10508111/)      
+**[神经重建：从单目视频中实时连贯的3D场景重建](https://github.com/Paper2Chinese/Paper2Chinese/blob/main/Journals/TPAMI/Early%20Access/NeuralRecon%3A%20Real-Time%20Coherent%203D%20Scene%20Reconstruction%20from%20Monocular%20Video/NeuralRecon%3A%20Real-Time%20Coherent%203D%20Scene%20Reconstruction%20from%20Monocular%20Video.md)**  
 Xi Chen; Jiaming Sun; Yiming Xie; Hujun Bao; Xiaowei Zhou  
 
 [Hierarchically Recognizing Vector Graphics and A New Chart-Based Vector Graphics Dataset](https://ieeexplore.ieee.org/document/10508965/)              
@@ -26,70 +31,90 @@ Shuguang Dou; Xinyang Jiang; Lu Liu; Lu Ying; Caihua Shan; Yifei Shen; Xuanyi Do
 [A Multiple Controlled Toffoli Driven Adaptive Quantum Neural Network Model for Dynamic Workload Prediction in Cloud Environments](https://ieeexplore.ieee.org/document/10531701/)              
 Ishu Gupta; Deepika Saxena; Ashutosh Kumar Singh; Chung-Nan Lee  
 
-[Towards Unified Robustness Against Both Backdoor and Adversarial Attacks](https://ieeexplore.ieee.org/document/10506988/)              
+[Towards Unified Robustness Against Both Backdoor and Adversarial Attacks](https://ieeexplore.ieee.org/document/10506988/)        
+**面向同时抵御后门和对抗性攻击的统一鲁棒性研究（zty）**  
 Zhenxing Niu; Yuyao Sun; Qiguang Miao; Rong Jin; Gang Hua  
 
-[Graph Denoising With Framelet Regularizers](https://ieeexplore.ieee.org/document/10508114/)              
+[Graph Denoising With Framelet Regularizers](https://ieeexplore.ieee.org/document/10508114/)      
+**基于框架正则化器的图去噪**  
 Bingxin Zhou; Ruikun Li; Xuebin Zheng; Yu Guang Wang; Junbin Gao  
 
-[Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities](https://ieeexplore.ieee.org/document/10516268/)              
+[Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities](https://ieeexplore.ieee.org/document/10516268/)   
+**零样本神经架构搜索：挑战、解决方案和机遇**  
 Guihong Li; Duc Hoang; Kartikeya Bhardwaj; Ming Lin; Zhangyang Wang; Radu Marculescu  
 
-[Cross-Modal Hashing Method With Properties of Hamming Space: A New Perspective](https://ieeexplore.ieee.org/document/10506992/)              
+[Cross-Modal Hashing Method With Properties of Hamming Space: A New Perspective](https://ieeexplore.ieee.org/document/10506992/)         
+**具有汉明空间性质的跨模态哈希方法：一个新的视角（zty）**  
 Zhikai Hu; Yiu-Ming Cheung; Mengke Li; Weichao Lan  
 
-[Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://ieeexplore.ieee.org/document/10508463/)              
+[Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://ieeexplore.ieee.org/document/10508463/)      
+**通过满意机器比率建模的机器感知视频编码**  
 Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Gao  
 
-[Structure-Guided Image Completion With Image-Level and Object-Level Semantic Discriminators ](https://ieeexplore.ieee.org/document/10508968/)              
+[Structure-Guided Image Completion With Image-Level and Object-Level Semantic Discriminators ](https://ieeexplore.ieee.org/document/10508968/)  
+**结构引导的图像补全：图像级和对象级语义判别器**  
 Haitian Zheng; Zhe Lin; Jingwan Lu; Scott Cohen; Eli Shechtman; Connelly Barnes; Jianming Zhang; Qing Liu; Sohrab Amirghodsi; Yuqian Zhou; Jiebo Luo 
 
 [A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking](https://ieeexplore.ieee.org/document/10508091/)              
 Lorenzo Papa; Paolo Russo; Irene Amerini; Luping Zhou 
 
-[Enhancing Video-Language Representations With Structural Spatio-Temporal Alignment](https://ieeexplore.ieee.org/document/10508488/)              
+[Enhancing Video-Language Representations With Structural Spatio-Temporal Alignment](https://ieeexplore.ieee.org/document/10508488/)      
+**[通过结构化时空对齐增强视频-语言表示](https://mp.weixin.qq.com/s/3co1vgwitK35mUMQiJv87A)**  
 Hao Fei; Shengqiong Wu; Meishan Zhang; Min Zhang; Tat-Seng Chua; Shuicheng Yan  
 
-[Learning Graph Attentions via Replicator Dynamics](https://ieeexplore.ieee.org/document/10508103/)              
+[Learning Graph Attentions via Replicator Dynamics](https://ieeexplore.ieee.org/document/10508103/)       
+**通过复制动态学习图注意力**  
 Bo Jiang; Ziyan Zhang; Sheng Ge; Beibei Wang; Xiao Wang; Jin Tang  
 
-[DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/document/10517407/)              
+[DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/document/10517407/)        
+**DeTAL：使用解耦网络的开放词汇表时序动作定位**  
 Zhiheng Li; Yujie Zhong; Ran Song; Tianjiao Li; Lin Ma; Wei Zhang  
 
-[Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/document/10517639/)              
+[Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/document/10517639/)  
+**通过对比度最大化揭示基于事件的光流、深度和自运动估计的秘密**  
 Shintaro Shiba; Yannick Klose; Yoshimitsu Aoki; Guillermo Gallego  
 
-[Latency-Aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)              
+[Latency-Aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)      
+**延迟感知的统一动态网络用于高效图像识别**  
 Yizeng Han; Zeyu Liu; Zhihang Yuan; Yifan Pu; Chaofei Wang; Shiji Song; Gao Huang  
 
-[Uncertainty-Boosted Robust Video Activity Anticipation](https://ieeexplore.ieee.org/document/10510333/)              
+[Uncertainty-Boosted Robust Video Activity Anticipation](https://ieeexplore.ieee.org/document/10510333/)        
+**不确定性增强的鲁棒视频活动预测**  
 Zhaobo Qi; Shuhui Wang; Weigang Zhang; Qingming Huang  
 
-[A Review of State-of-the-art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)              
+[A Review of State-of-the-art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)         
+**最新混合精度神经网络框架综述**  
 Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi  
 
-[Novel Uncertainty Quantification Through Perturbation-Assisted Sample Synthesis](https://ieeexplore.ieee.org/document/10508110/)              
+[Novel Uncertainty Quantification Through Perturbation-Assisted Sample Synthesis](https://ieeexplore.ieee.org/document/10508110/)     
+**通过扰动辅助样本合成的新型不确定性量化**  
 Yifei Liu; Rex Shen; Xiaotong Shen  
 
-[Machine Learning With Tree Tensor Networks, CP Rank Constraints, and Tensor Dropout](https://ieeexplore.ieee.org/document/10517663/)              
+[Machine Learning With Tree Tensor Networks, CP Rank Constraints, and Tensor Dropout](https://ieeexplore.ieee.org/document/10517663/)    
+**树张量网络、CP秩约束和张量丢弃的机器学习**  
 Hao Chen; Thomas Barthel  
 
 [Searching to Exploit Memorization Effect in Deep Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10509799/)  
+**在带有噪声标签的深度学习中寻找利用记忆效应的方法**  
 Hansi Yang; Quanming Yao; Bo Han; James T. Kwok  
 
-[Motion-Aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)              
+[Motion-Aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)   
+**运动感知动态图神经网络在视频压缩感知中的应用**  
 Ruiying Lu; Ziheng Cheng; Bo Chen; Xin Yuan  
 
 [Deterministic Gradient-Descent Learning of Linear Regressions: Adaptive Algorithms, Convergence Analysis and Noise Compensation](https://ieeexplore.ieee.org/document/10528917/)              
 Kang-Zhi Liu; Chao Gan  
 
-[EBMGC-GNF: Efficient Balanced Multi-View Graph Clustering via Good Neighbor Fusion](https://ieeexplore.ieee.org/document/10522848/)              
+[EBMGC-GNF: Efficient Balanced Multi-View Graph Clustering via Good Neighbor Fusion](https://ieeexplore.ieee.org/document/10522848/)     
+**EBMGC-GNF：通过好邻居融合实现高效平衡的多视图图聚类**   
 Danyang Wu; Zhenkun Yang; Jitao Lu; Jin Xu; Xiangmin Xu; Feiping Nie  
 
 [Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering](https://ieeexplore.ieee.org/document/10522958/)              
+**将神经符号推理与变分因果推理网络相结合，实现解释性视觉问答**   
 Dizhan Xue; Shengsheng Qian; Changsheng Xu  
 
 [Learning at a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation via Semantic-Invariance Modelling](https://ieeexplore.ieee.org/document/10520832/)              
+**一目了然的学习：通过语义不变性建模实现可解释的数据有限持续语义分割**  
 Bo Yuan; Danpei Zhao; Zhenwei Shi  
 
 [HOPE: High-Order Polynomial Expansion of Black-Box Neural Networks](https://ieeexplore.ieee.org/document/10528900/)              
@@ -101,13 +126,15 @@ Zijin Du; Jianqing Liang; Jiye Liang; Kaixuan Yao; Feilong Cao
 [MGNR: A Multi-Granularity Neighbor Relationship and Its Application in KNN Classification and Clustering Methods](https://ieeexplore.ieee.org/document/10530064/)              
 Jiang Xie; Xuexin Xiang; Shuyin Xia; Lian Jiang; Guoyin Wang; Xinbo Gao  
 
-[Artificial Intelligence and Machine Learning Tools for Improving Early Warning Systems of Volcanic Eruptions: The Case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)              
+[Artificial Intelligence and Machine Learning Tools for Improving Early Warning Systems of Volcanic Eruptions: The Case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)       
+**人工智能和机器学习工具用于改进火山爆发预警系统：斯特龙博利火山案例**  
 Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe  
 
 [Measurement Guidance in Diffusion Models: Insight from Medical Image Synthesis](https://ieeexplore.ieee.org/document/10530514/)              
 Yimin Luo; Qinyu Yang; Yuheng Fan; Haikun Qi; Menghan Xia  
 
 [Evaluation Metrics for Intelligent Generation of Graphical Game Assets: A Systematic Survey-Based Framework](https://ieeexplore.ieee.org/document/10526444/)  
+**评估图形游戏资产智能生成的评价指标：基于系统调查的框架**  
 Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius  
 
 [RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation](https://ieeexplore.ieee.org/document/10531674/)  
@@ -121,10 +148,6 @@ Ruibing Hou; Hong Chang; Bingpeng Ma; Shiguang Shan; Xilin Chen
 
 [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://ieeexplore.ieee.org/document/10530374/)              
 Xinyu Lin; Yingjie Zhou; Yipeng Liu; Ce Zhu  
-
-[HC22L: Hybrid and Cooperative Contrastive Learning for Cross-Lingual Spoken Language Understanding](https://ieeexplore.ieee.org/document/10534816/)              
-Bowen Xing; Ivor W. Tsang  
-
 
 [Self-Supervised 3D Scene Flow Estimation and Motion Prediction Using Local Rigidity Prior](https://ieeexplore.ieee.org/document/10530455/)              
 Ruibo Li; Chi Zhang; Zhe Wang; Chunhua Shen; Guosheng Lin  
@@ -158,7 +181,6 @@ Mingkui Tan; Zhuangwei Zhuang; Sitao Chen; Rong Li; Kui Jia; Qicheng Wang; Yuanq
 
 [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://ieeexplore.ieee.org/document/10531070/)              
 Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng  
-
 
 [Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)              
 Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
@@ -611,6 +633,7 @@ Fei Xie; Wankou Yang; Chunyu Wang; Lei Chu; Yue Cao; Chao Ma; Wenjun Zeng
 Nayu Liu; Kaiwen Wei; Yong Yang; Jianhua Tao; Xian Sun; Fanglong Yao; Hongfeng Yu; Li Jin; Zhao Lv; Cunhang Fan  
 
 [Gaseous Object Detection](https://ieeexplore.ieee.org/document/10648775/)  
+**气体物体检测**  
 Kailai Zhou; Yibo Wang; Tao Lv; Qiu Shen; Xun Cao  
 
 [Fast-Vid2Vid++: Spatial-Temporal Distillation for Real-Time Video-to-Video Synthesis](https://ieeexplore.ieee.org/document/10652893/)  
@@ -760,7 +783,8 @@ Jian-Nan Su; Guodong Fan; Min Gan; Guang-Yong Chen; Wenzhong Guo; C. L. Philip C
 [Optical Flow as Spatial-Temporal Attention Learners](https://ieeexplore.ieee.org/document/10705000/)              
 Yawen Lu; Cheng Han; Qifan Wang; Heng Fan; Zhaodan Kong; Dongfang Liu; Yingjie Chen  
 
-[Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10509806/)              
+[Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10509806/)    
+**从大型VHR遥感图像中整体学习检测桥梁**  
 Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai  
 
 [3D Snapshot: Invertible Embedding of 3D Neural Representations in a Single Image](https://ieeexplore.ieee.org/document/10552101/)              

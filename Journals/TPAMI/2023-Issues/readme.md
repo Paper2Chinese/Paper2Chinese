@@ -179,7 +179,7 @@ Tianmeng Hu; Biao Luo; Chunhua Yang; Tingwen Huang
 Fang Wan; Qixiang Ye; Tianning Yuan; Songcen Xu; Jianzhuang Liu; Xiangyang Ji  
 
 [MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion](https://ieeexplore.ieee.org/document/10145843)  
-**MURF：相互增强的多模态图像配准与融合(zty)**  
+**[MURF：相互增强的多模态图像配准与融合](https://mp.weixin.qq.com/s/rJg-HC0mNKhzgOSKd2bDdA)**  
 Han Xu; Jiteng Yuan; Jiayi Ma  
 
 [Saliency as Pseudo-Pixel Supervision for Weakly and Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10120949)  

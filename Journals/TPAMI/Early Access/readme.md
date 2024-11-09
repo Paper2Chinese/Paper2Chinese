@@ -351,11 +351,11 @@ Jiaqi Zhang; Yu Cheng; Yongxin Ni; Yunzhu Pan; Zheng Yuan; Junchen Fu; Youhua Li
 Man Zhou; Jie Huang; Keyu Yan; Danfeng Hong; Xiuping Jia; Jocelyn Chanussot; Chongyi Li  
 
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://ieeexplore.ieee.org/document/10416701/)  
-**Ref-NeRF: 神经辐射场的结构化视角依赖外观**   
+**[Ref-NeRF: 神经辐射场的结构化视角依赖外观](https://mp.weixin.qq.com/s/Biz1IVp38jS3hAAFeiULMA)**   
 Dor Verbin; Peter Hedman; Ben Mildenhall; Todd Zickler; Jonathan T. Barron; Pratul P. Srinivasan  
 
 [Burst Image Restoration and Enhancement](https://ieeexplore.ieee.org/document/10409532/)  
-**连拍图像恢复与增强**  
+**[连拍图像恢复与增强](https://mp.weixin.qq.com/s/rXCj347ZutHkumqTvoQ0Sg)**  
 Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Yang  
 
 [EPro-PnP: Generalized End-to-End Probabilistic Perspective-N-Points for Monocular Object Pose Estimation](https://ieeexplore.ieee.org/document/10400900/)  

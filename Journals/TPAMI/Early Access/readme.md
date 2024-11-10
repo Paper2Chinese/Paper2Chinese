@@ -112,6 +112,7 @@ Zhuo Zheng; Stefano Ermon; Dongjun Kim; Liangpei Zhang; Yanfei Zhong
 Yunhao Zou; Ying Fu; Tsuyoshi Takatani; Yinqiang Zheng  
 
 [Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection](https://ieeexplore.ieee.org/document/10711208/)  
+**像素就是你所需要的一切：用于显着目标检测的对抗性时空集成主动学习**   
 Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia; Chenglizhao Chen; Aimin Hao; Shuo Li  
 
 [Latent Diffusion Enhanced Rectangle Transformer for Hyperspectral Image Restoration](https://ieeexplore.ieee.org/document/10713101/)  

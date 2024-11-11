@@ -292,18 +292,23 @@ Xudong Pan; Mi Zhang; Yifan Yan; Shengyao Zhang; Min Yang
 Yan Huang; Yuming Wang; Yunan Zeng; Junshi Huang; Zhenhua Chai; Liang Wang  
 
 [Human-Centric Transformer for Domain Adaptive Action Recognition](https://ieeexplore.ieee.org/document/10599825/)  
+**以人为中心的Transformer：用于领域自适应动作识别（zty）**  
 Kun-Yu Lin; Jiaming Zhou; Wei-Shi Zheng  
 
 [The effects of experiment duration and supertrial analysis on EEG classification methods](https://ieeexplore.ieee.org/document/10592658/)  
+**实验时长与超试验分析对脑电图分类方法的影响（zty）**  
 Simone Palazzo; Concetto Spampinato; Isaak Kavasidis; Daniela Giordano; Joseph Schmidt; Mubarak Shah  
 
 [Single-Frame Supervision for Spatio-Temporal Video Grounding](https://ieeexplore.ieee.org/document/10559975/)  
+**单帧监督用于时空视频定位（zty）**  
 Kun Liu; Mengxue Qu; Yang Liu; Yunchao Wei; Wenming Zhe; Yao Zhao; Wu Liu  
 
 [UniDetector: Towards Universal Object Detection with Heterogeneous Supervision](https://ieeexplore.ieee.org/document/10552883/)  
+**UniDetector：面向异构监督的通用目标检测（zty）**  
 Zhenyu Wang; Yali Li; Xi Chen; Ser-Nam Lim; Antonio Torralba; Hengshuang Zhao; Shengjin Wang  
 
 [PoseScript: Linking 3D Human Poses and Natural Language](https://ieeexplore.ieee.org/document/10542395/)  
+**PoseScript：将三维人体姿态与自然语言相链接（zty）**  
 Ginger Delmas; Philippe Weinzaepfel; Thomas Lucas; Francesc Moreno-Noguer; Grégory Rogez  
 
 [HC2L: Hybrid and Cooperative Contrastive Learning for Cross-lingual Spoken Language Understanding](https://ieeexplore.ieee.org/document/10534816/)  

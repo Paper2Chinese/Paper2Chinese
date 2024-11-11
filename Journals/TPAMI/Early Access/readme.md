@@ -116,6 +116,7 @@ Yunhao Zou; Ying Fu; Tsuyoshi Takatani; Yinqiang Zheng
 Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia; Chenglizhao Chen; Aimin Hao; Shuo Li  
 
 [Latent Diffusion Enhanced Rectangle Transformer for Hyperspectral Image Restoration](https://ieeexplore.ieee.org/document/10713101/)  
+**用于高光谱图像恢复的潜扩散增强矩形Transformer**   
 Miaoyu Li; Ying Fu; Tao Zhang; Ji Liu; Dejing Dou; Chenggang Yan; Yulun Zhang  
 
 [Understanding Episode Hardness in Few-Shot Learning](https://ieeexplore.ieee.org/document/10707331/)  

@@ -117,20 +117,24 @@ Dizhan Xue; Shengsheng Qian; Changsheng Xu
 **一目了然的学习：通过语义不变性建模实现可解释的数据有限持续语义分割**  
 Bo Yuan; Danpei Zhao; Zhenwei Shi  
 
-[HOPE: High-Order Polynomial Expansion of Black-Box Neural Networks](https://ieeexplore.ieee.org/document/10528900/)              
+[HOPE: High-Order Polynomial Expansion of Black-Box Neural Networks](https://ieeexplore.ieee.org/document/10528900/)       
+**HOPE：黑盒神经网络的高阶多项式展开（zty）**  
 Tingxiong Xiao; Weihang Zhang; Yuxiao Cheng; Jinli Suo  
 
-[Graph Regulation Network for Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10530076/)              
+[Graph Regulation Network for Point Cloud Segmentation](https://ieeexplore.ieee.org/document/10530076/)     
+**用于点云分割的图形调节网络（zty）**  
 Zijin Du; Jianqing Liang; Jiye Liang; Kaixuan Yao; Feilong Cao  
 
-[MGNR: A Multi-Granularity Neighbor Relationship and Its Application in KNN Classification and Clustering Methods](https://ieeexplore.ieee.org/document/10530064/)              
+[MGNR: A Multi-Granularity Neighbor Relationship and Its Application in KNN Classification and Clustering Methods](https://ieeexplore.ieee.org/document/10530064/)           
+**MGNR：一种多粒度邻居关系及其在KNN分类和聚类方法中的应用（zty）**  
 Jiang Xie; Xuexin Xiang; Shuyin Xia; Lian Jiang; Guoyin Wang; Xinbo Gao  
 
-[Artificial Intelligence and Machine Learning Tools for Improving Early Warning Systems of Volcanic Eruptions: The Case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)       
+[Artificial Intelligence and Machine Learning Tools for Improving Early Warning Systems of Volcanic Eruptions: The Case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)     
 **人工智能和机器学习工具用于改进火山爆发预警系统：斯特龙博利火山案例**  
 Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe  
 
 [Measurement Guidance in Diffusion Models: Insight from Medical Image Synthesis](https://ieeexplore.ieee.org/document/10530514/)              
+**扩散模型中的测量指导：来自医学图像合成的见解（zty）**  
 Yimin Luo; Qinyu Yang; Yuheng Fan; Haikun Qi; Menghan Xia  
 
 [Evaluation Metrics for Intelligent Generation of Graphical Game Assets: A Systematic Survey-Based Framework](https://ieeexplore.ieee.org/document/10526444/)  
@@ -138,6 +142,7 @@ Yimin Luo; Qinyu Yang; Yuheng Fan; Haikun Qi; Menghan Xia
 Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius  
 
 [RepSGG: Novel Representations of Entities and Relationships for Scene Graph Generation](https://ieeexplore.ieee.org/document/10531674/)  
+**RepSGG：用于场景图生成的实体和关系的新颖表示（zty）**  
 Hengyue Liu; Bir Bhanu  
 
 [EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training](https://ieeexplore.ieee.org/document/10530470/)              

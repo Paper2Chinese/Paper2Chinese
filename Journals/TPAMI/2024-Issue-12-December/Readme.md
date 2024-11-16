@@ -6,7 +6,7 @@
 Jiequan Cui; Zhisheng Zhong; Zhuotao Tian; Shu Liu; Bei Yu; Jiaya Jia  
 
 [CAP-UDF: Learning Unsigned Distance Functions Progressively From Raw Point Clouds With Consistency-Aware Field Optimization](https://ieeexplore.ieee.org/document/10506631/)     
-**CAP-UDF：从原始点云中渐进学习无符号距离函数及一致性感知场优化（zty）**  
+**[CAP-UDF：从原始点云中渐进学习无符号距离函数及一致性感知场优化](https://mp.weixin.qq.com/s/u1KO4vNgPPgez96AYeNEjA)**  
 Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han  
 
 [InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding](https://ieeexplore.ieee.org/document/10520818/)              
@@ -14,7 +14,7 @@ Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han
 Hanrong Ye; Dan Xu  
 
 [Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark](https://ieeexplore.ieee.org/document/10508472/)     
-**基于外观的深度学习凝视估计：综述与基准测试**  
+**[基于外观的深度学习凝视估计：综述与基准测试](https://mp.weixin.qq.com/s/6K1bVgsWvt7W9WYRDxhGZg)**  
 Yihua Cheng; Haofei Wang; Yiwei Bao; Feng Lu  
 
 [Elodi: Ensemble Logit Difference Inhibition for Positive-Congruent Training](https://ieeexplore.ieee.org/document/10507026/)    
@@ -48,11 +48,11 @@ Guihong Li; Duc Hoang; Kartikeya Bhardwaj; Ming Lin; Zhangyang Wang; Radu Marcul
 Zhikai Hu; Yiu-Ming Cheung; Mengke Li; Weichao Lan  
 
 [Perceptual Video Coding for Machines via Satisfied Machine Ratio Modeling](https://ieeexplore.ieee.org/document/10508463/)      
-**通过满意机器比率建模的机器感知视频编码**  
+**[通过满意机器比率建模的机器感知视频编码](https://mp.weixin.qq.com/s/hz0KuDKZwhE3-2LAv_TDtw)**  
 Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Gao  
 
 [Structure-Guided Image Completion With Image-Level and Object-Level Semantic Discriminators ](https://ieeexplore.ieee.org/document/10508968/)  
-**结构引导的图像补全：图像级和对象级语义判别器**  
+**[结构引导的图像补全：图像级和对象级语义判别器](https://mp.weixin.qq.com/s/lKFRJXV5NduJQhJ82mZGHw)**  
 Haitian Zheng; Zhe Lin; Jingwan Lu; Scott Cohen; Eli Shechtman; Connelly Barnes; Jianming Zhang; Qing Liu; Sohrab Amirghodsi; Yuqian Zhou; Jiebo Luo 
 
 [A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking](https://ieeexplore.ieee.org/document/10508091/)              
@@ -63,7 +63,7 @@ Lorenzo Papa; Paolo Russo; Irene Amerini; Luping Zhou
 Hao Fei; Shengqiong Wu; Meishan Zhang; Min Zhang; Tat-Seng Chua; Shuicheng Yan  
 
 [Learning Graph Attentions via Replicator Dynamics](https://ieeexplore.ieee.org/document/10508103/)       
-**通过复制动态学习图注意力**  
+**[通过复制动态学习图注意力](https://mp.weixin.qq.com/s/1X7WRo8Nx8Wx2GeerAQYnA)**  
 Bo Jiang; Ziyan Zhang; Sheng Ge; Beibei Wang; Xiao Wang; Jin Tang  
 
 [DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/document/10517407/)        
@@ -75,11 +75,11 @@ Zhiheng Li; Yujie Zhong; Ran Song; Tianjiao Li; Lin Ma; Wei Zhang
 Shintaro Shiba; Yannick Klose; Yoshimitsu Aoki; Guillermo Gallego  
 
 [Latency-Aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)      
-**延迟感知的统一动态网络用于高效图像识别**  
+**[延迟感知的统一动态网络用于高效图像识别](https://mp.weixin.qq.com/s/UOqUThse46D01CIFe1No8Q)**  
 Yizeng Han; Zeyu Liu; Zhihang Yuan; Yifan Pu; Chaofei Wang; Shiji Song; Gao Huang  
 
 [Uncertainty-Boosted Robust Video Activity Anticipation](https://ieeexplore.ieee.org/document/10510333/)        
-**不确定性增强的鲁棒视频活动预测**  
+**[不确定性增强的鲁棒视频活动预测](https://mp.weixin.qq.com/s/7yk0kQ3RS-Yom9BeKhTHgA)**  
 Zhaobo Qi; Shuhui Wang; Weigang Zhang; Qingming Huang  
 
 [A Review of State-of-the-art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)         
@@ -87,7 +87,7 @@ Zhaobo Qi; Shuhui Wang; Weigang Zhang; Qingming Huang
 Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi  
 
 [Novel Uncertainty Quantification Through Perturbation-Assisted Sample Synthesis](https://ieeexplore.ieee.org/document/10508110/)     
-**通过扰动辅助样本合成的新型不确定性量化**  
+**[通过扰动辅助样本合成的新型不确定性量化](https://mp.weixin.qq.com/s/D-ixCTtyMCIBgw1Y6oEfAQ)**  
 Yifei Liu; Rex Shen; Xiaotong Shen  
 
 [Machine Learning With Tree Tensor Networks, CP Rank Constraints, and Tensor Dropout](https://ieeexplore.ieee.org/document/10517663/)    

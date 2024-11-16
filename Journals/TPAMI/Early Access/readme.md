@@ -326,19 +326,19 @@ Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng
 Xinyan Liu; Guorong Li; Yuankai Qi; Zhenjun Han; Anton van den Hengel; Nicu Sebe; Ming-Hsuan Yang; Qingming Huang  
 
 [Hierarchical Recognizing Vector Graphics and A New Chart-based Vector Graphics Dataset](https://ieeexplore.ieee.org/document/10508965/)  
-**分层识别矢量图形和一种新的基于图表的矢量图形数据集**  
+**[分层识别矢量图形和一种新的基于图表的矢量图形数据集](https://mp.weixin.qq.com/s/BRp6evcEZ-Xts1lpUl4yrg)**  
 Shuguang Dou; Xinyang Jiang; Lu Liu; Lu Ying; Caihua Shan; Yifei Shen; Xuanyi Dong; Yun Wang; Dongsheng Li; Cairong Zhao  
 
 [Sensitivity-Aware Density Estimation in Multiple Dimensions](https://ieeexplore.ieee.org/document/10497882/)  
-**多维敏感性感知密度估计（zty）**  
+**[多维敏感性感知密度估计](https://mp.weixin.qq.com/s/uX5I3ukO9HtZVTxOXkjC5A)**  
 Aleix Boquet-Pujadas; Pol del Aguila Pla; Michael Unser  
 
 [ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments](https://ieeexplore.ieee.org/document/10495141/)  
-**ETPNav：连续环境中视觉语言导航的进化拓扑规划(zty)**  
+**[ETPNav：连续环境中视觉语言导航的进化拓扑规划](https://mp.weixin.qq.com/s/3GhSmTLUiFOHXlpOY9m7Jw)**  
 Dong An; Hanqing Wang; Wenguan Wang; Zun Wang; Yan Huang; Keji He; Liang Wang  
 
 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://ieeexplore.ieee.org/document/10478788/)  
-**烘焙神经辐射场以实现实时视图合成(zty)**  
+**[烘焙神经辐射场以实现实时视图合成](https://mp.weixin.qq.com/s/6BttlEgee5dujqNXQ_n6RQ)**  
 Peter Hedman; Pratul P. Srinivasan; Ben Mildenhall; Christian Reiser; Jonathan T. Barron; Paul Debevec  
 
 [Scalable Optimal Transport Methods in Machine Learning: A Contemporary Survey](https://ieeexplore.ieee.org/document/10476763/)  
@@ -346,7 +346,7 @@ Peter Hedman; Pratul P. Srinivasan; Ben Mildenhall; Christian Reiser; Jonathan T
 Abdelwahed Khamis; Russell Tsuchida; Mohamed Tarek; Vivien Rolland; Lars Petersson  
 
 [Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations](https://ieeexplore.ieee.org/document/10476716/)  
-**基于自监督学习的现实世界超分辨率：从双重和多重缩放观测中学习(zty)**  
+**[基于自监督学习的现实世界超分辨率：从双重和多重缩放观测中学习](https://mp.weixin.qq.com/s/ZB4yNscmV1U9_E1rm9sgvg)**  
 Zhilu Zhang; Ruohao Wang; Hongzhi Zhang; Wangmeng Zuo  
 
 [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://ieeexplore.ieee.org/document/10461053/)  

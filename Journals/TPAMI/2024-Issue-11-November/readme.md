@@ -31,7 +31,7 @@ Benoît Guillard; Edoardo Remelli; Artem Lukoianov; Pierre Yvernay; Stephan R. R
 Haowen Wang; Zhengping Che; Yufan Yang; Mingyuan Wang; Zhiyuan Xu; Xiuquan Qiao; Mengshi Qi; Feifei Feng; Jian Tang  
 
 **[Bridging Visual and Textual Semantics: Towards Consistency for Unbiased Scene Graph Generation](https://ieeexplore.ieee.org/document/10502321/)**  
-**桥接视觉与文本语义：迈向无偏见场景图生成的一致性(zty)**  
+**[桥接视觉与文本语义：迈向无偏见场景图生成的一致性](https://mp.weixin.qq.com/s/iEMHEqbi9tddsLi1uKdE_g)**  
 Ruonan Zhang; Gaoyun An; Yiqing Hao; Dapeng Oliver Wu  
 
 **[Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data](https://ieeexplore.ieee.org/document/10499867/)**  

@@ -139,6 +139,7 @@ Guangrong Zhao; Yiran Shen; Chenlong Zhang; Zhaoxin Shen; Yuanfeng Zhou; Hongkai
 Man Zhou; Naishan Zheng; Xuanhua He; Danfeng Hong; Jocelyn Chanussot  
 
 [GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection](https://ieeexplore.ieee.org/document/10706891/)  
+**GUPNet++：用于单目三维目标检测的几何不确定性传播网络**   
 Yan Lu; Xinzhu Ma; Lei Yang; Tianzhu Zhang; Yating Liu; Qi Chu; Tong He; Yonghui Li; Wanli Ouyang  
 
 [NeuralTPS: Learning Signed Distance Functions without Priors from Single Sparse Point Clouds](https://ieeexplore.ieee.org/document/10707197/)  

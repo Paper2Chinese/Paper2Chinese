@@ -123,6 +123,7 @@ Miaoyu Li; Ying Fu; Tao Zhang; Ji Liu; Dejing Dou; Chenggang Yan; Yulun Zhang
 Yurong Guo; Ruoyi Du; Aneeshan Sain; Kongming Liang; Yuan Dong; Yi-Zhe Song; Zhanyu Ma  
 
 [NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation](https://ieeexplore.ieee.org/document/10707178/)  
+**NVDS+：高效且通用的视频深度估计神经稳定器**   
 Yiran Wang; Min Shi; Jiaqi Li; Chaoyi Hong; Zihao Huang; Juewen Peng; Zhiguo Cao; Jianming Zhang; Ke Xian; Guosheng Lin  
 
 [FocalPose++: Focal Length and Object Pose Estimation Via Render and Compare](https://ieeexplore.ieee.org/document/10706831/)  

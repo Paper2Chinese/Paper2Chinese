@@ -145,19 +145,24 @@ Kaisei Fukaya; Damon Daylamani-Zad; Harry Agius
 **RepSGG：用于场景图生成的实体和关系的新颖表示（zty）**  
 Hengyue Liu; Bir Bhanu  
 
-[EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training](https://ieeexplore.ieee.org/document/10530470/)              
+[EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training](https://ieeexplore.ieee.org/document/10530470/)       
+**高效列车++：面向高效视觉骨干训练的泛化课程学习(zty)**  
 Yulin Wang; Yang Yue; Rui Lu;  Yizeng Han; Shiji Song; Gao Huang
 
-[Triplet Adaptation Framework for Robust Semi-Supervised Learning](https://ieeexplore.ieee.org/document/10542567/)              
+[Triplet Adaptation Framework for Robust Semi-Supervised Learning](https://ieeexplore.ieee.org/document/10542567/)            
+**三元组适应框架：用于鲁棒半监督学习的策略(zty)**  
 Ruibing Hou; Hong Chang; Bingpeng Ma; Shiguang Shan; Xilin Chen  
 
-[A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://ieeexplore.ieee.org/document/10530374/)              
+[A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://ieeexplore.ieee.org/document/10530374/)           
+**图像直线段检测与描述的全面综述：分类、比较与挑战(zty)**  
 Xinyu Lin; Yingjie Zhou; Yipeng Liu; Ce Zhu  
 
-[Self-Supervised 3D Scene Flow Estimation and Motion Prediction Using Local Rigidity Prior](https://ieeexplore.ieee.org/document/10530455/)              
+[Self-Supervised 3D Scene Flow Estimation and Motion Prediction Using Local Rigidity Prior](https://ieeexplore.ieee.org/document/10530455/)             
+**使用局部刚性先验的自监督3D场景流估计和运动预测(zty)**  
 Ruibo Li; Chi Zhang; Zhe Wang; Chunhua Shen; Guosheng Lin  
 
-[Deep Diversity-Enhanced Feature Representation of Hyperspectral Images](https://ieeexplore.ieee.org/document/10529603/)              
+[Deep Diversity-Enhanced Feature Representation of Hyperspectral Images](https://ieeexplore.ieee.org/document/10529603/)             
+**深度多样性增强的高光谱图像特征表示(zty)**  
 Jinhui Hou; Zhiyu Zhu; Junhui Hou; Hui Liu; Huanqiang Zeng; Deyu Meng  
 
 [Blind Super-Resolution via Meta-Learning and Markov Chain Monte Carlo Simulation](https://ieeexplore.ieee.org/document/10533864/)              

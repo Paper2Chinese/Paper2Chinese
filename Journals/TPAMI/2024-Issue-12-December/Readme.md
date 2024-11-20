@@ -166,18 +166,23 @@ Ruibo Li; Chi Zhang; Zhe Wang; Chunhua Shen; Guosheng Lin
 Jinhui Hou; Zhiyu Zhu; Junhui Hou; Hui Liu; Huanqiang Zeng; Deyu Meng  
 
 [Blind Super-Resolution via Meta-Learning and Markov Chain Monte Carlo Simulation](https://ieeexplore.ieee.org/document/10533864/)              
+**基于元学习和马尔可夫链蒙特卡洛模拟的盲超分辨率技术（zty）**  
 Jingyuan Xia; Zhixiong Yang; Shengxi Li; Shuanghui Zhang; Yaowen Fu; Deniz Gündüz; Xiang Li  
 
-[Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10529613/)              
+[Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10529613/)        
+**多智能体强化学习中的交互模式解耦（zty）**  
 Shunyu Liu; Jie Song; Yihe Zhou; Na Yu; Kaixuan Chen; Zunlei Feng; Mingli Song  
 
 [A Novel Image Formation Model for Descattering](https://ieeexplore.ieee.org/document/10535171/)              
+**用于去散射的新型图像形成模型（zty）**  
 Jiandong Tian; Shijun Zhou; Baojie Fan; Hui Zhang  
 
-[Interaction-Based Inductive Bias in Graph Neural Networks: Enhancing Protein-Ligand Binding Affinity Predictions From 3D Structures](https://ieeexplore.ieee.org/document/10530021/)              
+[Interaction-Based Inductive Bias in Graph Neural Networks: Enhancing Protein-Ligand Binding Affinity Predictions From 3D Structures](https://ieeexplore.ieee.org/document/10530021/)      
+**基于图神经网络的交互式归纳偏差：从3D结构中增强蛋白质-配体结合亲和力预测（zty）**  
 Ziduo Yang; Weihe Zhong; Qiujie Lv; Tiejun Dong; Guanxing Chen; Calvin Yu-Chian Chen  
 
-[CrossZoom: Simultaneous Motion Deblurring and Event Super-Resolving](https://ieeexplore.ieee.org/document/10534844/)              
+[CrossZoom: Simultaneous Motion Deblurring and Event Super-Resolving](https://ieeexplore.ieee.org/document/10534844/)      
+**CrossZoom：同步运动去模糊与事件超分辨率(zty)**  
 Chi Zhang; Xiang Zhang; Mingyuan Lin; Cheng Li; Chu He; Wen Yang; Gui-Song Xia; Lei Yu  
 
 [Biarchetype Analysis: Simultaneous Learning of Observations and Features Based on Extremes](https://ieeexplore.ieee.org/document/10530052/)              

@@ -88,6 +88,7 @@ Jing Liu; Sihan Chen; Xingjian He; Longteng Guo; Xinxin Zhu; Weining Wang; Jinhu
 Jianqi Chen; Hao Chen; Keyan Chen; Yilan Zhang; Zhengxia Zou; Zhenwei Shi  
 
 [VATr++: Choose Your Words Wisely for Handwritten Text Generation](https://ieeexplore.ieee.org/document/10716806/)  
+**VATr++: 明智选择词汇以生成手写文本**   
 Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reeth; Rita Cucchiara  
 
 [V2X-ViTv2: Improved Vision Transformers for Vehicle-to-Everything Cooperative Perception](https://ieeexplore.ieee.org/document/10715696/)  

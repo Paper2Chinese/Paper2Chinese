@@ -91,6 +91,7 @@ Jianqi Chen; Hao Chen; Keyan Chen; Yilan Zhang; Zhengxia Zou; Zhenwei Shi
 Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reeth; Rita Cucchiara  
 
 [V2X-ViTv2: Improved Vision Transformers for Vehicle-to-Everything Cooperative Perception](https://ieeexplore.ieee.org/document/10715696/)  
+**V2X-ViTv2: 改进的视觉Transformer用于车联网协同感知**   
 Runsheng Xu; Chia-Ju Chen; Zhengzhong Tu; Ming-Hsuan Yang  
 
 [ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations](https://ieeexplore.ieee.org/document/10716289/)  

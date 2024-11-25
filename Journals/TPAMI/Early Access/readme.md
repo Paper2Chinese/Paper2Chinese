@@ -100,6 +100,7 @@ Runsheng Xu; Chia-Ju Chen; Zhengzhong Tu; Ming-Hsuan Yang
 Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang  
 
 [Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement](https://ieeexplore.ieee.org/document/10713917/)  
+**快速基于窗口的事件去噪与时空相关性增强**   
 Huachen Fang; Jinjian Wu; Qibin Hou; Weisheng Dong; Guangming Shi  
 
 [Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation](https://ieeexplore.ieee.org/document/10713849/)  

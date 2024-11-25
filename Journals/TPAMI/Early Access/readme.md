@@ -96,6 +96,7 @@ Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reet
 Runsheng Xu; Chia-Ju Chen; Zhengzhong Tu; Ming-Hsuan Yang  
 
 [ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations](https://ieeexplore.ieee.org/document/10716289/)  
+**ImFace++: 一个复杂的非线性3D可变形人脸模型，具有隐式神经表示**   
 Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang  
 
 [Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement](https://ieeexplore.ieee.org/document/10713917/)  

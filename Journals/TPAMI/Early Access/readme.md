@@ -104,6 +104,7 @@ Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang
 Huachen Fang; Jinjian Wu; Qibin Hou; Weisheng Dong; Guangming Shi  
 
 [Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation](https://ieeexplore.ieee.org/document/10713849/)  
+**鲁棒多模态学习与缺失模态通过参数高效适应**   
 Md Kaykobad Reza; Ashley Prater-Bennette; M. Salman Asif  
 
 [Continuous-time Object Segmentation using High Temporal Resolution Event Camera](https://ieeexplore.ieee.org/document/10713285/)  

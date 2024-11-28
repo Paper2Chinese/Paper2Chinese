@@ -185,19 +185,24 @@ Ziduo Yang; Weihe Zhong; Qiujie Lv; Tiejun Dong; Guanxing Chen; Calvin Yu-Chian 
 **CrossZoom：同步运动去模糊与事件超分辨率(zty)**  
 Chi Zhang; Xiang Zhang; Mingyuan Lin; Cheng Li; Chu He; Wen Yang; Gui-Song Xia; Lei Yu  
 
-[Biarchetype Analysis: Simultaneous Learning of Observations and Features Based on Extremes](https://ieeexplore.ieee.org/document/10530052/)              
+[Biarchetype Analysis: Simultaneous Learning of Observations and Features Based on Extremes](https://ieeexplore.ieee.org/document/10530052/)         
+**双原型分析：基于极端值的同时学习观测与特征（zty）**  
 Aleix Alcacer; Irene Epifanio; Ximo Gual-Arnau  
 
-[Stimulating Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling](https://ieeexplore.ieee.org/document/10607932/)              
+[Stimulating Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling](https://ieeexplore.ieee.org/document/10607932/)     
+**通过自适应嵌入和集成激发图像去噪的扩散模型（zty）**
 Tong Li; Hansen Feng; Lizhi Wang; Lin Zhu; Zhiwei Xiong; Hua Huang  
 
 [EPMF: Efficient Perception-Aware Multi-Sensor Fusion for 3D Semantic Segmentation](https://ieeexplore.ieee.org/document/10541899/)  
+**高效感知意识的多传感器融合方法用于三维语义分割（zty）**  
 Mingkui Tan; Zhuangwei Zhuang; Sitao Chen; Rong Li; Kui Jia; Qicheng Wang; Yuanqing Li  
 
-[Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://ieeexplore.ieee.org/document/10531070/)              
+[Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://ieeexplore.ieee.org/document/10531070/)             
+**用于视觉识别的简单Transformer风格的卷积网络（zty）**  
 Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng  
 
-[Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)              
+[Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)        
+**迈向LUT的DNN：使用多个查找表学习高效图像恢复（zty）**  
 Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
 
 [Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)              

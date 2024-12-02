@@ -161,6 +161,7 @@ Olga Veksler; Yuri Boykov
 Inbal Kom Betzer; Roi Ronen; Vadim Holodovsky; Yoav Y. Schechner; Ilan Koren  
 
 [Tensor Coupled Learning of Incomplete Longitudinal Features and Labels for Clinical Score Regression](https://ieeexplore.ieee.org/document/10700983/)  
+**张量耦合学习不完整纵向特征和标签用于临床评分回归**   
 Qing Xiao; Guiying Liu; Qianjin Feng; Yu Zhang; Zhenyuan Ning  
 
 [Medical Federated Model with Mixture of Personalized and Shared Components](https://ieeexplore.ieee.org/document/10697408/)  

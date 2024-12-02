@@ -163,6 +163,7 @@ Inbal Kom Betzer; Roi Ronen; Vadim Holodovsky; Yoav Y. Schechner; Ilan Koren
 Qing Xiao; Guiying Liu; Qianjin Feng; Yu Zhang; Zhenyuan Ning  
 
 [Medical Federated Model with Mixture of Personalized and Shared Components](https://ieeexplore.ieee.org/document/10697408/)  
+**医疗联合模型：个性化与共享组件的混合**   
 Yawei Zhao; Qinghe Liu; Pan Liu; Xinwang Liu; Kunlun He  
 
 [Dynamic Routing and Knowledge Re-Learning for Data-Free Black-Box Attack](https://ieeexplore.ieee.org/document/10697391/)  

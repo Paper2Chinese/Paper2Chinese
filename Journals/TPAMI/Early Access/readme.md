@@ -171,6 +171,7 @@ Yawei Zhao; Qinghe Liu; Pan Liu; Xinwang Liu; Kunlun He
 Xuelin Qian; Wenxuan Wang; Yu-Gang Jiang; Xiangyang Xue; Yanwei Fu  
 
 [Symbolic Visual Reinforcement Learning: A Scalable Framework with Object-Level Abstraction and Differentiable Expression Search](https://ieeexplore.ieee.org/document/10694733/)  
+**符号视觉强化学习：具有对象级抽象和可微表达式搜索的可扩展框架**   
 Wenqing Zheng; SP Sharan; Zhiwen Fan; Kevin Wang; Yihan Xi; Zhangyang Wang  
 
 [InfoGCN++: Learning Representation by Predicting the Future for Online Skeleton-based Action Recognition](https://ieeexplore.ieee.org/document/10694798/)  

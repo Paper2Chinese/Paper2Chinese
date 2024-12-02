@@ -157,6 +157,7 @@ Shaheer U. Saeed; Shiqi Huang; João Ramalhinho; Iani J.M.B. Gayo; Nina Montaña
 Olga Veksler; Yuri Boykov  
 
 [NeMF: Neural Microphysics Fields](https://ieeexplore.ieee.org/document/10700962/)  
+**NeMF：神经微物理场**   
 Inbal Kom Betzer; Roi Ronen; Vadim Holodovsky; Yoav Y. Schechner; Ilan Koren  
 
 [Tensor Coupled Learning of Incomplete Longitudinal Features and Labels for Clinical Score Regression](https://ieeexplore.ieee.org/document/10700983/)  

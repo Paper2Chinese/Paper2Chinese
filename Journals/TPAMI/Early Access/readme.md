@@ -261,47 +261,62 @@ Jianqiang Wang; Ruixiang Xue; Jiaxin Li; Dandan Ding; Yi Lin; Zhan Ma
 [Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation](https://ieeexplore.ieee.org/document/10681253/)  
 Hanbo Bi; Yingchao Feng; Wenhui Diao; Peijin Wang; Yongqiang Mao; Kun Fu; Hongqi Wang; Xian Sun  
 
-[A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute](https://ieeexplore.ieee.org/document/10682566/)  
-Jianqiang Wang; Ruixiang Xue; Jiaxin Li; Dandan Ding; Yi Lin; Zhan Ma  
+[A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute](https://ieeexplore.ieee.org/document/10423573/)   
+**多才多艺的点云压缩器：使用通用多尺度条件编码 —— 第二部分：属性**  
+Jianqiang Wang; Ruixiang Xue; Jiaxin Li; Dandan Ding; Yi Lin; Zhan Ma
 
-[Prototype-guided Attention Distillation for Discriminative Person Search](https://ieeexplore.ieee.org/document/10681282/)  
-Hanjae Kim; Jiyoung Lee; Kwanghoon Sohn  
+[Prototype-guided Attention Distillation for Discriminative Person Search](https://ieeexplore.ieee.org/document/10423573/)  
+**原型引导的注意力蒸馏用于区分性人员搜索**  
+Hanjae Kim; Jiyoung Lee; Kwanghoon Sohn
 
-[Optimizing Latent Variables in Integrating Transfer and Query Based Attack Framework](https://ieeexplore.ieee.org/document/10681296/)  
-Chao Li; Tingsong Jiang; Handing Wang; Wen Yao; Donghua Wang  
+[Optimizing Latent Variables in Integrating Transfer and Query Based Attack Framework](https://ieeexplore.ieee.org/document/10423573/)  
+**在集成传输和查询基础攻击框架中优化潜在变量**  
+Chao Li; Tingsong Jiang; Handing Wang; Wen Yao; Donghua Wang
 
-[Efficient Diffusion Model for Image Restoration by Residual Shifting](https://ieeexplore.ieee.org/document/10681246/)  
-Zongsheng Yue; Jianyi Wang; Chen Change Loy  
+[Efficient Diffusion Model for Image Restoration by Residual Shifting](https://ieeexplore.ieee.org/document/10423573/)  
+**通过残差偏移的高效扩散模型用于图像恢复**  
+Zongsheng Yue; Jianyi Wang; Chen Change Loy
 
-[Scene-Dependent Prediction in Latent Space for Video Anomaly Detection and Anticipation](https://ieeexplore.ieee.org/document/10680592/)  
-Congqi Cao; Hanwen Zhang; Yue Lu; Peng Wang; Yanning Zhang  
+[Scene-Dependent Prediction in Latent Space for Video Anomaly Detection and Anticipation](https://ieeexplore.ieee.org/document/10423573/)  
+**在潜在空间中的场景依赖预测用于视频异常检测和预测**  
+Congqi Cao; Hanwen Zhang; Yue Lu; Peng Wang; Yanning Zhang
 
-[Cap4Video++: Enhancing Video Understanding with Auxiliary Captions](https://ieeexplore.ieee.org/document/10670217/)  
-Wenhao Wu; Xiaohan Wang; Haipeng Luo; Jingdong Wang; Yi Yang; Wanli Ouyang  
+[Cap4Video++: Enhancing Video Understanding with Auxiliary Captions](https://ieeexplore.ieee.org/document/10423573/)  
+**Cap4Video++：通过辅助字幕增强视频理解**  
+Wenhao Wu; Xiaohan Wang; Haipeng Luo; Jingdong Wang; Yi Yang; Wanli Ouyang
 
-[Nonconvex Zeroth-Order Stochastic ADMM Methods with Lower Function Query Complexity](https://ieeexplore.ieee.org/document/10636815/)  
-Feihu Huang; Shangqian Gao; Jian Pei; Heng Huang  
+[Nonconvex Zeroth-Order Stochastic ADMM Methods with Lower Function Query Complexity](https://ieeexplore.ieee.org/document/10423573/)  
+**非凸零阶随机ADMM方法具有较低的函数查询复杂性**  
+Feihu Huang; Shangqian Gao; Jian Pei; Heng Huang
 
-[Self-Supervised Multimodal Learning: A Survey](https://ieeexplore.ieee.org/document/10630605/)  
-Yongshuo Zong; Oisin Mac Aodha; Timothy Hospedales 
+[Self-Supervised Multimodal Learning: A Survey](https://ieeexplore.ieee.org/document/10423573/)  
+**自监督多模态学习：综述**  
+Yongshuo Zong; Oisin Mac Aodha; Timothy Hospedales
 
-[MoIL: Momentum Imitation Learning for Efficient Vision-Language Adaptation](https://ieeexplore.ieee.org/document/10614742/)  
-Gen Luo; Yiyi Zhou; Minglang Huang; Tianhe Ren; Xiaoshuai Sun; Rongrong Ji  
+[MoIL: Momentum Imitation Learning for Efficient Vision-Language Adaptation](https://ieeexplore.ieee.org/document/10423573/)  
+**MoIL：动量模仿学习用于高效的视觉-语言适应**  
+Gen Luo; Yiyi Zhou; Minglang Huang; Tianhe Ren; Xiaoshuai Sun; Rongrong Ji
 
-[Neural Prompt Search](https://ieeexplore.ieee.org/document/10614881/)  
-Yuanhan Zhang; Kaiyang Zhou; Ziwei Liu  
+[Neural Prompt Search](https://ieeexplore.ieee.org/document/10423573/)  
+**神经提示搜索**  
+Yuanhan Zhang; Kaiyang Zhou; Ziwei Liu
 
-[Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://ieeexplore.ieee.org/document/10611736/)
-Kristen Grauman et al.;  
+[Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://ieeexplore.ieee.org/document/10423573/)  
+**Ego4D：在3000小时的自我中心视频中环游世界**  
+Kristen Grauman et al.;
 
-[Adaptive Neural Message Passing for Inductive Learning on Hypergraphs](https://ieeexplore.ieee.org/document/10612216/)  
-Devanshu Arya; Deepak K. Gupta; Stevan Rudinac; Marcel Worring  
+[Adaptive Neural Message Passing for Inductive Learning on Hypergraphs](https://ieeexplore.ieee.org/document/10423573/)  
+**自适应神经消息传递用于超图上的归纳学习**  
+Devanshu Arya; Deepak K. Gupta; Stevan Rudinac; Marcel Worring
 
-[Matryoshka: Exploiting the Over-Parametrization of Deep Learning Models for Covert Data Transmission](https://ieeexplore.ieee.org/document/10612241/)  
-Xudong Pan; Mi Zhang; Yifan Yan; Shengyao Zhang; Min Yang  
+[Matryoshka: Exploiting the Over-Parametrization of Deep Learning Models for Covert Data Transmission](https://ieeexplore.ieee.org/document/10423573/)  
+**Matryoshka：利用深度学习模型的过度参数化进行隐蔽数据传输**  
+Xudong Pan; Mi Zhang; Yifan Yan; Shengyao Zhang; Min Yang
 
-[Unpaired Image-text Matching via Multimodal Aligned Conceptual Knowledge](https://ieeexplore.ieee.org/document/10607962/)  
-Yan Huang; Yuming Wang; Yunan Zeng; Junshi Huang; Zhenhua Chai; Liang Wang  
+[Unpaired Image-text Matching via Multimodal Aligned Conceptual Knowledge](https://ieeexplore.ieee.org/document/10423573/)  
+**通过多模态对齐的概念知识进行非配对的图像-文本匹配**  
+Yan Huang; Yuming Wang; Yunan Zeng; Junshi Huang; Zhenhua Chai; Liang Wang
+
 
 [Human-Centric Transformer for Domain Adaptive Action Recognition](https://ieeexplore.ieee.org/document/10599825/)  
 **以人为中心的Transformer：用于领域自适应动作识别（zty）**  

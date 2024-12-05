@@ -205,19 +205,24 @@ Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng
 **迈向LUT的DNN：使用多个查找表学习高效图像恢复（zty）**  
 Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
 
-[Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)              
+[Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)    
+**无需妥协即可证明的无限制对抗训练与泛化能力（zty）**  
 Lilin Zhang; Ning Yang; Yanchao Sun; Philip S. Yu  
 
-[Bridging Global Context Interactions for High-Fidelity Pluralistic Image Completion](https://ieeexplore.ieee.org/document/10535740/)              
+[Bridging Global Context Interactions for High-Fidelity Pluralistic Image Completion](https://ieeexplore.ieee.org/document/10535740/)           
+**桥接全局上下文交互以实现高保真多元图像补全（zty）**  
 Chuanxia Zheng; Guoxian Song; Tat-Jen Cham; Jianfei Cai; Linjie Luo; Dinh Phung  
 
-[Robust Semi-Supervised Learning by Wisely Leveraging Open-Set Data](https://ieeexplore.ieee.org/document/10536663/)              
+[Robust Semi-Supervised Learning by Wisely Leveraging Open-Set Data](https://ieeexplore.ieee.org/document/10536663/)      
+**通过明智地利用开放集数据实现稳健的半监督学习（zty）**  
 Yang Yang; Nan Jiang; Yi Xu; De-Chuan Zhan  
 
-[Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/document/10536627/)              
+[Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/document/10536627/)             
+**为一次性渐进式人脸交换学习解耦表示（zty）**  
 Qi Li; Weining Wang; Chengzhong Xu; Zhenan Sun; Ming-Hsuan Yang  
 
-[Towards Lightweight Super-Resolution With Dual Regression Learning](https://ieeexplore.ieee.org/document/10558846/)              
+[Towards Lightweight Super-Resolution With Dual Regression Learning](https://ieeexplore.ieee.org/document/10558846/)     
+**通过双重回归学习实现轻量级超分辨率（zty）**  
 Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu Xu; Jian Chen  
 
 [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)              

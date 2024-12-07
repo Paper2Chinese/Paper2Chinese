@@ -239,6 +239,7 @@ Yisi Luo; Xile Zhao; Deyu Meng
 Tao Yan; Jiahui Gao; Ke Xu; Xiangjie Zhu; Hao Huang; Helong Li; Benjamin Wah; Rynson W.H. Lau  
 
 [T2TD: Text-3D Generation Model Based on Prior Knowledge Guidance](https://ieeexplore.ieee.org/document/10684147/)  
+**T2TD: 基于先验知识指导的文本到3D生成模型**   
 Weizhi Nie; Ruidong Chen; Weijie Wang; Bruno Lepri; Nicu Sebe  
 
 [When Meta-Learning Meets Online and Continual Learning: A Survey](https://ieeexplore.ieee.org/document/10684017/)  

@@ -236,6 +236,7 @@ Wei Feng; Feifan Wang; Ruize Han; Yiyang Gan; Zekun Qian; Junhui Hou; Song Wang
 Yisi Luo; Xile Zhao; Deyu Meng  
 
 [GhostingNet: A Novel Approach for Glass Surface Detection With Ghosting Cues](https://ieeexplore.ieee.org/document/10684046/)  
+**GhostingNet：一种利用重影线索进行玻璃表面检测的新方法**   
 Tao Yan; Jiahui Gao; Ke Xu; Xiangjie Zhu; Hao Huang; Helong Li; Benjamin Wah; Rynson W.H. Lau  
 
 [T2TD: Text-3D Generation Model Based on Prior Knowledge Guidance](https://ieeexplore.ieee.org/document/10684147/)  

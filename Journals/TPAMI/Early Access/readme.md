@@ -88,7 +88,7 @@ Jing Liu; Sihan Chen; Xingjian He; Longteng Guo; Xinxin Zhu; Weining Wang; Jinhu
 Jianqi Chen; Hao Chen; Keyan Chen; Yilan Zhang; Zhengxia Zou; Zhenwei Shi  
 
 [VATr++: Choose Your Words Wisely for Handwritten Text Generation](https://ieeexplore.ieee.org/document/10716806/)  
-**VATr++: 明智选择词汇以生成手写文本**   
+**[VATr++: 明智选择词汇以生成手写文本](https://mp.weixin.qq.com/s/vVA2Ff98Om09wgv8WhzZ7g)**   
 Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reeth; Rita Cucchiara  
 
 [V2X-ViTv2: Improved Vision Transformers for Vehicle-to-Everything Cooperative Perception](https://ieeexplore.ieee.org/document/10715696/)  
@@ -121,7 +121,7 @@ Yunhao Zou; Ying Fu; Tsuyoshi Takatani; Yinqiang Zheng
 Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia; Chenglizhao Chen; Aimin Hao; Shuo Li  
 
 [Latent Diffusion Enhanced Rectangle Transformer for Hyperspectral Image Restoration](https://ieeexplore.ieee.org/document/10713101/)  
-**用于高光谱图像恢复的潜扩散增强矩形Transformer**   
+**[用于高光谱图像恢复的潜扩散增强矩形Transformer](https://mp.weixin.qq.com/s/POk1nlGLvjhJ6Zg2n1tJAA)**   
 Miaoyu Li; Ying Fu; Tao Zhang; Ji Liu; Dejing Dou; Chenggang Yan; Yulun Zhang  
 
 [Understanding Episode Hardness in Few-Shot Learning](https://ieeexplore.ieee.org/document/10707331/)  
@@ -132,6 +132,7 @@ Yurong Guo; Ruoyi Du; Aneeshan Sain; Kongming Liang; Yuan Dong; Yi-Zhe Song; Zha
 Yiran Wang; Min Shi; Jiaqi Li; Chaoyi Hong; Zihao Huang; Juewen Peng; Zhiguo Cao; Jianming Zhang; Ke Xian; Guosheng Lin  
 
 [FocalPose++: Focal Length and Object Pose Estimation Via Render and Compare](https://ieeexplore.ieee.org/document/10706831/)  
+**[FocalPose++：基于渲染和比较的焦距和物体姿态估计](https://mp.weixin.qq.com/s/u1x897dcKd5xOp-PVdWv2w)**  
 Martin Cífka; Georgy Ponimatkin; Yann Labbé; Bryan Russell; Mathieu Aubry; Vladimir Petrik; Josef Sivic  
 
 [RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882/)  
@@ -144,7 +145,7 @@ Guangrong Zhao; Yiran Shen; Chenlong Zhang; Zhaoxin Shen; Yuanfeng Zhou; Hongkai
 Man Zhou; Naishan Zheng; Xuanhua He; Danfeng Hong; Jocelyn Chanussot  
 
 [GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection](https://ieeexplore.ieee.org/document/10706891/)  
-**GUPNet++：用于单目三维目标检测的几何不确定性传播网络**   
+**[GUPNet++：用于单目三维目标检测的几何不确定性传播网络](https://mp.weixin.qq.com/s/N-2T5isvJFbnB2MUTvnzcQ)**   
 Yan Lu; Xinzhu Ma; Lei Yang; Tianzhu Zhang; Yating Liu; Qi Chu; Tong He; Yonghui Li; Wanli Ouyang  
 
 [NeuralTPS: Learning Signed Distance Functions without Priors from Single Sparse Point Clouds](https://ieeexplore.ieee.org/document/10707197/)  
@@ -327,15 +328,15 @@ Kun-Yu Lin; Jiaming Zhou; Wei-Shi Zheng
 Simone Palazzo; Concetto Spampinato; Isaak Kavasidis; Daniela Giordano; Joseph Schmidt; Mubarak Shah  
 
 [Single-Frame Supervision for Spatio-Temporal Video Grounding](https://ieeexplore.ieee.org/document/10559975/)  
-**单帧监督用于时空视频定位（zty）**  
+**[单帧监督用于时空视频定位](https://mp.weixin.qq.com/s/hEafEzoI4PD2tnKA2dbVRA)**  
 Kun Liu; Mengxue Qu; Yang Liu; Yunchao Wei; Wenming Zhe; Yao Zhao; Wu Liu  
 
 [UniDetector: Towards Universal Object Detection with Heterogeneous Supervision](https://ieeexplore.ieee.org/document/10552883/)  
-**UniDetector：面向异构监督的通用目标检测（zty）**  
+**[UniDetector：面向异构监督的通用目标检测](https://mp.weixin.qq.com/s/y7_SGHy4_A06L9vVA0HoIw)**  
 Zhenyu Wang; Yali Li; Xi Chen; Ser-Nam Lim; Antonio Torralba; Hengshuang Zhao; Shengjin Wang  
 
 [PoseScript: Linking 3D Human Poses and Natural Language](https://ieeexplore.ieee.org/document/10542395/)  
-**PoseScript：将三维人体姿态与自然语言相链接（zty）**  
+**[PoseScript：将三维人体姿态与自然语言相链接](https://mp.weixin.qq.com/s/fGI4d3aiVBScOzxV0_2fUA)**  
 Ginger Delmas; Philippe Weinzaepfel; Thomas Lucas; Francesc Moreno-Noguer; Grégory Rogez  
 
 [HC2L: Hybrid and Cooperative Contrastive Learning for Cross-lingual Spoken Language Understanding](https://ieeexplore.ieee.org/document/10534816/)  
@@ -349,7 +350,7 @@ Kang-Zhi Liu; Chao Gan
 Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng
 
 [Consistency-Aware Anchor Pyramid Network for Crowd Localization](https://ieeexplore.ieee.org/document/10510228/)  
-**面向人群定位的一致性感知锚点金字塔网络**  
+**[面向人群定位的一致性感知锚点金字塔网络](https://mp.weixin.qq.com/s/CiX8RTlHG_oJXTMEpkTL6Q)**  
 Xinyan Liu; Guorong Li; Yuankai Qi; Zhenjun Han; Anton van den Hengel; Nicu Sebe; Ming-Hsuan Yang; Qingming Huang  
 
 [Hierarchical Recognizing Vector Graphics and A New Chart-based Vector Graphics Dataset](https://ieeexplore.ieee.org/document/10508965/)  
@@ -393,7 +394,7 @@ Dor Verbin; Peter Hedman; Ben Mildenhall; Todd Zickler; Jonathan T. Barron; Prat
 Akshay Dudhane; Syed Waqas Zamir; Salman Khan; Fahad Shahbaz Khan; Ming-Husan Yang  
 
 [EPro-PnP: Generalized End-to-End Probabilistic Perspective-N-Points for Monocular Object Pose Estimation](https://ieeexplore.ieee.org/document/10400900/)  
-**EPro-PnP：面向单目物体姿态估计的广义端到端概率透视n点**  
+**[EPro-PnP：面向单目物体姿态估计的广义端到端概率透视n点](https://mp.weixin.qq.com/s/1SVlaKVXNfUh9k0nY-rMZw)**  
 Hansheng Chen; Wei Tian; Pichao Wang; Fan Wang; Lu Xiong; Hao Li  
 
 [AnyFace++: A Unified Framework for Free-style Text-to-Face Synthesis and Manipulation](https://ieeexplore.ieee.org/document/10380501/)  

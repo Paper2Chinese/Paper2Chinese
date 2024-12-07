@@ -95,7 +95,7 @@ Guolei Sun; Yun Liu; Henghui Ding; Min Wu; Luc Van Gool
 Zhenshan Bing; Yuqi Yun; Kai Huang; Alois Knoll  
 
 [Efficient and Robust Point Cloud Registration via Heuristics-Guided Parameter Search](https://ieeexplore.ieee.org/document/10496861/)  
-**基于启发式引导参数搜索的高效稳健点云配准**  
+**[基于启发式引导参数搜索的高效稳健点云配准](https://mp.weixin.qq.com/s/ncOMwTl77cSwavlmXyFD-w)**  
 Tianyu Huang; Haoang Li; Liangzu Peng; Yinlong Liu; Yun-Hui Liu  
 
 [Robust Model Watermarking for Image Processing Networks via Structure Consistency](https://ieeexplore.ieee.org/document/10478663/)  

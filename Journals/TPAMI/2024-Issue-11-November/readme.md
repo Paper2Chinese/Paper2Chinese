@@ -51,11 +51,11 @@ Yue Zhuo; Zhiqiang Ge
 Pascal Klink; Carlo D'Eramo; Jan Peters; Joni Pajarinen  
 
 **[Ensemble Predictors: Possibilistic Combination of Conformal Predictors for Multivariate Time Series Classification](https://ieeexplore.ieee.org/document/10497903/)**  
-**集成预测器：多变量时间序列分类的一致性预测器的可能性组合**  
+**[集成预测器：多变量时间序列分类的一致性预测器的可能性组合](https://mp.weixin.qq.com/s/OKWVdapBbWBp6meoMVuVKA)**  
 Andrea Campagner; Marília Barandas; Duarte Folgado; Hugo Gamboa; Federico Cabitza  
 
 **[Fully Sparse Fusion for 3D Object Detection](https://ieeexplore.ieee.org/document/10506794/)**  
-**用于3D目标检测的全稀疏融合方法**  
+**[用于3D目标检测的全稀疏融合方法](https://mp.weixin.qq.com/s/6222eVjRKoen2uTrlxGqWQ)**  
 Yingyan Li; Lue Fan; Yang Liu; Zehao Huang; Yuntao Chen; Naiyan Wang; Zhaoxiang Zhang  
 
 **[Bridging Actions: Generate 3D Poses and Shapes In-Between Photos](https://ieeexplore.ieee.org/document/10497888/)**  

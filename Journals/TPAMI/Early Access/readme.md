@@ -252,6 +252,7 @@ Jaehyeon Son; Soochan Lee; Gunhee Kim
 Zhenyu Huang; Mouxing Yang; Xinyan Xiao; Peng Hu; Xi Peng  
 
 [Textureless Deformable Object Tracking with Invisible Markers](https://ieeexplore.ieee.org/document/10684001/)  
+**使用隐形标记进行无纹理可变形对象跟踪**   
 Xinyuan Li; Yu Guo; Yubei Tu; Yu Ji; Yanchen Liu; Jinwei Ye; Changxi Zheng  
 
 [HOLI-1-to-3: Transient-Enhanced Holistic Image-to-3D Generation](https://ieeexplore.ieee.org/document/10684158/)  

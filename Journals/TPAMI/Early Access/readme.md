@@ -244,6 +244,7 @@ Tao Yan; Jiahui Gao; Ke Xu; Xiangjie Zhu; Hao Huang; Helong Li; Benjamin Wah; Ry
 Weizhi Nie; Ruidong Chen; Weijie Wang; Bruno Lepri; Nicu Sebe  
 
 [When Meta-Learning Meets Online and Continual Learning: A Survey](https://ieeexplore.ieee.org/document/10684017/)  
+**当元学习遇到在线学习与持续学习：一项综述**   
 Jaehyeon Son; Soochan Lee; Gunhee Kim  
 
 [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://ieeexplore.ieee.org/document/10684058/)  

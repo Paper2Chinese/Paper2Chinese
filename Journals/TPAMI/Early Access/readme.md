@@ -248,6 +248,7 @@ Weizhi Nie; Ruidong Chen; Weijie Wang; Bruno Lepri; Nicu Sebe
 Jaehyeon Son; Soochan Lee; Gunhee Kim  
 
 [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://ieeexplore.ieee.org/document/10684058/)  
+**噪声鲁棒的视觉-语言预训练：正负学习方法**   
 Zhenyu Huang; Mouxing Yang; Xinyan Xiao; Peng Hu; Xi Peng  
 
 [Textureless Deformable Object Tracking with Invisible Markers](https://ieeexplore.ieee.org/document/10684001/)  

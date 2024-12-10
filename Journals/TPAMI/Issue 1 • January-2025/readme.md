@@ -152,6 +152,7 @@ Zhan Ma
 
 
 [A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry](https://ieeexplore.ieee.org/document/10682571/)  
+**多才多艺的点云压缩器：使用通用多尺度条件编码 —— 第二部分：属性**  
 Jianqiang Wang;
 Ruixiang Xue;
 Jiaxin Li;
@@ -161,7 +162,6 @@ Zhan Ma
 
 
 [Multi-Sensor Learning Enables Information Transfer Across Different Sensory Data and Augments Multi-Modality Imaging](https://ieeexplore.ieee.org/document/10685142/)  
-**多才多艺的点云压缩器：使用通用多尺度条件编码 —— 第二部分：属性**  
 Lingting Zhu;
 Yizheng Chen;
 Lianli Liu;

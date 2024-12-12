@@ -225,19 +225,24 @@ Qi Li; Weining Wang; Chengzhong Xu; Zhenan Sun; Ming-Hsuan Yang
 **通过双重回归学习实现轻量级超分辨率（zty）**  
 Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu Xu; Jian Chen  
 
-[MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)              
+[MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)        
+**MCTformer+：用于弱监督语义分割的多类别令牌Transformer（zty）**  
 Lian Xu; Mohammed Bennamoun; Farid Boussaid; Hamid Laga; Wanli Ouyang; Dan Xu  
 
-[IGCN: A Provably Informative GCN Embedding for Semi-Supervised Learning With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10538043/)              
+[IGCN: A Provably Informative GCN Embedding for Semi-Supervised Learning With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10538043/)  
+**IGCN：一种用于具有极其有限标签的半监督学习的可证明信息GCN嵌入（zty）**  
 Lin Zhang; Ran Song; Wenhao Tan; Lin Ma; Wei Zhang  
 
-[Object-Centric Representation Learning for Video Scene Understanding](https://ieeexplore.ieee.org/document/10531009/)              
+[Object-Centric Representation Learning for Video Scene Understanding](https://ieeexplore.ieee.org/document/10531009/)        
+**以对象为中心的表示学习在视频场景理解中的应用。（zty）**    
 Yi Zhou; Hui Zhang; Seung-In Park; ByungIn Yoo; Xiaojuan Qi  
 
-[Brain-Inspired Image Perceptual Quality Assessment Based on EEG: A QoE Perspective](https://ieeexplore.ieee.org/document/10546309/)              
+[Brain-Inspired Image Perceptual Quality Assessment Based on EEG: A QoE Perspective](https://ieeexplore.ieee.org/document/10546309/)      
+**基于脑电图的脑启发式图像感知质量评估：从质量体验的视角（zty）**  
 Shuzhan Hu; Yiping Duan; Xiaoming Tao; Geoffrey Ye Li; Jianhua Lu; Guangyi Liu; Zhimin Zheng; Chengkang Pan  
 
-[Operational Support Estimator Networks](https://ieeexplore.ieee.org/document/10542410/)              
+[Operational Support Estimator Networks](https://ieeexplore.ieee.org/document/10542410/)        
+**操作支持估计器网络（zty）**  
 Mete Ahishali; Mehmet Yamac; Serkan Kiranyaz; Moncef Gabbouj  
 
 [Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency](https://ieeexplore.ieee.org/document/10551495/)              

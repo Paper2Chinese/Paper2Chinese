@@ -486,12 +486,15 @@ Zhao Yang; Jiaqi Wang; Xubing Ye; Yansong Tang; Kai Chen; Hengshuang Zhao; Phili
 Guangyuan Zhao; Xin Shu; Renjie Zhou  
 
 [Test-time Training for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10685469/)  
+**超光谱图像超分辨率的测试时训练方法**   
 Ke Li; Luc Van Gool; Dengxin Dai  
 
 [Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion](https://ieeexplore.ieee.org/document/10685550/)  
+**Z-Splat: 相机-声呐融合的Z轴高斯喷洒**   
 Ziyuan Qu; Omkar Vengurlekar; Mohamad Qadri; Kevin Zhang; Michael Kaess; Christopher Metzler; Suren Jayasuriya; Adithya Pediredla  
 
 [Multi-sensor Learning Enables Information Transfer across Different Sensory Data and Augments Multi-modality Imaging](https://ieeexplore.ieee.org/document/10685142/)  
+**多传感器学习实现不同感官数据之间的信息传递并增强多模态成像**   
 Lingting Zhu; Yizheng Chen; Lianli Liu; Lei Xing; Lequan Yu  
 
 [Textureless Deformable Object Tracking with Invisible Markers](https://ieeexplore.ieee.org/document/10684001/)  
@@ -499,6 +502,7 @@ Lingting Zhu; Yizheng Chen; Lianli Liu; Lei Xing; Lequan Yu
 Xinyuan Li; Yu Guo; Yubei Tu; Yu Ji; Yanchen Liu; Jinwei Ye; Changxi Zheng  
 
 [HOLI-1-to-3: Transient-Enhanced Holistic Image-to-3D Generation](https://ieeexplore.ieee.org/document/10684158/)  
+**HOLI-1-to-3: 瞬态增强的全局图像到3D生成**   
 Siyuan Shen; Suan Xia; Xingyue Peng; Ziyu Wang; Yingsheng Zhu; Shiying Li; Jingyi Yu  
 
 [Cap4Video++: Enhancing Video Understanding with Auxiliary Captions](https://ieeexplore.ieee.org/document/10423573/)  

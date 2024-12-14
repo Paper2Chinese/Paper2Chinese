@@ -482,6 +482,7 @@ Inbal Kom Betzer; Roi Ronen; Vadim Holodovsky; Yoav Y. Schechner; Ilan Koren
 Zhao Yang; Jiaqi Wang; Xubing Ye; Yansong Tang; Kai Chen; Hengshuang Zhao; Philip H.S. Torr  
 
 [High-performance real-world optical computing trained by in situ gradient-based model-free optimization](https://ieeexplore.ieee.org/document/10691644/)  
+**高性能现实世界光学计算的现场梯度无模型优化训练**   
 Guangyuan Zhao; Xin Shu; Renjie Zhou  
 
 [Test-time Training for Hyperspectral Image Super-resolution](https://ieeexplore.ieee.org/document/10685469/)  

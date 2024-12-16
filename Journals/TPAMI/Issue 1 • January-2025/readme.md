@@ -290,7 +290,7 @@ Ji-Rong Wen
 
 
 [Dynamic Routing and Knowledge Re-Learning for Data-Free Black-Box Attack](https://ieeexplore.ieee.org/document/10697391/)  
-**无数据黑盒攻击的动态路由和知识重学习**   
+**[无数据黑盒攻击的动态路由和知识重学习](https://mp.weixin.qq.com/s/-1SBUTkZbxNvQrZr_VUBJg)**   
 Xuelin Qian;
 Wenxuan Wang;
 Yu-Gang Jiang;

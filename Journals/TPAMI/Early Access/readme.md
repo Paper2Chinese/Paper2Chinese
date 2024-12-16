@@ -223,12 +223,6 @@ Zhengxia Zou
 Bin Chen;
 Jian Zhang
 
-[Correlation Verification for Image Retrieval and Its Memory Footprint Optimization](https://ieeexplore.ieee.org/document/10759842/)  
-Seongwon Lee;
-Hongje Seong;
-Suhyeon Lee;
-Euntai Kim
-
 [Fine-Grained Visual Text Prompting](https://ieeexplore.ieee.org/document/10763465/)  
 Lingfeng Yang;
 Xiang Li;
@@ -624,6 +618,12 @@ Jianxin Sun; Qiyao Deng; Qi Li; Muyi Sun; Yunfan Liu; Zhenan Sun
 -----
 
 -----
+[Correlation Verification for Image Retrieval and Its Memory Footprint Optimization](https://ieeexplore.ieee.org/document/10759842/)  
+Seongwon Lee;
+Hongje Seong;
+Suhyeon Lee;
+Euntai Kim
+
 
 [Global Model Selection via Solution Paths for Robust Support Vector Machine](https://ieeexplore.ieee.org/document/10373138/)  
 Zhou Zhai; Bin Gu; Cheng Deng; Heng Huang  

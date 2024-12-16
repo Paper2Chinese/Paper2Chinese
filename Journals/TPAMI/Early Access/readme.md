@@ -55,12 +55,6 @@ Dong Zhang;
 Shengfeng He;
 Jinhui Tang
 
-[A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://ieeexplore.ieee.org/document/10777531/)  
-Raphael Sulzer;
-Renaud Marlet;
-Bruno Vallet;
-Loic Landrieu
-
 [WinDB: HMD-free and Distortion-free Panoptic Video Fixation Learning](https://ieeexplore.ieee.org/document/10777547/)  
 Guotao Wang;
 Chenglizhao Chen;
@@ -618,6 +612,14 @@ Jianxin Sun; Qiyao Deng; Qi Li; Muyi Sun; Yunfan Liu; Zhenan Sun
 -----
 
 -----
+
+[A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://ieeexplore.ieee.org/document/10777531/)  
+Raphael Sulzer;
+Renaud Marlet;
+Bruno Vallet;
+Loic Landrieu
+
+
 [Correlation Verification for Image Retrieval and Its Memory Footprint Optimization](https://ieeexplore.ieee.org/document/10759842/)  
 Seongwon Lee;
 Hongje Seong;

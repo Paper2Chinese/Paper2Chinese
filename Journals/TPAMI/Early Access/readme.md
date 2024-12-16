@@ -4,12 +4,14 @@
 ----
 
 [Scale Propagation Network for Generalizable Depth Completion](https://ieeexplore.ieee.org/document/10786388/)  
+用于广义深度补全的尺度传播网络  
 Haotian Wang;
 Meng Yang;
 Xinhu Zheng;
 Gang Hua
 
 [Uni-AdaFocus: Spatial-Temporal Dynamic Computation for Video Recognition](https://ieeexplore.ieee.org/document/10787270/)  
+Uni-AdaFocus：用于视频识别的空间-时间动态计算  
 Yulin Wang;
 Haoji Zhang;
 Yang Yue;
@@ -19,6 +21,7 @@ Junlan Feng;
 Gao Huang
 
 [Iteratively Capped Reweighting Norm Minimization with Global Convergence Guarantee for Low-Rank Matrix Learning](https://ieeexplore.ieee.org/document/10783021/)  
+用于低秩矩阵学习的具有全局收敛保证的迭代上限重加权范数最小化  
 Zhi Wang;
 Dong Hu;
 Zhuo Liu;
@@ -27,6 +30,7 @@ Zhen Wang
 
 
 [Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning](https://ieeexplore.ieee.org/document/10786920/)  
+用于脑启发强化学习的脉冲变分策略梯度  
 Zhile Yang;
 Shangqi Guo;
 Ying Fang;
@@ -35,6 +39,7 @@ Jian K. Liu
 
 
 [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/document/10778628/)  
+JARVIS-1：具有记忆增强多模态语言模型的开放世界多任务智能体  
 Zihao Wang;
 Shaofei Cai;
 Anji Liu;
@@ -49,6 +54,7 @@ Xiaojian Ma;
 Yitao Liang
 
 [Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection](https://ieeexplore.ieee.org/document/10778650/)  
+分而治之：用于 RGB-T 显著性物体检测的融合三流网络  
 Hao Tang;
 Zechao Li;
 Dong Zhang;
@@ -56,6 +62,7 @@ Shengfeng He;
 Jinhui Tang
 
 [WinDB: HMD-free and Distortion-free Panoptic Video Fixation Learning](https://ieeexplore.ieee.org/document/10777547/)  
+WinDB：无 HMD 和无失真全景视频注视学习  
 Guotao Wang;
 Chenglizhao Chen;
 Aimin Hao;
@@ -63,6 +70,7 @@ Hong Qin;
 Deng-Ping Fan
 
 [Deep Loss Convexification for Learning Iterative Models](https://ieeexplore.ieee.org/document/10777605/)  
+深度损失凸化：学习迭代模型  
 Ziming Zhang;
 Yuping Shao;
 Yiqing Zhang;
@@ -71,6 +79,7 @@ Haichong Zhang;
 Elke Rundensteiner
 
 [Spectrally-Corrected and Regularized LDA for Spiked Model](https://ieeexplore.ieee.org/document/10776997/)  
+针对尖峰模型的谱校正和正则化LDA  
 Hua Li;
 Wenya Luo;
 Zhidong Bai;
@@ -78,6 +87,7 @@ Huanchao Zhou;
 Zhangni Pu
 
 [Remembering What Is Important: A Factorised Multi-Head Retrieval and Auxiliary Memory Stabilisation Scheme for Human Motion Prediction](https://ieeexplore.ieee.org/document/10777031/)  
+记住重要的事情：用于人体运动预测的分解多头检索和辅助记忆稳定方案  
 Tharindu Fernando;
 Harshala Gammulle;
 Sridha Sridharan;
@@ -86,6 +96,7 @@ Clinton Fookes
 
 
 [Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN](https://ieeexplore.ieee.org/document/10772056/)  
+使用共面感知的无监督全局和局部单应性估计 GAN  
 Shuaicheng Liu;
 Mingbo Hong;
 Yuhang Lu;
@@ -95,6 +106,7 @@ Bing Zeng
 
 
 [Unveiling and Mitigating Generalized Biases of DNNs through the Intrinsic Dimensions of Perceptual Manifolds](https://ieeexplore.ieee.org/document/10772274/)  
+通过感知流形的内在维度揭示和减轻 DNN 的广义偏差  
 Yanbiao Ma;
 Licheng Jiao;
 Fang Liu;
@@ -105,12 +117,14 @@ Xu Liu;
 Puhua Chen
 
 [Self-Supervised High-order Information Bottleneck Learning of Spiking Neural Network for Robust Event-Based Optical Flow Estimation](https://ieeexplore.ieee.org/document/10772601/)  
+用于基于事件的鲁棒光流估计的尖峰神经网络的自监督高阶信息瓶颈学习  
 Shuangming Yang;
 Bernabé Linares-Barranco;
 Yuzhu Wu;
 Badong Chen
 
 [DiffAct++: Diffusion Action Segmentation](https://ieeexplore.ieee.org/document/10772006/)  
+DiffAct++：扩散动作分割  
 Daochang Liu;
 Qiyue Li;
 Anh-Dung Dinh;
@@ -119,6 +133,7 @@ Mubarak Shah;
 Chang Xu
 
 [NAS-PED: Neural Architecture Search for Pedestrian Detection](https://ieeexplore.ieee.org/document/10770837/)  
+NAS-PED：用于行人检测的神经架构搜索  
 Yi Tang;
 Min Liu;
 Baopu Li;
@@ -127,11 +142,13 @@ Wanli Ouyang
 
 
 [ELDP: Enhanced Label Distribution Propagation for Crowdsourcing](https://ieeexplore.ieee.org/document/10770820/)  
+ELDP：用于众包的增强标签分布传播  
 Wenjun Zhang;
 Liangxiao Jiang;
 Chaoqun Li
 
 [Fair Clustering Ensemble With Equal Cluster Capacity](https://ieeexplore.ieee.org/document/10770826/)  
+具有相等聚类容量的公平聚类集成  
 Peng Zhou;
 Rongwen Li;
 Zhaolong Ling;
@@ -140,6 +157,7 @@ Xinwang Liu
 
 
 [Anchor3DLane++: 3D Lane Detection Via Sample-Adaptive Sparse 3D Anchor Regression](https://ieeexplore.ieee.org/document/10771714/)  
+Anchor3DLane++：通过样本自适应稀疏3D锚回归进行3D车道检测  
 Shaofei Huang;
 Zhenwei Shen;
 Zehao Huang;
@@ -149,6 +167,7 @@ Naiyan Wang;
 Si Liu
 
 [STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery](https://ieeexplore.ieee.org/document/10770756/)  
+STAR：首个大型卫星图像场景图生成数据集和大规模基准  
 Yansheng Li;
 Linlin Wang;
 Tingzhu Wang;
@@ -165,6 +184,7 @@ Yi Yu;
 Junchi Yan
 
 [IBCS: Learning Information Bottleneck-Constrained Denoised Causal Subgraph for Graph Classification](https://ieeexplore.ieee.org/document/10771715/)  
+IBCS：学习信息瓶颈约束去噪因果子图进行图分类  
 Ruiwen Yuan;
 Yongqiang Tang;
 Yanghao Xiao;

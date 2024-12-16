@@ -174,7 +174,7 @@ Jingyuan Xia; Zhixiong Yang; Shengxi Li; Shuanghui Zhang; Yaowen Fu; Deniz Günd
 Shunyu Liu; Jie Song; Yihe Zhou; Na Yu; Kaixuan Chen; Zunlei Feng; Mingli Song  
 
 [A Novel Image Formation Model for Descattering](https://ieeexplore.ieee.org/document/10535171/)              
-**用于去散射的新型图像形成模型（zty）**  
+**[用于去散射的新型图像形成模型](https://mp.weixin.qq.com/s/t2TDe0j3kZlaNboXxXvf4Q)**  
 Jiandong Tian; Shijun Zhou; Baojie Fan; Hui Zhang  
 
 [Interaction-Based Inductive Bias in Graph Neural Networks: Enhancing Protein-Ligand Binding Affinity Predictions From 3D Structures](https://ieeexplore.ieee.org/document/10530021/)      
@@ -186,7 +186,7 @@ Ziduo Yang; Weihe Zhong; Qiujie Lv; Tiejun Dong; Guanxing Chen; Calvin Yu-Chian 
 Chi Zhang; Xiang Zhang; Mingyuan Lin; Cheng Li; Chu He; Wen Yang; Gui-Song Xia; Lei Yu  
 
 [Biarchetype Analysis: Simultaneous Learning of Observations and Features Based on Extremes](https://ieeexplore.ieee.org/document/10530052/)         
-**双原型分析：基于极端值的同时学习观测与特征（zty）**  
+**[双原型分析：基于极端值的同时学习观测与特征](https://mp.weixin.qq.com/s/Gghrhdh7vh2BbwJAg2I2nQ)**  
 Aleix Alcacer; Irene Epifanio; Ximo Gual-Arnau  
 
 [Stimulating Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling](https://ieeexplore.ieee.org/document/10607932/)     
@@ -202,7 +202,7 @@ Mingkui Tan; Zhuangwei Zhuang; Sitao Chen; Rong Li; Kui Jia; Qicheng Wang; Yuanq
 Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng  
 
 [Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)        
-**迈向LUT的DNN：使用多个查找表学习高效图像恢复（zty）**  
+**[迈向LUT的DNN：使用多个查找表学习高效图像恢复](https://mp.weixin.qq.com/s/fBjN9x8n5mrKC7LElZeeSQ)**  
 Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
 
 [Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)    
@@ -214,7 +214,7 @@ Lilin Zhang; Ning Yang; Yanchao Sun; Philip S. Yu
 Chuanxia Zheng; Guoxian Song; Tat-Jen Cham; Jianfei Cai; Linjie Luo; Dinh Phung  
 
 [Robust Semi-Supervised Learning by Wisely Leveraging Open-Set Data](https://ieeexplore.ieee.org/document/10536663/)      
-**通过明智地利用开放集数据实现稳健的半监督学习（zty）**  
+**[通过明智地利用开放集数据实现稳健的半监督学习](https://mp.weixin.qq.com/s/3SCy2JWmNp1ao0jOKxrFcg)**  
 Yang Yang; Nan Jiang; Yi Xu; De-Chuan Zhan  
 
 [Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/document/10536627/)             

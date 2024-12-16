@@ -6,6 +6,7 @@ Issue 1 • January-2024
 
 
 [Unsupervised Degradation Representation Learning for Unpaired Restoration of Images and Point Clouds](https://ieeexplore.ieee.org/document/10738507/)  
+**无监督退化表征学习用于无配对图像和点云的恢复**  
 Longguang Wang;
 Yulan Guo;
 Yingqian Wang;
@@ -23,6 +24,7 @@ Marcel Worring
 
 
 [EventHDR: From Event to High-Speed HDR Videos and Beyond](https://ieeexplore.ieee.org/document/10713104/)  
+**EventHDR：从事件到高速HDR视频及更远**  
 Yunhao Zou;
 Ying Fu;
 Tsuyoshi Takatani;
@@ -30,6 +32,7 @@ Yinqiang Zheng
 
  
 [PSVMA+: Exploring Multi-Granularity Semantic-Visual Adaption for Generalized Zero-Shot Learning](https://ieeexplore.ieee.org/document/10693541/)  
+**PSVMA+：探索广义零样本学习的多粒度语义视觉适应**  
 Man Liu;
 Huihui Bai;
 Feng Li;
@@ -42,6 +45,7 @@ Yao Zhao
 
 
 [Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation](https://ieeexplore.ieee.org/document/10696955/)  
+在部分客户端参与下稳定和加速异构数据的联邦学习  
 Hao Zhang;
 Chenglin Li;
 Wenrui Dai;
@@ -52,6 +56,7 @@ Hongkai Xiong
 
 
 [Weakly Supervised Monocular 3D Object Detection by Spatial-Temporal View Consistency](https://ieeexplore.ieee.org/document/10689672/)  
+弱监督单目3D对象检测：通过空间-时间视图一致性  
 Wencheng Han;
 Runzhou Tao;
 Haibin Ling;
@@ -73,6 +78,7 @@ Chen Change Loy
 
 
 [Prompt-and-Transfer: Dynamic Class-Aware Enhancement for Few-Shot Segmentation](https://ieeexplore.ieee.org/document/10681253/)  
+提示和传输：针对少镜头分割的动态类感知增强  
 Hanbo Bi;
 Yingchao Feng;
 Wenhui Diao;
@@ -84,6 +90,7 @@ Xian Sun
 
 
 [RoBoSS: A Robust, Bounded, Sparse, and Smooth Loss Function for Supervised Learning](https://ieeexplore.ieee.org/document/10685140/)  
+RoBoSS：用于监督学习的稳健、有界、稀疏和平滑损失函数  
 Mushir Akhtar;
 M. Tanveer;
 Mohd. Arshad
@@ -108,6 +115,7 @@ Nicu Sebe
 
 
 [Quantifying and Learning Static vs. Dynamic Information in Deep Spatiotemporal Networks](https://ieeexplore.ieee.org/document/10682100/)  
+量化和学习深层时空网络中的静态与动态信息  
 Matthew Kowal;
 Mennatullah Siam;
 Md Amirul Islam;
@@ -117,6 +125,7 @@ Konstantinos G. Derpanis
 
 
 [Event-Enhanced Snapshot Mosaic Hyperspectral Frame Deblurring](https://ieeexplore.ieee.org/document/10684998/)  
+事件增强快照马赛克高光谱帧去模糊  
 Mengyue Geng;
 Lizhi Wang;
 Lin Zhu;
@@ -136,6 +145,7 @@ Yanning Zhang
 
 
 [Developmental Plasticity-Inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks](https://ieeexplore.ieee.org/document/10691937/)  
+受发育可塑性启发的深度尖峰和人工神经网络的自适应修剪  
 Bing Han;
 Feifei Zhao;
 Yi Zeng;
@@ -143,6 +153,7 @@ Guobin Shen
 
 
 [A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute](https://ieeexplore.ieee.org/document/10682566/)  
+使用通用多尺度条件编码的多功能点云压缩器——第二部分：属性  
 Jianqiang Wang;
 Ruixiang Xue;
 Jiaxin Li;
@@ -152,7 +163,7 @@ Zhan Ma
 
 
 [A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry](https://ieeexplore.ieee.org/document/10682571/)  
-**多才多艺的点云压缩器：使用通用多尺度条件编码 —— 第二部分：属性**  
+**多才多艺的点云压缩器：使用通用多尺度条件编码 —— 第一部分：几何**  
 Jianqiang Wang;
 Ruixiang Xue;
 Jiaxin Li;
@@ -162,6 +173,7 @@ Zhan Ma
 
 
 [Multi-Sensor Learning Enables Information Transfer Across Different Sensory Data and Augments Multi-Modality Imaging](https://ieeexplore.ieee.org/document/10685142/)  
+多传感器学习可实现不同感官数据之间的信息传输并增强多模态成像
 Lingting Zhu;
 Yizheng Chen;
 Lianli Liu;
@@ -170,6 +182,7 @@ Lequan Yu
 
 
 [Estimating Per-Class Statistics for Label Noise Learning](https://ieeexplore.ieee.org/document/10689264/)  
+估计每类统计量以进行标签噪声学习
 Wenshui Luo;
 Shuo Chen;
 Tongliang Liu;
@@ -202,6 +215,8 @@ Xi Peng
 
 
 [Unveiling the Power of Self-Supervision for Multi-View Multi-Human Association and Tracking](https://ieeexplore.ieee.org/document/10684138/)  
+揭示多视角多人关联和跟踪的自我监督力量
+
 Wei Feng;
 Feifan Wang;
 Ruize Han;
@@ -221,6 +236,7 @@ Zhenyuan Ning
 
 
 [Unsupervised Dual Deep Hashing With Semantic-Index and Content-Code for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10689647/)  
+用于跨模态检索的无监督双重深度哈希：语义索引与内容码
 Bin Zhang;
 Yue Zhang;
 Junyu Li;
@@ -258,6 +274,7 @@ Kunlun He
 
 
 [Revisiting Nonlocal Self-Similarity from Continuous Representation](https://ieeexplore.ieee.org/document/10684569/)  
+从连续表示重新审视非局部自相似性
 Yisi Luo;
 Xile Zhao;
 Deyu Meng
@@ -265,6 +282,7 @@ Deyu Meng
 
 
 [On-the-Fly Modulation for Balanced Multimodal Learning](https://ieeexplore.ieee.org/document/10694738/)  
+即时调制以实现平衡的多模态学习
 Yake Wei;
 Di Hu;
 Henghui Du;
@@ -281,6 +299,7 @@ Yanwei Fu
 
 
 [Generalized Relevance Learning Grassmann Quantization](https://ieeexplore.ieee.org/document/10689384/)  
+广义相关性学习格拉斯曼量化
 M. Mohammadi;
 M. Babai;
 M.H.F. Wilkinson
@@ -288,6 +307,7 @@ M.H.F. Wilkinson
 
 
 [InfoGCN++: Learning Representation by Predicting the Future for Online Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/document/10694798/)  
+InfoGCN++：通过预测未来来学习在线骨架动作识别的表示
 Seunggeun Chi;
 Hyung-Gun Chi;
 Qixing Huang;
@@ -295,6 +315,7 @@ Karthik Ramani
 
 
 [Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation](https://ieeexplore.ieee.org/document/10689387/)  
+恶劣天气光流：同质-异质累积适应
 Hanyu Zhou;
 Yi Chang;
 Zhiwei Shi;
@@ -317,6 +338,7 @@ Yulun Zhang
 
 
 [NeuralTPS: Learning Signed Distance Functions Without Priors From Single Sparse Point Clouds](https://ieeexplore.ieee.org/document/10707197/)  
+NeuralTPS：无需先验从单个稀疏点云学习有符号距离函数
 Chao Chen;
 Yu-Shen Liu;
 Zhizhong Han
@@ -338,6 +360,7 @@ Guosheng Lin
 
 
 [RGBE-Gaze: A Large-Scale Event-Based Multimodal Dataset for High Frequency Remote Gaze Tracking](https://ieeexplore.ieee.org/document/10706089/)  
+RGBE-Gaze：用于高频远程注视追踪的大规模事件驱动多模态数据集
 Guangrong Zhao;
 Yiran Shen;
 Chenlong Zhang;
@@ -347,6 +370,7 @@ Hongkai Wen
 
 
 [Understanding Episode Hardness in Few-Shot Learning](https://ieeexplore.ieee.org/document/10707331/)  
+理解少样本学习中的情节难度
 Yurong Guo;
 Ruoyi Du;
 Aneeshan Sain;
@@ -358,6 +382,7 @@ Zhanyu Ma
 
 
 [RGB-T Tracking With Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882/)  
+RGB-T跟踪：模板桥接搜索交互与目标保持的模板更新
 Bo Li;
 Fengguang Peng;
 Tianrui Hui;

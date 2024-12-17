@@ -352,51 +352,60 @@ Beatriz Seoane
 [Insights on 'Complex-Valued Iris Recognition Network'](https://ieeexplore.ieee.org/document/10747294/)  
 Ajay Kumar
 
-[Minimum Latency Deep Online Video Stabilization and Its Extensions](https://ieeexplore.ieee.org/document/10746630/)  
-Shuaicheng Liu;
-Zhuofan Zhang;
-Zhen Liu;
-Ping Tan;
-Bing Zeng
+[Minimum Latency Deep Online Video Stabilization and Its Extensions](https://ieeexplore.ieee.org/document/10734169/)  
+**最小延迟深度在线视频稳定及其扩展**  
+Shuaicheng Liu; Zhuofan Zhang; Zhen Liu; Ping Tan; Bing Zeng  
 
-
-[Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/10746343/)  
+[Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/10734169/)  
+**语言启发的少样本类增量学习中的关系迁移**  
 Yifan Zhao; Jia Li; Zeyin Song; Yonghong Tian  
 
-[Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10746353/)  
+[Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10734169/)  
+**多模态多属性对比预训练用于图像美学计算**  
 Yipo Huang; Leida Li; Pengfei Chen; Haoning Wu; Weisi Lin; Guangming Shi  
 
-[360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10741594/)  
+[360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10734169/)  
+**360SFUDA++：通过学习可靠类别原型实现全景分割的无源域自适应**  
 Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang  
 
-[Anti-Forgetting Adaptation for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10742299/)  
+[Anti-Forgetting Adaptation for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10734169/)  
+**无监督行人重识别的抗遗忘适应**  
 Hao Chen; Francois Bremond; Nicu Sebe; Shiliang Zhang  
 
-[OffsetNet: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](https://ieeexplore.ieee.org/document/10742444/)  
+[OffsetNet: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](https://ieeexplore.ieee.org/document/10734169/)  
+**OffsetNet：面向高效的多目标跟踪、检测与分割**  
 Wei Zhang; Jiaming Li; Meng Xia; Xu Gao; Xiao Tan; Yifeng Shi; Zhenhua Huang; Guanbin Li  
 
-[Evolved Hierarchical Masking for Self-Supervised Learning](https://ieeexplore.ieee.org/document/10742293/)  
+[Evolved Hierarchical Masking for Self-Supervised Learning](https://ieeexplore.ieee.org/document/10734169/)  
+**自监督学习的进化分层掩码**  
 Zhanzhou Feng; Shiliang Zhang  
 
-[The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10740789/)  
+[The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10734169/)  
+**解耦概念瓶颈模型**  
 Rui Zhang; Xingbo Du; Junchi Yan; Shihua Zhang  
 
-[Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10740558/)  
+[Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10734169/)  
+**动态特征与噪声标签的自适应学习**  
 Shilin Gu; Chao Xu; Dewen Hu; Chenping Hou  
 
-[Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination](https://ieeexplore.ieee.org/document/10737702/)  
+[Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination](https://ieeexplore.ieee.org/document/10734169/)  
+**复空间中虚连接嵌入用于未见属性-对象判别**  
 Chenyi Jiang; Shidong Wang; Yang Long; Zechao Li; Haofeng Zhang; Ling Shao  
 
-[Noise Self-Regression: A New Learning Paradigm to Enhance Low-Light Images Without Task-Related Data](https://ieeexplore.ieee.org/document/10737245/)  
+[Noise Self-Regression: A New Learning Paradigm to Enhance Low-Light Images Without Task-Related Data](https://ieeexplore.ieee.org/document/10734169/)  
+**噪声自回归：一种无需任务相关数据增强低光图像的新学习范式**  
 Zhao Zhang; Suiyi Zhao; Xiaojie Jin; Mingliang Xu; Yi Yang; Shuicheng Yan; Meng Wang  
 
-[FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations](https://ieeexplore.ieee.org/document/10737139/)  
+[FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations](https://ieeexplore.ieee.org/document/10734169/)  
+**FLAC：通过抑制属性-类别关联实现公平感知表示学习**  
 Ioannis Sarridis; Christos Koutlis; Symeon Papadopoulos; Christos Diou  
 
-[PSRR-MaxpoolNMS++: Fast Non-Maximum Suppression with Discretization and Pooling](https://ieeexplore.ieee.org/document/10736991/)  
+[PSRR-MaxpoolNMS++: Fast Non-Maximum Suppression with Discretization and Pooling](https://ieeexplore.ieee.org/document/10734169/)  
+**PSRR-MaxpoolNMS++：结合离散化与池化的快速非极大值抑制**  
 Tianyi Zhang; Chunyun Chen; Yun Liu; Xue Geng; Mohamed M. Sabry Aly; Jie Lin  
 
-[Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10737100/)  
+[Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10734169/)  
+**先解耦后组合：学习不变的解耦特征用于组合零样本学习**  
 Tian Zhang; Kongming Liang; Ruoyi Du; Wei Chen; Zhanyu Ma  
 
 [Illuminating Salient Contributions in Neuron Activation with Attribution Equilibrium](https://ieeexplore.ieee.org/document/10734265/)  

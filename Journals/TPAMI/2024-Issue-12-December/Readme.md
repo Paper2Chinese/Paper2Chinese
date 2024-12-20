@@ -245,19 +245,24 @@ Shuzhan Hu; Yiping Duan; Xiaoming Tao; Geoffrey Ye Li; Jianhua Lu; Guangyi Liu; 
 **操作支持估计器网络（zty）**  
 Mete Ahishali; Mehmet Yamac; Serkan Kiranyaz; Moncef Gabbouj  
 
-[Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency](https://ieeexplore.ieee.org/document/10551495/)              
+[Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency](https://ieeexplore.ieee.org/document/10551495/)        
+**基于几何一致性的无监督点云三维物体分割(ZTY)**  
 Ziyang Song; Bo Yang  
 
-[Curvature Regularization for Non-Line-of-Sight Imaging From Under-Sampled Data](https://ieeexplore.ieee.org/document/10552070/)              
+[Curvature Regularization for Non-Line-of-Sight Imaging From Under-Sampled Data](https://ieeexplore.ieee.org/document/10552070/)     
+**基于曲率正则化的欠采样非视距成像(ZTY)**  
 Rui Ding; Juntian Ye; Qifeng Gao; Feihu Xu; Yuping Duan  
 
-[SSR-2D: Semantic 3D Scene Reconstruction From 2D Images](https://ieeexplore.ieee.org/document/10549849/)              
+[SSR-2D: Semantic 3D Scene Reconstruction From 2D Images](https://ieeexplore.ieee.org/document/10549849/)   
+**SSR-2D：从2D图像进行语义化的3D场景重建(ZTY)**  
 Junwen Huang; Alexey Artemov; Yujin Chen; Shuaifeng Zhi; Kai Xu; Matthias Nießner  
 
-[Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/document/10540667/)              
+[Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/document/10540667/)     
+**弱增强引导的关系自监督学习(ZTY)**  
 Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Chang Xu  
 
-[Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding](https://ieeexplore.ieee.org/document/10551628/)              
+[Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding](https://ieeexplore.ieee.org/document/10551628/)     
+**Lowis3D：语言驱动的开放世界实例级3D场景理解(ZTY)**  
 Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi  
 
 [Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)              

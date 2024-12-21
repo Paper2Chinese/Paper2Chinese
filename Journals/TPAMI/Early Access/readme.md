@@ -239,6 +239,7 @@ Bin Chen;
 Jian Zhang
 
 [Fine-Grained Visual Text Prompting](https://ieeexplore.ieee.org/document/10763465/)  
+**细粒度视觉文本提示**   
 Lingfeng Yang;
 Xiang Li;
 Yueze Wang;
@@ -246,6 +247,7 @@ Xinlong Wang;
 Jian Yang
 
 [Task-Oriented Channel Attention for Fine-Grained Few-Shot Classification](https://ieeexplore.ieee.org/document/10763467/)  
+**任务导向的通道注意力机制用于细粒度少样本分类**   
 SuBeen Lee;
 WonJun Moon;
 Hyun Seok Seong;

@@ -234,6 +234,7 @@ Zhenwei Shi;
 Zhengxia Zou
 
 [Practical Compact Deep Compressed Sensing](https://ieeexplore.ieee.org/document/10763443/)  
+**实用紧凑型深度压缩感知网络**  
 Bin Chen;
 Jian Zhang
 

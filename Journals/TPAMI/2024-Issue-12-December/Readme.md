@@ -265,19 +265,24 @@ Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Ch
 **Lowis3D：语言驱动的开放世界实例级3D场景理解(ZTY)**  
 Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi  
 
-[Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)              
+[Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)        
+**基于大型模型的视觉-语言导航中的可修正地标发现（zty）**  
 Bingqian Lin; Yunshuang Nie; Ziming Wei; Yi Zhu; Hang Xu; Shikui Ma; Jianzhuang Liu; Xiaodan Liang  
 
-[Behind Every Domain There is a Shift: Adapting Distortion-Aware Vision Transformers for Panoramic Semantic Segmentation](https://ieeexplore.ieee.org/document/10546335/)              
+[Behind Every Domain There is a Shift: Adapting Distortion-Aware Vision Transformers for Panoramic Semantic Segmentation](https://ieeexplore.ieee.org/document/10546335/)        
+**每个领域背后都有变化：适应全景语义分割的畸变感知视觉Transformers（zty）**   
 Jiaming Zhang; Kailun Yang; Hao Shi; Simon Reiß; Kunyu Peng; Chaoxiang Ma; Haodong Fu; Philip H. S. Torr; Kaiwei Wang; Rainer Stiefelhagen  
 
-[Bilinear Models of Parts and Appearances in Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10572317/)              
+[Bilinear Models of Parts and Appearances in Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10572317/)      
+**生成对抗网络中部件和外观的双线性模型（zty）**  
 James Oldfield; Christos Tzelepis; Yannis Panagakis; Mihalis A. Nicolaou; Ioannis Patras  
 
-[On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/document/10546317/)              
+[On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/document/10546317/)   
+**基于变换器的强化学习转型：发展轨迹（zty）**  
 Shengchao Hu; Li Shen; Ya Zhang; Yixin Chen; Dacheng Tao  
 
 [Divert More Attention to Vision-Language Object Tracking](https://ieeexplore.ieee.org/document/10547435/)              
+**更多关注视觉-语言目标跟踪（zty）**  
 Mingzhe Guo; Zhipeng Zhang; Liping Jing; Haibin Ling; Heng Fan  
 
 [Wasserstein Discriminant Dictionary Learning for Graph Representation](https://ieeexplore.ieee.org/document/10549813/)              

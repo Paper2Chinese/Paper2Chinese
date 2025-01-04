@@ -10,7 +10,7 @@ Jiequan Cui; Zhisheng Zhong; Zhuotao Tian; Shu Liu; Bei Yu; Jiaya Jia
 Junsheng Zhou; Baorui Ma; Shujuan Li; Yu-Shen Liu; Yi Fang; Zhizhong Han  
 
 [InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding](https://ieeexplore.ieee.org/document/10520818/)              
-**InvPT++：用于视觉场景理解的倒金字塔多任务Transformer**  
+**[InvPT++：用于视觉场景理解的倒金字塔多任务Transformer](https://mp.weixin.qq.com/s/jt24vbVBoh5mztUSw9jKYQ)**  
 Hanrong Ye; Dan Xu  
 
 [Appearance-Based Gaze Estimation With Deep Learning: A Review and Benchmark](https://ieeexplore.ieee.org/document/10508472/)     
@@ -40,7 +40,7 @@ Zhenxing Niu; Yuyao Sun; Qiguang Miao; Rong Jin; Gang Hua
 Bingxin Zhou; Ruikun Li; Xuebin Zheng; Yu Guang Wang; Junbin Gao  
 
 [Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities](https://ieeexplore.ieee.org/document/10516268/)   
-**零样本神经架构搜索：挑战、解决方案和机遇**  
+**[零样本神经架构搜索：挑战、解决方案和机遇](https://mp.weixin.qq.com/s/YXZY98yX5pktOMWQM2tRSA)**  
 Guihong Li; Duc Hoang; Kartikeya Bhardwaj; Ming Lin; Zhangyang Wang; Radu Marculescu  
 
 [Cross-Modal Hashing Method With Properties of Hamming Space: A New Perspective](https://ieeexplore.ieee.org/document/10506992/)         
@@ -71,7 +71,7 @@ Bo Jiang; Ziyan Zhang; Sheng Ge; Beibei Wang; Xiao Wang; Jin Tang
 Zhiheng Li; Yujie Zhong; Ran Song; Tianjiao Li; Lin Ma; Wei Zhang  
 
 [Secrets of Event-Based Optical Flow, Depth and Ego-Motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/document/10517639/)  
-**通过对比度最大化揭示基于事件的光流、深度和自运动估计的秘密**  
+**[通过对比度最大化揭示基于事件的光流、深度和自运动估计的秘密](https://mp.weixin.qq.com/s/CQy5tzNZBYoHc50wPYw1wg)**  
 Shintaro Shiba; Yannick Klose; Yoshimitsu Aoki; Guillermo Gallego  
 
 [Latency-Aware Unified Dynamic Networks for Efficient Image Recognition](https://ieeexplore.ieee.org/document/10508473/)      
@@ -83,7 +83,7 @@ Yizeng Han; Zeyu Liu; Zhihang Yuan; Yifan Pu; Chaofei Wang; Shiji Song; Gao Huan
 Zhaobo Qi; Shuhui Wang; Weigang Zhang; Qingming Huang  
 
 [A Review of State-of-the-art Mixed-Precision Neural Network Frameworks](https://ieeexplore.ieee.org/document/10509805/)         
-**最新混合精度神经网络框架综述**  
+**[最新混合精度神经网络框架综述](https://mp.weixin.qq.com/s/6ufBMKeGjP_vnKUYACzzjQ)**  
 Mariam Rakka; Mohammed E. Fouda; Pramod Khargonekar; Fadi Kurdahi  
 
 [Novel Uncertainty Quantification Through Perturbation-Assisted Sample Synthesis](https://ieeexplore.ieee.org/document/10508110/)     
@@ -95,7 +95,7 @@ Yifei Liu; Rex Shen; Xiaotong Shen
 Hao Chen; Thomas Barthel  
 
 [Searching to Exploit Memorization Effect in Deep Learning With Noisy Labels](https://ieeexplore.ieee.org/document/10509799/)  
-**在带有噪声标签的深度学习中寻找利用记忆效应的方法**  
+**[在带有噪声标签的深度学习中寻找利用记忆效应的方法](https://mp.weixin.qq.com/s/jzek5d7u3Zj7vX_CT1ZVEw)**  
 Hansi Yang; Quanming Yao; Bo Han; James T. Kwok  
 
 [Motion-Aware Dynamic Graph Neural Network for Video Compressive Sensing](https://ieeexplore.ieee.org/document/10526224/)   
@@ -114,7 +114,7 @@ Danyang Wu; Zhenkun Yang; Jitao Lu; Jin Xu; Xiangmin Xu; Feiping Nie
 Dizhan Xue; Shengsheng Qian; Changsheng Xu  
 
 [Learning at a Glance: Towards Interpretable Data-Limited Continual Semantic Segmentation via Semantic-Invariance Modelling](https://ieeexplore.ieee.org/document/10520832/)              
-**一目了然的学习：通过语义不变性建模实现可解释的数据有限持续语义分割**  
+**[一目了然的学习：通过语义不变性建模实现可解释的数据有限持续语义分割](https://mp.weixin.qq.com/s/aev3Co1dfhwoGxXvqokBbA)**  
 Bo Yuan; Danpei Zhao; Zhenwei Shi  
 
 [HOPE: High-Order Polynomial Expansion of Black-Box Neural Networks](https://ieeexplore.ieee.org/document/10528900/)       
@@ -166,11 +166,11 @@ Ruibo Li; Chi Zhang; Zhe Wang; Chunhua Shen; Guosheng Lin
 Jinhui Hou; Zhiyu Zhu; Junhui Hou; Hui Liu; Huanqiang Zeng; Deyu Meng  
 
 [Blind Super-Resolution via Meta-Learning and Markov Chain Monte Carlo Simulation](https://ieeexplore.ieee.org/document/10533864/)              
-**基于元学习和马尔可夫链蒙特卡洛模拟的盲超分辨率技术（zty）**  
+**[基于元学习和马尔可夫链蒙特卡洛模拟的盲超分辨率技术](https://mp.weixin.qq.com/s/dCrKakWw1bIQ4gOKrBScNQ)**  
 Jingyuan Xia; Zhixiong Yang; Shengxi Li; Shuanghui Zhang; Yaowen Fu; Deniz Gündüz; Xiang Li  
 
 [Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10529613/)        
-**多智能体强化学习中的交互模式解耦（zty）**  
+**[多智能体强化学习中的交互模式解耦](https://mp.weixin.qq.com/s/s2gUH2go-4uzYjJUNPaf8w)**  
 Shunyu Liu; Jie Song; Yihe Zhou; Na Yu; Kaixuan Chen; Zunlei Feng; Mingli Song  
 
 [A Novel Image Formation Model for Descattering](https://ieeexplore.ieee.org/document/10535171/)              
@@ -190,15 +190,15 @@ Chi Zhang; Xiang Zhang; Mingyuan Lin; Cheng Li; Chu He; Wen Yang; Gui-Song Xia; 
 Aleix Alcacer; Irene Epifanio; Ximo Gual-Arnau  
 
 [Stimulating Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling](https://ieeexplore.ieee.org/document/10607932/)     
-**通过自适应嵌入和集成激发图像去噪的扩散模型（zty）**
+**[通过自适应嵌入和集成激发图像去噪的扩散模型](https://mp.weixin.qq.com/s/hID0jRn6HaY9r0DvAZltVg)**
 Tong Li; Hansen Feng; Lizhi Wang; Lin Zhu; Zhiwei Xiong; Hua Huang  
 
 [EPMF: Efficient Perception-Aware Multi-Sensor Fusion for 3D Semantic Segmentation](https://ieeexplore.ieee.org/document/10541899/)  
-**高效感知意识的多传感器融合方法用于三维语义分割（zty）**  
+**[高效感知意识的多传感器融合方法用于3D语义分割](https://mp.weixin.qq.com/s/5b9TKPQUBMIiK40WtA9bvA)**  
 Mingkui Tan; Zhuangwei Zhuang; Sitao Chen; Rong Li; Kui Jia; Qicheng Wang; Yuanqing Li  
 
 [Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition](https://ieeexplore.ieee.org/document/10531070/)             
-**用于视觉识别的简单Transformer风格的卷积网络（zty）**  
+**[用于视觉识别的简单Transformer风格的卷积网络](https://mp.weixin.qq.com/s/tp8VB1RgLlrbM8LhEwmyTg)**  
 Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng  
 
 [Toward DNN of LUTs: Learning Efficient Image Restoration With Multiple Look-Up Tables](https://ieeexplore.ieee.org/document/10530442/)        
@@ -222,7 +222,7 @@ Yang Yang; Nan Jiang; Yi Xu; De-Chuan Zhan
 Qi Li; Weining Wang; Chengzhong Xu; Zhenan Sun; Ming-Hsuan Yang  
 
 [Towards Lightweight Super-Resolution With Dual Regression Learning](https://ieeexplore.ieee.org/document/10558846/)     
-**通过双重回归学习实现轻量级超分辨率（zty）**  
+**[通过双重回归学习实现轻量级超分辨率](https://mp.weixin.qq.com/s/Y9Q4gkatHY2Aia8a9tyRag)**  
 Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu Xu; Jian Chen  
 
 [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)        
@@ -806,6 +806,7 @@ Bohao Qu; Xiaofeng Cao; Yi Chang; Ivor W. Tsang; Yew-Soon Ong
 Lucas Ventura; Antoine Yang; Cordelia Schmid; Gül Varol  
 
 [Curious Explorer: A Provable Exploration Strategy in Policy Learning](https://ieeexplore.ieee.org/document/10680592/)  
+**[好奇的探索者：策略学习中的可证明探索策略](https://mp.weixin.qq.com/s/Zpl2q3a4KSZXLFkJ2biJRg)**  
 Marco Miani; Maurizio Parton; Marco Romito  
 
 [Continual Learning From a Stream of APIs](https://ieeexplore.ieee.org/document/10684743/)  
@@ -824,7 +825,7 @@ Jian-Nan Su; Guodong Fan; Min Gan; Guang-Yong Chen; Wenzhong Guo; C. L. Philip C
 Yawen Lu; Cheng Han; Qifan Wang; Heng Fan; Zhaodan Kong; Dongfang Liu; Yingjie Chen  
 
 [Learning to Holistically Detect Bridges From Large-Size VHR Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10509806/)    
-**从大型VHR遥感图像中整体学习检测桥梁**  
+**[从大型VHR遥感图像中整体学习检测桥梁](https://mp.weixin.qq.com/s/yHXN1xB92MtYgG25f3U7jg)**  
 Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai  
 
 [3D Snapshot: Invertible Embedding of 3D Neural Representations in a Single Image](https://ieeexplore.ieee.org/document/10552101/)              

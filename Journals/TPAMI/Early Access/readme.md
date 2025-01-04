@@ -460,7 +460,7 @@ Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reet
 Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang  
 
 [Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement](https://ieeexplore.ieee.org/document/10713917/)  
-**快速基于窗口的事件去噪与时空相关性增强**   
+**[快速基于窗口的事件去噪与时空相关性增强](https://mp.weixin.qq.com/s/MHrX7ZHYF1KKpKIT0nqeBA)**   
 Huachen Fang; Jinjian Wu; Qibin Hou; Weisheng Dong; Guangming Shi  
 
 [Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation](https://ieeexplore.ieee.org/document/10713849/)  
@@ -474,7 +474,7 @@ Lin Zhu; Xianzhang Chen; Lizhi Wang; Xiao Wang; Yonghong Tian; Hua Huang
 Zhuo Zheng; Stefano Ermon; Dongjun Kim; Liangpei Zhang; Yanfei Zhong  
 
 [Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection](https://ieeexplore.ieee.org/document/10711208/)  
-**像素就是你所需要的一切：用于显着目标检测的对抗性时空集成主动学习**   
+**[像素就是你所需要的一切：用于显着目标检测的对抗性时空集成主动学习](https://mp.weixin.qq.com/s/lWBEVxTJ-2oQlNO2WMm52A)**   
 Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia; Chenglizhao Chen; Aimin Hao; Shuo Li  
 
 [FocalPose++: Focal Length and Object Pose Estimation Via Render and Compare](https://ieeexplore.ieee.org/document/10706831/)  
@@ -518,7 +518,7 @@ Ziyuan Qu; Omkar Vengurlekar; Mohamad Qadri; Kevin Zhang; Michael Kaess; Christo
 Lingting Zhu; Yizheng Chen; Lianli Liu; Lei Xing; Lequan Yu  
 
 [Textureless Deformable Object Tracking with Invisible Markers](https://ieeexplore.ieee.org/document/10684001/)  
-**使用隐形标记进行无纹理可变形对象跟踪**   
+**[使用隐形标记进行无纹理可变形对象跟踪](https://mp.weixin.qq.com/s/wZFBYwsd9JpzBPZxLfUDfw)**   
 Xinyuan Li; Yu Guo; Yubei Tu; Yu Ji; Yanchen Liu; Jinwei Ye; Changxi Zheng  
 
 [HOLI-1-to-3: Transient-Enhanced Holistic Image-to-3D Generation](https://ieeexplore.ieee.org/document/10684158/)  
@@ -526,7 +526,7 @@ Xinyuan Li; Yu Guo; Yubei Tu; Yu Ji; Yanchen Liu; Jinwei Ye; Changxi Zheng
 Siyuan Shen; Suan Xia; Xingyue Peng; Ziyu Wang; Yingsheng Zhu; Shiying Li; Jingyi Yu  
 
 [Cap4Video++: Enhancing Video Understanding with Auxiliary Captions](https://ieeexplore.ieee.org/document/10423573/)  
-**Cap4Video++：通过辅助字幕增强视频理解**  
+**[Cap4Video++：通过辅助字幕增强视频理解](https://mp.weixin.qq.com/s/lwBuLHZqqUJRiiFCXb7Hng)**  
 Wenhao Wu; Xiaohan Wang; Haipeng Luo; Jingdong Wang; Yi Yang; Wanli Ouyang
 
 [Nonconvex Zeroth-Order Stochastic ADMM Methods with Lower Function Query Complexity](https://ieeexplore.ieee.org/document/10423573/)  

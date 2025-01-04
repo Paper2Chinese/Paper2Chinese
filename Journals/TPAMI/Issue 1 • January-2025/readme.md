@@ -16,7 +16,7 @@ Jungang Yang;
 Wei An
 
 [Adaptive Neural Message Passing for Inductive Learning on Hypergraphs](https://ieeexplore.ieee.org/document/10612216/)  
-**自适应神经消息传递用于超图上的归纳学习**  
+**[自适应神经消息传递用于超图上的归纳学习](https://mp.weixin.qq.com/s/rXOKTvnUHxcDommbwKpmAg)**  
 Devanshu Arya;
 Deepak K. Gupta;
 Stevan Rudinac;
@@ -106,7 +106,7 @@ Donghua Wang
 
 
 [T2TD: Text-3D Generation Model Based on Prior Knowledge Guidance](https://ieeexplore.ieee.org/document/10684147/)  
-**T2TD: 基于先验知识指导的文本到3D生成模型**   
+**[T2TD: 基于先验知识指导的文本到3D生成模型](https://mp.weixin.qq.com/s/cZfv4ieTm0ebg33m8jCJzA)**   
 Weizhi Nie;
 Ruidong Chen;
 Weijie Wang;
@@ -153,7 +153,7 @@ Guobin Shen
 
 
 [A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute](https://ieeexplore.ieee.org/document/10682566/)  
-使用通用多尺度条件编码的多功能点云压缩器——第二部分：属性  
+[**使用通用多尺度条件编码的多功能点云压缩器——第二部分：属性**](https://mp.weixin.qq.com/s/T2N8QBwH41sSLdqVnk06pQ)  
 Jianqiang Wang;
 Ruixiang Xue;
 Jiaxin Li;
@@ -194,7 +194,7 @@ Chen Gong
 
 
 [GhostingNet: A Novel Approach for Glass Surface Detection With Ghosting Cues](https://ieeexplore.ieee.org/document/10684046/)  
-**GhostingNet：一种利用重影线索进行玻璃表面检测的新方法**   
+**[GhostingNet：一种利用重影线索进行玻璃表面检测的新方法](https://mp.weixin.qq.com/s/bxiZsB9qV2rG7JUWIdYKrA)**   
 Tao Yan;
 Jiahui Gao;
 Ke Xu;
@@ -206,7 +206,7 @@ Rynson W. H. Lau
 
 
 [Noise-Robust Vision-Language Pre-Training With Positive-Negative Learning](https://ieeexplore.ieee.org/document/10684058/)  
-**噪声鲁棒的视觉-语言预训练：正负学习方法**   
+**[噪声鲁棒的视觉-语言预训练：正负学习方法](https://mp.weixin.qq.com/s/k_BUofw37psm2Rdvf14jGQ)**   
 Zhenyu Huang;
 Mouxing Yang;
 Xinyan Xiao;
@@ -227,7 +227,7 @@ Song Wang
 
 
 [Tensor Coupled Learning of Incomplete Longitudinal Features and Labels for Clinical Score Regression](https://ieeexplore.ieee.org/document/10700983/)  
-**张量耦合学习不完整纵向特征和标签用于临床评分回归**   
+**[张量耦合学习不完整纵向特征和标签用于临床评分回归](https://mp.weixin.qq.com/s/3kQxuHRSKoS-M3PAoZv8bA)**   
 Qing Xiao;
 Guiying Liu;
 Qianjin Feng;
@@ -248,7 +248,7 @@ Hongmin Cai
 
 
 [Symbolic Visual Reinforcement Learning: A Scalable Framework With Object-Level Abstraction and Differentiable Expression Search](https://ieeexplore.ieee.org/document/10694733/)  
-**符号视觉强化学习：具有对象级抽象和可微表达式搜索的可扩展框架**   
+**[符号视觉强化学习：具有对象级抽象和可微表达式搜索的可扩展框架](https://mp.weixin.qq.com/s/1IaC_Skc1aZqEiKHoIt0ng)**   
 Wenqing Zheng;
 S. P. Sharan;
 Zhiwen Fan;
@@ -394,7 +394,7 @@ Si Liu
 
 
 [V2X-ViTv2: Improved Vision Transformers for Vehicle-to-Everything Cooperative Perception](https://ieeexplore.ieee.org/document/10715696/)  
-**V2X-ViTv2: 改进的视觉Transformer用于车联网协同感知**   
+**[V2X-ViTv2: 改进的视觉Transformer用于车联网协同感知](https://mp.weixin.qq.com/s/wi6RqNeFp9ikcxiWmWN1qw)**   
 Runsheng Xu;
 Chia-Ju Chen;
 Zhengzhong Tu;

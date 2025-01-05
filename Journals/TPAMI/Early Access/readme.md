@@ -30,18 +30,23 @@ Hang Lin; Yifan Peng; Yubo Zhang; Lin Bie; Xibin Zhao; Yue Gao
 Yifan Feng; Jiangang Huang; Shaoyi Du; Shihui Ying; Jun-Hai Yong; Yipeng Li; Guiguang Ding; Rongrong Ji; Yue Gao  
 
 [Efficient Signed Graph Sampling via Balancing & Gershgorin Disc Perfect Alignment](https://ieeexplore.ieee.org/document/10818598/)  
+**基于平衡与Gershgorin圆盘完美对齐的高效符号图采样**   
 Chinthaka Dinesh; Gene Cheung; Saghar Bagheri; Ivan V. Bajic  
 
 [Cross-Modal 3D Shape Retrieval via Heterogeneous Dynamic Graph Representation](https://ieeexplore.ieee.org/document/10818713/)  
+**跨模态3D形状检索：基于异质动态图表示的方法**   
 Yue Dai; Yifan Feng; Nan Ma; Xibin Zhao; Yue Gao  
 
 [JM3D & JM3D-LLM: Elevating 3D Representation With Joint Multi-Modal Cues](https://ieeexplore.ieee.org/document/10817587/)  
+**JM3D & JM3D-LLM：通过联合多模态线索提升3D表示学习**   
 Jiayi Ji; Haowei Wang; Changli Wu; Yiwei Ma; Xiaoshuai Sun; Rongrong Ji  
 
 [RenAIssance: A Survey Into AI Text-to-Image Generation in the Era of Large Model](https://ieeexplore.ieee.org/document/10817489/)  
+**RenAIssance：大模型时代的AI文本到图像生成综述**   
 Fengxiang Bie; Yibo Yang; Zhongzhu Zhou; Adam Ghanem; Minjia Zhang; Zhewei Yao; Xiaoxia Wu; Connor Holmes; Pareesa Golnari; David A. Clifton; Yuxiong He; Dacheng Tao; Shuaiwen Leon Song  
 
 [Training Networks in Null Space of Feature Covariance With Self-Supervision for Incremental Learning](https://ieeexplore.ieee.org/document/10816176/)  
+**在特征协方差的零空间中训练网络：结合自监督的增量学习**   
 Shipeng Wang; Xiaorong Li; Jian Sun; Zongben Xu  
 
 [Explicit View-Labels Matter: A Multifacet Complementarity Study of Multi-View Clustering](https://ieeexplore.ieee.org/document/10816579/)  

@@ -22,6 +22,7 @@ Bo Sun; Hao Kang; Li Guan; Haoxiang Li; Philippos Mordohai; Gang Hua
 Hang Lin; Yifan Peng; Yubo Zhang; Lin Bie; Xibin Zhao; Yue Gao  
 
 [Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation](https://ieeexplore.ieee.org/document/10818703/)  
+**Hyper-YOLO: 当视觉目标检测遇上超图计算**  
 Yifan Feng; Jiangang Huang; Shaoyi Du; Shihui Ying; Jun-Hai Yong; Yipeng Li; Guiguang Ding; Rongrong Ji; Yue Gao  
 
 [Efficient Signed Graph Sampling via Balancing & Gershgorin Disc Perfect Alignment](https://ieeexplore.ieee.org/document/10818598/)  

@@ -16,6 +16,7 @@ Xin Deng; Chenxiao Zhang; Lai Jiang; Jingyuan Xia; Mai Xu
 Wenhui Wu; Jian Weng; Pingping Zhang; Xu Wang; Wenhan Yang; Jianmin Jiang  
 
 [Glissando-Net: Deep Single vIew Category Level Pose eStimation ANd 3D Reconstruction](https://ieeexplore.ieee.org/document/10819370/)  
+**Glissando-Net: 基于单视图的类别级姿态估计与3D重建**   
 Bo Sun; Hao Kang; Li Guan; Haoxiang Li; Philippos Mordohai; Gang Hua  
 
 [Filter Pruning by High-Order Spectral Clustering](https://ieeexplore.ieee.org/document/10819307/)  

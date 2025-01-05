@@ -19,6 +19,7 @@ Wenhui Wu; Jian Weng; Pingping Zhang; Xu Wang; Wenhan Yang; Jianmin Jiang
 Bo Sun; Hao Kang; Li Guan; Haoxiang Li; Philippos Mordohai; Gang Hua  
 
 [Filter Pruning by High-Order Spectral Clustering](https://ieeexplore.ieee.org/document/10819307/)  
+**基于高阶谱聚类的滤波器剪枝**   
 Hang Lin; Yifan Peng; Yubo Zhang; Lin Bie; Xibin Zhao; Yue Gao  
 
 [Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation](https://ieeexplore.ieee.org/document/10818703/)  

@@ -305,64 +305,84 @@ Yangguang Li; Bin Huang; Zeren Chen; Yufeng Cui; Feng Liang; Mingzhu Shen; Fengg
 **通过域适应提升弱监督目标定位与分割性能（zty）**  
 Lei Zhu; Qi She; Qian Chen; Qiushi Ren; Yanye Lu  
 
-[DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10547294/)              
+[DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10506631/)     
+**DeepMulticut：从电子显微镜体积中进行神经元分割的多割问题的深度学习**  
 Zhenchen Li; Xu Yang; Jiazheng Liu; Bei Hong; Yanchao Zhang; Hao Zhai; Lijun Shen; Xi Chen; Zhiyong Liu; Hua Han  
 
-[Dual Input Stream Transformer for Vertical Drift Correction in Eye-Tracking Reading Data](https://ieeexplore.ieee.org/document/10552407/)              
+[Dual Input Stream Transformer for Vertical Drift Correction in Eye-Tracking Reading Data](https://ieeexplore.ieee.org/document/10506631/)     
+**双输入流Transformer用于眼动阅读数据中的垂直漂移校正**  
 Thomas M. Mercier; Marcin Budka; Martin R. Vasilev; Julie A. Kirkby; Bernhard Angele; Timothy J. Slattery  
 
-[Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation](https://ieeexplore.ieee.org/document/10552873/)              
+[Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation](https://ieeexplore.ieee.org/document/10506631/)     
+**视觉域适应中可区分性和可迁移性的几何理解**  
 You-Wei Luo; Chuan-Xian Ren; Xiao-Lin Xu; Qingshan Liu  
 
-[Efficient Masked Autoencoders With Self-Consistency](https://ieeexplore.ieee.org/document/10549831/)              
+[Efficient Masked Autoencoders With Self-Consistency](https://ieeexplore.ieee.org/document/10506631/)     
+**具有自一致性的高效掩码自编码器**  
 Zhaowen Li; Yousong Zhu; Zhiyang Chen; Wei Li; Rui Zhao; Chaoyang Zhao; Ming Tang; Jinqiao Wang  
 
-[Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://ieeexplore.ieee.org/document/10547422/)              
+[Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://ieeexplore.ieee.org/document/10506631/)     
+**记忆是说话人脸生成中的一对多映射缓解器**  
 Anni Tang; Tianyu He; Xu Tan; Jun Ling; Runnan Li; Sheng Zhao; Jiang Bian; Li Song  
 
-[Pix2HDR - A Pixel-Wise Acquisition and Deep Learning-Based Synthesis Approach for High-Speed HDR Videos](https://ieeexplore.ieee.org/document/10549830/)              
+[Pix2HDR - A Pixel-Wise Acquisition and Deep Learning-Based Synthesis Approach for High-Speed HDR Videos](https://ieeexplore.ieee.org/document/10506631/)     
+**Pix2HDR - 一种基于像素级采集和深度学习的高速HDR视频合成方法**  
 Caixin Wang; Jie Zhang; Matthew A. Wilson; Ralph Etienne-Cummings  
 
-[Statistical Analysis of Complex Shape Graphs](https://ieeexplore.ieee.org/document/10552433/)              
+[Statistical Analysis of Complex Shape Graphs](https://ieeexplore.ieee.org/document/10506631/)     
+**复杂形状图的统计分析**  
 Aditi Basu Bal; Xiaoyang Guo; Tom Needham; Anuj Srivastava  
 
-[GT-CAM: Game Theory Based Class Activation Map for GCN](https://ieeexplore.ieee.org/document/10555344/)              
+[GT-CAM: Game Theory Based Class Activation Map for GCN](https://ieeexplore.ieee.org/document/10506631/)     
+**GT-CAM：基于博弈论的图卷积网络类激活图**  
 Yanshan Li; Ting Shi; Zhiyuan Chen; Li Zhang; Weixin Xie  
 
-[Many-Objective Jaccard-Based Evolutionary Feature Selection for High-Dimensional Imbalanced Data Classification](https://ieeexplore.ieee.org/document/10561590/)              
+[Many-Objective Jaccard-Based Evolutionary Feature Selection for High-Dimensional Imbalanced Data Classification](https://ieeexplore.ieee.org/document/10506631/)     
+**基于多目标Jaccard的进化特征选择用于高维不平衡数据分类**  
 H. Saadatmand; Mohammad-R. Akbarzadeh-T  
 
-[Towards Visual-Prompt Temporal Answer Grounding in Instructional Video](https://ieeexplore.ieee.org/document/10552074/)              
+[Towards Visual-Prompt Temporal Answer Grounding in Instructional Video](https://ieeexplore.ieee.org/document/10506631/)     
+**面向教学视频的视觉提示时间答案定位**  
 Shutao Li; Bin Li; Bin Sun; Yixuan Weng  
 
-[DebSDF: Delving Into the Details and Bias of Neural Indoor Scene Reconstruction](https://ieeexplore.ieee.org/document/10559771/)              
+[DebSDF: Delving Into the Details and Bias of Neural Indoor Scene Reconstruction](https://ieeexplore.ieee.org/document/10506631/)     
+**DebSDF：探究神经室内场景重建的细节与偏差**  
 Yuting Xiao; Jingwei Xu; Zehao Yu; Shenghua Gao  
 
-[Revisiting the Trade-Off Between Accuracy and Robustness via Weight Distribution of Filters](https://ieeexplore.ieee.org/document/10552117/)              
+[Revisiting the Trade-Off Between Accuracy and Robustness via Weight Distribution of Filters](https://ieeexplore.ieee.org/document/10506631/)     
+**通过滤波器权重分布重新审视准确性与鲁棒性之间的权衡**  
 Xingxing Wei; Shiji Zhao; Bo Li  
 
-[NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion](https://ieeexplore.ieee.org/document/10552412/)              
+[NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion](https://ieeexplore.ieee.org/document/10506631/)     
+**NDDepth：法线距离辅助的单目深度估计与补全**  
 Shuwei Shao; Zhongcai Pei; Weihai Chen; Peter C. Y. Chen; Zhengguo Li  
 
-[Neural Disparity Refinement](https://ieeexplore.ieee.org/document/10552115/)              
+[Neural Disparity Refinement](https://ieeexplore.ieee.org/document/10506631/)     
+**神经视差优化**  
 Fabio Tosi; Filippo Aleotti; Pierluigi Zama Ramirez; Matteo Poggi; Samuele Salti; Stefano Mattoccia; Luigi Di Stefano  
 
-[CC4S: Encouraging Certainty and Consistency in Scribble-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10559264/)              
+[CC4S: Encouraging Certainty and Consistency in Scribble-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10506631/)     
+**CC4S：在涂鸦监督的语义分割中增强确定性和一致性**  
 Zhiyi Pan; Haochen Sun; Peng Jiang; Ge Li; Changhe Tu; Haibin Ling  
 
-[Fast Learning of Signed Distance Functions From Noisy Point Clouds via Noise to Noise Mapping](https://ieeexplore.ieee.org/document/10561582/)              
+[Fast Learning of Signed Distance Functions From Noisy Point Clouds via Noise to Noise Mapping](https://ieeexplore.ieee.org/document/10506631/)     
+**通过噪声到噪声映射从噪声点云快速学习有符号距离函数**  
 Junsheng Zhou; Baorui Ma; Yu-Shen Liu; Zhizhong Han  
 
-[A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://ieeexplore.ieee.org/document/10558790/)              
+[A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://ieeexplore.ieee.org/document/10506631/)     
+**开放词汇检测与分割的综述：过去、现在与未来**  
 Chaoyang Zhu; Long Chen  
 
-[HOPE: A Hierarchical Perspective for Semi-Supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262/)              
+[HOPE: A Hierarchical Perspective for Semi-Supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10506631/)     
+**HOPE：半监督2D-3D跨模态检索的层次化视角**  
 Fan Zhang; Hang Zhou; Xian-Sheng Hua; Chong Chen; Xiao Luo  
 
-[MOODv2: Masked Image Modeling for Out-of-Distribution Detection](https://ieeexplore.ieee.org/document/10553645/)              
+[MOODv2: Masked Image Modeling for Out-of-Distribution Detection](https://ieeexplore.ieee.org/document/10506631/)     
+**MOODv2：用于分布外检测的掩码图像建模**  
 Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia  
 
-[Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/document/10553349/)  
+[Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/document/10506631/)     
+**改进的促进多样性的协作度量学习用于推荐**  
 Shilong Bao; Qianqian Xu; Zhiyong Yang; Yuan He; Xiaochun Cao; Qingming Huang  
 
 [Influence Function Based Second-Order Channel Pruning: Evaluating True Loss Changes for Pruning is Possible Without Retraining](https://ieeexplore.ieee.org/document/10561558/)  

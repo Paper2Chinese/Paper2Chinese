@@ -285,19 +285,24 @@ Shengchao Hu; Li Shen; Ya Zhang; Yixin Chen; Dacheng Tao
 **更多关注视觉-语言目标跟踪（zty）**  
 Mingzhe Guo; Zhipeng Zhang; Liping Jing; Haibin Ling; Heng Fan  
 
-[Wasserstein Discriminant Dictionary Learning for Graph Representation](https://ieeexplore.ieee.org/document/10549813/)              
+[Wasserstein Discriminant Dictionary Learning for Graph Representation](https://ieeexplore.ieee.org/document/10549813/)      
+**用于图表示的Wasserstein判别字典学习（zty）**  
 Tong Zhang; Guangbu Liu; Zhen Cui; Wei Liu; Wenming Zheng; Jian Yang  
 
-[Zone Evaluation: Revealing Spatial Bias in Object Detection](https://ieeexplore.ieee.org/document/10547427/)              
+[Zone Evaluation: Revealing Spatial Bias in Object Detection](https://ieeexplore.ieee.org/document/10547427/)        
+**区域评估：揭示目标检测中的空间偏差（zty）**  
 Zhaohui Zheng; Yuming Chen; Qibin Hou; Xiang Li; Ping Wang; Ming-Ming Cheng  
 
-[Relational Proxies: Fine-Grained Relationships as Zero-Shot Discriminators](https://ieeexplore.ieee.org/document/10547449/)              
+[Relational Proxies: Fine-Grained Relationships as Zero-Shot Discriminators](https://ieeexplore.ieee.org/document/10547449/)         
+**关系代理：细粒度关系作为零样本判别器（zty）**  
 Abhra Chaudhuri; Massimiliano Mancini; Zeynep Akata; Anjan Dutta  
 
-[Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline](https://ieeexplore.ieee.org/document/10557672/)              
+[Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline](https://ieeexplore.ieee.org/document/10557672/)      
+**Fast-BEV：一种快速且强大的鸟瞰视图感知基线模型（zty）**  
 Yangguang Li; Bin Huang; Zeren Chen; Yufeng Cui; Feng Liang; Mingzhu Shen; Fenggang Liu; Enze Xie; Lu Sheng; Wanli Ouyang; Jing Shao  
 
-[Boosting Weakly Supervised Object Localization and Segmentation With Domain Adaption](https://ieeexplore.ieee.org/document/10552078/)              
+[Boosting Weakly Supervised Object Localization and Segmentation With Domain Adaption](https://ieeexplore.ieee.org/document/10552078/)    
+**通过域适应提升弱监督目标定位与分割性能（zty）**  
 Lei Zhu; Qi She; Qian Chen; Qiushi Ren; Yanye Lu  
 
 [DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10547294/)              

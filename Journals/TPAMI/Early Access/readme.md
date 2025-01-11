@@ -234,9 +234,6 @@ Tianyi Zhang; Matthew Dutson; Vivek Boominathan; Mohit Gupta; Ashok Veeraraghava
 [Partial Scene Text Retrieval](https://ieeexplore.ieee.org/document/10758313/)  
 Hao Wang; Minghui Liao; Zhouyi Xie; Wenyu Liu; Xiang Bai  
 
-[FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels](https://ieeexplore.ieee.org/document/10758248/)  
-Lue Fan; Feng Wang; Naiyan Wang; Zhaoxiang Zhang  
-
 [BokehMe++: Harmonious Fusion of Classical and Neural Rendering for Versatile Bokeh Creation](https://ieeexplore.ieee.org/document/10756626/)  
 Juewen Peng; Zhiguo Cao; Xianrui Luo; Ke Xian; Wenfeng Tang; Jianming Zhang; Guosheng Lin  
 
@@ -252,20 +249,8 @@ Jiechao Yang; Yong Liu; Wei Wang; Haoran Wu; Zhiyuan Chen; Xibo Ma
 [Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation](https://ieeexplore.ieee.org/document/10750316/)  
 Maoyuan Ye; Jing Zhang; Juhua Liu; Chenyu Liu; Baocai Yin; Cong Liu; Bo Du; Dacheng Tao  
 
-[Estimating Information Theoretic Measures via Multidimensional Gaussianization](https://ieeexplore.ieee.org/document/10750401/)  
-Valero Laparra; J. Emmanuel Johnson; Gustau Camps-Valls; Raul Santos-Rodríguez; Jesús Malo  
-
-[Online Learning Under A Separable Stochastic Approximation Framework](https://ieeexplore.ieee.org/document/10750307/)  
-Min Gan; Xiang-xiang Su; Guang-yong Chen; Jing Chen; C. L. Philip Chen  
-
-[Event-Enhanced Snapshot Compressive Videography at 10K FPS](https://ieeexplore.ieee.org/document/10750378/)  
-Bo Zhang; Jinli Suo; Qionghai Dai  
-
 [Multi-scale Part-based Feature Representation for 3D Domain Generalization and Adaptation](https://ieeexplore.ieee.org/document/10750436/)  
 Xin Wei; Xiang Gu; Jian Sun  
-
-[Fast and Functional Structured Data Generators Rooted in Out-of-Equilibrium Physics](https://ieeexplore.ieee.org/document/10750287/)  
-Alessandra Carbone; Aurélien Decelle; Lorenzo Rosset; Beatriz Seoane  
 
 [Insights on 'Complex-Valued Iris Recognition Network'](https://ieeexplore.ieee.org/document/10747294/)  
 Ajay Kumar
@@ -274,140 +259,13 @@ Ajay Kumar
 **最小延迟深度在线视频稳定及其扩展**  
 Shuaicheng Liu; Zhuofan Zhang; Zhen Liu; Ping Tan; Bing Zeng  
 
-[Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/document/10734169/)  
-**语言启发的少样本类增量学习中的关系迁移**  
-Yifan Zhao; Jia Li; Zeyin Song; Yonghong Tian  
-
-[Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10734169/)  
-**多模态多属性对比预训练用于图像美学计算**  
-Yipo Huang; Leida Li; Pengfei Chen; Haoning Wu; Weisi Lin; Guangming Shi  
-
-[360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10734169/)  
-**360SFUDA++：通过学习可靠类别原型实现全景分割的无源域自适应**  
-Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang  
-
-[Anti-Forgetting Adaptation for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10734169/)  
-**无监督行人重识别的抗遗忘适应**  
-Hao Chen; Francois Bremond; Nicu Sebe; Shiliang Zhang  
-
-[OffsetNet: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](https://ieeexplore.ieee.org/document/10734169/)  
-**OffsetNet：面向高效的多目标跟踪、检测与分割**  
-Wei Zhang; Jiaming Li; Meng Xia; Xu Gao; Xiao Tan; Yifeng Shi; Zhenhua Huang; Guanbin Li  
-
-[Evolved Hierarchical Masking for Self-Supervised Learning](https://ieeexplore.ieee.org/document/10734169/)  
-**自监督学习的进化分层掩码**  
-Zhanzhou Feng; Shiliang Zhang  
-
-[The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10734169/)  
-**解耦概念瓶颈模型**  
-Rui Zhang; Xingbo Du; Junchi Yan; Shihua Zhang  
-
-[Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10734169/)  
-**动态特征与噪声标签的自适应学习**  
-Shilin Gu; Chao Xu; Dewen Hu; Chenping Hou  
-
 [Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination](https://ieeexplore.ieee.org/document/10734169/)  
 **复空间中虚连接嵌入用于未见属性-对象判别**  
 Chenyi Jiang; Shidong Wang; Yang Long; Zechao Li; Haofeng Zhang; Ling Shao  
 
-[Noise Self-Regression: A New Learning Paradigm to Enhance Low-Light Images Without Task-Related Data](https://ieeexplore.ieee.org/document/10734169/)  
-**噪声自回归：一种无需任务相关数据增强低光图像的新学习范式**  
-Zhao Zhang; Suiyi Zhao; Xiaojie Jin; Mingliang Xu; Yi Yang; Shuicheng Yan; Meng Wang  
-
-[FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations](https://ieeexplore.ieee.org/document/10734169/)  
-**FLAC：通过抑制属性-类别关联实现公平感知表示学习**  
-Ioannis Sarridis; Christos Koutlis; Symeon Papadopoulos; Christos Diou  
-
-[PSRR-MaxpoolNMS++: Fast Non-Maximum Suppression with Discretization and Pooling](https://ieeexplore.ieee.org/document/10734169/)  
-**PSRR-MaxpoolNMS++：结合离散化与池化的快速非极大值抑制**  
-Tianyi Zhang; Chunyun Chen; Yun Liu; Xue Geng; Mohamed M. Sabry Aly; Jie Lin  
-
-[Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10734169/)  
-**先解耦后组合：学习不变的解耦特征用于组合零样本学习**  
-Tian Zhang; Kongming Liang; Ruoyi Du; Wei Chen; Zhanyu Ma  
-
-[Illuminating Salient Contributions in Neuron Activation with Attribution Equilibrium](https://ieeexplore.ieee.org/document/10734265/)  
-**揭示神经元激活中的显著贡献：归因均衡**  
-Woo-Jeoung Nam; Seong-Whan Lee  
-
-[Ensemble-Enhanced Semi-Supervised Learning with Optimized Graph Construction for High-Dimensional Data](https://ieeexplore.ieee.org/document/10735110/)  
-**面向高维数据的优化图构建增强半监督学习**  
-Guojie Li; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen; Xuelong Li  
-
-[Universal Fingerprint Generation: Controllable Diffusion Model with Multimodal Conditions](https://ieeexplore.ieee.org/document/10734169/)  
-**通用指纹生成：可控扩散模型与多模态条件** 
-Steven A. Grosz; Anil K. Jain  
-
-[On the Distillation of Stories for Transferring Narrative Arcs in Collections of Independent Media](https://ieeexplore.ieee.org/document/10734853/)  
-**独立媒体集合中叙事弧线的迁移：故事蒸馏**  
-Dylan R. Ashley; Vincent Herrmann; Zachary Friggstad; Jürgen Schmidhuber  
-
-[Prompt Tuning of Deep Neural Networks for Speaker-adaptive Visual Speech Recognition](https://ieeexplore.ieee.org/document/10726873/)  
-**针对说话人自适应视觉语音识别的深度神经网络提示调整**  
-Minsu Kim; Hyung-Il Kim; Yong Man Ro  
-
-[Intelligent Bionic Polarization Orientation Method Using Biological Neuron Model for Harsh Conditions](https://ieeexplore.ieee.org/document/10723758/)  
-**恶劣条件下使用生物神经元模型的智能仿生偏振定向方法**  
-Chong Shen; Yicheng Wu; Guanyu Qian; Xindong Wu; Huiliang Cao; Chenguang Wang; Jun Tang; Jun Liu  
-
-[Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small](https://ieeexplore.ieee.org/document/10721599/)  
-**在忆阻器交叉阵列上实现大型语言模型的能效部署：大与小的协同**  
-Zhehui Wang; Tao Luo; Cheng Liu; Weichen Liu; Rick Siow Mong Goh; Weng-Fai Wong  
-
-[Towards Data-and Knowledge-Driven AI: A Survey on Neuro-Symbolic Computing](https://ieeexplore.ieee.org/document/10721277/)  
-**走向数据和知识驱动的人工智能：神经符号计算综述**  
-Wenguan Wang; Yi Yang; Fei Wu  
-
-[VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://ieeexplore.ieee.org/document/10721284/)  
-**VALOR：视觉-音频-语言全感知预训练模型与数据集**  
-Jing Liu; Sihan Chen; Xingjian He; Longteng Guo; Xinxin Zhu; Weining Wang; Jinhui Tang  
-
-[Diffusion Models for Imperceptible and Transferable Adversarial Attack](https://ieeexplore.ieee.org/document/10716799/)  
-**用于不可感知和可迁移对抗性攻击的扩散模型**  
-Jianqi Chen; Hao Chen; Keyan Chen; Yilan Zhang; Zhengxia Zou; Zhenwei Shi  
-
-[VATr++: Choose Your Words Wisely for Handwritten Text Generation](https://ieeexplore.ieee.org/document/10716806/)  
-**[VATr++: 明智选择词汇以生成手写文本](https://mp.weixin.qq.com/s/vVA2Ff98Om09wgv8WhzZ7g)**   
-Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reeth; Rita Cucchiara  
-
-[ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations](https://ieeexplore.ieee.org/document/10716289/)  
-**[ImFace++: 一个复杂的非线性3D可变形人脸模型，具有隐式神经表示](https://mp.weixin.qq.com/s/2-3ZTIz0e6yU0Bii9DhRgQ)**   
-Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang  
-
 [Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement](https://ieeexplore.ieee.org/document/10713917/)  
 **[快速基于窗口的事件去噪与时空相关性增强](https://mp.weixin.qq.com/s/MHrX7ZHYF1KKpKIT0nqeBA)**   
 Huachen Fang; Jinjian Wu; Qibin Hou; Weisheng Dong; Guangming Shi  
-
-[Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation](https://ieeexplore.ieee.org/document/10713849/)  
-**鲁棒多模态学习与缺失模态通过参数高效适应**   
-Md Kaykobad Reza; Ashley Prater-Bennette; M. Salman Asif  
-
-[Continuous-time Object Segmentation using High Temporal Resolution Event Camera](https://ieeexplore.ieee.org/document/10713285/)  
-Lin Zhu; Xianzhang Chen; Lizhi Wang; Xiao Wang; Yonghong Tian; Hua Huang  
-
-[Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model](https://ieeexplore.ieee.org/document/10713915/)  
-Zhuo Zheng; Stefano Ermon; Dongjun Kim; Liangpei Zhang; Yanfei Zhong  
-
-[Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection](https://ieeexplore.ieee.org/document/10711208/)  
-**[像素就是你所需要的一切：用于显着目标检测的对抗性时空集成主动学习](https://mp.weixin.qq.com/s/lWBEVxTJ-2oQlNO2WMm52A)**   
-Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia; Chenglizhao Chen; Aimin Hao; Shuo Li  
-
-[FocalPose++: Focal Length and Object Pose Estimation Via Render and Compare](https://ieeexplore.ieee.org/document/10706831/)  
-**[FocalPose++：基于渲染和比较的焦距和物体姿态估计](https://mp.weixin.qq.com/s/u1x897dcKd5xOp-PVdWv2w)**  
-Martin Cífka; Georgy Ponimatkin; Yann Labbé; Bryan Russell; Mathieu Aubry; Vladimir Petrik; Josef Sivic  
-
-[Probing Synergistic High-Order Interaction for Multi-modal Image Fusion](https://ieeexplore.ieee.org/document/10706703/)  
-Man Zhou; Naishan Zheng; Xuanhua He; Danfeng Hong; Jocelyn Chanussot  
-
-[GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection](https://ieeexplore.ieee.org/document/10706891/)  
-**[GUPNet++：用于单目三维目标检测的几何不确定性传播网络](https://mp.weixin.qq.com/s/N-2T5isvJFbnB2MUTvnzcQ)**   
-Yan Lu; Xinzhu Ma; Lei Yang; Tianzhu Zhang; Yating Liu; Qi Chu; Tong He; Yonghui Li; Wanli Ouyang  
-
-[Competing for Pixels: A Self-play Algorithm for Weakly-supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10705046/)  
-Shaheer U. Saeed; Shiqi Huang; João Ramalhinho; Iani J.M.B. Gayo; Nina Montaña-Brown; Ester Bonmati; Stephen P. Pereira; Brian Davidson; Dean C. Barratt; Matthew J. Clarkson; Yipeng Hu  
-
-[Sparse Non-Local CRF With Applications](https://ieeexplore.ieee.org/document/10705039/)  
-Olga Veksler; Yuri Boykov  
 
 [NeMF: Neural Microphysics Fields](https://ieeexplore.ieee.org/document/10700962/)  
 **[NeMF：神经微物理场](https://mp.weixin.qq.com/s/J6FiO4TTL2eV9lWnpbaoxw)**   
@@ -464,18 +322,9 @@ Yuanhan Zhang; Kaiyang Zhou; Ziwei Liu
 **Ego4D：在3000小时的自我中心视频中环游世界**  
 Kristen Grauman et al.;
 
-[Matryoshka: Exploiting the Over-Parametrization of Deep Learning Models for Covert Data Transmission](https://ieeexplore.ieee.org/document/10423573/)  
-**Matryoshka：利用深度学习模型的过度参数化进行隐蔽数据传输**  
-Xudong Pan; Mi Zhang; Yifan Yan; Shengyao Zhang; Min Yang
-
 [Unpaired Image-text Matching via Multimodal Aligned Conceptual Knowledge](https://ieeexplore.ieee.org/document/10423573/)  
 **通过多模态对齐的概念知识进行非配对的图像-文本匹配**  
 Yan Huang; Yuming Wang; Yunan Zeng; Junshi Huang; Zhenhua Chai; Liang Wang
-
-
-[Human-Centric Transformer for Domain Adaptive Action Recognition](https://ieeexplore.ieee.org/document/10599825/)  
-**以人为中心的Transformer：用于领域自适应动作识别（zty）**  
-Kun-Yu Lin; Jiaming Zhou; Wei-Shi Zheng  
 
 [The effects of experiment duration and supertrial analysis on EEG classification methods](https://ieeexplore.ieee.org/document/10592658/)  
 **实验时长与超试验分析对脑电图分类方法的影响（zty）**  
@@ -607,8 +456,6 @@ Sean I. Young; Adrian V. Dalca; Enzo Ferrante; Polina Golland; Christopher A. Me
 [Using Zodiacal Light For Spaceborne Calibration Of Polarimetric Imagers](https://ieeexplore.ieee.org/document/10196015/)  
 Or Avitan; Yoav Y. Schechner; Ehud Behar  
 
-
-
 [Pixel-Perfect Structure-From-Motion With Featuremetric Refinement](https://ieeexplore.ieee.org/document/10018409/)  
 Paul-Edouard Sarlin; Philipp Lindenberger; Viktor Larsson; Marc Pollefeys  
 
@@ -653,12 +500,3 @@ Antoine Yang; Antoine Miech; Josef Sivic; Ivan Laptev; Cordelia Schmid
 
 [FINC: An Efficient and Effective Optimization Method for Normalized Cut](https://ieeexplore.ieee.org/document/9706351/)  
 Xiaojun Chen; Zhicong Xiao; Feiping Nie; Joshua Zhexue Huang 
-
-[Minimum Latency Deep Online Video Stabilization and Its Extensions](https://ieeexplore.ieee.org/document/10746630/)
-Shuaicheng Liu; Zhuofan Zhang; Zhen Liu; Ping Tan; Bing Zeng  
-
-[Recent Advances in Optimal Transport for Machine Learning](https://ieeexplore.ieee.org/document/10740308/)
-Eduardo Fernandes Montesuma; Fred Maurice Ngolè Mboula; Antoine Souloumiac  
-
-[Efficient Analysis of Overdispersed Data Using an Accurate Computation of the Dirichlet Multinomial Distribution](https://ieeexplore.ieee.org/document/10740644/)
-Sherenaz Al-Haj Baddar; Alessandro Languasco; Mauro Migliardi  

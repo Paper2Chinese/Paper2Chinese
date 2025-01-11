@@ -397,7 +397,7 @@ Bowen Xing; Ivor W. Tsang
 Kang-Zhi Liu; Chao Gan 
 
 [A Versatile Framework for Multi-Scene Person Re-Identification](https://ieeexplore.ieee.org/document/10510353/)   
-**多场景人员再识别的多功能框架**  
+**[多场景人员再识别的多功能框架](https://mp.weixin.qq.com/s/TAxLThrG9JHiwk3becTuSg)**  
 Wei-Shi Zheng; Junkai Yan; Yi-Xing Peng
 
 [Consistency-Aware Anchor Pyramid Network for Crowd Localization](https://ieeexplore.ieee.org/document/10510228/)  

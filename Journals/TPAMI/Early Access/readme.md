@@ -3,6 +3,54 @@
 
 ----
 
+[DHVT: Dynamic Hybrid Vision Transformer for Small Dataset Recognition](https://ieeexplore.ieee.org/document/10836856/)  
+Zhiying Lu; Chuanbin Liu; Xiaojun Chang; Yongdong Zhang; Hongtao Xie  
+
+[TDGI: Translation-Guided Double-Graph Inference for Document-Level Relation Extraction](https://ieeexplore.ieee.org/document/10836885/)  
+Lingling Zhang; Yujie Zhong; Qinghua Zheng; Jun Liu; Qianying Wang; Jiaxin Wang; Xiaojun Chang  
+
+[DiffTF++: 3D-Aware Diffusion Transformer for Large-Vocabulary 3D Generation](https://ieeexplore.ieee.org/document/10836771/)  
+Ziang Cao; Fangzhou Hong; Tong Wu; Liang Pan; Ziwei Liu  
+
+[Adaptive Biased Stochastic Optimization](https://ieeexplore.ieee.org/document/10836750/)  
+Zhuang Yang
+
+[Auto-Pairing Positives through Implicit Relation Circulation for Discriminative Self-Learning](https://ieeexplore.ieee.org/document/10835191/)  
+Bo Pang; Zhenyu Wei; Jingli Lin; Cewu Lu  
+
+[Foundation Models Defining a New Era in Vision: a Survey and Outlook](https://ieeexplore.ieee.org/document/10834497/)  
+Muhammad Awais; Muzammal Naseer; Salman Khan; Rao Muhammad Anwer;  Hisham Cholakkal; Mubarak Shah; Ming-Hsuan Yang; Fahad Shahbaz Khan  
+
+[Latent Weight Quantization for Integerized Training of Deep Neural Networks](https://ieeexplore.ieee.org/document/10834560/)  
+Wen Fei; Wenrui Dai; Liang Zhang; Luoming Zhang; Chenglin Li; Junni Zou; Hongkai Xiong 
+
+[Enhancing Object Detection With Fourier Series](https://ieeexplore.ieee.org/document/10833868/)  
+Jin Liu; Zhongyuan Lu; Yaorong Cen; Hui Hu; Zhenfeng Shao; Yong Hong; Ming Jiang; Miaozhong Xu  
+
+[Conditional Diffusion Models for Camouflaged and Salient Object Detection](https://ieeexplore.ieee.org/document/10834569/)  
+Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji  
+
+[Image Quality Assessment: Exploring Joint Degradation Effect of Deep Network Features Via Kernel Representation Similarity Analysis](https://ieeexplore.ieee.org/document/10833846/)  
+Xingran Liao; Xuekai Wei; Mingliang Zhou; Hau-San Wong; Sam Kwong  
+
+[Hybrid-Prediction Integrated Planning for Autonomous Driving](https://ieeexplore.ieee.org/document/10833731/)  
+Haochen Liu; Zhiyu Huang; Wenhui Huang; Haohan Yang; Xiaoyu Mo; Chen Lv  
+
+[Robust Asymmetric Heterogeneous Federated Learning with Corrupted Clients](https://ieeexplore.ieee.org/document/10833756/)  
+Xiuwen Fang; Mang Ye; Bo Du  
+
+[Non-Uniform Exposure Imaging Via Neuromorphic Shutter Control](https://ieeexplore.ieee.org/document/10829814/)  
+Mingyuan Lin; Jian Liu; Chi Zhang; Zibo Zhao; Chu He; Lei Yu  
+
+[Anchors Crash Tensor: Efficient and Scalable Tensorial Multi-view Subspace Clustering](https://ieeexplore.ieee.org/document/10829999/)  
+Jintian Ji; Songhe Feng  
+
+[Towards High-Quality and Disentangled Face Editing in a 3D GAN](https://ieeexplore.ieee.org/document/10829803/)  
+Kaiwen Jiang; Shu-Yu Chen; Feng-Lin Liu; Hongbo Fu; Lin Gao  
+
+[Distributionally Location-Aware Transferable Adversarial Patches for Facial Images](https://ieeexplore.ieee.org/document/10829780/)  
+Xingxing Wei; Shouwei Ruan; Yinpeng Dong; Hang Su; Xiaochun Cao  
+
 [Instruction-Guided Scene Text Recognition](https://ieeexplore.ieee.org/document/10820836/)  
 Yongkun Du; Zhineng Chen; Yuchen Su; Caiyan Jia; Yu-Gang Jiang  
 

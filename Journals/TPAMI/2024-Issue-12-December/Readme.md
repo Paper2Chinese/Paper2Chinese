@@ -206,11 +206,11 @@ Qibin Hou; Cheng-Ze Lu; Ming-Ming Cheng; Jiashi Feng
 Jiacheng Li; Chang Chen; Zhen Cheng; Zhiwei Xiong  
 
 [Provable Unrestricted Adversarial Training Without Compromise With Generalizability](https://ieeexplore.ieee.org/document/10530438/)    
-**无需妥协即可证明的无限制对抗训练与泛化能力（zty）**  
+**[无需妥协即可证明的无限制对抗训练与泛化能力](https://mp.weixin.qq.com/s/oKu-kn-vZMSMKHV5MJMQSw)**  
 Lilin Zhang; Ning Yang; Yanchao Sun; Philip S. Yu  
 
 [Bridging Global Context Interactions for High-Fidelity Pluralistic Image Completion](https://ieeexplore.ieee.org/document/10535740/)           
-**桥接全局上下文交互以实现高保真多元图像补全（zty）**  
+**[桥接全局上下文交互以实现高保真多元图像补全](https://mp.weixin.qq.com/s/4qO68km_fzaAsMBt0f9vDg)**  
 Chuanxia Zheng; Guoxian Song; Tat-Jen Cham; Jianfei Cai; Linjie Luo; Dinh Phung  
 
 [Robust Semi-Supervised Learning by Wisely Leveraging Open-Set Data](https://ieeexplore.ieee.org/document/10536663/)      
@@ -226,7 +226,7 @@ Qi Li; Weining Wang; Chengzhong Xu; Zhenan Sun; Ming-Hsuan Yang
 Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu Xu; Jian Chen  
 
 [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065/)        
-**MCTformer+：用于弱监督语义分割的多类别令牌Transformer（zty）**  
+**[MCTformer+：用于弱监督语义分割的多类别令牌Transformer](https://mp.weixin.qq.com/s/yC4dhEcpuJzdrKezNlZ4Cg)**  
 Lian Xu; Mohammed Bennamoun; Farid Boussaid; Hamid Laga; Wanli Ouyang; Dan Xu  
 
 [IGCN: A Provably Informative GCN Embedding for Semi-Supervised Learning With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10538043/)  
@@ -234,7 +234,7 @@ Lian Xu; Mohammed Bennamoun; Farid Boussaid; Hamid Laga; Wanli Ouyang; Dan Xu
 Lin Zhang; Ran Song; Wenhao Tan; Lin Ma; Wei Zhang  
 
 [Object-Centric Representation Learning for Video Scene Understanding](https://ieeexplore.ieee.org/document/10531009/)        
-**以对象为中心的表示学习在视频场景理解中的应用。（zty）**    
+**[以对象为中心的表示学习在视频场景理解中的应用](https://mp.weixin.qq.com/s/2ah581lKQovervaUoNpcFw)**    
 Yi Zhou; Hui Zhang; Seung-In Park; ByungIn Yoo; Xiaojuan Qi  
 
 [Brain-Inspired Image Perceptual Quality Assessment Based on EEG: A QoE Perspective](https://ieeexplore.ieee.org/document/10546309/)      
@@ -250,7 +250,7 @@ Mete Ahishali; Mehmet Yamac; Serkan Kiranyaz; Moncef Gabbouj
 Ziyang Song; Bo Yang  
 
 [Curvature Regularization for Non-Line-of-Sight Imaging From Under-Sampled Data](https://ieeexplore.ieee.org/document/10552070/)     
-**基于曲率正则化的欠采样非视距成像(ZTY)**  
+**[基于曲率正则化的欠采样非视距成像](https://mp.weixin.qq.com/s/TjBXQIVdPQu9GJvIoHkKtg)**  
 Rui Ding; Juntian Ye; Qifeng Gao; Feihu Xu; Yuping Duan  
 
 [SSR-2D: Semantic 3D Scene Reconstruction From 2D Images](https://ieeexplore.ieee.org/document/10549849/)   
@@ -266,7 +266,7 @@ Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Ch
 Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi  
 
 [Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)        
-**基于大型模型的视觉-语言导航中的可修正地标发现（zty）**  
+**[基于大型模型的视觉-语言导航中的可修正地标发现](https://mp.weixin.qq.com/s/e5WaG0Y_Pm28cDxtchoJTQ)**  
 Bingqian Lin; Yunshuang Nie; Ziming Wei; Yi Zhu; Hang Xu; Shikui Ma; Jianzhuang Liu; Xiaodan Liang  
 
 [Behind Every Domain There is a Shift: Adapting Distortion-Aware Vision Transformers for Panoramic Semantic Segmentation](https://ieeexplore.ieee.org/document/10546335/)        
@@ -278,7 +278,7 @@ Jiaming Zhang; Kailun Yang; Hao Shi; Simon Reiß; Kunyu Peng; Chaoxiang Ma; Haod
 James Oldfield; Christos Tzelepis; Yannis Panagakis; Mihalis A. Nicolaou; Ioannis Patras  
 
 [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/document/10546317/)   
-**基于变换器的强化学习转型：发展轨迹（zty）**  
+**[基于变换器的强化学习转型：发展轨迹](https://mp.weixin.qq.com/s/bg_47XK0KEGIzPfz2deLbQ)**  
 Shengchao Hu; Li Shen; Ya Zhang; Yixin Chen; Dacheng Tao  
 
 [Divert More Attention to Vision-Language Object Tracking](https://ieeexplore.ieee.org/document/10547435/)              

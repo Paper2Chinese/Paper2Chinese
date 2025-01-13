@@ -386,18 +386,23 @@ Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia
 Shilong Bao; Qianqian Xu; Zhiyong Yang; Yuan He; Xiaochun Cao; Qingming Huang  
 
 [Influence Function Based Second-Order Channel Pruning: Evaluating True Loss Changes for Pruning is Possible Without Retraining](https://ieeexplore.ieee.org/document/10561558/)  
+**基于影响函数的二阶通道剪枝：无需重新训练即可评估剪枝的真实损失变化（zty）**  
 Hongrong Cheng; Miao Zhang; Javen Qinfeng Shi  
 
 [GALA: Graph Diffusion-Based Alignment With Jigsaw for Source-Free Domain Adaptation](https://ieeexplore.ieee.org/document/10561561/)  
+**GALA: 基于图扩散的对齐与拼图策略用于无源域适应（zty）**  
 Junyu Luo; Yiyang Gu; Xiao Luo; Wei Ju; Zhiping Xiao; Yusheng Zhao; Jingyang Yuan; Ming Zhang  
 
 [A Survey on Self-Supervised Learning: Algorithms, Applications, and Future Trends](https://ieeexplore.ieee.org/document/10559458/)  
+**自监督学习综述：算法、应用与未来趋势（zty）**  
 Jie Gui; Tuo Chen; Jing Zhang; Qiong Cao; Zhenan Sun; Hao Luo; Dacheng Tao  
 
 [Guaranteed Coverage Prediction Intervals With Gaussian Process Regression](https://ieeexplore.ieee.org/document/10569019/)  
+**具有高斯过程回归的保证覆盖预测区间（zty）**  
 Harris Papadopoulos  
 
 [Self-Supervised Adversarial Training of Monocular Depth Estimation Against Physical-World Attacks](https://ieeexplore.ieee.org/document/10559903/)  
+**自监督对抗训练的单目深度估计对抗物理世界攻击（zty）**  
 Zhiyuan Cheng; Cheng Han; James Liang; Qifan Wang; Xiangyu Zhang; Dongfang Liu  
 
 [Vision + X: A Survey on Multimodal Learning in the Light of Data](https://ieeexplore.ieee.org/document/10577498/)  

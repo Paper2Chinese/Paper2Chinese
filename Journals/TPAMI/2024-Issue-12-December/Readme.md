@@ -406,88 +406,116 @@ Harris Papadopoulos
 Zhiyuan Cheng; Cheng Han; James Liang; Qifan Wang; Xiangyu Zhang; Dongfang Liu  
 
 [Vision + X: A Survey on Multimodal Learning in the Light of Data](https://ieeexplore.ieee.org/document/10577498/)  
+**Vision + X：数据视角下的多模态学习综述**  
 Ye Zhu; Yu Wu; Nicu Sebe; Yan Yan  
 
 [Simplex Clustering via sBeta With Applications to Online Adjustment of Black-Box Predictions](https://ieeexplore.ieee.org/document/10571603/)  
+**基于sBeta的单纯形聚类及其在黑箱预测在线调整中的应用**  
 Florent Chiaroni; Malik Boudiaf; Amar Mitiche; Ismail Ben Ayed  
 
 [A Survey of Label-Efficient Deep Learning for 3D Point Clouds](https://ieeexplore.ieee.org/document/10561540/)  
+**面向3D点云的标签高效深度学习综述**  
 Aoran Xiao; Xiaoqin Zhang; Ling Shao; Shijian Lu  
 
 [Robust Domain Adaptive Object Detection With Unified Multi-Granularity Alignment](https://ieeexplore.ieee.org/document/10561554/)  
+**基于统一多粒度对齐的鲁棒域自适应目标检测**  
 Libo Zhang; Wenzhang Zhou; Heng Fan; Tiejian Luo; Haibin Ling  
 
 [Complementary to Multiple Labels: A Correlation-Aware Correction Approach](https://ieeexplore.ieee.org/document/10561516/)  
+**面向多标签的互补性：一种相关性感知的校正方法**  
 Yi Gao; Miao Xu; Min-Ling Zhang  
 
 [Semi-Supervised Coupled Thin-Plate Spline Model for Rotation Correction and Beyond](https://ieeexplore.ieee.org/document/10566012/)  
+**半监督耦合薄板样条模型用于旋转校正及其他应用**  
 Lang Nie; Chunyu Lin; Kang Liao; Shuaicheng Liu; Yao Zhao  
 
 [ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection](https://ieeexplore.ieee.org/document/10568374/)  
+**ZoomNeXt：一种用于伪装目标检测的统一协作金字塔网络**  
 Youwei Pang; Xiaoqi Zhao; Tian-Zhu Xiang; Lihe Zhang; Huchuan Lu  
 
 [Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation](https://ieeexplore.ieee.org/document/10579052/)  
+**Reference Twice：一种简单统一的少样本实例分割基线方法**  
 Yue Han; Jiangning Zhang; Yabiao Wang; Chengjie Wang; Yong Liu; Lu Qi; Ming-Hsuan Yang; Xiangtai Li  
 
 [CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation](https://ieeexplore.ieee.org/document/10571609/)  
+**CPPF++：基于投票聚合的不确定性感知Sim2Real物体姿态估计**  
 Yang You; Wenhao He; Jin Liu; Hongkai Xiong; Weiming Wang; Cewu Lu  
 
 [Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels](https://ieeexplore.ieee.org/document/10579784/)  
+**面向不平衡数据分布和多标签的野外大规模目标检测**  
 Cong Pan; Junran Peng; Xingyuan Bu; Zhaoxiang Zhang  
 
 [Practical Network Acceleration With Tiny Sets: Hypothesis, Theory, and Algorithm](https://ieeexplore.ieee.org/document/10571608/)  
+**基于小数据集的实用网络加速：假设、理论与算法**  
 Guo-Hua Wang; Jianxin Wu  
 
 [Mask2Anomaly: Mask Transformer for Universal Open-Set Segmentation](https://ieeexplore.ieee.org/document/10574844/)  
+**Mask2Anomaly：用于通用开放集分割的掩码Transformer**  
 Shyam Nandan Rai; Fabio Cermelli; Barbara Caputo; Carlo Masone  
 
 [Advancing Real-World Image Dehazing: Perspective, Modules, and Training](https://ieeexplore.ieee.org/document/10564179/)  
+**推进真实世界图像去雾：视角、模块与训练**  
 Yuxin Feng; Long Ma; Xiaozhe Meng; Fan Zhou; Risheng Liu; Zhuo Su  
 
 [Robust Principal Component Analysis Based on Fuzzy Local Information Reservation](https://ieeexplore.ieee.org/document/10571607/)  
+**基于模糊局部信息保留的鲁棒主成分分析**  
 Yunlong Gao; Xinjing Wang; Jiaxin Xie; Jinyan Pan; Peng Yan; Feiping Nie  
 
 [Mitigating Accuracy-Robustness Trade-Off via Balanced Multi-Teacher Adversarial Distillation](https://ieeexplore.ieee.org/document/10561594/)  
+**通过平衡多教师对抗蒸馏缓解准确性与鲁棒性权衡**  
 Shiji Zhao; Xizhe Wang; Xingxing Wei  
 
 [Sequential Manipulation Against Rank Aggregation: Theory and Algorithm](https://ieeexplore.ieee.org/document/10564181/)  
+**针对排序聚合的顺序操纵：理论与算法**  
 Ke Ma; Qianqian Xu; Jinshan Zeng; Wei Liu; Xiaochun Cao; Yingfei Sun; Qingming Huang  
 
 [Dynamic 3D Point Cloud Sequences as 2D Videos](https://ieeexplore.ieee.org/document/10582545/)  
+**将动态3D点云序列视为2D视频**  
 Yiming Zeng; Junhui Hou; Qijian Zhang; Siyu Ren; Wenping Wang  
 
 [Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark](https://ieeexplore.ieee.org/document/10571602/)  
+**面向泛化性、鲁棒性与公平性的联邦学习：综述与基准**  
 Wenke Huang; Mang Ye; Zekun Shi; Guancheng Wan; He Li; Bo Du; Qiang Yang  
 
 [When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights](https://ieeexplore.ieee.org/document/10568359/)  
+**当不变表示学习遇到标签偏移：不足性与理论洞察**  
 You-Wei Luo; Chuan-Xian Ren  
 
 [Revitalizing Convolutional Network for Image Restoration](https://ieeexplore.ieee.org/document/10571568/)  
+**重振卷积网络用于图像恢复**  
 Yuning Cui; Wenqi Ren; Xiaochun Cao; Alois Knoll  
 
 [A Customized Augmented Lagrangian Method for Block-Structured Integer Programming](https://ieeexplore.ieee.org/document/10564174/)  
+**一种针对块结构整数规划的定制增广拉格朗日方法**  
 Rui Wang; Chuwen Zhang; Shanwen Pu; Jianjun Gao; Zaiwen Wen  
 
 [A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal](https://ieeexplore.ieee.org/document/10577554/)  
+**知识图谱推理在图类型上的综述：静态、动态与多模态**  
 Ke Liang; Lingyuan Meng; Meng Liu; Yue Liu; Wenxuan Tu; Siwei Wang; Sihang Zhou; Xinwang Liu; Fuchun Sun; Kunlun He  
 
-[Understanding Whitening Loss in Self-Supervised Learning](https://ieeexplore.ieee.org/document/10568417/)              
+[Understanding Whitening Loss in Self-Supervised Learning](https://ieeexplore.ieee.org/document/10568417/)  
+**自监督学习中的白化损失理解**  
 Lei Huang; Yunhao Ni; Xi Weng; Rao Muhammad Anwer; Salman Khan; Ming-Hsuan Yang; Fahad Shahbaz Khan  
 
 [Spatial Steerability of GANs via Self-Supervision from Discriminator](https://ieeexplore.ieee.org/document/10584145/)  
+**通过判别器自监督实现GAN的空间可操控性**  
 Jianyuan Wang; Lalit Bhagat; Ceyuan Yang; Yinghao Xu; Yujun Shen; Hongdong Li; Bolei Zhou  
 
 [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models](https://ieeexplore.ieee.org/document/10586270/)  
+**Adan：用于快速优化深度模型的自适应Nesterov动量算法**  
 Xingyu Xie; Pan Zhou; Huan Li; Zhouchen Lin; Shuicheng Yan  
 
 [TCFormer: Visual Recognition via Token Clustering Transformer](https://ieeexplore.ieee.org/document/10594800/)  
+**TCFormer：通过Token聚类Transformer实现视觉识别**  
 Wang Zeng; Sheng Jin; Lumin Xu; Wentao Liu; Chen Qian; Wanli Ouyang; Ping Luo; Xiaogang Wang  
 
 [Pixel Distillation: Cost-Flexible Distillation Across Image Sizes and Heterogeneous Networks](https://ieeexplore.ieee.org/document/10579049/)  
+**像素蒸馏：跨图像大小和异构网络的成本灵活蒸馏**  
 Guangyu Guo; Dingwen Zhang; Longfei Han; Nian Liu; Ming-Ming Cheng; Junwei Han  
 
 [Recurrent Multiscale Feature Modulation for Geometry Consistent Depth Learning](https://ieeexplore.ieee.org/document/10574331/)  
-Zhongkai Zhou; Xinnan Fan; Pengfei Shi; Yuanxue Xin; Dongliang Duan; Liuqing Yang  
+**用于几何一致性深度学习的循环多尺度特征调制**  
+Zhongkai Zhou; Xinnan Fan; Pengfei Shi; Yuanxue Xin; Dongliang Duan; Liuqing Yang    
 
 [Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10587133/)  
 Yizheng Wu; Zhiyu Pan; Kewei Wang; Xingyi Li; Jiahao Cui; Liwen Xiao; Guosheng Lin; Zhiguo Cao  

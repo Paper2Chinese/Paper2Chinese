@@ -145,16 +145,21 @@ Shilin Gu; Chao Xu; Dewen Hu; Chenping Hou
 Rui Zhang; Xingbo Du; Junchi Yan; Shihua Zhang  
 
 [Event-Enhanced Snapshot Compressive Videography at 10K FPS](https://ieeexplore.ieee.org/document/10750378/)  
+**10K FPS 下的事件增强型快照压缩视频成像(ZTY)**  
 Bo Zhang; Jinli Suo; Qionghai Dai  
 
 [FSD V2: Improving Fully Sparse 3D Object Detection With Virtual Voxels](https://ieeexplore.ieee.org/document/10758248/)  
+**FSD V2：基于虚拟体素提升全稀疏三维目标检测性能(ZTY)**  
 Lue Fan; Feng Wang; Naiyan Wang; Zhaoxiang Zhang  
 
 [Estimating Information Theoretic Measures via Multidimensional Gaussianization](https://ieeexplore.ieee.org/document/10750401/)  
+**通过多维高斯化估计信息论度量(ZTY)**  
 Valero Laparra; Juan Emmanuel Johnson; Gustau Camps-Valls; Raúl Santos-Rodríguez; Jesús Malo
 
 [Fast and Functional Structured Data Generators Rooted in Out-of-Equilibrium Physics](https://ieeexplore.ieee.org/document/10750287/)  
+**基于非平衡态物理的快速且功能化的结构化数据生成器(ZTY)**  
 Alessandra Carbone; Aurélien Decelle; Lorenzo Rosset; Beatriz Seoane  
 
 [Online Learning Under a Separable Stochastic Approximation Framework](https://ieeexplore.ieee.org/document/10750307/)  
+**基于可分离随机逼近框架的在线学习(ZTY)**  
 Min Gan; Xiang-xiang Su; Guang-yong Chen; Jing Chen; C. L. Philip Chen  

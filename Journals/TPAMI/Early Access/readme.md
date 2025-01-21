@@ -90,7 +90,7 @@ Yue Dai; Yifan Feng; Nan Ma; Xibin Zhao; Yue Gao
 Jiayi Ji; Haowei Wang; Changli Wu; Yiwei Ma; Xiaoshuai Sun; Rongrong Ji  
 
 [RenAIssance: A Survey Into AI Text-to-Image Generation in the Era of Large Model](https://ieeexplore.ieee.org/document/10817489/)  
-**RenAIssance：大模型时代的AI文本到图像生成综述**   
+**[RenAIssance：大模型时代的AI文本到图像生成综述](https://mp.weixin.qq.com/s/K3kFrMiWfDMRSgRO26r6zQ)**   
 Fengxiang Bie; Yibo Yang; Zhongzhu Zhou; Adam Ghanem; Minjia Zhang; Zhewei Yao; Xiaoxia Wu; Connor Holmes; Pareesa Golnari; David A. Clifton; Yuxiong He; Dacheng Tao; Shuaiwen Leon Song  
 
 [Training Networks in Null Space of Feature Covariance With Self-Supervision for Incremental Learning](https://ieeexplore.ieee.org/document/10816176/)  

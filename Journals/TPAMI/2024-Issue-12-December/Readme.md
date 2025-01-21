@@ -154,7 +154,7 @@ Yulin Wang; Yang Yue; Rui Lu;  Yizeng Han; Shiji Song; Gao Huang
 Ruibing Hou; Hong Chang; Bingpeng Ma; Shiguang Shan; Xilin Chen  
 
 [A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges](https://ieeexplore.ieee.org/document/10530374/)           
-**图像直线段检测与描述的全面综述：分类、比较与挑战(zty)**  
+**[图像直线段检测与描述的全面综述：分类、比较与挑战](https://mp.weixin.qq.com/s/B78tikc5VaqJdYuGx4bQcg)**  
 Xinyu Lin; Yingjie Zhou; Yipeng Liu; Ce Zhu  
 
 [Self-Supervised 3D Scene Flow Estimation and Motion Prediction Using Local Rigidity Prior](https://ieeexplore.ieee.org/document/10530455/)             
@@ -230,7 +230,7 @@ Yong Guo; Mingkui Tan; Zeshuai Deng; Jingdong Wang; Qi Chen; Jiezhang Cao; Yanwu
 Lian Xu; Mohammed Bennamoun; Farid Boussaid; Hamid Laga; Wanli Ouyang; Dan Xu  
 
 [IGCN: A Provably Informative GCN Embedding for Semi-Supervised Learning With Extremely Limited Labels](https://ieeexplore.ieee.org/document/10538043/)  
-**IGCN：一种用于具有极其有限标签的半监督学习的可证明信息GCN嵌入（zty）**  
+**[IGCN：一种用于具有极其有限标签的半监督学习的可证明信息GCN嵌入](https://mp.weixin.qq.com/s/wGooT_9hJ88nuOcKvoiCiQ)**  
 Lin Zhang; Ran Song; Wenhao Tan; Lin Ma; Wei Zhang  
 
 [Object-Centric Representation Learning for Video Scene Understanding](https://ieeexplore.ieee.org/document/10531009/)        
@@ -238,7 +238,7 @@ Lin Zhang; Ran Song; Wenhao Tan; Lin Ma; Wei Zhang
 Yi Zhou; Hui Zhang; Seung-In Park; ByungIn Yoo; Xiaojuan Qi  
 
 [Brain-Inspired Image Perceptual Quality Assessment Based on EEG: A QoE Perspective](https://ieeexplore.ieee.org/document/10546309/)      
-**基于脑电图的脑启发式图像感知质量评估：从质量体验的视角（zty）**  
+**[基于脑电图的脑启发式图像感知质量评估：从质量体验的视角](https://mp.weixin.qq.com/s/Nt-5AW-Bdm0se31Lyd5Sag)**  
 Shuzhan Hu; Yiping Duan; Xiaoming Tao; Geoffrey Ye Li; Jianhua Lu; Guangyi Liu; Zhimin Zheng; Chengkang Pan  
 
 [Operational Support Estimator Networks](https://ieeexplore.ieee.org/document/10542410/)        
@@ -246,7 +246,7 @@ Shuzhan Hu; Yiping Duan; Xiaoming Tao; Geoffrey Ye Li; Jianhua Lu; Guangyi Liu; 
 Mete Ahishali; Mehmet Yamac; Serkan Kiranyaz; Moncef Gabbouj  
 
 [Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency](https://ieeexplore.ieee.org/document/10551495/)        
-**基于几何一致性的无监督点云三维物体分割(ZTY)**  
+**[基于几何一致性的无监督点云三维物体分割](https://mp.weixin.qq.com/s/X2jH3mIvHRYJJ6dSFIKKxA)**  
 Ziyang Song; Bo Yang  
 
 [Curvature Regularization for Non-Line-of-Sight Imaging From Under-Sampled Data](https://ieeexplore.ieee.org/document/10552070/)     
@@ -254,7 +254,7 @@ Ziyang Song; Bo Yang
 Rui Ding; Juntian Ye; Qifeng Gao; Feihu Xu; Yuping Duan  
 
 [SSR-2D: Semantic 3D Scene Reconstruction From 2D Images](https://ieeexplore.ieee.org/document/10549849/)   
-**SSR-2D：从2D图像进行语义化的3D场景重建(ZTY)**  
+**[SSR-2D：从2D图像进行语义化的3D场景重建](https://mp.weixin.qq.com/s/5UrmZGAx4Ri3w9wwATS5XA)**  
 Junwen Huang; Alexey Artemov; Yujin Chen; Shuaifeng Zhi; Kai Xu; Matthias Nießner  
 
 [Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/document/10540667/)     
@@ -262,7 +262,7 @@ Junwen Huang; Alexey Artemov; Yujin Chen; Shuaifeng Zhi; Kai Xu; Matthias Nießn
 Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Chang Xu  
 
 [Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding](https://ieeexplore.ieee.org/document/10551628/)     
-**Lowis3D：语言驱动的开放世界实例级3D场景理解(ZTY)**  
+**[Lowis3D：语言驱动的开放世界实例级3D场景理解](https://mp.weixin.qq.com/s/ctpzGw63poixxQ1r0mz0lA)**  
 Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi  
 
 [Correctable Landmark Discovery via Large Models for Vision-Language Navigation](https://ieeexplore.ieee.org/document/10543121/)        
@@ -270,7 +270,7 @@ Runyu Ding; Jihan Yang; Chuhui Xue; Wenqing Zhang; Song Bai; Xiaojuan Qi
 Bingqian Lin; Yunshuang Nie; Ziming Wei; Yi Zhu; Hang Xu; Shikui Ma; Jianzhuang Liu; Xiaodan Liang  
 
 [Behind Every Domain There is a Shift: Adapting Distortion-Aware Vision Transformers for Panoramic Semantic Segmentation](https://ieeexplore.ieee.org/document/10546335/)        
-**每个领域背后都有变化：适应全景语义分割的畸变感知视觉Transformers（zty）**   
+**[每个领域背后都有变化：适应全景语义分割的畸变感知视觉Transformers](https://mp.weixin.qq.com/s/oaMwTXjeM_4NKBNZHj8NYw)**   
 Jiaming Zhang; Kailun Yang; Hao Shi; Simon Reiß; Kunyu Peng; Chaoxiang Ma; Haodong Fu; Philip H. S. Torr; Kaiwei Wang; Rainer Stiefelhagen  
 
 [Bilinear Models of Parts and Appearances in Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10572317/)      
@@ -282,27 +282,27 @@ James Oldfield; Christos Tzelepis; Yannis Panagakis; Mihalis A. Nicolaou; Ioanni
 Shengchao Hu; Li Shen; Ya Zhang; Yixin Chen; Dacheng Tao  
 
 [Divert More Attention to Vision-Language Object Tracking](https://ieeexplore.ieee.org/document/10547435/)              
-**更多关注视觉-语言目标跟踪（zty）**  
+**[更多关注视觉-语言目标跟踪](https://mp.weixin.qq.com/s/nsNjva1kh_iPgr2J8uC6Lg)**  
 Mingzhe Guo; Zhipeng Zhang; Liping Jing; Haibin Ling; Heng Fan  
 
 [Wasserstein Discriminant Dictionary Learning for Graph Representation](https://ieeexplore.ieee.org/document/10549813/)      
-**用于图表示的Wasserstein判别字典学习（zty）**  
+**[用于图表示的Wasserstein判别字典学习](https://mp.weixin.qq.com/s/_PCliY6DlXtk9U7Aza4_4A)**  
 Tong Zhang; Guangbu Liu; Zhen Cui; Wei Liu; Wenming Zheng; Jian Yang  
 
 [Zone Evaluation: Revealing Spatial Bias in Object Detection](https://ieeexplore.ieee.org/document/10547427/)        
-**区域评估：揭示目标检测中的空间偏差（zty）**  
+**[区域评估：揭示目标检测中的空间偏差](https://mp.weixin.qq.com/s/QM3zeqVOiTD_8Mr-kcaGLQ)**  
 Zhaohui Zheng; Yuming Chen; Qibin Hou; Xiang Li; Ping Wang; Ming-Ming Cheng  
 
 [Relational Proxies: Fine-Grained Relationships as Zero-Shot Discriminators](https://ieeexplore.ieee.org/document/10547449/)         
-**关系代理：细粒度关系作为零样本判别器（zty）**  
+**[关系代理：细粒度关系作为零样本判别器](https://mp.weixin.qq.com/s/hN5ZFJU_PNo0ybn9WaDOvg)**  
 Abhra Chaudhuri; Massimiliano Mancini; Zeynep Akata; Anjan Dutta  
 
 [Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline](https://ieeexplore.ieee.org/document/10557672/)      
-**Fast-BEV：一种快速且强大的鸟瞰视图感知基线模型（zty）**  
+**[Fast-BEV：一种快速且强大的鸟瞰视图感知基线模型](https://mp.weixin.qq.com/s/_rJB-xrfCvSOgfq2Q0Uhww)**  
 Yangguang Li; Bin Huang; Zeren Chen; Yufeng Cui; Feng Liang; Mingzhu Shen; Fenggang Liu; Enze Xie; Lu Sheng; Wanli Ouyang; Jing Shao  
 
 [Boosting Weakly Supervised Object Localization and Segmentation With Domain Adaption](https://ieeexplore.ieee.org/document/10552078/)    
-**通过域适应提升弱监督目标定位与分割性能（zty）**  
+**[通过域适应提升弱监督目标定位与分割性能](https://mp.weixin.qq.com/s/ABz6PCENnwNFapY_0I0c_Q)**  
 Lei Zhu; Qi She; Qian Chen; Qiushi Ren; Yanye Lu  
 
 [DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10506631/)     
@@ -362,7 +362,7 @@ Shuwei Shao; Zhongcai Pei; Weihai Chen; Peter C. Y. Chen; Zhengguo Li
 Fabio Tosi; Filippo Aleotti; Pierluigi Zama Ramirez; Matteo Poggi; Samuele Salti; Stefano Mattoccia; Luigi Di Stefano  
 
 [CC4S: Encouraging Certainty and Consistency in Scribble-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10506631/)     
-**CC4S：在涂鸦监督的语义分割中增强确定性和一致性**  
+**[CC4S：在涂鸦监督的语义分割中增强确定性和一致性](https://mp.weixin.qq.com/s/wBj0SgPiONtP3HwCrJoPqg)**  
 Zhiyi Pan; Haochen Sun; Peng Jiang; Ge Li; Changhe Tu; Haibin Ling  
 
 [Fast Learning of Signed Distance Functions From Noisy Point Clouds via Noise to Noise Mapping](https://ieeexplore.ieee.org/document/10506631/)     

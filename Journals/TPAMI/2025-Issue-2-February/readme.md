@@ -129,7 +129,7 @@ Eduardo Fernandes Montesuma; Fred Maurice Ngolè Mboula; Antoine Souloumiac
 Sherenaz Al-Haj Baddar; Alessandro Languasco; Mauro Migliardi  
 
 [360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10741594/)  
-**360SFUDA++：通过学习可靠类别原型实现全景分割的无源域自适应**  
+**[360SFUDA++：通过学习可靠类别原型实现全景分割的无源域自适应](https://mp.weixin.qq.com/s/1kQBM3qQ_D-Jjq1kCPim7w)**  
 Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang  
 
 [Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10746353/)  

@@ -130,7 +130,7 @@ Zijin Du; Jianqing Liang; Jiye Liang; Kaixuan Yao; Feilong Cao
 Jiang Xie; Xuexin Xiang; Shuyin Xia; Lian Jiang; Guoyin Wang; Xinbo Gao  
 
 [Artificial Intelligence and Machine Learning Tools for Improving Early Warning Systems of Volcanic Eruptions: The Case of Stromboli](https://ieeexplore.ieee.org/document/10528888/)     
-**人工智能和机器学习工具用于改进火山爆发预警系统：斯特龙博利火山案例**  
+**[人工智能和机器学习工具用于改进火山爆发预警系统：斯特龙博利火山案例](https://mp.weixin.qq.com/s/5AtxzEXt3pp5qaQoTWCesA)**  
 Roberto Longo; Giorgio Lacanna; Lorenzo Innocenti; Maurizio Ripepe  
 
 [Measurement Guidance in Diffusion Models: Insight from Medical Image Synthesis](https://ieeexplore.ieee.org/document/10530514/)              

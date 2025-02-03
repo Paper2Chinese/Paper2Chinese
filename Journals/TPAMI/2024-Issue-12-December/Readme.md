@@ -547,9 +547,6 @@ Jie Wang; Zhihai Wang; Xijun Li; Yufei Kuang; Zhihao Shi; Fangzhou Zhu; Mingxuan
 [Essential Number of Principal Components and Nearly Training-Free Model for Spectral Analysis](https://ieeexplore.ieee.org/document/10620616/)  
 Yifeng Bie; Shuai You; Xinrui Li; Xuekui Zhang; Tao Lu  
 
-[Surface Reconstruction From Point Clouds: A Survey and a Benchmark](https://ieeexplore.ieee.org/document/10599623/)  
-ZhangJin Huang; Yuxin Wen; ZiHao Wang; Jinjuan Ren; Kui Jia  
-
 [Markov Progressive Framework, a Universal Paradigm for Modeling Long Videos](https://ieeexplore.ieee.org/document/10596972/)  
 Bo Pang; Gao Peng; Yizhuo Li; Cewu Lu  
 
@@ -559,17 +556,12 @@ Yunjie Tian; Lingxi Xie; Jihao Qiu; Jianbin Jiao; Yaowei Wang; Qi Tian; Qixiang 
 [Inductive State-Relabeling Adversarial Active Learning With Heuristic Clique Rescaling](https://ieeexplore.ieee.org/document/10607969/)  
 Beichen Zhang; Liang Li; Shuhui Wang; Shaofei Cai; Zheng-Jun Zha; Qi Tian; Qingming Huang  
 
-[Physical Adversarial Attack Meets Computer Vision: A Decade Survey](https://ieeexplore.ieee.org/document/10602786/)  
-Hui Wei; Hao Tang; Xuemei Jia; Zhixiang Wang; Hanxun Yu; Zhubo Li; Shin’ichi Satoh; Luc Van Gool; Zheng Wang  
 
 [Attention-Guided Low-Rank Tensor Completion](https://ieeexplore.ieee.org/document/10601492/)  
 Truong Thanh Nhat Mai; Edmund Y. Lam; Chul Lee  
 
 [Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement](https://ieeexplore.ieee.org/document/10604429/)  
 Zipeng Ye; Wenjian Luo; Qi Zhou; Zhenqian Zhu; Yuhui Shi; Yan Jia  
-
-[Class-Incremental Learning: A Survey](https://ieeexplore.ieee.org/document/10599804/)  
-Da-Wei Zhou; Qi-Wei Wang; Zhi-Hong Qi; Han-Jia Ye; De-Chuan Zhan; Ziwei Liu  
 
 [Learning Many-to-Many Mapping for Unpaired Real-World Image Super-Resolution and Downscaling](https://ieeexplore.ieee.org/document/10599833/)  
 Wanjie Sun; Zhenzhong Chen  
@@ -610,9 +602,6 @@ Jen-Tzung Chien; Yu-Han Huang
 [Structure and Intensity Unbiased Translation for 2D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10613511/)  
 Tianyang Zhang; Shaoming Zheng; Jun Cheng; Xi Jia; Joseph Bartlett; Xinxing Cheng; Zhaowen Qiu; Huazhu Fu; Jiang Liu; Aleš Leonardis; Jinming Duan  
 
-[Medical Image Segmentation Review: The Success of U-Net](https://ieeexplore.ieee.org/document/10643318/)  
-Reza Azad; Ehsan Khodapanah Aghdam; Amelie Rauland; Yiwei Jia; Atlas Haddadi Avval; Afshin Bozorgpour; Sanaz Karimijafarbigloo; Joseph Paul Cohen; Ehsan Adeli; Dorit Merhof  
-
 [Transformer Module Networks for Systematic Generalization in Visual Question Answering](https://ieeexplore.ieee.org/document/10628017/)  
 Moyuru Yamada; Vanessa D’Amario; Kentaro Takemoto; Xavier Boix; Tomotake Sasaki  
 
@@ -621,9 +610,6 @@ Mingyang Zhao; Xiaohong Jia; Lei Ma; Yuke Shi; Jingen Jiang; Qizhai Li; Dong-Min
 
 [Hybrid All-in-Focus Imaging From Neuromorphic Focal Stack](https://ieeexplore.ieee.org/document/10609564/)  
 Minggui Teng; Hanyue Lou; Yixin Yang; Tiejun Huang; Boxin Shi  
-
-[Transformer-Based Visual Segmentation: A Survey](https://ieeexplore.ieee.org/document/10613466/)  
-Xiangtai Li; Henghui Ding; Haobo Yuan; Wenwei Zhang; Jiangmiao Pang; Guangliang Cheng; Kai Chen; Ziwei Liu; Chen Change Loy  
 
 [End-to-End Autonomous Driving: Challenges and Frontiers](https://ieeexplore.ieee.org/document/10614862/)  
 Li Chen; Penghao Wu; Kashyap Chitta; Bernhard Jaeger; Andreas Geiger; Hongyang Li  
@@ -651,9 +637,6 @@ Mengfei Xia; Yu Zhou; Ran Yi; Yong-Jin Liu; Wenping Wang
 
 [UNK-VQA: A Dataset and a Probe Into the Abstention Ability of Multi-Modal Large Models](https://ieeexplore.ieee.org/document/10620618/)  
 Yangyang Guo; Fangkai Jiao; Zhiqi Shen; Liqiang Nie; Mohan Kankanhalli  
-
-[A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://ieeexplore.ieee.org/document/10638815/)  
-Chaoqi Chen; Yushuang Wu; Qiyuan Dai; Hong-Yu Zhou; Mutian Xu; Sibei Yang; Xiaoguang Han; Yizhou Yu  
 
 [Gradient Harmonization in Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10623315/)  
 Fuxiang Huang; Suqi Song; Lei Zhang  
@@ -685,9 +668,6 @@ Wei Chang; Huimin Chen; Feiping Nie; Rong Wang; Xuelong Li
 [Pair Then Relation: Pair-Net for Panoptic Scene Graph Generation](https://ieeexplore.ieee.org/document/10634834/)  
 Jinghao Wang; Zhengyu Wen; Xiangtai Li; Zujin Guo; Jingkang Yang; Ziwei Liu  
 
-[A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection](https://ieeexplore.ieee.org/document/10636792/)  
-Ming Jin; Huan Yee Koh; Qingsong Wen; Daniele Zambon; Cesare Alippi; Geoffrey I. Webb; Irwin King; Shirui Pan  
-
 [360 Layout Estimation via Orthogonal Planes Disentanglement and Multi-View Geometric Consistency Perception](https://ieeexplore.ieee.org/document/10634822/)  
 Zhijie Shen; Chunyu Lin; Junsong Zhang; Lang Nie; Kang Liao; Yao Zhao  
 
@@ -702,9 +682,6 @@ Zhongang Cai; Mingyuan Zhang; Jiawei Ren; Chen Wei; Daxuan Ren; Zhengyu Lin; Hai
 
 [Graph Multi-Convolution and Attention Pooling for Graph Classification](https://ieeexplore.ieee.org/document/10636839/)  
 Yuhua Xu; Junli Wang; Mingjian Guang; Changjun Jiang  
-
-[A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations](https://ieeexplore.ieee.org/document/10643325/)  
-Hongrong Cheng; Miao Zhang; Javen Qinfeng Shi  
 
 [Metric3D v2: A Versatile Monocular Geometric Foundation Model for Zero-Shot Metric Depth and Surface Normal Estimation](https://ieeexplore.ieee.org/document/10638254/)  
 Mu Hu; Wei Yin; Chi Zhang; Zhipeng Cai; Xiaoxiao Long; Hao Chen; Kaixuan Wang; Gang Yu; Chunhua Shen; Shaojie Shen  
@@ -764,9 +741,6 @@ Feiping Nie; Chaodie Liu; Rong Wang; Xuelong Li
 [Safe Reinforcement Learning With Dual Robustness](https://ieeexplore.ieee.org/document/10637743/)  
 Zeyang Li; Chuxiong Hu; Yunan Wang; Yujie Yang; Shengbo Eben Li  
 
-[A Survey on Continual Semantic Segmentation: Theory, Challenge, Method and Application](https://ieeexplore.ieee.org/document/10643308/)  
-Bo Yuan; Danpei Zhao  
-
 [CO-Net++: A Cohesive Network for Multiple Point Cloud Tasks at Once With Two-Stage Feature Rectification](https://ieeexplore.ieee.org/document/10643346/)  
 Tao Xie; Kun Dai; Qihao Sun; Zhiqiang Jiang; Chuqing Cao; Lijun Zhao; Ke Wang; Ruifeng Li  
 
@@ -778,12 +752,6 @@ Xin Huang; Qi Zhang; Ying Feng; Hongdong Li; Qing Wang
 
 [U-Match: Exploring Hierarchy-Aware Local Context for Two-View Correspondence Learning](https://ieeexplore.ieee.org/document/10643351/)  
 Zizhuo Li; Shihua Zhang; Jiayi Ma  
-
-[Vision-Centric BEV Perception: A Survey](https://ieeexplore.ieee.org/document/10670223/)  
-Yuexin Ma; Tai Wang; Xuyang Bai; Huitong Yang; Yuenan Hou; Yaming Wang; Yu Qiao; Ruigang Yang; Xinge Zhu  
-
-[Deep Interactive Segmentation of Medical Images: A Systematic Review and Taxonomy](https://ieeexplore.ieee.org/document/10660300/)  
-Zdravko Marinov; Paul F. Jäger; Jan Egger; Jens Kleesiek; Rainer Stiefelhagen  
 
 [Efficient Neural Collaborative Search for Pickup and Delivery Problems](https://ieeexplore.ieee.org/document/10663917/)  
 Detian Kong; Yining Ma; Zhiguang Cao; Tianshu Yu; Jianhua Xiao  
@@ -823,9 +791,6 @@ Meng-Hao Guo; Yi Zhang; Tai-Jiang Mu; Sharon X. Huang; Shi-Min Hu
 
 [Integrating Neural Radiance Fields End-to-End for Cognitive Visuomotor Navigation](https://ieeexplore.ieee.org/document/10668846/)  
 Qiming Liu; Haoran Xin; Zhe Liu; Hesheng Wang  
-
-[A Review of Safe Reinforcement Learning: Methods, Theories, and Applications](https://ieeexplore.ieee.org/document/10675394/)  
-Shangding Gu; Long Yang; Yali Du; Guang Chen; Florian Walter; Jun Wang; Alois Knoll  
 
 [HiSC4D: Human-Centered Interaction and 4D Scene Capture in Large-Scale Space Using Wearable IMUs and LiDAR](https://ieeexplore.ieee.org/document/10670484/)  
 Yudi Dai; Zhiyong Wang; Xiping Lin; Chenglu Wen; Lan Xu; Siqi Shen; Yuexin Ma; Cheng Wang  

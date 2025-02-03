@@ -258,7 +258,7 @@ Rui Ding; Juntian Ye; Qifeng Gao; Feihu Xu; Yuping Duan
 Junwen Huang; Alexey Artemov; Yujin Chen; Shuaifeng Zhi; Kai Xu; Matthias Nießner  
 
 [Weak Augmentation Guided Relational Self-Supervised Learning](https://ieeexplore.ieee.org/document/10540667/)     
-**弱增强引导的关系自监督学习(ZTY)**  
+**[弱增强引导的关系自监督学习](https://mp.weixin.qq.com/s/QTfmB95hhhNXzsF8v3WfLg)**  
 Mingkai Zheng; Shan You; Fei Wang; Chen Qian; Changshui Zhang; Xiaogang Wang; Chang Xu  
 
 [Lowis3D: Language-Driven Open-World Instance-Level 3D Scene Understanding](https://ieeexplore.ieee.org/document/10551628/)     
@@ -306,11 +306,11 @@ Yangguang Li; Bin Huang; Zeren Chen; Yufeng Cui; Feng Liang; Mingzhu Shen; Fengg
 Lei Zhu; Qi She; Qian Chen; Qiushi Ren; Yanye Lu  
 
 [DeepMulticut: Deep Learning of Multicut Problem for Neuron Segmentation From Electron Microscopy Volume](https://ieeexplore.ieee.org/document/10506631/)     
-**DeepMulticut：从电子显微镜体积中进行神经元分割的多割问题的深度学习**  
+**[DeepMulticut：从电子显微镜体积中进行神经元分割的多割问题的深度学习](https://mp.weixin.qq.com/s/suqNCncJqEyWYpq1fNOMhA)**  
 Zhenchen Li; Xu Yang; Jiazheng Liu; Bei Hong; Yanchao Zhang; Hao Zhai; Lijun Shen; Xi Chen; Zhiyong Liu; Hua Han  
 
 [Dual Input Stream Transformer for Vertical Drift Correction in Eye-Tracking Reading Data](https://ieeexplore.ieee.org/document/10506631/)     
-**双输入流Transformer用于眼动阅读数据中的垂直漂移校正**  
+**[双输入流Transformer用于眼动阅读数据中的垂直漂移校正](https://mp.weixin.qq.com/s/n1m32dFfXW2z8Q06we8Y3w)**  
 Thomas M. Mercier; Marcin Budka; Martin R. Vasilev; Julie A. Kirkby; Bernhard Angele; Timothy J. Slattery  
 
 [Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation](https://ieeexplore.ieee.org/document/10506631/)     
@@ -322,11 +322,11 @@ You-Wei Luo; Chuan-Xian Ren; Xiao-Lin Xu; Qingshan Liu
 Zhaowen Li; Yousong Zhu; Zhiyang Chen; Wei Li; Rui Zhao; Chaoyang Zhao; Ming Tang; Jinqiao Wang  
 
 [Memories are One-to-Many Mapping Alleviators in Talking Face Generation](https://ieeexplore.ieee.org/document/10506631/)     
-**记忆是说话人脸生成中的一对多映射缓解器**  
+**[记忆是说话人脸生成中的一对多映射缓解器](https://mp.weixin.qq.com/s/KU-qwtdBSCwY9bVe8iOhRQ)**  
 Anni Tang; Tianyu He; Xu Tan; Jun Ling; Runnan Li; Sheng Zhao; Jiang Bian; Li Song  
 
 [Pix2HDR - A Pixel-Wise Acquisition and Deep Learning-Based Synthesis Approach for High-Speed HDR Videos](https://ieeexplore.ieee.org/document/10506631/)     
-**Pix2HDR - 一种基于像素级采集和深度学习的高速HDR视频合成方法**  
+**[Pix2HDR - 一种基于像素级采集和深度学习的高速HDR视频合成方法](https://mp.weixin.qq.com/s/ZMmITldm1Y7TtmpoUVN9DA)**  
 Caixin Wang; Jie Zhang; Matthew A. Wilson; Ralph Etienne-Cummings  
 
 [Statistical Analysis of Complex Shape Graphs](https://ieeexplore.ieee.org/document/10506631/)     
@@ -334,7 +334,7 @@ Caixin Wang; Jie Zhang; Matthew A. Wilson; Ralph Etienne-Cummings
 Aditi Basu Bal; Xiaoyang Guo; Tom Needham; Anuj Srivastava  
 
 [GT-CAM: Game Theory Based Class Activation Map for GCN](https://ieeexplore.ieee.org/document/10506631/)     
-**GT-CAM：基于博弈论的图卷积网络类激活图**  
+**[GT-CAM：基于博弈论的图卷积网络类激活图](https://mp.weixin.qq.com/s/DhF9Q1KfHKyktr3rBaDJBw)**  
 Yanshan Li; Ting Shi; Zhiyuan Chen; Li Zhang; Weixin Xie  
 
 [Many-Objective Jaccard-Based Evolutionary Feature Selection for High-Dimensional Imbalanced Data Classification](https://ieeexplore.ieee.org/document/10506631/)     
@@ -342,7 +342,7 @@ Yanshan Li; Ting Shi; Zhiyuan Chen; Li Zhang; Weixin Xie
 H. Saadatmand; Mohammad-R. Akbarzadeh-T  
 
 [Towards Visual-Prompt Temporal Answer Grounding in Instructional Video](https://ieeexplore.ieee.org/document/10506631/)     
-**面向教学视频的视觉提示时间答案定位**  
+**[面向教学视频的视觉提示时间答案定位](https://mp.weixin.qq.com/s/rvO0KSQozNwnilaQOsnQuw)**  
 Shutao Li; Bin Li; Bin Sun; Yixuan Weng  
 
 [DebSDF: Delving Into the Details and Bias of Neural Indoor Scene Reconstruction](https://ieeexplore.ieee.org/document/10506631/)     
@@ -354,7 +354,7 @@ Yuting Xiao; Jingwei Xu; Zehao Yu; Shenghua Gao
 Xingxing Wei; Shiji Zhao; Bo Li  
 
 [NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion](https://ieeexplore.ieee.org/document/10506631/)     
-**NDDepth：法线距离辅助的单目深度估计与补全**  
+**[NDDepth：法线距离辅助的单目深度估计与补全](https://mp.weixin.qq.com/s/9CVcteMAL8WzaGyqXGf8tw)**  
 Shuwei Shao; Zhongcai Pei; Weihai Chen; Peter C. Y. Chen; Zhengguo Li  
 
 [Neural Disparity Refinement](https://ieeexplore.ieee.org/document/10506631/)     
@@ -370,15 +370,15 @@ Zhiyi Pan; Haochen Sun; Peng Jiang; Ge Li; Changhe Tu; Haibin Ling
 Junsheng Zhou; Baorui Ma; Yu-Shen Liu; Zhizhong Han  
 
 [A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future](https://ieeexplore.ieee.org/document/10506631/)     
-**开放词汇检测与分割的综述：过去、现在与未来**  
+**[开放词汇检测与分割的综述：过去、现在与未来](https://mp.weixin.qq.com/s/fI0BlNBvq1oc4MNEGz0waA)**  
 Chaoyang Zhu; Long Chen  
 
 [HOPE: A Hierarchical Perspective for Semi-Supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10506631/)     
-**HOPE：半监督2D-3D跨模态检索的层次化视角**  
+**[HOPE：半监督2D-3D跨模态检索的层次化视角](https://mp.weixin.qq.com/s/pF4NUre_nIwzKa24VgmG0A)**  
 Fan Zhang; Hang Zhou; Xian-Sheng Hua; Chong Chen; Xiao Luo  
 
 [MOODv2: Masked Image Modeling for Out-of-Distribution Detection](https://ieeexplore.ieee.org/document/10506631/)     
-**MOODv2：用于分布外检测的掩码图像建模**  
+**[MOODv2：用于分布外检测的掩码图像建模](https://mp.weixin.qq.com/s/LVzutret4KAZg1dWF_GC1Q)**  
 Jingyao Li; Pengguang Chen; Shaozuo Yu; Shu Liu; Jiaya Jia  
 
 [Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/document/10506631/)     

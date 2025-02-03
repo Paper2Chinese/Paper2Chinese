@@ -66,7 +66,7 @@ Xin Deng; Chenxiao Zhang; Lai Jiang; Jingyuan Xia; Mai Xu
 Wenhui Wu; Jian Weng; Pingping Zhang; Xu Wang; Wenhan Yang; Jianmin Jiang  
 
 [Glissando-Net: Deep Single vIew Category Level Pose eStimation ANd 3D Reconstruction](https://ieeexplore.ieee.org/document/10819370/)  
-**Glissando-Net: 基于单视图的类别级姿态估计与3D重建**   
+**[Glissando-Net: 基于单视图的类别级姿态估计与3D重建](https://mp.weixin.qq.com/s/cCSh0j21eYkKOXUaW3vhOA)**   
 Bo Sun; Hao Kang; Li Guan; Haoxiang Li; Philippos Mordohai; Gang Hua  
 
 [Filter Pruning by High-Order Spectral Clustering](https://ieeexplore.ieee.org/document/10819307/)  
@@ -74,7 +74,7 @@ Bo Sun; Hao Kang; Li Guan; Haoxiang Li; Philippos Mordohai; Gang Hua
 Hang Lin; Yifan Peng; Yubo Zhang; Lin Bie; Xibin Zhao; Yue Gao  
 
 [Hyper-YOLO: When Visual Object Detection Meets Hypergraph Computation](https://ieeexplore.ieee.org/document/10818703/)  
-**Hyper-YOLO: 当视觉目标检测遇上超图计算**  
+**[Hyper-YOLO: 当视觉目标检测遇上超图计算](https://mp.weixin.qq.com/s/hhtJrt_D-yK1XfqBz6Nvkg)**  
 Yifan Feng; Jiangang Huang; Shaoyi Du; Shihui Ying; Jun-Hai Yong; Yipeng Li; Guiguang Ding; Rongrong Ji; Yue Gao  
 
 [Efficient Signed Graph Sampling via Balancing & Gershgorin Disc Perfect Alignment](https://ieeexplore.ieee.org/document/10818598/)  
@@ -198,7 +198,7 @@ WinDB：无 HMD 和无失真全景视频注视学习
 Guotao Wang; Chenglizhao Chen; Aimin Hao; Hong Qin; Deng-Ping Fan  
 
 [Deep Loss Convexification for Learning Iterative Models](https://ieeexplore.ieee.org/document/10777605/)  
-深度损失凸化：学习迭代模型  
+**[深度损失凸化：学习迭代模型](https://mp.weixin.qq.com/s/T2m69E9EmWkuOuKMnY8RWg)**  
 Ziming Zhang; Yuping Shao; Yiqing Zhang; Fangzhou Lin; Haichong Zhang; Elke Rundensteiner  
 
 [Spectrally-Corrected and Regularized LDA for Spiked Model](https://ieeexplore.ieee.org/document/10776997/)  
@@ -265,7 +265,7 @@ Xingming Long; Jie Zhang; Shiguang Shan
 Zhiping Yu; Chenyang Liu; Liqin Liu; Zhenwei Shi; Zhengxia Zou  
 
 [Practical Compact Deep Compressed Sensing](https://ieeexplore.ieee.org/document/10763443/)  
-**实用紧凑型深度压缩感知网络**  
+**[实用紧凑型深度压缩感知网络](https://mp.weixin.qq.com/s/mqKuadd5KsrfBWwsMGHhlg)**  
 Bin Chen; Jian Zhang  
 
 [Fine-Grained Visual Text Prompting](https://ieeexplore.ieee.org/document/10763465/)  

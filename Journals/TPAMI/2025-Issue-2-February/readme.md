@@ -67,7 +67,7 @@ Zhehui Wang; Tao Luo; Cheng Liu; Weichen Liu; Rick Siow Mong Goh; Weng-Fai Wong
 Bram Vanherle; Vittorio Pippi; Silvia Cascianelli; Nick Michiels; Frank Van Reeth; Rita Cucchiara  
 
 [OffsetNet: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](https://ieeexplore.ieee.org/document/10742444/)  
-**OffsetNet：面向高效的多目标跟踪、检测与分割**  
+**[OffsetNet：面向高效的多目标跟踪、检测与分割](https://mp.weixin.qq.com/s/0LyGrTY8bODKNADqmf8wZg)**  
 Wei Zhang; Jiaming Li; Meng Xia; Xu Gao; Xiao Tan; Yifeng Shi; Zhenhua Huang; Guanbin Li  
 
 [Diffusion Models for Imperceptible and Transferable Adversarial Attack](https://ieeexplore.ieee.org/document/10716799/)  
@@ -115,7 +115,7 @@ Guojie Li; Zhiwen Yu; Kaixiang Yang; C. L. Philip Chen; Xuelong Li
 Woo-Jeoung Nam; Seong-Whan Lee  
 
 [Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10737100/)  
-**先解耦后组合：学习不变的解耦特征用于组合零样本学习**  
+**[先解耦后组合：学习不变的解耦特征用于组合零样本学习](https://mp.weixin.qq.com/s/oOIvg3T3GATXlPV2qUO2cw)**  
 Tian Zhang; Kongming Liang; Ruoyi Du; Wei Chen; Zhanyu Ma  
 
 [FLAC: Fairness-Aware Representation Learning by Suppressing Attribute-Class Associations](https://ieeexplore.ieee.org/document/10737139/)  
@@ -137,11 +137,11 @@ Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang
 Yipo Huang; Leida Li; Pengfei Chen; Haoning Wu; Weisi Lin; Guangming Shi  
 
 [Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10740558/)  
-**动态特征与噪声标签的自适应学习**  
+**[动态特征与噪声标签的自适应学习](https://mp.weixin.qq.com/s/4UsmZTuHWy4ls9huQ4I8gg)**  
 Shilin Gu; Chao Xu; Dewen Hu; Chenping Hou  
 
 [The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10740789/)  
-**解耦概念瓶颈模型**  
+**[解耦概念瓶颈模型](https://mp.weixin.qq.com/s/bryzdEJKBKSV_Z6SwZ9-Gg)**  
 Rui Zhang; Xingbo Du; Junchi Yan; Shihua Zhang  
 
 [Event-Enhanced Snapshot Compressive Videography at 10K FPS](https://ieeexplore.ieee.org/document/10750378/)  

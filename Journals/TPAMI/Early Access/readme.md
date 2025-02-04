@@ -164,18 +164,23 @@ Zhiyang Zhang; Yaping Zhang; Yupu Liang; Cong Ma; Lu Xiang; Yang Zhao; Yu Zhou; 
 Junke Wang; Zuxuan Wu; Dongdong Chen; Chong Luo; Xiyang Dai; Lu Yuan; Yu-Gang Jiang  
 
 [Exploiting Ground Depth Estimation for Mobile Monocular 3D Object Detection](https://ieeexplore.ieee.org/document/10842472/)  
+**利用地面深度估计提升移动单目3D目标检测性能(ZTY)**  
 Yunsong Zhou; Quan Liu; Hongzi Zhu; Yunzhe Li; Shan Chang; Minyi Guo  
 
 [VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-Domain Generalization](https://ieeexplore.ieee.org/document/10840310/)  
+**VimTS：一种用于提升跨域泛化能力的统一视频与图像文本检测器(ZTY)**  
 Yuliang Liu; Mingxin Huang; Hao Yan; Linger Deng; Weijia Wu; Hao Lu; Chunhua Shen; Lianwen Jin; Xiang Bai  
 
 [Learning The Optimal Discriminant SVM with Feature Extraction](https://ieeexplore.ieee.org/document/10840348/)  
+**学习最优判别性支持向量机与特征提取(ZTY)**  
 Junhong Zhang; Zhihui Lai; Heng Kong; Jian Yang  
 
 [Condition-Invariant Semantic Segmentation](https://ieeexplore.ieee.org/document/10840277/)  
+**条件不变语义分割(ZTY)**  
 Christos Sakaridis; David Bruggemann; Fisher Yu; Luc Van Gool  
 
 [Privacy-Preserving Biometric Verification With Handwritten Random Digit String](https://ieeexplore.ieee.org/document/10840296/)  
+**隐私保护生物特征验证中的手写随机数字字符串应用(ZTY)**  
 Peirong Zhang; Yuliang Liu; Songxuan Lai; Hongliang Li; Lianwen Jin  
 
 [Safe and Balanced: A Framework for Constrained Multi-Objective Reinforcement Learning](https://ieeexplore.ieee.org/document/10840326/)  

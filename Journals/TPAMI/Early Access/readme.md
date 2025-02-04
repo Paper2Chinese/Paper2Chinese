@@ -4,123 +4,163 @@
 ----
 
 [A Causal Adjustment Module for Debiasing Scene Graph Generation](https://ieeexplore.ieee.org/document/10858762/)  
+用于消除场景图生成偏差的因果调整模块  
 Li Liu; Shuzhou Sun; Shuaifeng Zhi; Fan Shi; Zhen Liu; Janne Heikkilä; Yongxiang Liu  
 
 [Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice](https://ieeexplore.ieee.org/document/10858421/)  
+用于消除场景图生成偏差的因果调整模块  
 Gezheng Xu; Li Yi; Pengcheng Xu; Jiaqi Li; Ruizhi Pu; Changjian Shui; Charles Ling; A. Ian McLeod; Boyu Wang  
 
 [Dual-Camera All-in-Focus Neural Radiance Fields](https://ieeexplore.ieee.org/document/10858765/)  
+双摄像头全焦点神经辐射场  
 Xianrui Luo; Zijin Wu; Juewen Peng; Huiqiang Sun; Zhiguo Cao; Guosheng Lin  
 
 [Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation](https://ieeexplore.ieee.org/document/10858405/)  
+用于分割的结构和统计纹理知识蒸馏和学习  
 Deyi Ji; Feng Zhao; Hongtao Lu; Feng Wu; Jieping Ye  
 
 [Distributional Soft Actor-Critic With Three Refinements](https://ieeexplore.ieee.org/document/10858686/)  
+具有三层细化的分布式软Actor-Critic  
 Jingliang Duan; Wenxuan  
 
 [A Decentralized Framework for Kernel PCA With Projection Consensus Constraints](https://ieeexplore.ieee.org/document/10858779/)  
+具有投影一致性约束的核 PCA 分散框架  
 Fan He; Ruikai Yang; Lei Shi; Xiaolin Huang  
 
 [A3D: A Platform of Searching for Robust Neural Architectures and Efficient Adversarial Attacks](https://ieeexplore.ieee.org/document/10857641/)  
+A3D：一个寻找稳健神经架构和高效对抗攻击的平台  
 Jialiang Sun; Wen Yao; Tingsong Jiang; Chao Li; Xiaoqian Chen  
 
 [Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving](https://ieeexplore.ieee.org/document/10857618/)  
+自动驾驶中的基准测试和鸟瞰感知稳健性的提高  
 Shaoyuan Xie; Lingdong Kong; Wenwei Zhang; Jiawei Ren; Liang Pan; Kai Chen; Ziwei Liu  
 
 [Data-driven Feature Tracking for Event Cameras with and without Frames](https://ieeexplore.ieee.org/document/10857596/)  
+带框和不带框的事件相机的数据驱动特征跟踪  
 Nico Messikommer; Carter Fang; Mathias Gehrig; Giovanni Cioffi; Davide Scaramuzza  
 
 [Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields](https://ieeexplore.ieee.org/document/10857592/)  
+激光：神经辐射场中的高效语言引导分割  
 Xingyu Miao; Haoran Duan; Yang Bai; Tejal Shah; Jun Song; Yang Long; Rajiv Ranjan; Ling Shao  
 
 [Concept neural network based on time-delay regret for dynamic stream learning](https://ieeexplore.ieee.org/document/10856564/)  
+基于时间延迟遗憾的概念神经网络进行动态流学习  
 Yun-Long Mi  
 
 [MulFS-CAP: Multimodal Fusion-supervised Cross-modality Alignment Perception for Unregistered Infrared-visible Image Fusion](https://ieeexplore.ieee.org/document/10856402/)  
+MulFS-CAP：用于未配准红外-可见光图像融合的多模态融合监督的跨模态对准感知  
 Huafeng Li; Zengyi Yang; Yafei Zhang; Wei Jia; Zhengtao Yu; Yu Liu  
 
 [Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](https://ieeexplore.ieee.org/document/10856442/)  
+自动驾驶的多模态数据高效 3D 场景理解  
 Lingdong Kong; Xiang Xu; Jiawei Ren; Wenwei Zhang; Liang Pan; Kai Chen; Wei Tsang Ooi; Ziwei Liu  
 
 [Learning Node Representations via Sketching the Generative Process with Events Benefits Link Prediction on Heterogeneous Networks](https://ieeexplore.ieee.org/document/10856375/)  
+通过描绘事件生成过程来学习节点表征 异构网络上的利益链接预测  
 Xuan Guo; Pengfei Jiao; Danyang Shi; Jie Li; Jinpeng Wang  
 
 [VMarker-Pro: Probabilistic 3D Human Mesh Estimation from Virtual Markers](https://ieeexplore.ieee.org/document/10856385/)  
+VMarker-Pro：根据虚拟标记进行概率 3D 人体网格估计  
 Xiaoxuan Ma; Jiajun Su; Yuan Xu; Wentao Zhu; Chunyu Wang; Yizhou Wang  
 
 [Autonomous clustering by fast find of mass and distance peaks](https://ieeexplore.ieee.org/document/10856563/)  
+通过快速查找质量和距离峰值进行自主聚类  
 Jie Yang; Chin-Teng Lin  
 
 [Rotation-Adaptive Point Cloud Domain Generalization Via Intricate Orientation Learning](https://ieeexplore.ieee.org/document/10856415/)  
+通过复杂方向学习的旋转自适应点云域泛化  
 Bangzhen Liu; Chenxi Zheng; Xuemiao Xu; Cheng Xu; Huaidong Zhang; Shengfeng He  
 
 [Aligning, Autoencoding and Prompting Large Language Models for Novel Disease Reporting](https://ieeexplore.ieee.org/document/10854911/)  
+针对新疾病报告的大型语言模型的对齐、自动编码和提示  
 Fenglin Liu; Xian Wu; Jinfa Huang; Bang Yang; Kim Branson; Patrick Schwab; Lei Clifton; Ping Zhang; Jiebo Luo; Yefeng Zheng; David A. Clifton  
 
 [SinDiffusion: Learning a Diffusion Model from a Single Natural Image](https://ieeexplore.ieee.org/document/10855351/)  
+SinDiffusion：从单个自然图像学习扩散模型  
 Weilun Wang; Jianmin Bao; Wengang Zhou; Dongdong Chen; Dong Chen; Lu Yuan; Houqiang Li  
 
 [Generalized Time Warping Invariant Dictionary Learning for Time Series Classification and Clustering](https://ieeexplore.ieee.org/document/10855328/)  
+用于时间序列分类和聚类的广义时间规整不变字典学习  
 Ruiyu Xu; Chao Wang; Yongxiang Li; Jianguo Wu  
 
 [Predicting and Enhancing the Fairness of DNNs with the Curvature of Perceptual Manifolds](https://ieeexplore.ieee.org/document/10854901/)  
+利用感知流形曲率预测和增强 DNN 的公平性  
 Yanbiao Ma; Licheng Jiao; Fang Liu; Maoji Wen; Lingling Li; Wenping Ma; Shuyuan Yang; Xu Liu; Puhua Chen  
 
 [Exploring Frequency-Inspired Optimization in Transformer for Efficient Single Image Super-Resolution](https://ieeexplore.ieee.org/document/10852524/)  
+探索 Transformer 中频率启发优化以实现高效的单图像超分辨率  
 Ao Li; Le Zhang; Yun Liu; Ce Zhu  
 
 [Quantity-Quality Enhanced Self-training Network for Weakly Supervised Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/10851436/)  
+用于弱监督点云语义分割的数量-质量增强自训练网络  
 Jiacheng Deng; Jiahao Lu; Tianzhu Zhang  
 
 [Unconstrained Fuzzy C-Means Algorithm](https://ieeexplore.ieee.org/document/10848345/)  
+无约束模糊C均值算法  
 Feiping Nie; Runxin Zhang; Weizhong Yu; Xuelong Li  
 
 [Semi-supervised Counting via Pixel-by-pixel Density Distribution Modelling](https://ieeexplore.ieee.org/document/10848320/)  
+通过逐像素密度分布建模进行半监督计数  
 Hui Lin; Zhiheng Ma; Rongrong Ji; Yaowei Wang; Zhou Su; Xiaopeng Hong; Deyu Meng  
 
 [Learning High-Quality Dynamic Memory for Video Object Segmentation](https://ieeexplore.ieee.org/document/10848350/)  
+学习用于视频对象分割的高质量动态内存  
 Yong Liu; Ran Yu; Fei Yin; Xinyuan Zhao; Wei Zhao; Weihao Xia; Jiahao Wang; Yitong Wang; Yansong Tang; Yujiu Yang  
 
 [Heterogeneous Feature Re-sampling for Balanced Pedestrian Attribute Recognition](https://ieeexplore.ieee.org/document/10847947/)  
+平衡行人属性识别的异构特征重采样  
 Yibo Zhou; Bo Li; Hai-Miao Hu; Xiaokang Zhang; Dongping Zhang; Hanzi Wang  
 
 [One-for-All: Towards Universal Domain Translation with a Single StyleGAN](https://ieeexplore.ieee.org/document/10848371/)  
+一对一：迈向单一风格的通用领域翻译GAN  
 Yong Du; Jiahui Zhan; Xinzhe Li; Junyu Dong; Sheng Chen; Ming-Hsuan Yang; Shengfeng He  
 
 [Referring Camouflaged Object Detection](https://ieeexplore.ieee.org/document/10848348/)  
+参考伪装物体检测  
 Xuying Zhang; Bowen Yin; Zheng Lin; Qibin Hou; Deng-Ping Fan; Ming-Ming Cheng  
 
 [Weakly Supervised Segmentation on Outdoor 4D Point Clouds with Progressive 4D Grouping](https://ieeexplore.ieee.org/document/10848336/)  
+使用渐进 4D 分组对室外 4D 点云进行弱监督分割  
 Hanyu Shi; Fayao Liu; Zhonghua Wu; Yi Xu; Guosheng Lin  
 
 [Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution](https://ieeexplore.ieee.org/document/10848321/)  
+通过旋转拉普拉斯分布对 SO(3) 进行鲁棒概率建模  
 Yingda Yin; Jiangran Lyu; Yang Wang; Haoran Liu; He Wang; Baoquan Chen  
 
 [Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training](https://ieeexplore.ieee.org/document/10848017/)  
+通过高效尖峰发射近似训练来扩展尖峰驱动变压器  
 Man Yao; Xuerui Qiu; Tianxiang Hu; Jiakui Hu; Yuhong Chou; Keyu Tian; Jianxing Liao; Luziwei Leng; Bo Xu; Guoqi Li  
 
 [VD-NeRF: Visibility-aware Decoupled Neural Radiance Fields for View-Consistent Editing and High-Frequency Relighting](https://ieeexplore.ieee.org/document/10847302/)  
+VD-NeRF：用于视图一致编辑和高频重新照明的可视性感知解耦神经辐射场  
 Tong Wu; Jia-Mu Sun; Yu-Kun Lai; Lin Gao  
 
 [T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation](https://ieeexplore.ieee.org/document/10847875/)  
+T2I-CompBench++：组合文本到图像生成的增强型综合基准  
 Kaiyi Huang; Chengqi Duan; Kaiyue Sun; Enze Xie; Zhenguo Li; Xihui Liu  
 
 [Enhanced Multi-Scale Cross-Attention for Person Image Generation](https://ieeexplore.ieee.org/document/10847781/)  
+增强多尺度交叉注意力用于人物图像生成  
 Hao Tang; Ling Shao; Nicu Sebe; Luc Van Gool  
 
 [HybrIK-X: Hybrid Analytical-Neural Inverse Kinematics for Whole-Body Mesh Recovery](https://ieeexplore.ieee.org/document/10847938/)  
+HybrIK-X：用于全身网格恢复的混合分析神经逆运动学  
 Jiefeng Li; Siyuan Bian; Chao Xu; Zhicun Chen; Lixin Yang; Cewu Lu  
 
 [RelationLMM: Large Multimodal Model as Open and Versatile Visual Relationship Generalist](https://ieeexplore.ieee.org/document/10845195/)  
+RelationLMM：大型多模态模型作为开放且多功能的视觉关系通才  
 Chi Xie; Shuang Liang; Jie Li; Zhao Zhang; Feng Zhu; Rui Zhao; Yichen Wei  
 
 [W-DOE: Wasserstein Distribution-agnostic Outlier Exposure](https://ieeexplore.ieee.org/document/10844561/)  
+W-DOE：与分布无关的 Wasserstein 异常值暴露  
 Qizhou Wang; Bo Han; Yang Liu; Chen Gong; Tongliang Liu; Jiming Liu  
 
 [Understand Layout and Translate Text: Unified Feature-Conductive End-to-End Document Image Translation](https://ieeexplore.ieee.org/document/10844563/)  
+理解布局并翻译文本：统一特征传导端到端文档图像翻译  
 Zhiyang Zhang; Yaping Zhang; Yupu Liang; Cong Ma; Lu Xiang; Yang Zhao; Yu Zhou; Chengqing Zong  
 
 [OmniTracker: Unifying Visual Object Tracking by Tracking-with-Detection](https://ieeexplore.ieee.org/document/10842236/)  
+理解布局并翻译文本：统一特征传导端到端文档图像翻译  
 Junke Wang; Zuxuan Wu; Dongdong Chen; Chong Luo; Xiyang Dai; Lu Yuan; Yu-Gang Jiang  
 
 [Exploiting Ground Depth Estimation for Mobile Monocular 3D Object Detection](https://ieeexplore.ieee.org/document/10842472/)  

@@ -518,18 +518,23 @@ Guangyu Guo; Dingwen Zhang; Longfei Han; Nian Liu; Ming-Ming Cheng; Junwei Han
 Zhongkai Zhou; Xinnan Fan; Pengfei Shi; Yuanxue Xin; Dongliang Duan; Liuqing Yang    
 
 [Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10587133/)  
+**基于实例一致性的正则化方法用于半监督三维实例分割（zty）**  
 Yizheng Wu; Zhiyu Pan; Kewei Wang; Xingyi Li; Jiahao Cui; Liwen Xiao; Guosheng Lin; Zhiguo Cao  
 
 [PhenoBench: A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain](https://ieeexplore.ieee.org/document/10572312/)  
+**PhenoBench：农业领域语义图像解释的大规模数据集与基准测试（zty）**  
 Jan Weyler; Federico Magistri; Elias Marks; Yue Linn Chong; Matteo Sodano; Gianmarco Roggiolani; Nived Chebrolu; Cyrill Stachniss; Jens Behley  
 
 [3D-PSSIM: Projective Structural Similarity for 3D Mesh Quality Assessment Robust to Topological Irregularities](https://ieeexplore.ieee.org/document/10584322/)  
+**3D-PSSIM：一种对拓扑不规则性鲁棒的三维网格质量评估的投影结构相似性方法（zty）**  
 Seongmin Lee; Jiwoo Kang; Sanghoon Lee; Weisi Lin; Alan Conrad Bovik  
 
 [High-Fidelity and Efficient Pluralistic Image Completion With Transformers](https://ieeexplore.ieee.org/document/10591425/)  
+**基于Transformer的高保真与高效多解图像补全（zty）**  
 Ziyu Wan; Jingbo Zhang; Dongdong Chen; Jing Liao  
 
 [eFFT: An Event-Based Method for the Efficient Computation of Exact Fourier Transforms](https://ieeexplore.ieee.org/document/10582443/)  
+**eFFT：一种基于事件的高效精确傅里叶变换计算方法(zty)**  
 Raul Tapia; José Ramiro Martínez-de Dios; Anibal Ollero  
 
 [Ask Questions With Double Hints: Visual Question Generation With Answer-Awareness and Region-Reference](https://ieeexplore.ieee.org/document/10591342/)  

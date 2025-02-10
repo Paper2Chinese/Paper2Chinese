@@ -538,34 +538,44 @@ Ziyu Wan; Jingbo Zhang; Dongdong Chen; Jing Liao
 Raul Tapia; José Ramiro Martínez-de Dios; Anibal Ollero  
 
 [Ask Questions With Double Hints: Visual Question Generation With Answer-Awareness and Region-Reference](https://ieeexplore.ieee.org/document/10591342/)  
+**提问时提供双重线索：基于答案感知与区域参照的视觉问题生成（zty）**  
 Kai Shen; Lingfei Wu; Siliang Tang; Fangli Xu; Bo Long; Yueting Zhuang; Jian Pei  
 
 [3D Reconstruction From a Single Sketch via View-Dependent Depth Sampling](https://ieeexplore.ieee.org/document/10589301/)  
+**基于视图依赖深度采样的单草图三维重建（zty）**  
 Chenjian Gao; Xilin Wang; Qian Yu; Lu Sheng; Jing Zhang; Xiaoguang Han; Yi-Zhe Song; Dong Xu  
 
 [Disentangled Representation Learning](https://ieeexplore.ieee.org/document/10579040/)  
+**解耦表示学习（zty）**  
 Xin Wang; Hong Chen; Si'ao Tang; Zihao Wu; Wenwu Zhu  
 
 [Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming](https://ieeexplore.ieee.org/document/10607926/)  
+**基于分层序列/集合模型的高效混合整数规划切割策略学习。（zty）**  
 Jie Wang; Zhihai Wang; Xijun Li; Yufei Kuang; Zhihao Shi; Fangzhou Zhu; Mingxuan Yuan; Jia Zeng; Yongdong Zhang; Feng Wu  
 
 [Essential Number of Principal Components and Nearly Training-Free Model for Spectral Analysis](https://ieeexplore.ieee.org/document/10620616/)  
+**主成分分析中的关键组分数量及其在光谱分析中的近似无需训练的模型（zty）**  
 Yifeng Bie; Shuai You; Xinrui Li; Xuekui Zhang; Tao Lu  
 
 [Markov Progressive Framework, a Universal Paradigm for Modeling Long Videos](https://ieeexplore.ieee.org/document/10596972/)  
+**《马尔可夫渐进框架：一种用于建模长视频的通用范式》（zty）**  
 Bo Pang; Gao Peng; Yizhuo Li; Cewu Lu  
 
 [Fast-iTPN: Integrally Pre-Trained Transformer Pyramid Network With Token Migration](https://ieeexplore.ieee.org/document/10609333/)  
+**Fast-iTPN：具有代币迁移功能的整体预训练Transformer金字塔网络（zty）**  
 Yunjie Tian; Lingxi Xie; Jihao Qiu; Jianbin Jiao; Yaowei Wang; Qi Tian; Qixiang Ye  
 
 [Inductive State-Relabeling Adversarial Active Learning With Heuristic Clique Rescaling](https://ieeexplore.ieee.org/document/10607969/)  
+**归纳式状态重标记对抗性主动学习与启发式团重缩放（zty）**  
 Beichen Zhang; Liang Li; Shuhui Wang; Shaofei Cai; Zheng-Jun Zha; Qi Tian; Qingming Huang  
 
 
 [Attention-Guided Low-Rank Tensor Completion](https://ieeexplore.ieee.org/document/10601492/)  
+**注意力引导的低秩张量补全（zty）**  
 Truong Thanh Nhat Mai; Edmund Y. Lam; Chul Lee  
 
 [Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement](https://ieeexplore.ieee.org/document/10604429/)  
+**梯度反演攻击：影响因素分析与隐私增强（zty）**  
 Zipeng Ye; Wenjian Luo; Qi Zhou; Zhenqian Zhu; Yuhui Shi; Yan Jia  
 
 [Learning Many-to-Many Mapping for Unpaired Real-World Image Super-Resolution and Downscaling](https://ieeexplore.ieee.org/document/10599833/)  

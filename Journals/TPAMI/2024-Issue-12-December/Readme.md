@@ -579,120 +579,159 @@ Truong Thanh Nhat Mai; Edmund Y. Lam; Chul Lee
 Zipeng Ye; Wenjian Luo; Qi Zhou; Zhenqian Zhu; Yuhui Shi; Yan Jia  
 
 [Learning Many-to-Many Mapping for Unpaired Real-World Image Super-Resolution and Downscaling](https://ieeexplore.ieee.org/document/10599833/)  
+**学习用于非配对真实世界图像超分辨率和下采样的多对多映射**  
 Wanjie Sun; Zhenzhong Chen  
 
 [A Curriculum-Style Self-Training Approach for Source-Free Semantic Segmentation](https://ieeexplore.ieee.org/document/10609344/)  
+**一种用于无源语义分割的课程式自训练方法**  
 Yuxi Wang; Jian Liang; Zhaoxiang Zhang  
 
 [STQD-Det: Spatio-Temporal Quantum Diffusion Model for Real-Time Coronary Stenosis Detection in X-Ray Angiography](https://ieeexplore.ieee.org/document/10603402/)  
+**STQD - Det：用于 X 射线血管造影中实时冠状动脉狭窄检测的时空量子扩散模型**  
 Xinyu Li; Danni Ai; Hong Song; Jingfan Fan; Tianyu Fu; Deqiang Xiao; Yining Wang; Jian Yang  
 
 [Towards a Flexible Semantic Guided Model for Single Image Enhancement and Restoration](https://ieeexplore.ieee.org/document/10607918/)  
+**迈向用于单图像增强和恢复的灵活语义引导模型**  
 Yuhui Wu; Guoqing Wang; Shaochong Liu; Yang Yang; Wei Li; Xiongxin Tang; Shuhang Gu; Chongyi Li; Heng Tao Shen  
 
 [Deep Learning on Object-Centric 3D Neural Fields](https://ieeexplore.ieee.org/document/10601345/)  
+**基于以对象为中心的 3D 神经场的深度学习**  
 Pierluigi Zama Ramirez; Luca De Luigi; Daniele Sirocchi; Adriano Cardace; Riccardo Spezialetti; Francesco Ballerini; Samuele Salti; Luigi Di Stefano  
 
 [Learning Signed Hyper Surfaces for Oriented Point Cloud Normal Estimation](https://ieeexplore.ieee.org/document/10605090/)  
+**学习用于有向点云法向量估计的带符号超曲面**  
 Qing Li; Huifang Feng; Kanle Shi; Yue Gao; Yi Fang; Yu-Shen Liu; Zhizhong Han  
 
 [FEditNet++: Few-Shot Editing of Latent Semantics in GAN Spaces With Correlated Attribute Disentanglement](https://ieeexplore.ieee.org/document/10607942/)  
+**FEditNet++：在 GAN 空间中通过相关属性解耦对潜在语义进行少样本编辑**  
 Ran Yi; Teng Hu; Mengfei Xia; Yizhe Tang; Yong-Jin Liu  
 
 [DifFace: Blind Face Restoration With Diffused Error Contraction](https://ieeexplore.ieee.org/document/10607954/)  
+**DifFace：基于扩散误差收缩的盲人脸恢复**  
 Zongsheng Yue; Chen Change Loy  
 
 [HDF-Net: Capturing Homogeny Difference Features to Localize the Tampered Image](https://ieeexplore.ieee.org/document/10607909/)  
+**HDF - Net：捕捉同质性差异特征以定位篡改图像**  
 Ruidong Han; Xiaofeng Wang; Ningning Bai; Yihang Wang; Jianpeng Hou; Jianru Xue  
 
 [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/document/10617802/)  
+**UniMiSS +：从跨维度非配对数据中进行通用医学自监督学习**  
 Yutong Xie; Jianpeng Zhang; Yong Xia; Qi Wu  
 
 [Rethinking Self-Supervised Semantic Segmentation: Achieving End-to-End Segmentation](https://ieeexplore.ieee.org/document/10607955/)  
+**重新思考自监督语义分割：实现端到端分割**  
 Yue Liu; Jun Zeng; Xingzhen Tao; Gang Fang  
 
 [Latent Semantic and Disentangled Attention](https://ieeexplore.ieee.org/document/10607968/)  
+**潜在语义与解耦注意力**  
 Jen-Tzung Chien; Yu-Han Huang  
 
 [Structure and Intensity Unbiased Translation for 2D Medical Image Segmentation](https://ieeexplore.ieee.org/document/10613511/)  
+**用于二维医学图像分割的结构和强度无偏转换**  
 Tianyang Zhang; Shaoming Zheng; Jun Cheng; Xi Jia; Joseph Bartlett; Xinxing Cheng; Zhaowen Qiu; Huazhu Fu; Jiang Liu; Aleš Leonardis; Jinming Duan  
 
 [Transformer Module Networks for Systematic Generalization in Visual Question Answering](https://ieeexplore.ieee.org/document/10628017/)  
+**用于视觉问答中系统泛化的 Transformer 模块网络**  
 Moyuru Yamada; Vanessa D’Amario; Kentaro Takemoto; Xavier Boix; Tomotake Sasaki  
 
 [A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting](https://ieeexplore.ieee.org/document/10608422/)  
+**一种面向稳健多维椭球特定拟合的贝叶斯方法**  
 Mingyang Zhao; Xiaohong Jia; Lei Ma; Yuke Shi; Jingen Jiang; Qizhai Li; Dong-Ming Yan; Tiejun Huang  
 
 [Hybrid All-in-Focus Imaging From Neuromorphic Focal Stack](https://ieeexplore.ieee.org/document/10609564/)  
+**基于神经形态聚焦堆栈的混合全聚焦成像**  
 Minggui Teng; Hanyue Lou; Yixin Yang; Tiejun Huang; Boxin Shi  
 
 [End-to-End Autonomous Driving: Challenges and Frontiers](https://ieeexplore.ieee.org/document/10614862/)  
+**端到端自动驾驶：挑战与前沿**  
 Li Chen; Penghao Wu; Kashyap Chitta; Bernhard Jaeger; Andreas Geiger; Hongyang Li  
 
 [QKSAN: A Quantum Kernel Self-Attention Network](https://ieeexplore.ieee.org/document/10613453/)  
+**QKSAN：一种量子核自注意力网络**  
 Ren-Xin Zhao; Jinjing Shi; Xuelong Li  
 
 [Inductive Meta-Path Learning for Schema-Complex Heterogeneous Information Networks](https://ieeexplore.ieee.org/document/10613499/)  
+**用于模式复杂异构信息网络的归纳元路径学习**  
 Shixuan Liu; Changjun Fan; Kewei Cheng; Yunfei Wang; Peng Cui; Yizhou Sun; Zhong Liu  
 
 [Adversarial Training With Anti-Adversaries](https://ieeexplore.ieee.org/document/10608444/)  
+**使用反对抗者的对抗训练**  
 Xiaoling Zhou; Ou Wu; Nan Yang  
 
 [Dual-Grained Lightweight Strategy](https://ieeexplore.ieee.org/document/10713325/)  
+**双粒度轻量级策略**  
 Debin Liu; Xiang Bai; Ruonan Zhao; Xianjun Deng; Laurence T. Yang  
 
 [Random Permutation Set Reasoning](https://ieeexplore.ieee.org/document/10623314/)  
+**随机排列集推理**  
 Jixiang Deng; Yong Deng; Jian-Bo Yang  
 
 [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/document/10614830/)  
+**通过伴随图的边切割实现有效因果划分**  
 Hao Zhang; Yixin Ren; Yewei Xia; Shuigeng Zhou; Jihong Guan  
 
 [A Diffusion Model Translator for Efficient Image-to-Image Translation](https://ieeexplore.ieee.org/document/10614866/)  
+**一种用于高效图像到图像转换的扩散模型翻译器**  
 Mengfei Xia; Yu Zhou; Ran Yi; Yong-Jin Liu; Wenping Wang  
 
 [UNK-VQA: A Dataset and a Probe Into the Abstention Ability of Multi-Modal Large Models](https://ieeexplore.ieee.org/document/10620618/)  
+**UNK - VQA：一个数据集及对多模态大模型弃权能力的探究**  
 Yangyang Guo; Fangkai Jiao; Zhiqi Shen; Liqiang Nie; Mohan Kankanhalli  
 
 [Gradient Harmonization in Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10623315/)  
+**无监督域适应中的梯度协调**  
 Fuxiang Huang; Suqi Song; Lei Zhang  
 
 [DeepTensor: Low-Rank Tensor Decomposition With Deep Network Priors](https://ieeexplore.ieee.org/document/10652890/)  
+**DeepTensor：基于深度网络先验的低秩张量分解**  
 Vishwanath Saragadam; Randall Balestriero; Ashok Veeraraghavan; Richard G. Baraniuk  
 
 [Quality Improvement Synthetic Aperture Radar (SAR) Images Using Compressive Sensing (CS) With Moore-Penrose Inverse (MPI) and Prior From Spatial Variant Apodization (SVA)](https://ieeexplore.ieee.org/document/10638186/)  
+**使用带有摩尔 - 彭罗斯逆（MPI）的压缩感知（CS）和空间变迹（SVA）先验提高合成孔径雷达（SAR）图像质量**  
 Tao Xiong; Yachao Li; Mengdao Xing  
 
 [CamoFormer: Masked Separable Attention for Camouflaged Object Detection](https://ieeexplore.ieee.org/document/10623294/)  
+**CamoFormer：用于伪装目标检测的掩蔽可分离注意力**  
 Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou  
 
 [Sharpness-Aware Lookahead for Accelerating Convergence and Improving Generalization](https://ieeexplore.ieee.org/document/10637761/)  
+**用于加速收敛和提高泛化能力的锐度感知前瞻**  
 Chengli Tan; Jiangshe Zhang; Junmin Liu; Yihong Gong  
 
 [A New Brain Network Construction Paradigm for Brain Disorder via Diffusion-Based Graph Contrastive Learning](https://ieeexplore.ieee.org/document/10636067/)  
+**一种通过基于扩散的图对比学习构建脑疾病脑网络的新范式**  
 Yongcheng Zong; Qiankun Zuo; Michael Kwok-Po Ng; Baiying Lei; Shuqiang Wang  
 
 [Q-Bench++: A Benchmark for Multi-Modal Foundation Models on Low-Level Vision From Single Images to Pairs](https://ieeexplore.ieee.org/document/10643329/)  
+**Q - Bench++：从单图像到图像对的低级视觉多模态基础模型基准**  
 Zicheng Zhang; Haoning Wu; Erli Zhang; Guangtao Zhai; Weisi Lin  
 
 [GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement](https://ieeexplore.ieee.org/document/10636837/)  
+**GeoDTR +：通过几何解耦实现通用跨视图地理定位**  
 Xiaohan Zhang; Xingyu Li; Waqas Sultani; Chen Chen; Safwan Wshah  
 
 [Tensorized and Compressed Multi-View Subspace Clustering via Structured Constraint](https://ieeexplore.ieee.org/document/10640243/)  
+**通过结构化约束实现张量化和压缩多视图子空间聚类**  
 Wei Chang; Huimin Chen; Feiping Nie; Rong Wang; Xuelong Li  
 
 [Pair Then Relation: Pair-Net for Panoptic Scene Graph Generation](https://ieeexplore.ieee.org/document/10634834/)  
+**先配对后关联：用于全景场景图生成的 Pair - Net**  
 Jinghao Wang; Zhengyu Wen; Xiangtai Li; Zujin Guo; Jingkang Yang; Ziwei Liu  
 
 [360 Layout Estimation via Orthogonal Planes Disentanglement and Multi-View Geometric Consistency Perception](https://ieeexplore.ieee.org/document/10634822/)  
+**通过正交平面解耦和多视图几何一致性感知进行 360 布局估计**  
 Zhijie Shen; Chunyu Lin; Junsong Zhang; Lang Nie; Kang Liao; Yao Zhao  
 
 [Enhancing Sound Source Localization via False Negative Elimination](https://ieeexplore.ieee.org/document/10637713/)  
+**通过消除假阴性增强声源定位**  
 Zengjie Song; Jiangshe Zhang; Yuxi Wang; Junsong Fan; Zhaoxiang Zhang  
 
 [Transformation Decoupling Strategy Based on Screw Theory for Deterministic Point Cloud Registration With Gravity Prior](https://ieeexplore.ieee.org/document/10634827/)  
+**基于螺旋理论的变换解耦策略用于具有重力先验的确定性点云配准**  
 Xinyi Li; Zijian Ma; Yinlong Liu; Walter Zimmer; Hu Cao; Feihu Zhang; Alois Knoll  
 
 [Playing for 3D Human Recovery](https://ieeexplore.ieee.org/document/10652891/)  
+**通过游戏实现 3D 人体恢复**  
 Zhongang Cai; Mingyuan Zhang; Jiawei Ren; Chen Wei; Daxuan Ren; Zhengyu Lin; Haiyu Zhao; Lei Yang; Chen Change Loy; Ziwei Liu  
 
 [Graph Multi-Convolution and Attention Pooling for Graph Classification](https://ieeexplore.ieee.org/document/10636839/)  

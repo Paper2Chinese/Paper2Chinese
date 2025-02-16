@@ -78,16 +78,6 @@ Shanghua Gao;
 Marinka Zitnik;
 Liang Lin
 
-[Invertible Diffusion Models for Compressed Sensing](https://ieeexplore.ieee.org/document/10874182/)  
-Bin Chen;
-Zhenyu Zhang;
-Weiqi Li;
-Chen Zhao;
-Jiwen Yu;
-Shijie Zhao;
-Jie Chen;
-Jian Zhang
-
 [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/document/10874188/)  
 Enneng Yang;
 Li Shen;

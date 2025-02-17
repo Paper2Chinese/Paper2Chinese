@@ -3,6 +3,91 @@
 
 ----
 
+
+[Beyond Batch Learning: Global Awareness Enhanced Domain Adaptation](https://ieeexplore.ieee.org/document/10887335/)  
+Lingkun Luo;
+Shiqiang Hu;
+Liming Chen
+
+[Generalized Conditional Similarity Learning via Semantic Matching](https://ieeexplore.ieee.org/document/10887026/)  
+Yi Shi;
+Rui-Xiang Li;
+Le Gan;
+De-Chuan Zhan;
+Han-Jia Ye
+
+[Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts](https://ieeexplore.ieee.org/document/10887014/)  
+Yunxin Li;
+Shenyuan Jiang;
+Baotian Hu;
+Longyue Wang;
+Wanqi Zhong;
+Wenhan Luo;
+Lin Ma;
+Min Zhang
+
+[CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition](https://ieeexplore.ieee.org/document/10887029/)  
+Tongkun Guan;
+Wei Shen;
+Xiaokang Yang
+
+[Revisiting Gradient-Based Uncertainty for Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10884813/)  
+Julia Hornauer;
+Amir El-Ghoussani;
+Vasileios Belagiannis
+
+[MIXRTs: Toward Interpretable Multi-Agent Reinforcement Learning Via Mixing Recurrent Soft Decision Trees](https://ieeexplore.ieee.org/document/10879295/)  
+Zichuan Liu;
+Yuanyang Zhu;
+Zhi Wang;
+Yang Gao;
+Chunlin Chen
+
+[Learning Without Forgetting for Vision-Language Models](https://ieeexplore.ieee.org/document/10882940/)  
+Da-Wei Zhou;
+Yuanhan Zhang;
+Yan Wang;
+Jingyi Ning;
+Han-Jia Ye;
+De-Chuan Zhan;
+Ziwei Liu
+
+[A new metric based on association rules to assess feature-attribution explainability techniques for time series forecasting](https://ieeexplore.ieee.org/document/10879535/)  
+A. R. Troncoso-García;
+M. Martínez-Ballesteros;
+F. Martínez-Álvarez;
+A. Troncoso
+
+[Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning](https://ieeexplore.ieee.org/document/10879555/)  
+Yuting He;
+Boyu Wang;
+Rongjun Ge;
+Yang Chen;
+Guanyu Yang;
+Shuo Li
+
+[Pixel-Inconsistency Modeling for Image Manipulation Localization](https://ieeexplore.ieee.org/document/10883001/)  
+Chenqi Kong;
+Anwei Luo;
+Shiqi Wang;
+Haoliang Li;
+Anderson Rocha;
+Alex C. Kot
+
+[Dual-Level Matching with Outlier Filtering for Unsupervised Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10882953/)  
+Mang Ye;
+Zesen Wu;
+Bo Du
+
+
+[Equivariant Diffusion Model with A5-Group Neurons for Joint Pose Estimation and Shape Reconstruction](https://ieeexplore.ieee.org/document/10879592/)  
+Boyan Wan;
+Yifei Shi;
+Xiaohong Chen;
+Kai Xu
+
+
+
 [Improving Adversarial Training from the Perspective of Class-Flipping Distribution](https://ieeexplore.ieee.org/document/10878818/)  
 从类别翻转分布角度改进对抗性训练  
 Dawei Zhou;

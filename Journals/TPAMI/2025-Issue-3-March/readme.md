@@ -106,9 +106,11 @@ Zhile Yang; Shangqi Guo; Ying Fang; Zhaofei Yu; Jian K. Liu
 Hua Li; Wenya Luo; Zhidong Bai; Huanchao Zhou; Zhangni Pu  
 
 [Fully-Connected Transformer for Multi-Source Image Fusion](https://ieeexplore.ieee.org/document/10874856/)  
+用于多源图像融合的全连接变压器  
 Xiao Wu; Zi-Han Cao; Ting-Zhu Huang; Liang-Jian Deng; Jocelyn Chanussot; Gemine Vivone  
 
 [Multi-Head Encoding for Extreme Label Classification](https://ieeexplore.ieee.org/document/10816186/)  
+用于极限标签分类的多头编码  
 Daojun Liang; Haixia Zhang; Dongfeng Yuan; Minggao Zhang  
 
 [Unveiling and Mitigating Generalized Biases of DNNs through the Intrinsic Dimensions of Perceptual Manifolds](https://ieeexplore.ieee.org/document/10772274/)  

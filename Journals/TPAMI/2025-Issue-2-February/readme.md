@@ -20,6 +20,7 @@ Dylan R. Ashley; Vincent Herrmann; Zachary Friggstad; Jürgen Schmidhuber
 Jing Liu; Sihan Chen; Xingjian He; Longteng Guo; Xinxin Zhu; Weining Wang; Jinhui Tang  
 
 [Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model](https://ieeexplore.ieee.org/document/10713915/)  
+Changen2：多时相遥感生成变化基础模型  
 Zhuo Zheng; Stefano Ermon; Dongjun Kim; Liangpei Zhang; Yanfei Zhong  
 
 [Robust Multimodal Learning With Missing Modalities via Parameter-Efficient Adaptation](https://ieeexplore.ieee.org/document/10713849/)  
@@ -31,6 +32,7 @@ Md Kaykobad Reza; Ashley Prater-Bennette; M. Salman Asif
 Martin Cífka; Georgy Ponimatkin; Yann Labbé; Bryan Russell; Mathieu Aubry; Vladimir Petrik; Josef Sivic  
 
 [Sparse Non-Local CRF With Applications](https://ieeexplore.ieee.org/document/10705039/)  
+稀疏非局部 CRF 及其应用  
 Olga Veksler; Yuri Boykov  
 
 [Intelligent Bionic Polarization Orientation Method Using Biological Neuron Model for Harsh Conditions](https://ieeexplore.ieee.org/document/10723758/)  
@@ -38,12 +40,15 @@ Olga Veksler; Yuri Boykov
 Chong Shen; Yicheng Wu; Guanyu Qian; Xindong Wu; Huiliang Cao; Chenguang Wang; Jun Tang; Jun Liu  
 
 [Continuous-Time Object Segmentation Using High Temporal Resolution Event Camera](https://ieeexplore.ieee.org/document/10713285/)  
+使用高时间分辨率事件相机进行连续时间对象分割  
 Lin Zhu; Xianzhang Chen; Lizhi Wang; Xiao Wang; Yonghong Tian; Hua Huang  
 
 [Competing for Pixels: A Self-Play Algorithm for Weakly-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10705046/)  
+竞争像素：一种用于弱监督语义分割的自玩算法  
 Shaheer U. Saeed; Shiqi Huang; João Ramalhinho; Iani J.M.B. Gayo; Nina Montaña-Brown; Ester Bonmati; Stephen P. Pereira; Brian Davidson; Dean C. Barratt; Matthew J. Clarkson; Yipeng Hu  
 
 [Probing Synergistic High-Order Interaction for Multi-Modal Image Fusion](https://ieeexplore.ieee.org/document/10706703/)  
+探索多模态图像融合的协同高阶相互作用  
 Man Zhou; Naishan Zheng; Xuanhua He; Danfeng Hong; Jocelyn Chanussot  
 
 [Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection](https://ieeexplore.ieee.org/document/10711208/)  
@@ -123,9 +128,11 @@ Tian Zhang; Kongming Liang; Ruoyi Du; Wei Chen; Zhanyu Ma
 Ioannis Sarridis; Christos Koutlis; Symeon Papadopoulos; Christos Diou  
 
 [Recent Advances in Optimal Transport for Machine Learning](https://ieeexplore.ieee.org/document/10740308/)  
+机器学习最佳传输的最新进展  
 Eduardo Fernandes Montesuma; Fred Maurice Ngolè Mboula; Antoine Souloumiac  
 
 [Efficient Analysis of Overdispersed Data Using an Accurate Computation of the Dirichlet Multinomial Distribution](https://ieeexplore.ieee.org/document/10740644/)  
+使用精确计算狄利克雷多项分布对过度分散数据进行有效分析  
 Sherenaz Al-Haj Baddar; Alessandro Languasco; Mauro Migliardi  
 
 [360SFUDA++: Towards Source-Free UDA for Panoramic Segmentation by Learning Reliable Category Prototypes](https://ieeexplore.ieee.org/document/10741594/)  

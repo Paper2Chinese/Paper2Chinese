@@ -4,17 +4,20 @@
 ----
 
 [Improving Adversarial Training from the Perspective of Class-Flipping Distribution](https://ieeexplore.ieee.org/document/10878818/)  
+从类别翻转分布角度改进对抗性训练  
 Dawei Zhou;
 Nannan Wang;
 Tongliang Liu;
 Xinbo Gao
 
 [Convection-Diffusion Equation: a Theoretically Certified Framework for Neural Networks](https://ieeexplore.ieee.org/document/10878813/)  
+对流扩散方程：一个理论认证的神经网络框架  
 Tangjun Wang;
 Chenglong Bao;
 Zuoqiang Shi
 
 [Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction](https://ieeexplore.ieee.org/document/10879346/)  
+用于少量镜头完整头部重建的隐式形状和外观先验  
 Pol Caselles;
 Eduard Ramon;
 Jaime García;
@@ -22,6 +25,7 @@ Gil Triginer;
 Francesc Moreno-Noguer
 
 [C2P-Net: Comprehensive Depth Map to Planar Depth Conversion for Room Layout Estimation](https://ieeexplore.ieee.org/document/10878466/)  
+C2P-Net：用于房间布局估计的综合深度图到平面深度转换  
 Weidong Zhang;
 Mengjie Zhou;
 Jiyu Cheng;
@@ -29,12 +33,14 @@ Ying Liu;
 Wei Zhang
 
 [Digging Deeper in Gradient for Unrolling-based Accelerated MRI Reconstruction](https://ieeexplore.ieee.org/document/10878437/)  
+深入挖掘基于展开的加速 MRI 重建的梯度  
 Faming Fang;
 Tingting Wang;
 Guixu Zhang;
 Fang Li
 
 [MS-NeRF: Multi-Space Neural Radiance Fields](https://ieeexplore.ieee.org/document/10878467/)  
+MS-NeRF：多空间神经辐射场  
 Ze-Xin Yin;
 Peng-Yi Jiao;
 Jiaxiong Qiu;
@@ -42,6 +48,7 @@ Ming-Ming Cheng;
 Bo Ren
 
 [Instruct-ReID++: Towards Universal Purpose Instruction-Guided Person Re-identification](https://ieeexplore.ieee.org/document/10878434/)  
+Instruct-ReID++：迈向通用目的指令引导的人员重新识别  
 Weizhen He;
 Yiheng Deng;
 Yunfeng Yan;
@@ -56,6 +63,7 @@ Shixiang Tang
 
 
 [Absorption-Based, Passive Range Imaging from Hyperspectral Thermal Measurements](https://ieeexplore.ieee.org/document/10877411/)  
+基于吸收的高光谱热测量被动距离成像  
 Unay Dorken Gallastegi;
 Hoover Rueda-Chacón;
 Martin J. Stevens;
@@ -64,6 +72,7 @@ Vivek K Goyal
 
 
 [Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering](https://ieeexplore.ieee.org/document/10877772/)  
+通过以对象为中心的体素化和神经渲染来理解动态场景  
 Yanpeng Zhao;
 Yiwei Hao;
 Siyu Gao;
@@ -71,6 +80,7 @@ Yunbo Wang;
 Xiaokang Yang
 
 [A Causality-Aware Paradigm for Evaluating Creativity of Multimodal Large Language Models](https://ieeexplore.ieee.org/document/10876763/)  
+用于评估多模态大语言模型创造力的因果感知范式  
 Zhongzhan Huang;
 Shanshan Zhong;
 Pan Zhou;
@@ -79,6 +89,7 @@ Marinka Zitnik;
 Liang Lin
 
 [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/document/10874188/)  
+使用正交梯度投影重新审视持续学习中的平坦度感知优化  
 Enneng Yang;
 Li Shen;
 Zhenyi Wang;
@@ -88,23 +99,27 @@ Xingwei Wang;
 Dacheng Tao
 
 [Fair Representation Learning for Continuous Sensitive Attributes using Expectation of Integral Probability Metrics](https://ieeexplore.ieee.org/document/10874180/)  
+使用积分概率度量期望对连续敏感属性进行公平表示学习  
 Insung Kong;
 Kunwoong Kim;
 Yongdai Kim
 
 [Transferable Unintentional Action Localization with Language-guided Intention Translation](https://ieeexplore.ieee.org/document/10872809/)  
+具有语言引导意图翻译的可迁移无意识动作本地化  
 Jinglin Xu;
 Yongming Rao;
 Jie Zhou;
 Jiwen Lu
 
 [GaussNav: Gaussian Splatting for Visual Navigation](https://ieeexplore.ieee.org/document/10870413/)  
+GaussNav：用于视觉导航的高斯泼溅  
 Xiaohan Lei;
 Min Wang;
 Wengang Zhou;
 Houqiang Li
 
 [Temporally-Consistent Surface Reconstruction using Metrically-Consistent Atlases](https://ieeexplore.ieee.org/document/10870387/)  
+使用度量一致的图集进行时间一致的表面重建  
 Jan Bednarik;
 Noam Aigerman;
 Vladimir G. Kim;
@@ -114,6 +129,7 @@ Mathieu Salzmann;
 Pascal Fua
 
 [YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection](https://ieeexplore.ieee.org/document/10872821/)  
+YOLO-MS：重新思考实时目标检测的多尺度表示学习  
 Yuming Chen;
 Xinbin Yuan;
 Jiabao Wang;
@@ -123,6 +139,7 @@ Qibin Hou;
 Ming-Ming Cheng
 
 [Quasi-Metric Learning for Bilateral Person-Job Fit](https://ieeexplore.ieee.org/document/10870255/)  
+双边人的准度量学习——工作契合度  
 Yingpeng Du;
 Hongzhi Liu;
 Hengshu Zhu;
@@ -132,6 +149,7 @@ Zhonghai Wu
 
 
 [BridgeNet: Comprehensive and Effective Feature Interactions via Bridge Feature for Multi-Task Dense Predictions](https://ieeexplore.ieee.org/document/10870147/)  
+BridgeNet：通过桥接特征进行全面有效的特征交互，用于多任务密集预测  
 Jingdong Zhang;
 Jiayuan Fan;
 Peng Ye;
@@ -142,6 +160,7 @@ Yancheng Cai;
 Tao Chen
 
 [Pre-Training a Graph Recurrent Network for Text Understanding](https://ieeexplore.ieee.org/document/10870153/)  
+预训练用于文本理解的图循环网络  
 Yile Wang;
 Linyi Yang;
 Zhiyang Teng;

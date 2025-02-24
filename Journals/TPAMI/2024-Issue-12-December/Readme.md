@@ -55,9 +55,6 @@ Qi Zhang; Shanshe Wang; Xinfeng Zhang; Chuanmin Jia; Zhao Wang; Siwei Ma; Wen Ga
 **[结构引导的图像补全：图像级和对象级语义判别器](https://mp.weixin.qq.com/s/lKFRJXV5NduJQhJ82mZGHw)**  
 Haitian Zheng; Zhe Lin; Jingwan Lu; Scott Cohen; Eli Shechtman; Connelly Barnes; Jianming Zhang; Qing Liu; Sohrab Amirghodsi; Yuqian Zhou; Jiebo Luo 
 
-[A Survey on Efficient Vision Transformers: Algorithms, Techniques, and Performance Benchmarking](https://ieeexplore.ieee.org/document/10508091/)              
-Lorenzo Papa; Paolo Russo; Irene Amerini; Luping Zhou 
-
 [Enhancing Video-Language Representations With Structural Spatio-Temporal Alignment](https://ieeexplore.ieee.org/document/10508488/)      
 **[通过结构化时空对齐增强视频-语言表示](https://mp.weixin.qq.com/s/3co1vgwitK35mUMQiJv87A)**  
 Hao Fei; Shengqiong Wu; Meishan Zhang; Min Zhang; Tat-Seng Chua; Shuicheng Yan  

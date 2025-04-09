@@ -278,7 +278,7 @@ Gezheng Xu; Li Yi; Pengcheng Xu; Jiaqi Li; Ruizhi Pu; Changjian Shui; Charles Li
 Xianrui Luo; Zijin Wu; Juewen Peng; Huiqiang Sun; Zhiguo Cao; Guosheng Lin  
 
 [Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation](https://ieeexplore.ieee.org/document/10858405/)  
-用于分割的结构和统计纹理知识蒸馏和学习  
+**[用于分割的结构和统计纹理知识蒸馏和学习](https://mp.weixin.qq.com/s/vQRWahrZs-wgBP006Ot5nQ)**  
 Deyi Ji; Feng Zhao; Hongtao Lu; Feng Wu; Jieping Ye  
 
 [Distributional Soft Actor-Critic With Three Refinements](https://ieeexplore.ieee.org/document/10858686/)  
@@ -290,7 +290,7 @@ Jingliang Duan; Wenxuan
 Fan He; Ruikai Yang; Lei Shi; Xiaolin Huang  
 
 [A3D: A Platform of Searching for Robust Neural Architectures and Efficient Adversarial Attacks](https://ieeexplore.ieee.org/document/10857641/)  
-A3D：一个寻找稳健神经架构和高效对抗攻击的平台  
+**[A3D：一个寻找稳健神经架构和高效对抗攻击的平台](https://mp.weixin.qq.com/s/QH7SQ4tGkajrxyDW797Rew)**  
 Jialiang Sun; Wen Yao; Tingsong Jiang; Chao Li; Xiaoqian Chen  
 
 [Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving](https://ieeexplore.ieee.org/document/10857618/)  
@@ -310,11 +310,11 @@ Xingyu Miao; Haoran Duan; Yang Bai; Tejal Shah; Jun Song; Yang Long; Rajiv Ranja
 Yun-Long Mi  
 
 [MulFS-CAP: Multimodal Fusion-supervised Cross-modality Alignment Perception for Unregistered Infrared-visible Image Fusion](https://ieeexplore.ieee.org/document/10856402/)  
-MulFS-CAP：用于未配准红外-可见光图像融合的多模态融合监督的跨模态对准感知  
+**[MulFS-CAP：用于未配准红外-可见光图像融合的多模态融合监督的跨模态对准感知](https://mp.weixin.qq.com/s/1BDO94XKLLFVe7cbRQnbKg)**  
 Huafeng Li; Zengyi Yang; Yafei Zhang; Wei Jia; Zhengtao Yu; Yu Liu  
 
 [Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](https://ieeexplore.ieee.org/document/10856442/)  
-自动驾驶的多模态数据高效 3D 场景理解  
+**[自动驾驶的多模态数据高效 3D 场景理解](https://mp.weixin.qq.com/s/UGzcpgsZQ_-pfZq9eXH-yA)**  
 Lingdong Kong; Xiang Xu; Jiawei Ren; Wenwei Zhang; Liang Pan; Kai Chen; Wei Tsang Ooi; Ziwei Liu  
 
 [Learning Node Representations via Sketching the Generative Process with Events Benefits Link Prediction on Heterogeneous Networks](https://ieeexplore.ieee.org/document/10856375/)  
@@ -338,7 +338,7 @@ Bangzhen Liu; Chenxi Zheng; Xuemiao Xu; Cheng Xu; Huaidong Zhang; Shengfeng He
 Fenglin Liu; Xian Wu; Jinfa Huang; Bang Yang; Kim Branson; Patrick Schwab; Lei Clifton; Ping Zhang; Jiebo Luo; Yefeng Zheng; David A. Clifton  
 
 [SinDiffusion: Learning a Diffusion Model from a Single Natural Image](https://ieeexplore.ieee.org/document/10855351/)  
-SinDiffusion：从单个自然图像学习扩散模型  
+**[SinDiffusion：从单个自然图像学习扩散模型](https://mp.weixin.qq.com/s/S5lxFIWjhMq2p9bfG9LxHg)**  
 Weilun Wang; Jianmin Bao; Wengang Zhou; Dongdong Chen; Dong Chen; Lu Yuan; Houqiang Li  
 
 [Generalized Time Warping Invariant Dictionary Learning for Time Series Classification and Clustering](https://ieeexplore.ieee.org/document/10855328/)  
@@ -362,7 +362,7 @@ Jiacheng Deng; Jiahao Lu; Tianzhu Zhang
 Feiping Nie; Runxin Zhang; Weizhong Yu; Xuelong Li  
 
 [Semi-supervised Counting via Pixel-by-pixel Density Distribution Modelling](https://ieeexplore.ieee.org/document/10848320/)  
-通过逐像素密度分布建模进行半监督计数  
+**[通过逐像素密度分布建模进行半监督计数](https://mp.weixin.qq.com/s/3c2Y_yTk7bjlRDB4ATfaCQ)**  
 Hui Lin; Zhiheng Ma; Rongrong Ji; Yaowei Wang; Zhou Su; Xiaopeng Hong; Deyu Meng  
 
 [Learning High-Quality Dynamic Memory for Video Object Segmentation](https://ieeexplore.ieee.org/document/10848350/)  
@@ -374,7 +374,7 @@ Yong Liu; Ran Yu; Fei Yin; Xinyuan Zhao; Wei Zhao; Weihao Xia; Jiahao Wang; Yito
 Yibo Zhou; Bo Li; Hai-Miao Hu; Xiaokang Zhang; Dongping Zhang; Hanzi Wang  
 
 [One-for-All: Towards Universal Domain Translation with a Single StyleGAN](https://ieeexplore.ieee.org/document/10848371/)  
-一对一：迈向单一风格的通用领域翻译GAN  
+**[一对一：迈向单一风格的通用领域翻译GAN](https://mp.weixin.qq.com/s/FZegMxhgMCTvBBYojhsh4g)**  
 Yong Du; Jiahui Zhan; Xinzhe Li; Junyu Dong; Sheng Chen; Ming-Hsuan Yang; Shengfeng He  
 
 [Referring Camouflaged Object Detection](https://ieeexplore.ieee.org/document/10848348/)  
@@ -386,11 +386,11 @@ Xuying Zhang; Bowen Yin; Zheng Lin; Qibin Hou; Deng-Ping Fan; Ming-Ming Cheng
 Hanyu Shi; Fayao Liu; Zhonghua Wu; Yi Xu; Guosheng Lin  
 
 [Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution](https://ieeexplore.ieee.org/document/10848321/)  
-通过旋转拉普拉斯分布对 SO(3) 进行鲁棒概率建模  
+**[通过旋转拉普拉斯分布对 SO(3) 进行鲁棒概率建模](https://mp.weixin.qq.com/s/A8HxCpVVN53xa7HQBszU3Q)**  
 Yingda Yin; Jiangran Lyu; Yang Wang; Haoran Liu; He Wang; Baoquan Chen  
 
 [Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training](https://ieeexplore.ieee.org/document/10848017/)  
-通过高效尖峰发射近似训练来扩展尖峰驱动变压器  
+**[通过高效尖峰发射近似训练来扩展尖峰驱动变压器](https://mp.weixin.qq.com/s/1ml05gMVFWmJPFv5T-b0fg)**  
 Man Yao; Xuerui Qiu; Tianxiang Hu; Jiakui Hu; Yuhong Chou; Keyu Tian; Jianxing Liao; Luziwei Leng; Bo Xu; Guoqi Li  
 
 [VD-NeRF: Visibility-aware Decoupled Neural Radiance Fields for View-Consistent Editing and High-Frequency Relighting](https://ieeexplore.ieee.org/document/10847302/)  
@@ -402,7 +402,7 @@ T2I-CompBench++：组合文本到图像生成的增强型综合基准
 Kaiyi Huang; Chengqi Duan; Kaiyue Sun; Enze Xie; Zhenguo Li; Xihui Liu  
 
 [Enhanced Multi-Scale Cross-Attention for Person Image Generation](https://ieeexplore.ieee.org/document/10847781/)  
-增强多尺度交叉注意力用于人物图像生成  
+**[增强多尺度交叉注意力用于人物图像生成](https://mp.weixin.qq.com/s/4ttCn4avIDy0jAIDlL1EAg)**  
 Hao Tang; Ling Shao; Nicu Sebe; Luc Van Gool  
 
 [HybrIK-X: Hybrid Analytical-Neural Inverse Kinematics for Whole-Body Mesh Recovery](https://ieeexplore.ieee.org/document/10847938/)  
@@ -553,15 +553,15 @@ Hang Lin; Yifan Peng; Yubo Zhang; Lin Bie; Xibin Zhao; Yue Gao
 Yifan Feng; Jiangang Huang; Shaoyi Du; Shihui Ying; Jun-Hai Yong; Yipeng Li; Guiguang Ding; Rongrong Ji; Yue Gao  
 
 [Efficient Signed Graph Sampling via Balancing & Gershgorin Disc Perfect Alignment](https://ieeexplore.ieee.org/document/10818598/)  
-**基于平衡与Gershgorin圆盘完美对齐的高效符号图采样**   
+**[基于平衡与Gershgorin圆盘完美对齐的高效符号图采样](https://mp.weixin.qq.com/s/1vZouCXRuoACq4pt5irKPA)**   
 Chinthaka Dinesh; Gene Cheung; Saghar Bagheri; Ivan V. Bajic  
 
 [Cross-Modal 3D Shape Retrieval via Heterogeneous Dynamic Graph Representation](https://ieeexplore.ieee.org/document/10818713/)  
-**跨模态3D形状检索：基于异质动态图表示的方法**   
+**[跨模态3D形状检索：基于异质动态图表示的方法](https://mp.weixin.qq.com/s/FmwPrbzTEe-qT92kzeecaA)**   
 Yue Dai; Yifan Feng; Nan Ma; Xibin Zhao; Yue Gao  
 
 [JM3D & JM3D-LLM: Elevating 3D Representation With Joint Multi-Modal Cues](https://ieeexplore.ieee.org/document/10817587/)  
-**JM3D & JM3D-LLM：通过联合多模态线索提升3D表示学习**   
+**[JM3D & JM3D-LLM：通过联合多模态线索提升3D表示学习](https://mp.weixin.qq.com/s/1P0SzyLDW9HWiDPBXQcrow)**   
 Jiayi Ji; Haowei Wang; Changli Wu; Yiwei Ma; Xiaoshuai Sun; Rongrong Ji  
 
 [RenAIssance: A Survey Into AI Text-to-Image Generation in the Era of Large Model](https://ieeexplore.ieee.org/document/10817489/)  
@@ -569,7 +569,7 @@ Jiayi Ji; Haowei Wang; Changli Wu; Yiwei Ma; Xiaoshuai Sun; Rongrong Ji
 Fengxiang Bie; Yibo Yang; Zhongzhu Zhou; Adam Ghanem; Minjia Zhang; Zhewei Yao; Xiaoxia Wu; Connor Holmes; Pareesa Golnari; David A. Clifton; Yuxiong He; Dacheng Tao; Shuaiwen Leon Song  
 
 [Training Networks in Null Space of Feature Covariance With Self-Supervision for Incremental Learning](https://ieeexplore.ieee.org/document/10816176/)  
-**在特征协方差的零空间中训练网络：结合自监督的增量学习**   
+**[在特征协方差的零空间中训练网络：结合自监督的增量学习](https://mp.weixin.qq.com/s/exk9zBxrXDNAOCzWw_yGiA)**   
 Shipeng Wang; Xiaorong Li; Jian Sun; Zongben Xu  
 
 [Explicit View-Labels Matter: A Multifacet Complementarity Study of Multi-View Clustering](https://ieeexplore.ieee.org/document/10816579/)  
@@ -652,7 +652,7 @@ Siyuan Shen; Suan Xia; Xingyue Peng; Ziyu Wang; Yingsheng Zhu; Shiying Li; Jingy
 Wenhao Wu; Xiaohan Wang; Haipeng Luo; Jingdong Wang; Yi Yang; Wanli Ouyang
 
 [Nonconvex Zeroth-Order Stochastic ADMM Methods with Lower Function Query Complexity](https://ieeexplore.ieee.org/document/10423573/)  
-**非凸零阶随机ADMM方法具有较低的函数查询复杂性**  
+**[非凸零阶随机ADMM方法具有较低的函数查询复杂性](https://mp.weixin.qq.com/s/EqMUQ61fHfDXiHRNLVGPdg)**  
 Feihu Huang; Shangqian Gao; Jian Pei; Heng Huang
 
 [Self-Supervised Multimodal Learning: A Survey](https://ieeexplore.ieee.org/document/10423573/)  
@@ -672,7 +672,7 @@ Yuanhan Zhang; Kaiyang Zhou; Ziwei Liu
 Kristen Grauman et al.;
 
 [Unpaired Image-text Matching via Multimodal Aligned Conceptual Knowledge](https://ieeexplore.ieee.org/document/10423573/)  
-**通过多模态对齐的概念知识进行非配对的图像-文本匹配**  
+**[通过多模态对齐的概念知识进行非配对的图像-文本匹配](https://mp.weixin.qq.com/s/vkQ5LNYRUEZB577VlGYu_w)**  
 Yan Huang; Yuming Wang; Yunan Zeng; Junshi Huang; Zhenhua Chai; Liang Wang
 
 [The effects of experiment duration and supertrial analysis on EEG classification methods](https://ieeexplore.ieee.org/document/10592658/)  

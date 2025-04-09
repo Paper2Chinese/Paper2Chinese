@@ -6,7 +6,7 @@ Issue 1 • January-2024
 
 
 [Unsupervised Degradation Representation Learning for Unpaired Restoration of Images and Point Clouds](https://ieeexplore.ieee.org/document/10738507/)  
-**无监督退化表征学习用于无配对图像和点云的恢复**  
+**[无监督退化表征学习用于无配对图像和点云的恢复](https://mp.weixin.qq.com/s/Tlsde1kq8Hl_avmwd_kipg)**  
 Longguang Wang;
 Yulan Guo;
 Yingqian Wang;
@@ -71,7 +71,7 @@ Kwanghoon Sohn
 
 
 [Efficient Diffusion Model for Image Restoration by Residual Shifting](https://ieeexplore.ieee.org/document/10681246/)  
-**通过残差偏移的高效扩散模型用于图像恢复**  
+**[通过残差偏移的高效扩散模型用于图像恢复](https://mp.weixin.qq.com/s/YD1muiSP3bmdlaeyDL2QJw)**  
 Zongsheng Yue;
 Jianyi Wang;
 Chen Change Loy
@@ -125,7 +125,7 @@ Konstantinos G. Derpanis
 
 
 [Event-Enhanced Snapshot Mosaic Hyperspectral Frame Deblurring](https://ieeexplore.ieee.org/document/10684998/)  
-事件增强快照马赛克高光谱帧去模糊  
+**[事件增强快照马赛克高光谱帧去模糊](https://mp.weixin.qq.com/s/cy3OZs5rODEcB7A3YSrKLw)**  
 Mengyue Geng;
 Lizhi Wang;
 Lin Zhu;
@@ -173,7 +173,7 @@ Zhan Ma
 
 
 [Multi-Sensor Learning Enables Information Transfer Across Different Sensory Data and Augments Multi-Modality Imaging](https://ieeexplore.ieee.org/document/10685142/)  
-多传感器学习可实现不同感官数据之间的信息传输并增强多模态成像
+**[多传感器学习可实现不同感官数据之间的信息传输并增强多模态成像](https://mp.weixin.qq.com/s/acyZLsRJ6K55PKvy0vIngg)**
 Lingting Zhu;
 Yizheng Chen;
 Lianli Liu;
@@ -282,7 +282,7 @@ Deyu Meng
 
 
 [On-the-Fly Modulation for Balanced Multimodal Learning](https://ieeexplore.ieee.org/document/10694738/)  
-即时调制以实现平衡的多模态学习
+**[即时调制以实现平衡的多模态学习](https://mp.weixin.qq.com/s/Il4TGItBNUbgcB2bYjRdBA)**
 Yake Wei;
 Di Hu;
 Henghui Du;
@@ -299,7 +299,7 @@ Yanwei Fu
 
 
 [Generalized Relevance Learning Grassmann Quantization](https://ieeexplore.ieee.org/document/10689384/)  
-广义相关性学习格拉斯曼量化
+**[广义相关性学习格拉斯曼量化](https://mp.weixin.qq.com/s/FFS_DEGP7xFGXHX5k-inCQ)**
 M. Mohammadi;
 M. Babai;
 M.H.F. Wilkinson

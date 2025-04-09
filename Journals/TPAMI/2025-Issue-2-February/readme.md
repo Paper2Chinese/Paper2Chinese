@@ -4,7 +4,7 @@
 
 
 [Matryoshka: Exploiting the Over-Parametrization of Deep Learning Models for Covert Data Transmission](https://ieeexplore.ieee.org/document/10612241/)  
-**Matryoshka：利用深度学习模型的过度参数化进行隐蔽数据传输**  
+**[Matryoshka：利用深度学习模型的过度参数化进行隐蔽数据传输](https://mp.weixin.qq.com/s/-n9c0CZxJb8hOO-S3hgsMw)**  
 Xudong Pan; Mi Zhang; Yifan Yan; Shengyao Zhang; Min Yang  
 
 [Human-Centric Transformer for Domain Adaptive Action Recognition](https://ieeexplore.ieee.org/document/10599825/)  
@@ -88,7 +88,7 @@ Tianyi Zhang; Chunyun Chen; Yun Liu; Xue Geng; Mohamed M. Sabry Aly; Jie Lin
 Mingwu Zheng; Haiyu Zhang; Hongyu Yang; Liming Chen; Di Huang  
 
 [Evolved Hierarchical Masking for Self-Supervised Learning](https://ieeexplore.ieee.org/document/10742293/)  
-**自监督学习的进化分层掩码**  
+**[自监督学习的进化分层掩码](https://mp.weixin.qq.com/s/w9SgoiVzYpfP4z7HnY89Hw)**  
 Zhanzhou Feng; Shiliang Zhang  
 
 [Universal Fingerprint Generation: Controllable Diffusion Model With Multimodal Conditions](https://ieeexplore.ieee.org/document/10734169/)  
@@ -100,7 +100,7 @@ Steven A. Grosz; Anil K. Jain
 Minsu Kim; Hyung-Il Kim; Yong Man Ro  
 
 [Anti-Forgetting Adaptation for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10742299/)  
-**无监督行人重识别的抗遗忘适应**  
+**[无监督行人重识别的抗遗忘适应](https://mp.weixin.qq.com/s/fdNxvXmm85twGGEz1oMXpw)**  
 Hao Chen; Francois Bremond; Nicu Sebe; Shiliang Zhang  
 
 [Noise Self-Regression: A New Learning Paradigm to Enhance Low-Light Images Without Task-Related Data](https://ieeexplore.ieee.org/document/10737245/)  
@@ -140,7 +140,7 @@ Sherenaz Al-Haj Baddar; Alessandro Languasco; Mauro Migliardi
 Xu Zheng; Peng Yuan Zhou; Athanasios V. Vasilakos; Lin Wang  
 
 [Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing](https://ieeexplore.ieee.org/document/10746353/)  
-**多模态多属性对比预训练用于图像美学计算**  
+**[多模态多属性对比预训练用于图像美学计算](https://mp.weixin.qq.com/s/-Ug0fVUfrZJudtalKoBXMg)**  
 Yipo Huang; Leida Li; Pengfei Chen; Haoning Wu; Weisi Lin; Guangming Shi  
 
 [Adaptive Learning for Dynamic Features and Noisy Labels](https://ieeexplore.ieee.org/document/10740558/)  
@@ -164,7 +164,7 @@ Lue Fan; Feng Wang; Naiyan Wang; Zhaoxiang Zhang
 Valero Laparra; Juan Emmanuel Johnson; Gustau Camps-Valls; Raúl Santos-Rodríguez; Jesús Malo
 
 [Fast and Functional Structured Data Generators Rooted in Out-of-Equilibrium Physics](https://ieeexplore.ieee.org/document/10750287/)  
-**基于非平衡态物理的快速且功能化的结构化数据生成器(ZTY)**  
+**[基于非平衡态物理的快速且功能化的结构化数据生成器](https://mp.weixin.qq.com/s/ESsWgsQfpHJ-du5tPUyo9g)**  
 Alessandra Carbone; Aurélien Decelle; Lorenzo Rosset; Beatriz Seoane  
 
 [Online Learning Under a Separable Stochastic Approximation Framework](https://ieeexplore.ieee.org/document/10750307/)  

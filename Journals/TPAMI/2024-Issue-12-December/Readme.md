@@ -271,7 +271,7 @@ Bingqian Lin; Yunshuang Nie; Ziming Wei; Yi Zhu; Hang Xu; Shikui Ma; Jianzhuang 
 Jiaming Zhang; Kailun Yang; Hao Shi; Simon Reiß; Kunyu Peng; Chaoxiang Ma; Haodong Fu; Philip H. S. Torr; Kaiwei Wang; Rainer Stiefelhagen  
 
 [Bilinear Models of Parts and Appearances in Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10572317/)      
-**生成对抗网络中部件和外观的双线性模型（zty）**  
+**[生成对抗网络中部件和外观的双线性模型](https://mp.weixin.qq.com/s/EU6hzektvTaNvkH9N4ZklQ)**  
 James Oldfield; Christos Tzelepis; Yannis Panagakis; Mihalis A. Nicolaou; Ioannis Patras  
 
 [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/document/10546317/)   
@@ -343,7 +343,7 @@ H. Saadatmand; Mohammad-R. Akbarzadeh-T
 Shutao Li; Bin Li; Bin Sun; Yixuan Weng  
 
 [DebSDF: Delving Into the Details and Bias of Neural Indoor Scene Reconstruction](https://ieeexplore.ieee.org/document/10506631/)     
-**DebSDF：探究神经室内场景重建的细节与偏差**  
+**[DebSDF：探究神经室内场景重建的细节与偏差](https://mp.weixin.qq.com/s/YA9Co9IQi5GaSYjDQ2EOhQ)**  
 Yuting Xiao; Jingwei Xu; Zehao Yu; Shenghua Gao  
 
 [Revisiting the Trade-Off Between Accuracy and Robustness via Weight Distribution of Filters](https://ieeexplore.ieee.org/document/10506631/)     
@@ -387,7 +387,7 @@ Shilong Bao; Qianqian Xu; Zhiyong Yang; Yuan He; Xiaochun Cao; Qingming Huang
 Hongrong Cheng; Miao Zhang; Javen Qinfeng Shi  
 
 [GALA: Graph Diffusion-Based Alignment With Jigsaw for Source-Free Domain Adaptation](https://ieeexplore.ieee.org/document/10561561/)  
-**GALA: 基于图扩散的对齐与拼图策略用于无源域适应（zty）**  
+**[GALA: 基于图扩散的对齐与拼图策略用于无源域适应](https://mp.weixin.qq.com/s/U7kr583VBfxOw5MTjDFdFw)**  
 Junyu Luo; Yiyang Gu; Xiao Luo; Wei Ju; Zhiping Xiao; Yusheng Zhao; Jingyang Yuan; Ming Zhang  
 
 [A Survey on Self-Supervised Learning: Algorithms, Applications, and Future Trends](https://ieeexplore.ieee.org/document/10559458/)  
@@ -439,7 +439,7 @@ Yue Han; Jiangning Zhang; Yabiao Wang; Chengjie Wang; Yong Liu; Lu Qi; Ming-Hsua
 Yang You; Wenhao He; Jin Liu; Hongkai Xiong; Weiming Wang; Cewu Lu  
 
 [Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels](https://ieeexplore.ieee.org/document/10579784/)  
-**面向不平衡数据分布和多标签的野外大规模目标检测**  
+**[面向不平衡数据分布和多标签的野外大规模目标检测](https://mp.weixin.qq.com/s/-5wUjCr-9uzcqsXVcZQUWw)**  
 Cong Pan; Junran Peng; Xingyuan Bu; Zhaoxiang Zhang  
 
 [Practical Network Acceleration With Tiny Sets: Hypothesis, Theory, and Algorithm](https://ieeexplore.ieee.org/document/10571608/)  
@@ -467,7 +467,7 @@ Shiji Zhao; Xizhe Wang; Xingxing Wei
 Ke Ma; Qianqian Xu; Jinshan Zeng; Wei Liu; Xiaochun Cao; Yingfei Sun; Qingming Huang  
 
 [Dynamic 3D Point Cloud Sequences as 2D Videos](https://ieeexplore.ieee.org/document/10582545/)  
-**将动态3D点云序列视为2D视频**  
+**[将动态3D点云序列视为2D视频](https://mp.weixin.qq.com/s/hIQsisSwbE-W1aoJyO4nEQ)**  
 Yiming Zeng; Junhui Hou; Qijian Zhang; Siyu Ren; Wenping Wang  
 
 [Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark](https://ieeexplore.ieee.org/document/10571602/)  
@@ -499,7 +499,7 @@ Lei Huang; Yunhao Ni; Xi Weng; Rao Muhammad Anwer; Salman Khan; Ming-Hsuan Yang;
 Jianyuan Wang; Lalit Bhagat; Ceyuan Yang; Yinghao Xu; Yujun Shen; Hongdong Li; Bolei Zhou  
 
 [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models](https://ieeexplore.ieee.org/document/10586270/)  
-**Adan：用于快速优化深度模型的自适应Nesterov动量算法**  
+**[Adan：用于快速优化深度模型的自适应Nesterov动量算法](https://mp.weixin.qq.com/s/57oyGlx2mBr3vBOsTIKeLg)**  
 Xingyu Xie; Pan Zhou; Huan Li; Zhouchen Lin; Shuicheng Yan  
 
 [TCFormer: Visual Recognition via Token Clustering Transformer](https://ieeexplore.ieee.org/document/10594800/)  
@@ -515,11 +515,11 @@ Guangyu Guo; Dingwen Zhang; Longfei Han; Nian Liu; Ming-Ming Cheng; Junwei Han
 Zhongkai Zhou; Xinnan Fan; Pengfei Shi; Yuanxue Xin; Dongliang Duan; Liuqing Yang    
 
 [Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10587133/)  
-**基于实例一致性的正则化方法用于半监督三维实例分割（zty）**  
+**[基于实例一致性的正则化方法用于半监督三维实例分割](https://mp.weixin.qq.com/s/4Z9wcVcbHbyv1pzHGEW2bw)**  
 Yizheng Wu; Zhiyu Pan; Kewei Wang; Xingyi Li; Jiahao Cui; Liwen Xiao; Guosheng Lin; Zhiguo Cao  
 
 [PhenoBench: A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain](https://ieeexplore.ieee.org/document/10572312/)  
-**PhenoBench：农业领域语义图像解释的大规模数据集与基准测试（zty）**  
+**[PhenoBench：农业领域语义图像解释的大规模数据集与基准测试](https://mp.weixin.qq.com/s/0sPBg20wqmxq7S_yJQTh7g)**  
 Jan Weyler; Federico Magistri; Elias Marks; Yue Linn Chong; Matteo Sodano; Gianmarco Roggiolani; Nived Chebrolu; Cyrill Stachniss; Jens Behley  
 
 [3D-PSSIM: Projective Structural Similarity for 3D Mesh Quality Assessment Robust to Topological Irregularities](https://ieeexplore.ieee.org/document/10584322/)  
@@ -527,7 +527,7 @@ Jan Weyler; Federico Magistri; Elias Marks; Yue Linn Chong; Matteo Sodano; Gianm
 Seongmin Lee; Jiwoo Kang; Sanghoon Lee; Weisi Lin; Alan Conrad Bovik  
 
 [High-Fidelity and Efficient Pluralistic Image Completion With Transformers](https://ieeexplore.ieee.org/document/10591425/)  
-**基于Transformer的高保真与高效多解图像补全（zty）**  
+**[基于Transformer的高保真与高效多解图像补全](https://mp.weixin.qq.com/s/5W6B0X9JfPOALs1agv7BaQ)**  
 Ziyu Wan; Jingbo Zhang; Dongdong Chen; Jing Liao  
 
 [eFFT: An Event-Based Method for the Efficient Computation of Exact Fourier Transforms](https://ieeexplore.ieee.org/document/10582443/)  
@@ -632,7 +632,7 @@ Tianyang Zhang; Shaoming Zheng; Jun Cheng; Xi Jia; Joseph Bartlett; Xinxing Chen
 Moyuru Yamada; Vanessa D’Amario; Kentaro Takemoto; Xavier Boix; Tomotake Sasaki  
 
 [A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting](https://ieeexplore.ieee.org/document/10608422/)  
-**一种面向稳健多维椭球特定拟合的贝叶斯方法**  
+**[一种面向稳健多维椭球特定拟合的贝叶斯方法](https://mp.weixin.qq.com/s/tN_xkOgVnq5iE4_n-grRVQ)**  
 Mingyang Zhao; Xiaohong Jia; Lei Ma; Yuke Shi; Jingen Jiang; Qizhai Li; Dong-Ming Yan; Tiejun Huang  
 
 [Hybrid All-in-Focus Imaging From Neuromorphic Focal Stack](https://ieeexplore.ieee.org/document/10609564/)  
@@ -716,7 +716,7 @@ Wei Chang; Huimin Chen; Feiping Nie; Rong Wang; Xuelong Li
 Jinghao Wang; Zhengyu Wen; Xiangtai Li; Zujin Guo; Jingkang Yang; Ziwei Liu  
 
 [360 Layout Estimation via Orthogonal Planes Disentanglement and Multi-View Geometric Consistency Perception](https://ieeexplore.ieee.org/document/10634822/)  
-**通过正交平面解耦和多视图几何一致性感知进行 360 布局估计**  
+**[通过正交平面解耦和多视图几何一致性感知进行 360 布局估计](https://mp.weixin.qq.com/s/x63z557FUvGRbsb3-kYbNQ)**  
 Zhijie Shen; Chunyu Lin; Junsong Zhang; Lang Nie; Kang Liao; Yao Zhao  
 
 [Enhancing Sound Source Localization via False Negative Elimination](https://ieeexplore.ieee.org/document/10637713/)  

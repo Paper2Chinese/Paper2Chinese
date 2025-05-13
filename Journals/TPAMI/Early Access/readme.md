@@ -870,7 +870,7 @@ Yining Qi;
 Wei Liu;
 Ruixuan Li
 
-[Instant Gaussian Splatting Generation for High-Quality and Real-Time Facial Asset Rendering](https://ieeexplore.ieee.org/document/10927644/)
+[Instant Gaussian Splatting Generation for High-Quality and Real-Time Facial Asset Rendering](https://ieeexplore.ieee.org/document/10927644/)  
 Dafei Qin;
 Hongyang Lin;
 Qixuan Zhang;
@@ -882,7 +882,7 @@ Jingyi Yu;
 Lan Xu;
 Taku Komura
 
-[Deformable Graph Transformer](https://ieeexplore.ieee.org/document/10925360/)
+[Deformable Graph Transformer](https://ieeexplore.ieee.org/document/10925360/)  
 Jinyoung Park;
 Seongjun Yun;
 Hyeonjin Park;
@@ -893,13 +893,13 @@ Jung-Woo Ha;
 Hyunwoo J. Kim
 
 
-[LMP-GAN: Out-Of-Distribution Detection For Non-Control Data Malware Attacks](https://ieeexplore.ieee.org/document/10924654/)
+[LMP-GAN: Out-Of-Distribution Detection For Non-Control Data Malware Attacks](https://ieeexplore.ieee.org/document/10924654/)  
 David Wood;
 David Kapp;
 Temesgen Kebede;
 Keigo Hirakawa
 
-[BackMix: Regularizing Open Set Recognition by Removing Underlying Fore-Background Priors](https://ieeexplore.ieee.org/document/10923742/)
+[BackMix: Regularizing Open Set Recognition by Removing Underlying Fore-Background Priors](https://ieeexplore.ieee.org/document/10923742/)  
 Yu Wang;
 Junxian Mu;
 Hongzhi Huang;
@@ -910,7 +910,7 @@ Qinghua Hu
 
 
 
-[Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization](https://ieeexplore.ieee.org/document/10919237/)
+[Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization](https://ieeexplore.ieee.org/document/10919237/)  
 Yikai Wang;
 Guangce Liu;
 Xinzhou Wang;
@@ -920,14 +920,14 @@ Xin Liang;
 Fuchun Sun;
 Jun Zhu
 
-[Learning to Explore Sample Relationships](https://ieeexplore.ieee.org/document/10918791/)
+[Learning to Explore Sample Relationships](https://ieeexplore.ieee.org/document/10918791/)  
 Zhi Hou;
 Baosheng Yu;
 Chaoyue Wang;
 Yibing Zhan;
 Dacheng Tao
 
-[MB-RACS: Measurement-Bounds-based Rate-Adaptive Image Compressed Sensing Network](https://ieeexplore.ieee.org/document/10919241/)
+[MB-RACS: Measurement-Bounds-based Rate-Adaptive Image Compressed Sensing Network](https://ieeexplore.ieee.org/document/10919241/)  
 Yujun Huang;
 Bin Chen;
 Naiqi Li;
@@ -942,7 +942,7 @@ Yaowei Wang
 
 
 
-[Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines](https://ieeexplore.ieee.org/document/10914515/)
+[Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines](https://ieeexplore.ieee.org/document/10914515/)  
 Xinyi Ying;
 Chao Xiao;
 Wei An;
@@ -960,7 +960,7 @@ Shilin Zhou;
 Weidong Sheng;
 Li Liu
 
-[Rate-Distortion Theory in Coding for Machines and its Applications](https://ieeexplore.ieee.org/document/10912768/)
+[Rate-Distortion Theory in Coding for Machines and its Applications](https://ieeexplore.ieee.org/document/10912768/)  
 Alon Harell;
 Yalda Foroutan;
 Nilesh Ahuja;
@@ -973,7 +973,7 @@ Ivan V. Bajić
 
 
 
-[SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://ieeexplore.ieee.org/document/10909425/)
+[SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation](https://ieeexplore.ieee.org/document/10909425/)  
 Ximing Xing;
 Qian Yu;
 Chuang Wang;
@@ -981,7 +981,7 @@ Haitao Zhou;
 Jing Zhang;
 Dong Xu
 
-[Computational Imaging for Long-Term Prediction of Solar Irradiance](https://ieeexplore.ieee.org/document/10908514/)
+[Computational Imaging for Long-Term Prediction of Solar Irradiance](https://ieeexplore.ieee.org/document/10908514/)  
 Leron K. Julian;
 Haejoon Lee;
 Soummya Kar;
@@ -994,7 +994,7 @@ Aswin C. Sankaranarayanan
 
 
 
-[Instance-Consistent Fair Face Recognition](https://ieeexplore.ieee.org/document/10904287/)
+[Instance-Consistent Fair Face Recognition](https://ieeexplore.ieee.org/document/10904287/)  
 Yong Li;
 Yufei Sun;
 Zhen Cui;
@@ -1006,14 +1006,14 @@ Shiguang Shan
 
 
 
-[S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction](https://ieeexplore.ieee.org/document/10899382/)
+[S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction](https://ieeexplore.ieee.org/document/10899382/)  
 Jiamian Wang;
 Kunpeng Li;
 Yulun Zhang;
 Xin Yuan;
 Zhiqiang Tao
 
-[S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation](https://ieeexplore.ieee.org/document/10891659/)
+[S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation](https://ieeexplore.ieee.org/document/10891659/)  
 Yurui Chen;
 Junge Zhang;
 Ziyang Xie;

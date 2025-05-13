@@ -788,7 +788,7 @@ Chenggang Yan;
 Radu Timofte
 
 [Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series](https://ieeexplore.ieee.org/document/10937933/)  
-解决信息不对称：混合时间序列的深度时间因果关系发现  
+***解决信息不对称：混合时间序列的深度时间因果关系发现***  
 Jiawei Chen;
 Chunhui Zhao
 

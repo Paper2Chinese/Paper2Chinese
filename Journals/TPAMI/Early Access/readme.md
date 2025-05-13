@@ -2,7 +2,7 @@
 # 140 Papers
 
 ----
-[EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset](https://ieeexplore.ieee.org/document/10994378/)
+[EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset](https://ieeexplore.ieee.org/document/10994378/)  
 Peiqi Duan;
 Boyu Li;
 Yixin Yang;
@@ -12,14 +12,14 @@ Xinyu Zhou;
 Yi Ma;
 Boxin Shi
 
-[OmniFuse: Composite Degradation-Robust Image Fusion with Language-Driven Semantics](https://ieeexplore.ieee.org/document/10994384/)
+[OmniFuse: Composite Degradation-Robust Image Fusion with Language-Driven Semantics](https://ieeexplore.ieee.org/document/10994384/)  
 Hao Zhang;
 Lei Cao;
 Xuhui Zuo;
 Zhenfeng Shao;
 Jiayi Ma
 
-[Fast and Interpretable 2D Homography Decomposition: Similarity-Kernel-Similarity and Affine-Core-Affine Transformations](https://ieeexplore.ieee.org/document/10994533/)
+[Fast and Interpretable 2D Homography Decomposition: Similarity-Kernel-Similarity and Affine-Core-Affine Transformations](https://ieeexplore.ieee.org/document/10994533/)  
 Shen Cai;
 Zhanhao Wu;
 Lingxi Guo;
@@ -28,7 +28,7 @@ Siyu Zhang;
 Junchi Yan;
 Shuhan Shen
 
-[StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps](https://ieeexplore.ieee.org/document/10995227/)
+[StabStitch++: Unsupervised Online Video Stitching with Spatiotemporal Bidirectional Warps](https://ieeexplore.ieee.org/document/10995227/)  
 Lang Nie;
 Chunyu Lin;
 Kang Liao;
@@ -36,7 +36,7 @@ Yun Zhang;
 Shuaicheng Liu;
 Yao Zhao
 
-[Relationship Quantification of Image Degradations](https://ieeexplore.ieee.org/document/10994385/)
+[Relationship Quantification of Image Degradations](https://ieeexplore.ieee.org/document/10994385/)  
 Boyun Li;
 Yuanbiao Gou;
 Wenxin Wang;
@@ -44,7 +44,7 @@ Peng Hu;
 Wangmeng Zuo;
 Xi Peng
 
-[A Reverse Causal Framework to Mitigate Spurious Correlations for Debiasing Scene Graph Generation](https://ieeexplore.ieee.org/document/10994696/)
+[A Reverse Causal Framework to Mitigate Spurious Correlations for Debiasing Scene Graph Generation](https://ieeexplore.ieee.org/document/10994696/)  
 Shuzhou Sun;
 Li Liu;
 Tianpeng Liu;
@@ -53,13 +53,13 @@ Ming-Ming Cheng;
 Janne Heikkilä;
 Yongxiang Liu
 
-[Wasserstein Graph Neural Networks for Graphs with Missing Attributes](https://ieeexplore.ieee.org/document/10994340/)
+[Wasserstein Graph Neural Networks for Graphs with Missing Attributes](https://ieeexplore.ieee.org/document/10994340/)  
 Zhixian Chen;
 Tengfei Ma;
 Yangqiu Song;
 Yang Wang
 
-[DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation](https://ieeexplore.ieee.org/document/10993319/)
+[DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation](https://ieeexplore.ieee.org/document/10993319/)  
 Yunhan Yang;
 Shuo Chen;
 Yukun Huang;
@@ -70,22 +70,22 @@ Hengshuang Zhao;
 Tong He;
 Xihui Liu
 
-[Visibility-Aware Multi-View Stereo by Surface Normal Weighting for Occlusion Robustness](https://ieeexplore.ieee.org/document/10994246/)
+[Visibility-Aware Multi-View Stereo by Surface Normal Weighting for Occlusion Robustness](https://ieeexplore.ieee.org/document/10994246/)  
 Hyucksang Lee;
 Seongmin Lee;
 Sanghoon Lee
 
-[Uncertain Object Representation for Image-Based 3D Object Perception](https://ieeexplore.ieee.org/document/10993323/)
+[Uncertain Object Representation for Image-Based 3D Object Perception](https://ieeexplore.ieee.org/document/10993323/)  
 Qitai Wang;
 Yuntao Chen;
 Zhaoxiang Zhang
 
-[Model-Agnostic and Efficient Mixup Augmentation Guided by Saliency Maps](https://ieeexplore.ieee.org/document/10993299/)
+[Model-Agnostic and Efficient Mixup Augmentation Guided by Saliency Maps](https://ieeexplore.ieee.org/document/10993299/)  
 Minsoo Kang;
 Seong-Whan Lee;
 Suhyun Kim
 
-[Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians](https://ieeexplore.ieee.org/document/10993308/)
+[Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians](https://ieeexplore.ieee.org/document/10993308/)  
 Kerui Ren;
 Lihan Jiang;
 Tao Lu;
@@ -94,35 +94,35 @@ Linning Xu;
 Zhangkai Ni;
 Bo Dai
 
-[Structural-Equation-Modeling-Based Indicator Systems for Image Quality Assessment](https://ieeexplore.ieee.org/document/10990127/)
+[Structural-Equation-Modeling-Based Indicator Systems for Image Quality Assessment](https://ieeexplore.ieee.org/document/10990127/)  
 Cong Wang;
 Junxi Lin;
 Xuelong Li
 
-[Image Lens Flare Removal Using Adversarial Curve Learning](https://ieeexplore.ieee.org/document/10989553/)
+[Image Lens Flare Removal Using Adversarial Curve Learning](https://ieeexplore.ieee.org/document/10989553/)  
 Yuyan Zhou;
 Dong Liang;
 Songcan Chen;
 Sheng-Jun Huang
 
-[On Nonconvex SGD under Unbounded Noise with Weak Gradient Lipschitz and Delayed Stochastic Gradient](https://ieeexplore.ieee.org/document/10982205/)
+[On Nonconvex SGD under Unbounded Noise with Weak Gradient Lipschitz and Delayed Stochastic Gradient](https://ieeexplore.ieee.org/document/10982205/)  
 Tao Sun;
 Li Shen;
 Xinwang Liu
 
-[General 3D Vision-Language Model with Fast Rendering and Pre-training Vision-Language Alignment](https://ieeexplore.ieee.org/document/10982154/)
+[General 3D Vision-Language Model with Fast Rendering and Pre-training Vision-Language Alignment](https://ieeexplore.ieee.org/document/10982154/)  
 Kangcheng Liu;
 Yong-Jin Liu;
 Baoquan Chen
 
-[USTEP: Spatio-Temporal Predictive Learning under a Unified View](https://ieeexplore.ieee.org/document/10981981/)
+[USTEP: Spatio-Temporal Predictive Learning under a Unified View](https://ieeexplore.ieee.org/document/10981981/)  
 Cheng Tan;
 Jue Wang;
 Zhangyang Gao;
 Siyuan Li;
 Stan Z. Li
 
-[Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition](https://ieeexplore.ieee.org/document/10982376/)
+[Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition](https://ieeexplore.ieee.org/document/10982376/)  
 Chong Wang;
 Yuanhong Chen;
 Fengbei Liu;
@@ -131,14 +131,14 @@ Davis James McCarthy;
 Helen Frazer;
 Gustavo Carneiro
 
-[TLRLF4MVC: Tensor Low-Rank and Low-Frequency for Scalable Multi-View Clustering](https://ieeexplore.ieee.org/document/10981667/)
+[TLRLF4MVC: Tensor Low-Rank and Low-Frequency for Scalable Multi-View Clustering](https://ieeexplore.ieee.org/document/10981667/)  
 Zhen Long;
 Qiyuan Wang;
 Yazhou Ren;
 Yipeng Liu;
 Ce Zhu
 
-[DeepInteraction++: Multi-Modality Interaction for Autonomous Driving](https://ieeexplore.ieee.org/document/10980037/)
+[DeepInteraction++: Multi-Modality Interaction for Autonomous Driving](https://ieeexplore.ieee.org/document/10980037/)  
 Zeyu Yang;
 Nan Song;
 Wei Li;
@@ -146,14 +146,14 @@ Xiatian Zhu;
 Li Zhang;
 Philip H.S. Torr
 
-[On Positive-Unlabeled Classification from Corrupted Data in GANs](https://ieeexplore.ieee.org/document/10980032/)
+[On Positive-Unlabeled Classification from Corrupted Data in GANs](https://ieeexplore.ieee.org/document/10980032/)  
 Yunke Wang;
 Chang Xu;
 Tianyu Guo;
 Bo Du;
 Dacheng Tao
 
-[Detecting Every Object From Events](https://ieeexplore.ieee.org/document/10979499/)
+[Detecting Every Object From Events](https://ieeexplore.ieee.org/document/10979499/)  
 Haitian Zhang;
 Chang Xu;
 Xinya Wang;
@@ -162,13 +162,13 @@ Guang Hua;
 Lei Yu;
 Wen Yang
 
-[Normalized-Full-Palmar-Hand: Towards More Accurate Hand-Based Multimodal Biometrics](https://ieeexplore.ieee.org/document/10978896/)
+[Normalized-Full-Palmar-Hand: Towards More Accurate Hand-Based Multimodal Biometrics](https://ieeexplore.ieee.org/document/10978896/)  
 Yitao Qiao;
 Wenxiong Kang;
 Dacan Luo;
 Junduan Huang
 
-[Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://ieeexplore.ieee.org/document/10979246/)
+[Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System](https://ieeexplore.ieee.org/document/10979246/)  
 Genjia Liu;
 Yue Hu;
 Chenxin Xu;
@@ -188,23 +188,23 @@ Wei Zhang;
 Ting Yao;
 Tiejun Zhao
 
-[Weakly Supervised Micro- and Macro-Expression Spotting Based on Multi-Level Consistency](https://ieeexplore.ieee.org/document/10979496/)
+[Weakly Supervised Micro- and Macro-Expression Spotting Based on Multi-Level Consistency](https://ieeexplore.ieee.org/document/10979496/)  
 Wang-Wang Yu;
 Kai-Fu Yang;
 Hong-Mei Yan;
 Yong-Jie Li
 
-[MC-ANN: A Mixture Clustering-Based Attention Neural Network for Time Series Forecasting](https://ieeexplore.ieee.org/document/10979493/)
+[MC-ANN: A Mixture Clustering-Based Attention Neural Network for Time Series Forecasting](https://ieeexplore.ieee.org/document/10979493/)  
 Yanhong Li;
 David C. Anastasiu
 
-[HOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport Problems](https://ieeexplore.ieee.org/document/10976595/)
+[HOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport Problems](https://ieeexplore.ieee.org/document/10976595/)  
 Guojun Zhang;
 Zhexuan Gu;
 Yancheng Yuan;
 Defeng Sun
 
-[AnyDoor: Zero-shot Image Customization with Region-to-region Reference](https://ieeexplore.ieee.org/document/10976616/)
+[AnyDoor: Zero-shot Image Customization with Region-to-region Reference](https://ieeexplore.ieee.org/document/10976616/)  
 Xi Chen;
 Lianghua Huang;
 Yu Liu;
@@ -212,28 +212,28 @@ Yujun Shen;
 Deli Zhao;
 Hengshuang Zhao
 
-[Continual Unsupervised Generative Modeling](https://ieeexplore.ieee.org/document/10977656/)
+[Continual Unsupervised Generative Modeling](https://ieeexplore.ieee.org/document/10977656/)  
 Fei Ye;
 Adrian G. Bors
 
-[Intersecting the Markov Blankets of Endogenous and Exogenous Variables for Causal Discovery](https://ieeexplore.ieee.org/document/10977777/)
+[Intersecting the Markov Blankets of Endogenous and Exogenous Variables for Causal Discovery](https://ieeexplore.ieee.org/document/10977777/)  
 Yiran Dong;
 Chuanhou Gao
 
-[Prompt-based Multi-interest Learning Method for Sequential Recommendation](https://ieeexplore.ieee.org/document/10974641/)
+[Prompt-based Multi-interest Learning Method for Sequential Recommendation](https://ieeexplore.ieee.org/document/10974641/)  
 Xue Dong;
 Xuemeng Song;
 Tongliang Liu;
 Weili Guan
 
-[Diff-Retinex++: Retinex-Driven Reinforced Diffusion Model for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10974676/)
+[Diff-Retinex++: Retinex-Driven Reinforced Diffusion Model for Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10974676/)  
 Xunpeng Yi;
 Han Xu;
 Hao Zhang;
 Linfeng Tang;
 Jiayi Ma
 
-[Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds](https://ieeexplore.ieee.org/document/10974473/)
+[Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds](https://ieeexplore.ieee.org/document/10974473/)  
 Chuanxiang Yang;
 Yuanfeng Zhou;
 Guangshun Wei;
@@ -242,13 +242,13 @@ Junhui Hou;
 Yuan Liu;
 Wenping Wang
 
-[Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency](https://ieeexplore.ieee.org/document/10974505/)
+[Diagnostic Captioning by Cooperative Task Interactions and Sample-graph Consistency](https://ieeexplore.ieee.org/document/10974505/)  
 Zhanyu Wang;
 Lei Wang;
 Xiu Li;
 Luping Zhou
 
-[Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View](https://ieeexplore.ieee.org/document/10973794/)
+[Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View](https://ieeexplore.ieee.org/document/10973794/)  
 Dogyoon Lee;
 Donghyeong Kim;
 Jungho Lee;
@@ -256,7 +256,7 @@ Minhyeok Lee;
 Seunghoon Lee;
 Sangyoun Lee
 
-[On the Value of Myopic Behavior in Policy Reuse](https://ieeexplore.ieee.org/document/10971952/)
+[On the Value of Myopic Behavior in Policy Reuse](https://ieeexplore.ieee.org/document/10971952/)  
 Chenjia Bai;
 Kang Xu;
 Shuang Qiu;
@@ -266,7 +266,7 @@ Zhen Wang;
 Wei Li;
 Xuelong Li
 
-[Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning](https://ieeexplore.ieee.org/document/10971949/)
+[Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning](https://ieeexplore.ieee.org/document/10971949/)  
 Yufei Kuang;
 Xijun Li;
 Jie Wang;
@@ -278,7 +278,7 @@ Houqiang Li;
 Yongdong Zhang;
 Feng Wu
 
-[Rethinking Evaluation Metrics of Open-Vocabulary Segmentation](https://ieeexplore.ieee.org/document/10972062/)
+[Rethinking Evaluation Metrics of Open-Vocabulary Segmentation](https://ieeexplore.ieee.org/document/10972062/)  
 Hao Zhou;
 Lu Qi;
 Tiancheng Shen;
@@ -287,7 +287,7 @@ Xu Yang;
 Xiangtai Li;
 Ming-Hsuan Yang
 
-[Unified Domain Adaptive Semantic Segmentation](https://ieeexplore.ieee.org/document/10972076/)
+[Unified Domain Adaptive Semantic Segmentation](https://ieeexplore.ieee.org/document/10972076/)  
 Zhe Zhang;
 Gaochang Wu;
 Jing Zhang;
@@ -295,21 +295,21 @@ Xiatian Zhu;
 Dacheng Tao;
 Tianyou Chai
 
-[HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning](https://ieeexplore.ieee.org/document/10970405/)
+[HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning](https://ieeexplore.ieee.org/document/10970405/)  
 Liyuan Wang;
 Jingyi Xie;
 Xingxing Zhang;
 Hang Su;
 Jun Zhu
 
-[Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering](https://ieeexplore.ieee.org/document/10970423/)
+[Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering](https://ieeexplore.ieee.org/document/10970423/)  
 Zhou Yu;
 Xuecheng Ouyang;
 Zhenwei Shao;
 Meng Wang;
 Jun Yu
 
-[PonderV2: Improved 3D Representation with A Universal Pre-training Paradigm](https://ieeexplore.ieee.org/document/10969802/)
+[PonderV2: Improved 3D Representation with A Universal Pre-training Paradigm](https://ieeexplore.ieee.org/document/10969802/)  
 Haoyi Zhu;
 Honghui Yang;
 Xiaoyang Wu;
@@ -322,20 +322,20 @@ Yu Qiao;
 Tong He;
 Wanli Ouyang
 
-[Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration](https://ieeexplore.ieee.org/document/10970105/)
+[Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration](https://ieeexplore.ieee.org/document/10970105/)  
 Xiaole Tang;
 Xiang Gu;
 Xiaoyi He;
 Xin Hu;
 Jian Sun
 
-[End-to-End Open-Vocabulary Video Visual Relationship Detection Using Multi-Modal Prompting](https://ieeexplore.ieee.org/document/10966052/)
+[End-to-End Open-Vocabulary Video Visual Relationship Detection Using Multi-Modal Prompting](https://ieeexplore.ieee.org/document/10966052/)  
 Yongqi Wang;
 Xinxiao Wu;
 Shuo Yang;
 Jiebo Luo
 
-[PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation](https://ieeexplore.ieee.org/document/10967160/)
+[PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation](https://ieeexplore.ieee.org/document/10967160/)  
 Jie Zhang;
 Minghui Nie;
 Changqing Zou;
@@ -343,7 +343,7 @@ Jian Liu;
 Ligang Liu;
 Junjie Cao
 
-[Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting](https://ieeexplore.ieee.org/document/10964530/)
+[Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting](https://ieeexplore.ieee.org/document/10964530/)  
 Mingkui Tan;
 Guohao Chen;
 Jiaxiang Wu;
@@ -352,14 +352,14 @@ Yaofo Chen;
 Peilin Zhao;
 Shuaicheng Niu
 
-[DDM: A Metric for Comparing 3D Shapes Using Directional Distance Fields](https://ieeexplore.ieee.org/document/10964075/)
+[DDM: A Metric for Comparing 3D Shapes Using Directional Distance Fields](https://ieeexplore.ieee.org/document/10964075/)  
 Siyu Ren;
 Junhui Hou;
 Xiaodong Chen;
 Hongkai Xiong;
 Wenping Wang
 
-[GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views](https://ieeexplore.ieee.org/document/10965894/)
+[GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views](https://ieeexplore.ieee.org/document/10965894/)  
 Boyao Zhou;
 Shunyuan Zheng;
 Hanzhang Tu;
@@ -369,21 +369,21 @@ Shengping Zhang;
 Liqiang Nie;
 Yebin Liu
 
-[Constraint Boundary Wandering Framework: Enhancing Constrained Optimization with Deep Neural Networks](https://ieeexplore.ieee.org/document/10964633/)
+[Constraint Boundary Wandering Framework: Enhancing Constrained Optimization with Deep Neural Networks](https://ieeexplore.ieee.org/document/10964633/)  
 Shuang Wu;
 Shixiang Chen;
 Li Shen;
 Lefei Zhang;
 Dacheng Tao
 
-[Hadamard product in deep learning: Introduction, Advances and Challenges](https://ieeexplore.ieee.org/document/10965485/)
+[Hadamard product in deep learning: Introduction, Advances and Challenges](https://ieeexplore.ieee.org/document/10965485/)  
 Grigorios G Chrysos;
 Yongtao Wu;
 Razvan Pascanu;
 Philip Torr;
 Volkan Cevher
 
-[DeferredGS: Decoupled and Relightable Gaussian Splatting with Deferred Shading](https://ieeexplore.ieee.org/document/10964878/)
+[DeferredGS: Decoupled and Relightable Gaussian Splatting with Deferred Shading](https://ieeexplore.ieee.org/document/10964878/)  
 Tong Wu;
 Jia-Mu Sun;
 Yu-Kun Lai;
@@ -391,7 +391,7 @@ Yuewen Ma;
 Leif Kobbelt;
 Lin Gao
 
-[Generalized Semantic Contrastive Learning Via Embedding Side Information for Few-Shot Object Detection](https://ieeexplore.ieee.org/document/10963743/)
+[Generalized Semantic Contrastive Learning Via Embedding Side Information for Few-Shot Object Detection](https://ieeexplore.ieee.org/document/10963743/)  
 Ruoyu Chen;
 Hua Zhang;
 Jingzhi Li;
@@ -399,7 +399,7 @@ Li Liu;
 Zhen Huang;
 Xiaochun Cao
 
-[Hyperrectangle Embedding for Debiased 3D Scene Graph Prediction From RGB Sequences](https://ieeexplore.ieee.org/document/10963728/)
+[Hyperrectangle Embedding for Debiased 3D Scene Graph Prediction From RGB Sequences](https://ieeexplore.ieee.org/document/10963728/)  
 Mingtao Feng;
 Chenbo Yan;
 Zijie Wu;
@@ -407,20 +407,20 @@ Weisheng Dong;
 Yaonan Wang;
 Ajmal Mian
 
-[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](https://ieeexplore.ieee.org/document/10962298/)
+[Exploring the Essence of Relationships for Scene Graph Generation via Causal Features Enhancement Network](https://ieeexplore.ieee.org/document/10962298/)  
 Hao Zhou;
 Tingjin Luo;
 Jun Zhang;
 Liguo Liu
 
-[MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration](https://ieeexplore.ieee.org/document/10962317/)
+[MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration](https://ieeexplore.ieee.org/document/10962317/)  
 Zhi Jin;
 Yuwei Qiu;
 Kaihao Zhang;
 Hongdong Li;
 Wenhan Luo
 
-[Bootstrap Masked Visual Modeling Via Hard Patch Mining](https://ieeexplore.ieee.org/document/10960509/)
+[Bootstrap Masked Visual Modeling Via Hard Patch Mining](https://ieeexplore.ieee.org/document/10960509/)  
 Haochen Wang;
 Junsong Fan;
 Yuxi Wang;
@@ -429,14 +429,14 @@ Tiancai Wang;
 Xiangyu Zhang;
 Zhaoxiang Zhang
 
-[Bi-modality Individual-aware Prompt tuning for Visual-Language Model](https://ieeexplore.ieee.org/document/10949734/)
+[Bi-modality Individual-aware Prompt tuning for Visual-Language Model](https://ieeexplore.ieee.org/document/10949734/)  
 Hantao Yao;
 Rui Zhang;
 Huaihai Lyu;
 Yongdong Zhang;
 Changsheng Xu
 
-[Unified Static and Dynamic Network: Efficient Temporal Filtering for Video Grounding](https://ieeexplore.ieee.org/document/10955430/)
+[Unified Static and Dynamic Network: Efficient Temporal Filtering for Video Grounding](https://ieeexplore.ieee.org/document/10955430/)  
 Jingjing Hu;
 Dan Guo;
 Kun Li;
@@ -445,14 +445,14 @@ Xun Yang;
 Xiaojun Chang;
 Meng Wang
 
-[Enhancing Representations through Heterogeneous Self-Supervised Learning](https://ieeexplore.ieee.org/document/10955443/)
+[Enhancing Representations through Heterogeneous Self-Supervised Learning](https://ieeexplore.ieee.org/document/10955443/)  
 Zhong-Yu Li;
 Bo-Wen Yin;
 Yongxiang Liu;
 Li Liu;
 Ming-Ming Cheng
 
-[HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://ieeexplore.ieee.org/document/10949864/)
+[HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](https://ieeexplore.ieee.org/document/10949864/)  
 Di Wang;
 Meiqi Hu;
 Yao Jin;
@@ -476,7 +476,7 @@ Bo Du;
 Dacheng Tao;
 Liangpei Zhang
 
-[MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://ieeexplore.ieee.org/document/10955140/)
+[MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://ieeexplore.ieee.org/document/10955140/)  
 Shenghai Yuan;
 Jinfa Huang;
 Yujun Shi;
@@ -487,7 +487,7 @@ Xinhua Cheng;
 Li Yuan;
 Jiebo Luo
 
-[Stimulative Training++: Go Beyond The Performance Limits of Residual Networks](https://ieeexplore.ieee.org/document/10950128/)
+[Stimulative Training++: Go Beyond The Performance Limits of Residual Networks](https://ieeexplore.ieee.org/document/10950128/)  
 Peng Ye;
 Tong He;
 Shengji Tang;
@@ -496,12 +496,12 @@ Tao Chen;
 Lei Bai;
 Wanli Ouyang
 
-[Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker](https://ieeexplore.ieee.org/document/10949865/)
+[Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker](https://ieeexplore.ieee.org/document/10949865/)  
 Jingtao Sun;
 Yaonan Wang;
 Danwei Wang
 
-[Unknown-Aware Bilateral Dependency Optimization for Defending Against Model Inversion Attacks](https://ieeexplore.ieee.org/document/10949821/)
+[Unknown-Aware Bilateral Dependency Optimization for Defending Against Model Inversion Attacks](https://ieeexplore.ieee.org/document/10949821/)  
 Xiong Peng;
 Feng Liu;
 Nannan Wang;
@@ -510,7 +510,7 @@ Tongliang Liu;
 Yiu-ming Cheung;
 Bo Han
 
-[From Missing Pieces to Masterpieces: Image Completion with Context-Adaptive Diffusion](https://ieeexplore.ieee.org/document/10949674/)
+[From Missing Pieces to Masterpieces: Image Completion with Context-Adaptive Diffusion](https://ieeexplore.ieee.org/document/10949674/)  
 Pourya Shamsolmoali;
 Masoumeh Zareapoor;
 Huiyu Zhou;
@@ -518,26 +518,26 @@ Michael Felsberg;
 Dacheng Tao;
 Xuelong Li
 
-[JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation](https://ieeexplore.ieee.org/document/10949703/)
+[JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation](https://ieeexplore.ieee.org/document/10949703/)  
 Jiaming Zhang;
 Yutao Cui;
 Gangshan Wu;
 Limin Wang
 
-[ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/document/10948388/)
+[ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/document/10948388/)  
 Shijie Ma;
 Fei Zhu;
 Xu-Yao Zhang;
 Cheng-Lin Liu
 
-[Inter-Intra Hypergraph Computation for Survival Prediction on Whole Slide Images](https://ieeexplore.ieee.org/document/10948362/)
+[Inter-Intra Hypergraph Computation for Survival Prediction on Whole Slide Images](https://ieeexplore.ieee.org/document/10948362/)  
 Xiangmin Han;
 Huijian Zhou;
 Zhiqiang Tian;
 Shaoyi Du;
 Yue Gao
 
-[Revisiting Supervised Learning-Based Photometric Stereo Networks](https://ieeexplore.ieee.org/document/10948383/)
+[Revisiting Supervised Learning-Based Photometric Stereo Networks](https://ieeexplore.ieee.org/document/10948383/)  
 Xiaoyao Wei;
 Zongrui Li;
 Binjie Ding;
@@ -547,14 +547,14 @@ Gang Pan;
 Yanlong Cao;
 Qian Zheng
 
-[Learning Efficient Deep Discriminative Spatial and Temporal Networks for Video Deblurring](https://ieeexplore.ieee.org/document/10948572/)
+[Learning Efficient Deep Discriminative Spatial and Temporal Networks for Video Deblurring](https://ieeexplore.ieee.org/document/10948572/)  
 Jinshan Pan;
 Long Sun;
 Boming Xu;
 Jiangxin Dong;
 Jinhui Tang
 
-[Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10947625/)
+[Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10947625/)  
 Linshan Wu;
 Zhun Zhong;
 Jiayi Ma;
@@ -563,7 +563,7 @@ Hao Chen;
 Leyuan Fang;
 Shutao Li
 
-[Revisiting One-stage Deep Uncalibrated Photometric Stereo via Fourier Embedding](https://ieeexplore.ieee.org/document/10947620/)
+[Revisiting One-stage Deep Uncalibrated Photometric Stereo via Fourier Embedding](https://ieeexplore.ieee.org/document/10947620/)  
 Yakun Ju;
 Boxin Shi;
 Bihan Wen;
@@ -571,7 +571,7 @@ Kin-Man Lam;
 Xudong Jiang;
 Alex C. Kot
 
-[Interpreting Low-level Vision Models with Causal Effect Maps](https://ieeexplore.ieee.org/document/10947624/)
+[Interpreting Low-level Vision Models with Causal Effect Maps](https://ieeexplore.ieee.org/document/10947624/)  
 Jinfan Hu;
 Jinjin Gu;
 Shiyao Yu;
@@ -581,7 +581,7 @@ Zhiyuan You;
 Chaochao Lu;
 Chao Dong
 
-[StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition](https://ieeexplore.ieee.org/document/10946858/)
+[StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition](https://ieeexplore.ieee.org/document/10946858/)  
 Yanqing Shen;
 Sanping Zhou;
 Jingwen Fu;
@@ -589,16 +589,16 @@ Ruotong Wang;
 Shitao Chen;
 Nanning Zheng
 
-[Human-centric Fine-grained Action Quality Assessment](https://ieeexplore.ieee.org/document/10946879/)
+[Human-centric Fine-grained Action Quality Assessment](https://ieeexplore.ieee.org/document/10946879/)  
 Jinglin Xu;
 Sibo Yin;
 Yuxin Peng
 
-[Spatiotemporal Observer Design for Predictive Learning of High-Dimensional Data](https://ieeexplore.ieee.org/document/10946854/)
+[Spatiotemporal Observer Design for Predictive Learning of High-Dimensional Data](https://ieeexplore.ieee.org/document/10946854/)  
 Tongyi Liang;
 Han-Xiong Li
 
-[ED-Pose++: Enhanced Explicit Box Detection for Conventional and Interactive Multi-Object Keypoint Detection](https://ieeexplore.ieee.org/document/10945344/)
+[ED-Pose++: Enhanced Explicit Box Detection for Conventional and Interactive Multi-Object Keypoint Detection](https://ieeexplore.ieee.org/document/10945344/)  
 Jie Yang;
 Ailing Zeng;
 Tianhe Ren;
@@ -607,7 +607,7 @@ Feng Li;
 Ruimao Zhang;
 Lei Zhang
 
-[Semantic-Aware Pseudo-Labeling for Unsupervised Meta-Learning](https://ieeexplore.ieee.org/document/10946205/)
+[Semantic-Aware Pseudo-Labeling for Unsupervised Meta-Learning](https://ieeexplore.ieee.org/document/10946205/)  
 Tianran Ouyang;
 Xingping Dong;
 Mang Ye;
@@ -615,7 +615,7 @@ Bo Du;
 Ling Shao;
 Jianbing Shen
 
-[Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression](https://ieeexplore.ieee.org/document/10946204/)
+[Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression](https://ieeexplore.ieee.org/document/10946204/)  
 Hongwei Ren;
 Yue Zhou;
 Jiadong Zhu;
@@ -627,13 +627,13 @@ Fei Ma;
 Hao Yu;
 Bojun Cheng
 
-[Cross-Modality Distillation for Multi-modal Tracking](https://ieeexplore.ieee.org/document/10943265/)
+[Cross-Modality Distillation for Multi-modal Tracking](https://ieeexplore.ieee.org/document/10943265/)  
 Tianlu Zhang;
 Qiang Zhang;
 Kurt Debattista;
 Jungong Han
 
-[Aesthetics-guided Low-light Enhancement](https://ieeexplore.ieee.org/document/10938859/)
+[Aesthetics-guided Low-light Enhancement](https://ieeexplore.ieee.org/document/10938859/)  
 Dong Liang;
 Yuanhang Gao;
 Ling Li;
@@ -641,18 +641,18 @@ Zhengyan Xu;
 Sheng-Jun Huang;
 Songcan Chen
 
-[DIST+: Knowledge Distillation From a Stronger Adaptive Teacher](https://ieeexplore.ieee.org/document/10938241/)
+[DIST+: Knowledge Distillation From a Stronger Adaptive Teacher](https://ieeexplore.ieee.org/document/10938241/)  
 Tao Huang;
 Shan You;
 Fei Wang;
 Chen Qian;
 Chang Xu
 
-[HandRT: Simultaneous Hand Shape and Appearance Reconstruction with Pose Tracking from Monocular RGB-D Video](https://ieeexplore.ieee.org/document/10938919/)
+[HandRT: Simultaneous Hand Shape and Appearance Reconstruction with Pose Tracking from Monocular RGB-D Video](https://ieeexplore.ieee.org/document/10938919/)  
 Pratik Kalshetti;
 Parag Chaudhuri
 
-[Pushing the Limit of Post-Training Quantization](https://ieeexplore.ieee.org/document/10938638/)
+[Pushing the Limit of Post-Training Quantization](https://ieeexplore.ieee.org/document/10938638/)  
 Ruihao Gong;
 Xianglong Liu;
 Yuhang Li;
@@ -660,7 +660,7 @@ Yunqiang Fan;
 Xiuying Wei;
 Jinyang Guo
 
-[NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning](https://ieeexplore.ieee.org/document/10938647/)
+[NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning](https://ieeexplore.ieee.org/document/10938647/)  
 Bingqian Lin;
 Yunshuang Nie;
 Ziming Wei;
@@ -671,7 +671,7 @@ Hang Xu;
 Xiaojun Chang;
 Xiaodan Liang
 
-[Scalable High-Fidelity 3D Hand Shape Reconstruction Via Graph-Image Frequency Mapping and Graph Frequency Decomposition](https://ieeexplore.ieee.org/document/10938718/)
+[Scalable High-Fidelity 3D Hand Shape Reconstruction Via Graph-Image Frequency Mapping and Graph Frequency Decomposition](https://ieeexplore.ieee.org/document/10938718/)  
 Tianyu Luan;
 Yuanhao Zhai;
 Jingjing Meng;
@@ -680,7 +680,7 @@ Zhang Chen;
 Yi Xu;
 Junsong Yuan
 
-[ONNXPruner: ONNX-Based General Model Pruning Adapter](https://ieeexplore.ieee.org/document/10938408/)
+[ONNXPruner: ONNX-Based General Model Pruning Adapter](https://ieeexplore.ieee.org/document/10938408/)  
 Dongdong Ren;
 Wenbin Li;
 Tianyu Ding;
@@ -690,7 +690,7 @@ Jing Huo;
 Hongbing Pan;
 Yang Gao
 
-[Calibration-Free Raw Image Denoising via Fine-Grained Noise Estimation](https://ieeexplore.ieee.org/document/10938243/)
+[Calibration-Free Raw Image Denoising via Fine-Grained Noise Estimation](https://ieeexplore.ieee.org/document/10938243/)  
 Yunhao Zou;
 Ying Fu;
 Yulun Zhang;
@@ -698,11 +698,11 @@ Tao Zhang;
 Chenggang Yan;
 Radu Timofte
 
-[Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series](https://ieeexplore.ieee.org/document/10937933/)
+[Addressing Information Asymmetry: Deep Temporal Causality Discovery for Mixed Time Series](https://ieeexplore.ieee.org/document/10937933/)  
 Jiawei Chen;
 Chunhui Zhao
 
-[Learning-aided Neighborhood Search for Vehicle Routing Problems](https://ieeexplore.ieee.org/document/10938384/)
+[Learning-aided Neighborhood Search for Vehicle Routing Problems](https://ieeexplore.ieee.org/document/10938384/)  
 Tong Guo;
 Yi Mei;
 Mengjie Zhang;
@@ -710,7 +710,7 @@ Haoran Zhao;
 Kaiquan Cai;
 Wenbo Du
 
-[WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder](https://ieeexplore.ieee.org/document/10937935/)
+[WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder](https://ieeexplore.ieee.org/document/10937935/)  
 Wenxuan Tu;
 Sihang Zhou;
 Xinwang Liu;
@@ -719,7 +719,7 @@ Yawei Zhao;
 Yue Liu;
 Kunlun He
 
-[Impact of Noisy Supervision in Foundation Model Learning](https://ieeexplore.ieee.org/document/10934976/)
+[Impact of Noisy Supervision in Foundation Model Learning](https://ieeexplore.ieee.org/document/10934976/)  
 Hao Chen;
 Zihan Wang;
 Ran Tao;
@@ -729,7 +729,7 @@ Masashi Sugiyama;
 Bhiksha Raj;
 Jindong Wang
 
-[GDRNPP: A Geometry-guided and Fully Learning-based Object Pose Estimator](https://ieeexplore.ieee.org/document/10937121/)
+[GDRNPP: A Geometry-guided and Fully Learning-based Object Pose Estimator](https://ieeexplore.ieee.org/document/10937121/)  
 Xingyu Liu;
 Ruida Zhang;
 Chenyangguang Zhang;
@@ -738,7 +738,7 @@ Jiwen Tang;
 Zhigang Li;
 Xiangyang Ji
 
-[M2 Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes](https://ieeexplore.ieee.org/document/10937276/)
+[M2 Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes](https://ieeexplore.ieee.org/document/10937276/)  
 Sixu Yan;
 Zeyu Zhang;
 Muzhi Han;
@@ -750,19 +750,19 @@ Hangxin Liu;
 Xinggang Wang;
 Song-Chun Zhu
 
-[Graph Prompt Clustering](https://ieeexplore.ieee.org/document/10935718/)
+[Graph Prompt Clustering](https://ieeexplore.ieee.org/document/10935718/)  
 Man-Sheng Chen;
 Pei-Yuan Lai;
 De-Zhang Liao;
 Chang-Dong Wang;
 Jian-Huang Lai
 
-[Reason and Discovery: A New Paradigm for Open Set Recognition](https://ieeexplore.ieee.org/document/10933572/)
+[Reason and Discovery: A New Paradigm for Open Set Recognition](https://ieeexplore.ieee.org/document/10933572/)  
 Yimin Fu;
 Zhunga Liu;
 Jialin Lyu
 
-[Low-shot Video Object Segmentation](https://ieeexplore.ieee.org/document/10933555/)
+[Low-shot Video Object Segmentation](https://ieeexplore.ieee.org/document/10933555/)  
 Kun Yan;
 Fangyun Wei;
 Shuyu Dai;

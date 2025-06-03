@@ -2,6 +2,391 @@
 # 140 Papers
 
 ----
+
+[Analyzing the Implicit Bias of Adversarial Training from a Generalized Margin Perspective](https://ieeexplore.ieee.org/document/11020710/)  
+从广义边际视角分析对抗训练的隐性偏见  
+Bochen Lyu;
+Zhanxing Zhu
+
+[MoBluRF: Motion Deblurring Neural Radiance Fields for Blurry Monocular Video](https://ieeexplore.ieee.org/document/11017407/)  
+MoBluRF：用于模糊单目视频的运动去模糊神经辐射场  
+Minh-Quan Viet Bui;
+Jongmin Park;
+Jihyong Oh;
+Munchurl Kim
+
+[BlackboxBench: A Comprehensive Benchmark of Black-box Adversarial Attacks](https://ieeexplore.ieee.org/document/11016822/)  
+BlackboxBench：黑盒对抗攻击的综合基准  
+Meixi Zheng;
+Xuanchen Yan;
+Zihao Zhu;
+Hongrui Chen;
+Baoyuan Wu
+
+[Compositional Physical Reasoning of Objects and Events from Videos](https://ieeexplore.ieee.org/document/11016205/)  
+从视频中对物体和事件进行组合物理推理  
+Zhenfang Chen;
+Shilong Dong;
+Kexin Yi;
+Yunzhu Li;
+Mingyu Ding;
+Antonio Torralba;
+Joshua B. Tenenbaum;
+Chuang Gan
+
+[Towards Unified 3D Object Detection via Algorithm and Data Unification](https://ieeexplore.ieee.org/document/11016195/)  
+通过算法和数据统一实现统一的 3D 目标检测  
+Zhuoling Li;
+Xiaogang Xu;
+Ser-Nam Lim;
+Hengshuang Zhao
+
+[STADe: Sensory Temporal Action Detection via Temporal-Spectral Representation Learning](https://ieeexplore.ieee.org/document/11016166/)  
+STADe：通过时间谱表征学习进行感官时间动作检测  
+Bing Li;
+Haotian Duan;
+Yun Liu;
+Le Zhang;
+Wei Cui;
+Joey Tianyi Zhou
+
+
+[Toward Interactive Sound Source Localization: Better Align Sight and Sound!](https://ieeexplore.ieee.org/document/11016078/)  
+迈向交互式声源定位：更好地协调视觉和声音！
+Arda Senocak;
+Hyeonggon Ryu;
+Junsik Kim;
+Tae-Hyun Oh;
+Hanspeter Pfister;
+Joon Son Chung
+
+[Multi-Label Learning with Multiple Complementary Labels](https://ieeexplore.ieee.org/document/11016060/)  
+具有多个互补标签的多标签学习  
+Yi Gao;
+Jing-Yi Zhu;
+Miao Xu;
+Min-Ling Zhang
+
+
+[A Learning Paradigm for Selecting Few Discriminative Stimuli in Eye-Tracking Research](https://ieeexplore.ieee.org/document/11015567/)  
+眼动追踪研究中选择少量判别刺激的学习范式  
+Wenqi Zhong;
+Chen Xia;
+Linzhi Yu;
+Kuan Li;
+Zhongyu Li;
+Dingwen Zhang;
+Junwei Han
+
+[Sample Adaptive Localized Simple Multiple Kernel K-means and Its Application in Parcellation of Human Cerebral Cortex](https://ieeexplore.ieee.org/document/11015266/)  
+样本自适应局部简单多核K均值及其在人脑皮层分区中的应用  
+Xinwang Liu;
+Yi Zhang;
+Li Liu;
+Chang Tang;
+Limin Peng;
+Long Lan;
+Dewen Hu
+
+[Heterophily-Aware Representation Learning on Heterogeneous Graphs](https://ieeexplore.ieee.org/document/11015097/)  
+异构图上的异构感知表示学习  
+Jintang Li;
+Zheng Wei;
+Yuchang Zhu;
+Ruofan Wu;
+Huizhe Zhang;
+Liang Chen;
+Zibin Zheng
+
+[LLaFS++: Few-Shot Image Segmentation With Large Language Models](https://ieeexplore.ieee.org/document/11015274/)  
+LLaFS++：基于大型语言模型的少量图像分割  
+Lanyun Zhu;
+Tianrun Chen;
+Deyi Ji;
+Peng Xu;
+Jieping Ye;
+Jun Liu
+
+[Reliable and Balanced Transfer Learning for Generalized Multimodal Face Anti-Spoofing](https://ieeexplore.ieee.org/document/11015656/)  
+可靠且平衡的迁移学习，用于广义多模态人脸反欺骗  
+Xun Lin;
+Ajian Liu;
+Zitong Yu;
+Rizhao Cai;
+Shuai Wang;
+Yi Yu;
+Jun Wan;
+Zhen Lei;
+Xiaochun Cao;
+Alex Kot
+
+[Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning](https://ieeexplore.ieee.org/document/11015803/)  
+结合提示适配器学习的文本转图像多标签图像识别  
+Chun-Mei Feng;
+Kai Yu;
+Xinxing Xu;
+Salman Khan;
+Rick Siow Mong Goh;
+Wangmeng Zuo;
+Yong Liu
+
+[QDNet: Query-Denoising Network for Visual Traffic Knowledge Graph Generation](https://ieeexplore.ieee.org/document/11012666/)  
+QDNet：用于视觉交通知识图谱生成的查询去噪网络  
+Yunfei Guo;
+Fei Yin;
+Xiao-Hui Li;
+Cheng-Lin Liu
+
+[Revisit Weakly Supervised Hashing with Deep Multi-modal Foundation Models](https://ieeexplore.ieee.org/document/11014237/)  
+使用深度多模态基础模型重新审视弱监督哈希  
+Min Wang;
+Wengang Zhou;
+Houqiang Li
+
+[Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates](https://ieeexplore.ieee.org/document/11014530/)  
+稳健一致的对抗训练，助力机器学习模型安全更新  
+Daniele Angioni;
+Luca Demetrio;
+Maura Pintor;
+Luca Oneto;
+Davide Anguita;
+Battista Biggio;
+Fabio Roli
+
+[Advanced Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection](https://ieeexplore.ieee.org/document/11011927/)  
+用于协同显著性物体检测的高级判别协同显著性和背景挖掘 Transformer  
+Long Li;
+Huichao Xie;
+Nian Liu;
+Dingwen Zhang;
+Rao Muhammad Anwer;
+Hisham Cholakkal;
+Junwei Han
+
+[Incorporating Pre-Training Data Matters in Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/11014505/)  
+在无监督领域自适应中融入预训练数据至关重要  
+Yinsong Xu;
+Aidong Men;
+Yang Liu;
+Xiahai Zhuang;
+Qingchao Chen
+
+[Feature Preserving Shrinkage on Bayesian Neural Networks via the R2D2 Prior](https://ieeexplore.ieee.org/document/11011679/)  
+通过 R2D2 先验在贝叶斯神经网络上实现特征保留收缩  
+Tsai Hor Chan;
+Dora Yan Zhang;
+Guosheng Yin;
+Lequan Yu
+
+
+[Partial Distribution Matching via Partial Wasserstein Adversarial Networks](https://ieeexplore.ieee.org/document/11012667/)  
+通过部分 Wasserstein 对抗网络进行部分分布匹配  
+Zi-Ming Wang;
+Nan Xue;
+Ling Lei;
+Rebecka Jörnsten;
+Gui-Song Xia
+
+[Keystate-Driven Long-Term Generation of Bimanual Object Manipulation Sequences](https://ieeexplore.ieee.org/document/11011935/)  
+关键状态驱动的双手物体操作序列的长期生成  
+Haziq Razali;
+Yiannis Demiris
+
+
+[EigenActor: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning](https://ieeexplore.ieee.org/document/11014497/)  
+EigenActor：基于不变动作基础推理的变体体-对象交互生成  
+Xuehao Gao;
+Yang Yang;
+Shaoyi Du;
+Yang Wu;
+Yebin Liu;
+Guo-Jun Qi
+
+
+[A New Accelerated Off-Policy Stochastic Preconditioned TD(0) Algorithm](https://ieeexplore.ieee.org/document/11011923/)  
+一种新的加速离策略随机预处理TD(0)算法  
+Weidong Liu;
+Jiahua Ma;
+Xiaojun Mao;
+Kejie Tang
+
+[Multi-Channel Disentangled Graph Neural Networks with Different Types of Self-constraints](https://ieeexplore.ieee.org/document/11012681/)  
+具有不同类型自约束的多通道解缠结图神经网络  
+Zhuomin Liang;
+Liang Bai;
+Xian Yang;
+Jiye Liang
+
+[Long Short-Term Knowledge Decomposition and Consolidation for Lifelong Person Re-Identification](https://ieeexplore.ieee.org/document/11010188/)  
+面向终身人员重新识别的长短期知识分解与整合  
+Kunlun Xu;
+Zichen Liu;
+Xu Zou;
+Yuxin Peng;
+Jiahuan Zhou
+
+[SceneTracker: Long-Term Scene Flow Estimation Network](https://ieeexplore.ieee.org/document/11010867/)  
+SceneTracker：长期场景流估计网络  
+Bo Wang;
+Jian Li;
+Yang Yu;
+Li Liu;
+Zhenping Sun;
+Dewen Hu
+
+[Benchmarking and Analyzing Generative Data for Visual Recognition](https://ieeexplore.ieee.org/document/11010883/)  
+视觉识别生成数据的基准测试和分析  
+Bo Li;
+Haotian Liu;
+Liangyu Chen;
+Yong Jae Lee;
+Chunyuan Li;
+Ziwei Liu
+
+[STAU: a SpatioTemporal-Aware Unit for Video Prediction and beyond](https://ieeexplore.ieee.org/document/11010155/)  
+STAU：用于视频预测及其他用途的时空感知单元  
+Zheng Chang;
+Xinfeng Zhang;
+Shanshe Wang;
+Siwei Ma;
+Wen Gao
+
+[FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning](https://ieeexplore.ieee.org/document/11010882/)  
+FreeFusion：通过交叉重建学习实现红外和可见光图像融合  
+Wenda Zhao;
+Hengshuai Cui;
+Haipeng Wang;
+You He;
+Huchuan Lu
+
+[Non-rigid Point Cloud Registration via Anisotropic Hybrid Field Harmonization](https://ieeexplore.ieee.org/document/11010893/)  
+通过各向异性混合场协调实现非刚性点云配准  
+Jinyang Wang;
+Xuequan Lu;
+Mohammed Bennamoun;
+Bin Sheng
+
+[Data ID Extraction Networks for Unsupervised Class- and Classifier-free Detection of Adversarial Examples](https://ieeexplore.ieee.org/document/11008833/)  
+用于无监督无类别和无分类器对抗样本检测的数据 ID 提取网络  
+Xiangyin Kong;
+Xiaoyu Jiang;
+Zhihuan Song;
+Zhiqiang Ge
+
+[Towards Understanding the Generalizability of Delayed Stochastic Gradient Descent](https://ieeexplore.ieee.org/document/11008843/)  
+理解延迟随机梯度下降的普遍性  
+Xiaoge Deng;
+Li Shen;
+Shengwei Li;
+Tao Sun;
+Dongsheng Li;
+Dacheng Tao
+
+[Otter: a Multi-Modal Model with in-Context Instruction Tuning](https://ieeexplore.ieee.org/document/11007678/)  
+Otter：具有上下文指令调整的多模态模型  
+Bo Li;
+Yuanhan Zhang;
+Liangyu Chen;
+Jinghao Wang;
+Fanyi Pu;
+Joshua Adrian Cahyono;
+Jingkang Yang;
+Chunyuan Li;
+Ziwei Liu
+
+[Contrastive Learning via Variational Information Bottleneck](https://ieeexplore.ieee.org/document/11007487/)  
+通过变分信息瓶颈进行对比学习  
+Jin Li;
+Yaoming Wang;
+Xiaopeng Zhang;
+Dongsheng Jiang;
+Wenrui Dai;
+Chenglin Li;
+Hongkai Xiong;
+Qi Tian
+
+[Gamba: Marry Gaussian Splatting With Mamba for Single-View 3D Reconstruction](https://ieeexplore.ieee.org/document/11007174/)  
+Gamba：将高斯溅射与 Mamba 结合，实现单视图 3D 重建  
+Qiuhong Shen;
+Zike Wu;
+Xuanyu Yi;
+Pan Zhou;
+Hanwang Zhang;
+Shuicheng Yan;
+Xinchao Wang
+
+[Spectrum-Enhanced Graph Attention Network for Garment Mesh Deformation](https://ieeexplore.ieee.org/document/11006474/)  
+用于服装网格变形的频谱增强图注意网络  
+Tianxing Li;
+Rui Shi;
+Qing Zhu;
+Liguo Zhang;
+Takashi Kanai
+
+[On the Universal Approximation Properties of Deep Neural Networks Using MAM Neurons](https://ieeexplore.ieee.org/document/11004616/)  
+使用 MAM 神经元的深度神经网络的通用逼近特性  
+Philippe Bich;
+Andriy Enttsel;
+Luciano Prono;
+Alex Marchioni;
+Fabio Pareschi;
+Mauro Mangia;
+Gianluca Setti;
+Riccardo Rovatti
+
+[DiffusionAD: Norm-Guided One-Step Denoising Diffusion for Anomaly Detection](https://ieeexplore.ieee.org/document/11005495/)  
+DiffusionAD：用于异常检测的范数引导的一步去噪扩散  
+Hui Zhang;
+Zheng Wang;
+Dan Zeng;
+Zuxuan Wu;
+Yu-Gang Jiang
+
+[MOWA: Multiple-in-One Image Warping Model](https://ieeexplore.ieee.org/document/11003399/)  
+MOWA：多合一图像变形模型  
+Kang Liao;
+Zongsheng Yue;
+Zhonghua Wu;
+Chen Change Loy
+
+
+[IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching](https://ieeexplore.ieee.org/document/11002417/)  
+IGEV++：用于立体匹配的迭代多范围几何编码体  
+Gangwei Xu;
+Xianqi Wang;
+Zhaoxing Zhang;
+Junda Cheng;
+Chunyuan Liao;
+Xin Yang
+
+[DELBO: Efficient score algorithm for feature selection on latent variables of VAE](https://ieeexplore.ieee.org/document/11002381/)  
+DELBO：VAE 潜在变量特征选择的有效评分算法  
+Yiran Dong;
+Chuanhou Gao
+
+[Cascaded Dynamic Memory Refinement and Semantic Alignment for Exo-to-Ego Cross-view Video Generation](https://ieeexplore.ieee.org/document/11002602/)  
+级联动态内存细化和语义对齐，用于从外部到内部的跨视图视频生成  
+Weipeng Hu;
+Jiun Tian Hoe;
+Jianhui Li;
+Haifeng Hu;
+Xudong Jiang;
+Yap-Peng Tan
+
+[PASS++: A Dual Bias Reduction Framework for Non-Exemplar Class-Incremental Learning](https://ieeexplore.ieee.org/document/10999068/)  
+PASS++：非样本类增量学习的双重偏差减少框架  
+Fei Zhu;
+Xu-Yao Zhang;
+Zhen Cheng;
+Cheng-Lin Liu
+
+[Searching in Symmetric Solution Space for Permutation-related Optimization Problems](https://ieeexplore.ieee.org/document/11002459/)  
+在对称解空间中搜索与排列相关的优化问题  
+Lixin Tang;
+Tianyang Li;
+Ying Meng;
+Jiyin Liu
+
 [EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset](https://ieeexplore.ieee.org/document/10994378/)  
 EventAid：使用真实捕获的混合数据集对事件辅助图像/视频增强算法进行基准测试  
 Peiqi Duan;

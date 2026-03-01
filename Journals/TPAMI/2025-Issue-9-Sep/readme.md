@@ -438,6 +438,7 @@ Gui-Song Xia
 
 
 [Toward Unified 3D Object Detection via Algorithm and Data Unification](https://ieeexplore.ieee.org/document/11016195/)  
+通过算法和数据统一实现统一的 3D 目标检测  
 Zhuoling Li;
 Xiaogang Xu;
 Ser-Nam Lim;
@@ -445,6 +446,7 @@ Hengshuang Zhao
 
 
 [Toward Understanding the Generalizability of Delayed Stochastic Gradient Descent](https://ieeexplore.ieee.org/document/11008843/)  
+理解延迟随机梯度下降的普遍性  
 Xiaoge Deng;
 Li Shen;
 Shengwei Li;
@@ -466,6 +468,12 @@ Liang Bai;
 Xian Yang;
 Jiye Liang
 
+[Multi-Label Learning With Multiple Complementary Labels](https://ieeexplore.ieee.org/document/11016060/)  
+具有多个互补标签的多标签学习  
+Yi Gao;
+Jing-Yi Zhu;
+Miao Xu;
+Min-Ling Zhang
 
 [Analyzing the Implicit Bias of Adversarial Training From a Generalized Margin Perspective](https://ieeexplore.ieee.org/document/11020710/)  
 从广义边际视角分析对抗训练的隐性偏见  

@@ -5,6 +5,7 @@
 
 
 [Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving](https://ieeexplore.ieee.org/document/11143881/)  
+面向自动驾驶的弱监督和自监督的、与类别无关的运动预测  
 Ruibo Li;
 Hanyu Shi;
 Zhe Wang;
@@ -282,6 +283,7 @@ Yue Gao
 
 
 [ADA-Track++: End-to-End Multi-Camera 3D Multi-Object Tracking With Alternating Detection and Association](https://ieeexplore.ieee.org/document/11175504/)  
+ADA-Track++：端到端多摄像头3D多目标跟踪，采用交替检测和关联技术  
 Shuxiao Ding;
 Lukas Schneider;
 Marius Cordts;
@@ -316,6 +318,7 @@ Chang Xu;
 Yunhe Wang
 
 [Object Detection Data Synthesis via Box-to-Image Generation Based on Diffusion Models](https://ieeexplore.ieee.org/document/11164381/)  
+基于扩散模型的框到图像生成目标检测数据合成  
 Jingyuan Zhu;
 Huimin Ma;
 Jiansheng Chen;
@@ -332,12 +335,14 @@ Yujiu Yang;
 Yansong Tang
 
 [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636/)  
+Mask-DiFuser：用于统一无监督图像融合的掩模扩散模型  
 Linfeng Tang;
 Chunyu Li;
 Jiayi Ma
 
 
 [MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection](https://ieeexplore.ieee.org/document/11160680/)  
+MV2DFusion：利用特定于模态的对象语义进行多模态 3D 检测  
 Zitian Wang;
 Zehao Huang;
 Yulu Gao;
@@ -385,6 +390,7 @@ Haibin Ling
 
 
 [REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery](https://ieeexplore.ieee.org/document/11163637/)  
+REST：全场景遥感影像端到端语义分割的整体学习  
 Wei Chen;
 Lorenzo Bruzzone;
 Bo Dang;
@@ -407,6 +413,7 @@ Xiahai Zhuang
 
 
 [HSIGene: A Foundation Model for Hyperspectral Image Generation](https://ieeexplore.ieee.org/document/11180796/)  
+HSIGene：高光谱图像生成的基础模型  
 Li Pang;
 Xiangyong Cao;
 Datao Tang;
@@ -463,6 +470,7 @@ Fei Li;
 Donghong Ji
 
 [MGAF: LiDAR-Camera 3D Object Detection With Multiple Guidance and Adaptive Fusion](https://ieeexplore.ieee.org/document/11175454/)  
+MGAF：具有多重制导和自适应融合的 LiDAR 相机 3D 物体检测  
 Baojie Fan;
 Xiaotian Li;
 Yuhan Zhou;
@@ -472,6 +480,7 @@ Fengyu Xu;
 Jiandong Tian
 
 [SOOD++: Leveraging Unlabeled Data to Boost Oriented Object Detection](https://ieeexplore.ieee.org/document/11170449/)  
+SOOD++：利用未标记数据增强面向对象检测  
 Dingkang Liang;
 Wei Hua;
 Chunsheng Shi;
@@ -480,6 +489,7 @@ Xiaoqing Ye;
 Xiang Bai
 
 [MSFA Image Denoising Using Physics-Based Noise Model and Noise-Decoupled Network](https://ieeexplore.ieee.org/document/11165040/)  
+基于物理噪声模型和噪声解耦网络的MSFA图像去噪  
 Yuqi Jiang;
 Ying Fu;
 Qiankun Liu;

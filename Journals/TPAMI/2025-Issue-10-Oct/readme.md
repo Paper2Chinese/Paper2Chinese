@@ -12,6 +12,7 @@ Xuelong Li
 
 
 [Open-CRB: Toward Open World Active Learning for 3D Object Detection](https://ieeexplore.ieee.org/document/11163594/)  
+Open-CRB：面向 3D 对象检测的开放世界主动学习  
 Zhuoxiao Chen;
 Yadan Luo;
 Zixin Wang;
@@ -136,6 +137,7 @@ Dacheng Tao
 
 
 [Universal Image Segmentation With Efficiency](https://ieeexplore.ieee.org/document/11027444/)  
+高效的通用图像分割  
 Jie Hu;
 Liujuan Cao;
 Xiaofeng Jin;
@@ -154,6 +156,7 @@ Jürgen Kurths
 
 
 [Task Augmentation-Based Meta-Learning Segmentation Method for Retinopathy](https://ieeexplore.ieee.org/document/11032148/)  
+基于任务增强的视网膜病变元学习分割方法  
 Jingtao Wang;
 Muhammad Mateen;
 Dehui Xiang;
@@ -167,6 +170,7 @@ Su Zhang;
 Xinjian Chen
 
 [New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration](https://ieeexplore.ieee.org/document/11037495/)  
+通过专家-MLLM 合作进行细粒度组合指称表达理解的新数据集和方法  
 Xuzheng Yang;
 Junzhuo Liu;
 Peng Wang;
@@ -189,6 +193,7 @@ Xiaowei Huang
 
 
 [Unsupervised Pre-Training With Language-Vision Prompts for Low-Data Instance Segmentation](https://ieeexplore.ieee.org/document/11034725/)  
+基于语言视觉提示的无监督预训练在低数据量实例分割中的应用  
 Dingwen Zhang;
 Hao Li;
 Diqi He;
@@ -205,6 +210,7 @@ Changsheng Xu
 
 
 [CAT+: Investigating and Enhancing Audio-Visual Understanding in Large Language Models](https://ieeexplore.ieee.org/document/11050020/)  
+CAT+：研究和增强大语言模型中的视听理解  
 Qilang Ye;
 Zitong Yu;
 Rui Shao;
@@ -264,6 +270,7 @@ Lizhuang Ma
 
 
 [Hybrid Gaussian Deformation for Efficient Remote Sensing Object Detection](https://ieeexplore.ieee.org/document/11049888/)  
+用于高效遥感目标检测的混合高斯变形  
 Wenda Zhao;
 Xiao Zhang;
 Haipeng Wang;
@@ -411,6 +418,7 @@ Huaimin Wang
 
 
 [Rapid Salient Object Detection With Difference Convolutional Neural Networks](https://ieeexplore.ieee.org/document/11072100/)  
+基于差分卷积神经网络的快速显著目标检测  
 Zhuo Su;
 Li Liu;
 Matthias Müller;
@@ -450,6 +458,7 @@ Xiao Bai
 
 
 [Learning Efficient and Effective Trajectories for Differential Equation-Based Image Restoration](https://ieeexplore.ieee.org/document/11060907/)  
+基于微分方程的图像恢复学习高效且有效的轨迹  
 Zhiyu Zhu;
 Jinhui Hou;
 Hui Liu;
@@ -464,6 +473,7 @@ Yu Li;
 Ying Fu
 
 [Pro-NeXt: An All-in-One Unified Model for General Fine-Grained Visual Recognition](https://ieeexplore.ieee.org/document/11081804/)  
+Pro-NeXt：一种通用的细粒度视觉识别一体化统一模型  
 Junde Wu;
 Jiayuan Zhu;
 Min Xu;

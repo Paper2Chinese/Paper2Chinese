@@ -5,6 +5,7 @@
 
 
 [DXA-Net: Dual-Task Cross-Lingual Alignment Network for Zero-Shot Cross-Lingual Spoken Language Understanding](https://ieeexplore.ieee.org/document/11123594/)  
+DXA-Net：用于零样本跨语言口语理解的双任务跨语言对齐网络  
 Bowen Xing;
 Libo Qin;
 Zhihong Zhu;
@@ -36,6 +37,7 @@ Shuzhou Sun;
 Ming-Ming Cheng
 
 [Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach](https://ieeexplore.ieee.org/document/11164475/)  
+面向尺寸不变的显着目标检测：通用评估和优化方法  
 Shilong Bao;
 Qianqian Xu;
 Feiran Li;
@@ -56,6 +58,7 @@ Yan Liu
 
 
 [Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models](https://ieeexplore.ieee.org/document/11175033/)  
+从预训练基础模型构建低阶专家的零样本稀疏混合  
 Anke Tang;
 Li Shen;
 Yong Luo;
@@ -144,6 +147,7 @@ Xiaoyu Wang;
 Xinbo Gao
 
 [LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving](https://ieeexplore.ieee.org/document/11190062/)  
+LargeAD：自动驾驶大规模跨传感器数据预训练  
 Lingdong Kong;
 Xiang Xu;
 Youquan Liu;
@@ -232,6 +236,7 @@ Ngai Wong;
 Yik-Chung Wu
 
 [CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/11181194/)  
+CDTFusion：跨域红外与可见光图像融合任务  
 Wenda Zhao;
 Wenbo Wang;
 Haipeng Wang;
@@ -239,6 +244,7 @@ You He;
 Huchuan Lu
 
 [Toward Free-Form Local Feature Matching](https://ieeexplore.ieee.org/document/11181225/)  
+走向自由形式的局部特征匹配  
 Xiaoyong Lu;
 Songlin Du;
 Yaping Yan;
@@ -272,6 +278,7 @@ Liang Wang;
 Rong Jin
 
 [UniSOT: A Unified Framework for Multi-Modality Single Object Tracking](https://ieeexplore.ieee.org/document/11202681/)  
+UniSOT：多模态单目标跟踪统一框架  
 Yinchao Ma;
 Yuyang Tang;
 Wenfei Yang;
@@ -299,6 +306,7 @@ Nanyang Ye
 
 
 [EvLight++: Low-Light Video Enhancement With an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://ieeexplore.ieee.org/document/11192751/)  
+EvLight++：基于事件相机的低照度视频增强：大规模真实世界数据集、新方法及其他  
 Kanghao Chen;
 Guoqiang Liang;
 Yunfan Lu;
@@ -316,6 +324,7 @@ Abdelhak M. Zoubir
 
 
 [Unified Cross-Modal Medical Image Synthesis With Hierarchical Mixture of Product-of-Experts](https://ieeexplore.ieee.org/document/11197215/)  
+基于专家产品分层混合的统一跨模态医学图像合成  
 Reuben Dorent;
 Nazim Haouchine;
 Alexandra Golby;
@@ -345,6 +354,7 @@ Zhiqiang Wu;
 Wei Yin
 
 [PiercingEye: Dual-Space Video Violence Detection With Hyperbolic Vision-Language Guidance](https://ieeexplore.ieee.org/document/11192585/)  
+PiercingEye：双曲视觉语言指导的双空间视频暴力检测  
 Jiaxu Leng;
 Zhanjie Wu;
 Mingpi Tan;
@@ -387,6 +397,7 @@ Changjun Jiang
 
 
 [Explicit Visual Prompting for Universal Foreground Segmentations](https://ieeexplore.ieee.org/document/11197268/)  
+基于显式视觉提示的通用前景分割  
 Weihuang Liu;
 Xi Shen;
 Chi-Man Pun;
@@ -431,6 +442,7 @@ Dacheng Tao
 
 
 [Fixing Background Misclassification in Few-Shot Object Detection via Product of Experts](https://ieeexplore.ieee.org/document/11206510/)  
+通过专家的产品修复少样本目标检测中的背景错误分类
 Ding Sheng Ong;
 Yi Liu;
 Changjing Shang;
@@ -440,6 +452,7 @@ Jungong Han
 
 
 [Orthogonal Decoupling Contrastive Regularization: Toward Uncorrelated Feature Decoupling for Unpaired Image Restoration](https://ieeexplore.ieee.org/document/11207555/)  
+正交解耦对比正则化：针对不成对图像恢复的不相关特征解耦  
 Zhongze Wang;
 Jingchao Peng;
 Haitao Zhao;
@@ -455,6 +468,7 @@ MingQing Xiao
 
 
 [A Unified Masked Jigsaw Puzzle Framework for Vision and Language Models](https://ieeexplore.ieee.org/document/11202736/)  
+视觉和语言模型的统一蒙面拼图框架  
 Weixin Ye;
 Wei Wang;
 Yahui Liu;
@@ -560,6 +574,7 @@ Myungsik Yoo
 
 
 [High-Resolution Open-Vocabulary Object 6D Pose Estimation](https://ieeexplore.ieee.org/document/11216107/)  
+高分辨率开放词汇对象 6D 姿势估计  
 Jaime Corsetti;
 Davide Boscaini;
 Francesco Giuliari;

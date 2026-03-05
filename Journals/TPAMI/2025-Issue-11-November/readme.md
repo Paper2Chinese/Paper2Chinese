@@ -37,6 +37,7 @@ Yunfan Liu;
 Zhenan Sun
 
 [Burst Image Restoration and Enhancement](https://ieeexplore.ieee.org/document/10409532/)  
+突发图像恢复和增强  
 Akshay Dudhane;
 Syed Waqas Zamir;
 Salman Khan;
@@ -190,6 +191,7 @@ Xinge You
 
 
 [Spatial Frequency Modulation for Semantic Segmentation](https://ieeexplore.ieee.org/document/11095993/)  
+用于语义分割的空间频率调制  
 Linwei Chen;
 Ying Fu;
 Lin Gu;
@@ -197,6 +199,7 @@ Dezhi Zheng;
 Jifeng Dai
 
 [360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos](https://ieeexplore.ieee.org/document/11090163/)  
+基于未知概念引导特征扩散的面向对象目标检测  
 Yinzhe Xu;
 Huajian Huang;
 Yingshu Chen;
@@ -216,6 +219,7 @@ Petar M. Djurić
 
 
 [Re-Boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration](https://ieeexplore.ieee.org/document/11081458/)  
+用于无监督图像恢复的重新提升自协作并行提示 GAN  
 Xin Lin;
 Yuyan Zhou;
 Jingtong Yue;
@@ -225,6 +229,7 @@ Lu Qi;
 Ming-Hsuan Yang
 
 [An Efficient Image Fusion Network Exploiting Unifying Language and Mask Guidance](https://ieeexplore.ieee.org/document/11091495/)  
+利用统一语言和掩模指导的高效图像融合网络  
 Zi-Han Cao;
 Yu-Jie Liang;
 Liang-Jian Deng;
@@ -261,6 +266,7 @@ Enhong Chen
 
 
 [Sel4FT: Annotation Selection for Pretraining-Finetuning With Distribution Shift](https://ieeexplore.ieee.org/document/11086491/)  
+Sel4FT：使用分布偏移进行预训练和微调的注释选择  
 Han Lu;
 Yichen Xie;
 Mingyu Ding;
@@ -290,6 +296,7 @@ Cheng-Zhong Xu
 
 
 [M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising](https://ieeexplore.ieee.org/document/11091585/)  
+M3DM-NR：通过多模态去噪实现 RGB-3D 抗噪工业异常检测  
 Chengjie Wang;
 Haokun Zhu;
 Jinlong Peng;
@@ -301,6 +308,7 @@ Jiangning Zhang
 
 
 [Multilingual-Prompt-Guided Directional Feature Learning for Weakly Supervised Video Anomaly Detection](https://ieeexplore.ieee.org/document/11082577/)  
+基于多语言提示引导的弱监督视频异常检测方向特征学习  
 Chizhuo Xiao;
 Yang Xiao;
 Joey Tianyi Zhou;
@@ -360,6 +368,7 @@ Chunhua Shen
 
 
 [Deep Equilibrium Object Detection and Segmentation](https://ieeexplore.ieee.org/document/11108714/)  
+深度平衡目标检测与分割  
 Shuai Wang;
 Yao Teng;
 Limin Wang
@@ -471,6 +480,7 @@ Feng Zheng;
 Ling Shao
 
 [Advancing 3D Object Detection With Depth-Aware Spatial Knowledge Distillation](https://ieeexplore.ieee.org/document/11106759/)  
+利用深度感知空间知识蒸馏推进 3D 物体检测  
 Zizhang Wu;
 Fan Song;
 Yuanzhu Gan;
@@ -482,6 +492,7 @@ Jian Pu
 
 
 [Replay Master: Automatic Sample Selection and Effective Memory Utilization for Continual Semantic Segmentation](https://ieeexplore.ieee.org/document/11105504/)  
+Replay Master：用于连续语义分割的自动样本选择和有效内存利用  
 Lanyun Zhu;
 Tianrun Chen;
 Jianxiong Yin;
@@ -499,6 +510,7 @@ Zhihao Liu
 
 
 [Learning an Adaptive Sparse Transformer for Efficient Image Restoration](https://ieeexplore.ieee.org/document/11106710/)  
+学习自适应稀疏变换器以实现高效图像恢复  
 Shihao Zhou;
 Jinshan Pan;
 Jufeng Yang
@@ -514,6 +526,7 @@ Qingming Huang;
 Ming-Hsuan Yang
 
 [SeCoV2: Semantic Connectivity-Driven Pseudo-Labeling for Robust Cross-Domain Semantic Segmentation](https://ieeexplore.ieee.org/document/11120362/)  
+SeCoV2：语义连接驱动的伪标记，用于鲁棒的跨域语义分割  
 Dong Zhao;
 Qi Zang;
 Nan Pu;
@@ -538,6 +551,7 @@ Boxin Shi
 
 
 [Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments](https://ieeexplore.ieee.org/document/11106272/)  
+连续环境中的约束感知零射击视觉语言导航  
 Kehan Chen;
 Dong An;
 Yan Huang;
@@ -556,6 +570,7 @@ Stephen Maybank
 
 
 [Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://ieeexplore.ieee.org/document/11098984/)  
+基于协作的新型物体发现和基于框引导的跨模态对齐的开放词汇三维物体检测  
 Yang Cao;
 Yihan Zeng;
 Hang Xu;
@@ -616,6 +631,7 @@ Limin Wang
 
 
 [Unified Modality Separation: A Vision-Language Framework for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/11134143/)  
+统一模态分离：一种用于无监督领域自适应的视觉语言框架  
 Xinyao Li;
 Jingjing Li;
 Zhekai Du;
@@ -652,6 +668,7 @@ Changjun Jiang
 
 
 [SA3Det++: Side-Aware Quality Estimation for Semi-Supervised 3D Object Detection](https://ieeexplore.ieee.org/document/11105466/)  
+SA3Det++：半监督 3D 物体检测的侧面感知质量估计  
 Wenfei Yang;
 Chuxin Wang;
 Tianzhu Zhang;
@@ -718,6 +735,7 @@ Jiaying Liu
 
 
 [VLPose: Bridging the Domain Gap in Pose Estimation With Language-Vision Tuning](https://ieeexplore.ieee.org/document/11122431/)  
+VLPose：通过语言视觉调整弥合姿势估计中的领域差距  
 Jingyao Li;
 Pengguang Chen;
 Xuan Ju;

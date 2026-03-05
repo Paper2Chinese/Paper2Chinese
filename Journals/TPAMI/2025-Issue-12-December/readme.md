@@ -26,6 +26,7 @@ Maani Ghaffari
 
 
 [RingMo-Aerial: An Aerial Remote Sensing Foundation Model With Affine Transformation Contrastive Learning](https://ieeexplore.ieee.org/document/11134807/)  
+RingMo-Aerial：一种具有仿射变换对比学习的航空遥感基础模型  
 Wenhui Diao;
 Haichen Yu;
 Kaiyue Kang;
@@ -135,6 +136,7 @@ Liyao Xiang
 
 
 [Global and Local Semantic Completion Learning for Vision-Language Pre-Training](https://ieeexplore.ieee.org/document/11117175/)  
+视觉语言预训练的全局和局部语义补全学习  
 Rong-Cheng Tu;
 Yatai Ji;
 Jie Jiang;
@@ -162,6 +164,7 @@ Tianyou Chai
 
 
 [Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network](https://ieeexplore.ieee.org/document/11130403/)  
+通过多边交互增强图卷积网络进行新生血管分割  
 Tao Chen;
 Dan Zhang;
 Da Chen;
@@ -200,6 +203,7 @@ Jong Chul Ye;
 Mooseok Jang
 
 [MBA-SLAM: Motion Blur Aware Dense Visual SLAM With Radiance Fields Representation](https://ieeexplore.ieee.org/document/11120442/)  
+MBA-SLAM：具有辐射场表示的运动模糊感知密集视觉 SLAM  
 Peng Wang;
 Lingzhe Zhao;
 Yin Zhang;
@@ -242,6 +246,7 @@ Zizhuo Li;
 Jiayi Ma
 
 [Learning Generalized Medical Image Representation by Decoupled Feature Queries](https://ieeexplore.ieee.org/document/11122336/)  
+通过解耦特征查询学习广义医学图像表示  
 Qi Bi;
 Jingjun Yi;
 Hao Zheng;
@@ -292,6 +297,7 @@ Huazhu Fu
 
 
 [Tri-Perspective View Decomposition for Geometry Aware Depth Completion and Super-Resolution](https://ieeexplore.ieee.org/document/11117177/)  
+用于几何感知深度补全和超分辨率的三视角视图分解  
 Zhiqiang Yan;
 Kun Wang;
 Xiang Li;
@@ -311,12 +317,14 @@ Alex Kot
 
 
 [Enhanced Generative Structure Prior for Chinese Text Image Super-Resolution](https://ieeexplore.ieee.org/document/11119080/)  
+基于增强生成结构先验的中文文本图像超分辨率算法  
 Xiaoming Li;
 Wangmeng Zuo;
 Chen Change Loy
 
 
 [Rotation Equivariant Arbitrary-Scale Image Super-Resolution](https://ieeexplore.ieee.org/document/11129916/)  
+旋转等变任意尺度图像超分辨率  
 Qi Xie;
 Jiahong Fu;
 Zongben Xu;
@@ -367,6 +375,7 @@ Weidong Cai
 
 
 [Building Non-Uniform Degradation Model for Position-Aware Hyperspectral Image Fusion](https://ieeexplore.ieee.org/document/11230110/)  
+构建位置感知高光谱图像融合的非均匀退化模型  
 Jie Lian;
 Lizhi Wang;
 Lin Zhu;
@@ -459,6 +468,7 @@ Dacheng Tao
 
 
 [PIT: A Plug-and-Play Image Translator for Making Off-the-Shelf Models Adapt to Corruptions](https://ieeexplore.ieee.org/document/11122869/)  
+PIT：一种即插即用的图像转换器，使现成模型能够适应图像损坏  
 Yinqi Li;
 Hong Chang;
 Shiguang Shan;
@@ -511,6 +521,7 @@ Cheng Wang
 
 
 [SKDF: A Simple Knowledge Distillation Framework for Distilling Open-Vocabulary Knowledge to Open-World Object Detector](https://ieeexplore.ieee.org/document/11129928/)  
+SKDF：一种简单的知识蒸馏框架，用于将开放词汇知识蒸馏到开放世界目标检测器  
 Shuailei Ma;
 Yuefeng Wang;
 Ying Wei;
@@ -564,6 +575,7 @@ Liqiang Nie
 
 
 [Remote Sensing Image Generation via Object Text Decoupling](https://ieeexplore.ieee.org/document/11126950/)  
+通过对象文本解耦生成遥感图像  
 Wenda Zhao;
 Zhepu Zhang;
 Fan Zhao;
@@ -606,6 +618,7 @@ Jian Yin
 
 
 [MoE-Adapters++: Toward More Efficient Continual Learning of Vision-Language Models Via Dynamic Mixture-of-Experts Adapters](https://ieeexplore.ieee.org/document/11122658/)  
+MoE-Adapters++：通过动态专家混合适配器实现更高效的视觉语言模型持续学习  
 Jiazuo Yu;
 Zichen Huang;
 Yunzhi Zhuge;
@@ -645,6 +658,7 @@ Lin Gao
 
 
 [Frequency-Based Comprehensive Prompt Learning for Vision-Language Models](https://ieeexplore.ieee.org/document/11129912/)  
+基于频率的视觉语言模型综合提示学习  
 Liangchen Liu;
 Nannan Wang;
 Chen Chen;
@@ -656,6 +670,7 @@ Tongliang Liu
 
 
 [Towards Real Zero-Shot Camouflaged Object Segmentation Without Camouflaged Annotations](https://ieeexplore.ieee.org/document/11154959/)  
+实现无伪装注释的真正零样本伪装目标分割  
 Cheng Lei;
 Jie Fan;
 Xinran Li;
@@ -711,7 +726,8 @@ Raja Giryes
 
 
 
-[PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations](https://ieeexplore.ieee.org/document/11120368/)
+[PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations](https://ieeexplore.ieee.org/document/11120368/)  
+PC-SRGAN：用于通用瞬态模拟的物理一致性超分辨率生成对抗网络  
 Md Rakibul Hasan;
 Pouria Behnoudfar;
 Dan MacKinlay;

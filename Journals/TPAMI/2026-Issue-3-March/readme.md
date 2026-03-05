@@ -10,6 +10,7 @@ Yunwen Lei
 
 
 [Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models](https://ieeexplore.ieee.org/document/11205303/)  
+光学像差对图像分类和目标检测模型的影响研究  
 Patrick Müller;
 Alexander Braun;
 Margret Keuper
@@ -49,6 +50,7 @@ Chao Wu
 
 
 [Uncertainty-Aware Disentangled Dynamic Graph Attention Network for Out-of-Distribution Generalization](https://ieeexplore.ieee.org/document/11205292/)  
+用于分布外泛化的不确定性解缠动态图注意力网络  
 Xin Wang;
 Haoyang Li;
 Zeyang Zhang;
@@ -96,6 +98,7 @@ Tongliang Liu
 
 
 [PAVM: Progressive and Adaptive Variance Minimization Algorithm for Robust Registration](https://ieeexplore.ieee.org/document/11218730/)  
+PAVM：一种用于鲁棒配准的渐进式自适应方差最小化算法  
 Hao Wu;
 Hongdi Liu;
 Tao Ding;
@@ -137,11 +140,13 @@ Dacheng Tao
 
 
 [Gaussian Mixture Conditional Variational Recurrent Neural Network for Unified Trajectory Imputation and Prediction](https://ieeexplore.ieee.org/document/11223777/)  
+基于高斯混合条件变分循环神经网络的统一轨迹插补与预测  
 Yi Xu;
 Yun Fu
 
 
 [UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler](https://ieeexplore.ieee.org/document/11224609/)  
+UniDepthV2：简化的通用单目度量深度估计  
 Luigi Piccinelli;
 Christos Sakaridis;
 Yung-Hsu Yang;
@@ -198,6 +203,7 @@ Ke Xu
 
 
 [Bayesian Window Transformer for Image Restoration](https://ieeexplore.ieee.org/document/11223103/)  
+用于图像恢复的贝叶斯窗口变换器  
 Jie Xiao;
 Xueyang Fu;
 Yurui Zhu;
@@ -238,6 +244,7 @@ Huadong Ma
 
 
 [SED++: A Simple Encoder-Decoder for Improved Open-Vocabulary Semantic Segmentation](https://ieeexplore.ieee.org/document/11223241/)  
+SED++：一种用于改进开放词汇语义分割的简单编码器-解码器  
 Wenqi Zhu;
 Bin Xie;
 Jiale Cao;
@@ -332,6 +339,7 @@ Juan Liu
 
 
 [HAT: Hybrid Attention Transformer for Image Restoration](https://ieeexplore.ieee.org/document/11224443/)  
+HAT：用于图像恢复的混合注意力变压器  
 Xiangyu Chen;
 Xintao Wang;
 Wenlong Zhang;
@@ -558,12 +566,14 @@ Shijin Wang
 
 
 [Synergy of Sight and Semantics: Holistic Visual Understanding With CLIP](https://ieeexplore.ieee.org/document/11251254/)  
+视觉与语义的协同作用：基于CLIP的整体视觉理解  
 Qu Yang;
 Mang Ye;
 Dacheng Tao
 
 
 [VSCode-v2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization](https://ieeexplore.ieee.org/document/11264365/)  
+VSCode-v2：采用两阶段优化的通用视觉显着性和伪装目标检测的动态提示学习  
 Ziyang Luo;
 Nian Liu;
 Xuguang Yang;
@@ -584,6 +594,7 @@ Ling-Li Zeng
 
 
 [Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning](https://ieeexplore.ieee.org/document/11251201/)  
+面向微小物体检测：数据集、基准和动态无偏学习  
 Chang Xu;
 Ruixiang Zhang;
 Wen Yang;
@@ -719,6 +730,7 @@ Yi Chang
 
 
 [QuadPrior++: Multi-Dimension Augmented Physical Prior for Zero-Reference Illumination Enhancement](https://ieeexplore.ieee.org/document/11269672/)  
+QuadPrior++：用于零参考照明增强的多维增强物理先验  
 Haofeng Huang;
 Yifan Li;
 Wenjing Wang;
@@ -729,6 +741,7 @@ Jiaying Liu
 
 
 [SNI-SLAM++: Tightly-Coupled Semantic Neural Implicit SLAM](https://ieeexplore.ieee.org/document/11260914/)  
+SNI-SLAM++：紧耦合语义神经隐式SLAM  
 Siting Zhu;
 Guangming Wang;
 Hermann Blum;
@@ -800,6 +813,7 @@ Mouxing Yang;
 Xi Peng
 
 [Mini-Gemini: Mining the Potential of Multi-Modality Vision Language Models](https://ieeexplore.ieee.org/document/11269745/)  
+Mini-Gemini：挖掘多模态视觉语言模型的潜力  
 Yanwei Li;
 Yuechen Zhang;
 Chengyao Wang;
@@ -835,6 +849,7 @@ James Glass
 
 
 [Alliance: All-in-One Spectral-Spatial-Frequency Awareness Foundation Model](https://ieeexplore.ieee.org/document/11275881/)  
+联盟：多合一光谱-空间-频率感知基础模型  
 Boyu Zhao;
 Wei Li;
 Junjie Wang;
@@ -934,6 +949,7 @@ Huaimin Wang
 
 
 [Toward Efficient Semi-Supervised Object Detection With Detection Transformer](https://ieeexplore.ieee.org/document/11291116/)  
+使用检测变压器实现高效的半监督目标检测  
 Jiacheng Zhang;
 Jiaming Li;
 Xiangru Lin;
@@ -951,6 +967,7 @@ Dong Liu
 
 
 [Large-Scale 3D Medical Image Pre-Training With Geometric Context Priors](https://ieeexplore.ieee.org/document/11274411/)  
+基于几何上下文先验的大规模三维医学图像预训练  
 Linshan Wu;
 Jiaxin Zhuang;
 Hao Chen
@@ -981,6 +998,7 @@ Yefeng Zheng
 
 
 [Harnessing Lightweight Transformer With Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/11281531/)  
+利用轻量级Transformer结合上下文协同增强实现高效的3D医学图像分割  
 Xinyu Liu;
 Zhen Chen;
 Wuyang Li;
